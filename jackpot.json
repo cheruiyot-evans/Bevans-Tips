@@ -1,138 +1,122 @@
 [
   {
-    "id": "eng_280326_1",
-    "teamA": { "name": "Blackpool FC", "icon": "https://media.api-sports.io/football/teams/1.png" },
-    "teamB": { "name": "Burton Albion", "icon": "https://media.api-sports.io/football/teams/2.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_2",
-    "teamA": { "name": "Exeter City", "icon": "https://media.api-sports.io/football/teams/3.png" },
-    "teamB": { "name": "Leyton Orient London", "icon": "https://media.api-sports.io/football/teams/4.png" },
-    "leagueName": "England",
+    "id": "eu_020426_1",
+    "teamA": { "name": "VfB Stuttgart", "icon": "https://media.api-sports.io/football/teams/134.png" },
+    "teamB": { "name": "Borussia Dortmund", "icon": "https://media.api-sports.io/football/teams/165.png" },
+    "leagueName": "Germany",
     "prediction": "AWAY WIN",
-    "date": "2026-03-28"
+    "date": "2026-04-02"
   },
   {
-    "id": "eng_280326_3",
-    "teamA": { "name": "Barnet FC", "icon": "https://media.api-sports.io/football/teams/5.png" },
-    "teamB": { "name": "Cambridge United", "icon": "https://media.api-sports.io/football/teams/6.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_4",
-    "teamA": { "name": "Crawley Town", "icon": "https://media.api-sports.io/football/teams/7.png" },
-    "teamB": { "name": "Gillingham FC", "icon": "https://media.api-sports.io/football/teams/8.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_5",
-    "teamA": { "name": "Crewe Alexandra", "icon": "https://media.api-sports.io/football/teams/9.png" },
-    "teamB": { "name": "Oldham Athletic", "icon": "https://media.api-sports.io/football/teams/10.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_6",
-    "teamA": { "name": "Newport County", "icon": "https://media.api-sports.io/football/teams/11.png" },
-    "teamB": { "name": "Shrewsbury Town", "icon": "https://media.api-sports.io/football/teams/12.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_7",
-    "teamA": { "name": "Salford City", "icon": "https://media.api-sports.io/football/teams/13.png" },
-    "teamB": { "name": "Milton Keynes Dons", "icon": "https://media.api-sports.io/football/teams/14.png" },
-    "leagueName": "England",
-    "prediction": "AWAY WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_8",
-    "teamA": { "name": "Brackley Town FC", "icon": "https://media.api-sports.io/football/teams/15.png" },
-    "teamB": { "name": "Tamworth FC", "icon": "https://media.api-sports.io/football/teams/16.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_9",
-    "teamA": { "name": "FC Halifax Town", "icon": "https://media.api-sports.io/football/teams/17.png" },
-    "teamB": { "name": "Scunthorpe United", "icon": "https://media.api-sports.io/football/teams/18.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "eng_280326_10",
-    "teamA": { "name": "Morecambe FC", "icon": "https://media.api-sports.io/football/teams/19.png" },
-    "teamB": { "name": "Aldershot Town FC", "icon": "https://media.api-sports.io/football/teams/20.png" },
-    "leagueName": "England",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "nir_280326_11",
-    "teamA": { "name": "Glentoran FC", "icon": "https://media.api-sports.io/football/teams/21.png" },
-    "teamB": { "name": "Linfield FC", "icon": "https://media.api-sports.io/football/teams/22.png" },
-    "leagueName": "Northern Ireland",
-    "prediction": "AWAY WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "sco_280326_12",
-    "teamA": { "name": "Montrose FC", "icon": "https://media.api-sports.io/football/teams/23.png" },
-    "teamB": { "name": "Cove Rangers FC", "icon": "https://media.api-sports.io/football/teams/24.png" },
-    "leagueName": "Scotland",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "int_280326_13",
-    "teamA": { "name": "Scotland", "icon": "https://media.api-sports.io/football/teams/25.png" },
-    "teamB": { "name": "Japan", "icon": "https://media.api-sports.io/football/teams/26.png" },
-    "leagueName": "International",
-    "prediction": "AWAY WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "irl_280326_14",
-    "teamA": { "name": "Longford Town FC", "icon": "https://media.api-sports.io/football/teams/27.png" },
-    "teamB": { "name": "Finn Harps FC", "icon": "https://media.api-sports.io/football/teams/28.png" },
-    "leagueName": "Ireland",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "int_280326_15",
-    "teamA": { "name": "USA", "icon": "https://media.api-sports.io/football/teams/29.png" },
-    "teamB": { "name": "Belgium", "icon": "https://media.api-sports.io/football/teams/30.png" },
-    "leagueName": "International",
-    "prediction": "AWAY WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "sp_280326_16",
-    "teamA": { "name": "Albacete Balompie", "icon": "https://media.api-sports.io/football/teams/31.png" },
-    "teamB": { "name": "CD Castellon", "icon": "https://media.api-sports.io/football/teams/32.png" },
-    "leagueName": "Spain",
-    "prediction": "HOME WIN",
-    "date": "2026-03-28"
-  },
-  {
-    "id": "sp_280326_17",
-    "teamA": { "name": "Sporting Gijon", "icon": "https://media.api-sports.io/football/teams/33.png" },
-    "teamB": { "name": "RC Deportivo De La Coruna", "icon": "https://media.api-sports.io/football/teams/34.png" },
+    "id": "sp_020426_2",
+    "teamA": { "name": "Atletico Madrid", "icon": "https://media.api-sports.io/football/teams/530.png" },
+    "teamB": { "name": "Barcelona", "icon": "https://media.api-sports.io/football/teams/529.png" },
     "leagueName": "Spain",
     "prediction": "DRAW",
-    "date": "2026-03-28"
+    "date": "2026-04-02"
+  },
+  {
+    "id": "fr_020426_3",
+    "teamA": { "name": "LOSC Lille", "icon": "https://media.api-sports.io/football/teams/79.png" },
+    "teamB": { "name": "Lens", "icon": "https://media.api-sports.io/football/teams/116.png" },
+    "leagueName": "France",
+    "prediction": "DRAW",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "sp_020426_4",
+    "teamA": { "name": "Getafe", "icon": "https://media.api-sports.io/football/teams/546.png" },
+    "teamB": { "name": "Athletic Club", "icon": "https://media.api-sports.io/football/teams/531.png" },
+    "leagueName": "Spain",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "de_020426_5",
+    "teamA": { "name": "Union Berlin", "icon": "https://media.api-sports.io/football/teams/182.png" },
+    "teamB": { "name": "St. Pauli", "icon": "https://media.api-sports.io/football/teams/191.png" },
+    "leagueName": "Germany",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "sp_020426_6",
+    "teamA": { "name": "Valencia", "icon": "https://media.api-sports.io/football/teams/532.png" },
+    "teamB": { "name": "Celta Vigo", "icon": "https://media.api-sports.io/football/teams/538.png" },
+    "leagueName": "Spain",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "fr_020426_7",
+    "teamA": { "name": "Le Havre", "icon": "https://media.api-sports.io/football/teams/111.png" },
+    "teamB": { "name": "Auxerre", "icon": "https://media.api-sports.io/football/teams/96.png" },
+    "leagueName": "France",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "fr_020426_8",
+    "teamA": { "name": "Lorient", "icon": "https://media.api-sports.io/football/teams/97.png" },
+    "teamB": { "name": "Paris Saint-Germain", "icon": "https://media.api-sports.io/football/teams/85.png" },
+    "leagueName": "France",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "fr_020426_9",
+    "teamA": { "name": "Metz", "icon": "https://media.api-sports.io/football/teams/112.png" },
+    "teamB": { "name": "Nantes", "icon": "https://media.api-sports.io/football/teams/83.png" },
+    "leagueName": "France",
+    "prediction": "DRAW",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "eng_020426_10",
+    "teamA": { "name": "West Ham", "icon": "https://media.api-sports.io/football/teams/48.png" },
+    "teamB": { "name": "Leeds United", "icon": "https://media.api-sports.io/football/teams/63.png" },
+    "leagueName": "England",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "de_020426_11",
+    "teamA": { "name": "Eintracht Frankfurt", "icon": "https://media.api-sports.io/football/teams/169.png" },
+    "teamB": { "name": "FC Cologne", "icon": "https://media.api-sports.io/football/teams/192.png" },
+    "leagueName": "Germany",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "it_020426_12",
+    "teamA": { "name": "Pisa SC", "icon": "https://media.api-sports.io/football/teams/496.png" },
+    "teamB": { "name": "Torino", "icon": "https://media.api-sports.io/football/teams/505.png" },
+    "leagueName": "Italy",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "sp_020426_13",
+    "teamA": { "name": "Oviedo", "icon": "https://media.api-sports.io/football/teams/727.png" },
+    "teamB": { "name": "Sevilla", "icon": "https://media.api-sports.io/football/teams/536.png" },
+    "leagueName": "Spain",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "fr_020426_14",
+    "teamA": { "name": "Monaco", "icon": "https://media.api-sports.io/football/teams/91.png" },
+    "teamB": { "name": "Marseille", "icon": "https://media.api-sports.io/football/teams/81.png" },
+    "leagueName": "France",
+    "prediction": "DRAW",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "sp_020426_15",
+    "teamA": { "name": "Alaves", "icon": "https://media.api-sports.io/football/teams/542.png" },
+    "teamB": { "name": "Osasuna", "icon": "https://media.api-sports.io/football/teams/727.png" },
+    "leagueName": "Spain",
+    "prediction": "DRAW",
+    "date": "2026-04-02"
   }
 ]
