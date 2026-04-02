@@ -1,66 +1,50 @@
 [
   {
-    "id": "br_sa_020426_1",
-    "teamA": { "name": "Internacional", "icon": "https://media.api-sports.io/football/teams/119.png" },
-    "teamB": { "name": "São Paulo", "icon": "https://media.api-sports.io/football/teams/126.png" },
-    "leagueName": "Brazil Série A",
+    "match": "Wigan Athletic vs Leyton Orient",
+    "league": "England League One",
     "prediction": "HOME WIN",
     "date": "2026-04-02"
   },
   {
-    "id": "br_sa_020426_2",
-    "teamA": { "name": "Botafogo", "icon": "https://media.api-sports.io/football/teams/120.png" },
-    "teamB": { "name": "Mirassol", "icon": "https://media.api-sports.io/football/teams/2060.png" },
-    "leagueName": "Brazil Série A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "br_sa_020426_3",
-    "teamA": { "name": "Cruzeiro", "icon": "https://media.api-sports.io/football/teams/121.png" },
-    "teamB": { "name": "Vitória", "icon": "https://media.api-sports.io/football/teams/131.png" },
-    "leagueName": "Brazil Série A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "br_sa_020426_4",
-    "teamA": { "name": "Fluminense", "icon": "https://media.api-sports.io/football/teams/124.png" },
-    "teamB": { "name": "Corinthians", "icon": "https://media.api-sports.io/football/teams/123.png" },
-    "leagueName": "Brazil Série A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "col_020426_5",
-    "teamA": { "name": "Santa Fe", "icon": "https://media.api-sports.io/football/teams/650.png" },
-    "teamB": { "name": "Llaneros", "icon": "https://media.api-sports.io/football/teams/3997.png" },
-    "leagueName": "Colombia Primera A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "arg_020426_6",
-    "teamA": { "name": "Lanús", "icon": "https://media.api-sports.io/football/teams/440.png" },
-    "teamB": { "name": "Platense", "icon": "https://media.api-sports.io/football/teams/1063.png" },
-    "leagueName": "Argentina Primera División",
-    "prediction": "HOME WIN",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "aus_020426_7",
-    "teamA": { "name": "Sydney FC", "icon": "https://media.api-sports.io/football/teams/997.png" },
-    "teamB": { "name": "Brisbane Roar", "icon": "https://media.api-sports.io/football/teams/1001.png" },
-    "leagueName": "A-League",
+    "match": "Real Sociedad B vs Eibar",
+    "league": "Spain Segunda División",
     "prediction": "AWAY WIN",
     "date": "2026-04-02"
   },
   {
-    "id": "sp_020426_8",
-    "teamA": { "name": "Eibar", "icon": "https://media.api-sports.io/football/teams/542.png" },
-    "teamB": { "name": "Real Sociedad B", "icon": "https://media.api-sports.io/football/teams/800.png" },
-    "leagueName": "La Liga 2",
+    "match": "Castellón vs Almería",
+    "league": "Spain Segunda División",
     "prediction": "AWAY WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "match": "Brisbane Roar vs Sydney FC",
+    "league": "Australia A-League",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "match": "Santa Fe vs Llaneros",
+    "league": "Colombia Primera A",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "match": "Atlético Nacional vs Cúcuta Deportivo",
+    "league": "Colombia Primera A",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "match": "Barcelona Women vs Real Madrid Women",
+    "league": "UEFA Women’s Champions League",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
+  },
+  {
+    "match": "Lyon Women vs Wolfsburg Women",
+    "league": "UEFA Women’s Champions League",
+    "prediction": "HOME WIN",
     "date": "2026-04-02"
   }
 ]
