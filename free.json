@@ -1,26 +1,20 @@
 [
   {
-    "id": "gt_1499122",
-    "teamA": { "name": "Guastatoya", "icon": "https://media.api-sports.io/football/teams/3662.png" },
-    "teamB": { "name": "Mixco", "icon": "https://media.api-sports.io/football/teams/3645.png" },
-    "leagueName": "Liga Nacional Guatemala",
+    "match": "Atlético Nacional vs Cúcuta Deportivo",
+    "league": "Colombia Primera A",
     "prediction": "HOME WIN",
-    "date": "2026-04-03"
+    "date": "2026-04-02"
   },
   {
-    "id": "br_car_1500869",
-    "teamA": { "name": "Nova Iguaçu", "icon": "https://media.api-sports.io/football/teams/7782.png" },
-    "teamB": { "name": "Fluminense", "icon": "https://media.api-sports.io/football/teams/124.png" },
-    "leagueName": "Carioca - 1 Brazil",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-03"
+    "match": "Barcelona Women vs Real Madrid Women",
+    "league": "UEFA Women’s Champions League",
+    "prediction": "HOME WIN",
+    "date": "2026-04-02"
   },
   {
-    "id": "cr_1489108",
-    "teamA": { "name": "Sporting San Jose", "icon": "https://media.api-sports.io/football/teams/2047.png" },
-    "teamB": { "name": "Deportivo Saprissa", "icon": "https://media.api-sports.io/football/teams/816.png" },
-    "leagueName": "Primera División Costa-Rica",
+    "match": "Real Sociedad B vs Eibar",
+    "league": "Spain Segunda División",
     "prediction": "AWAY WIN",
-    "date": "2026-04-03"
+    "date": "2026-04-02"
   }
 ]
