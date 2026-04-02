@@ -1,19 +1,43 @@
 [
   {
-    "match": "Atlético Nacional vs Cúcuta Deportivo",
-    "league": "Colombia Primera A",
+    "id": "col_020426_1",
+    "teamA": {
+      "name": "Atlético Nacional",
+      "icon": "https://media.api-sports.io/football/teams/1018.png"
+    },
+    "teamB": {
+      "name": "Cúcuta Deportivo",
+      "icon": "https://media.api-sports.io/football/teams/1046.png"
+    },
+    "leagueName": "Colombia Primera A",
     "prediction": "HOME WIN",
     "date": "2026-04-02"
   },
   {
-    "match": "Barcelona Women vs Real Madrid Women",
-    "league": "UEFA Women’s Champions League",
+    "id": "uwcl_020426_2",
+    "teamA": {
+      "name": "Barcelona Women",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
+    },
+    "teamB": {
+      "name": "Real Madrid Women",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
+    },
+    "leagueName": "UEFA Women’s Champions League",
     "prediction": "HOME WIN",
     "date": "2026-04-02"
   },
   {
-    "match": "Real Sociedad B vs Eibar",
-    "league": "Spain Segunda División",
+    "id": "sp_020426_3",
+    "teamA": {
+      "name": "Real Sociedad B",
+      "icon": "https://media.api-sports.io/football/teams/728.png"
+    },
+    "teamB": {
+      "name": "Eibar",
+      "icon": "https://media.api-sports.io/football/teams/543.png"
+    },
+    "leagueName": "Spain Segunda División",
     "prediction": "AWAY WIN",
     "date": "2026-04-02"
   }
