@@ -71,14 +71,7 @@
     "prediction": "HOME WIN",
     "date": "2026-04-02"
   },
-  {
-    "id": "col_020426_10",
-    "teamA": { "name": "Atlético Nacional", "icon": "https://media.api-sports.io/football/teams/1018.png" },
-    "teamB": { "name": "Cúcuta Deportivo", "icon": "https://media.api-sports.io/football/teams/1046.png" },
-    "leagueName": "Colombia Primera A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-02"
-  },
+ 
   {
     "id": "col_020426_11",
     "teamA": { "name": "Boyacá Chicó", "icon": "https://media.api-sports.io/football/teams/1039.png" },
