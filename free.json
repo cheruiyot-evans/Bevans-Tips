@@ -1,18 +1,5 @@
 [
-  {
-    "id": "col_020426_1",
-    "teamA": {
-      "name": "Atlético Nacional",
-      "icon": "https://media.api-sports.io/football/teams/1018.png"
-    },
-    "teamB": {
-      "name": "Cúcuta Deportivo",
-      "icon": "https://media.api-sports.io/football/teams/1046.png"
-    },
-    "leagueName": "Colombia Primera A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-02"
-  },
+ 
   {
     "id": "uwcl_020426_2",
     "teamA": {
