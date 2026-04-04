@@ -1,62 +1,6 @@
 [
   {
-    "id": "lo_030426_1",
-    "teamA": {
-      "name": "Lincoln City",
-      "icon": "https://media.api-sports.io/football/teams/1461.png"
-    },
-    "teamB": {
-      "name": "AFC Wimbledon",
-      "icon": "https://media.api-sports.io/football/teams/1044.png"
-    },
-    "leagueName": "League One",
-    "prediction": "HOME WIN",
-    "date": "2026-04-03"
-  },
-  {
-    "id": "ch_030426_2",
-    "teamA": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "teamB": {
-      "name": "Preston North End",
-      "icon": "https://media.api-sports.io/football/teams/108.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "HOME WIN",
-    "date": "2026-04-03"
-  },
-  {
-    "id": "lo_030426_3",
-    "teamA": {
-      "name": "Bradford City",
-      "icon": "https://media.api-sports.io/football/teams/1366.png"
-    },
-    "teamB": {
-      "name": "Northampton Town",
-      "icon": "https://media.api-sports.io/football/teams/1359.png"
-    },
-    "leagueName": "League One",
-    "prediction": "HOME WIN",
-    "date": "2026-04-03"
-  },
-  {
-    "id": "lo_030426_4",
-    "teamA": {
-      "name": "Doncaster Rovers",
-      "icon": "https://media.api-sports.io/football/teams/1354.png"
-    },
-    "teamB": {
-      "name": "Mansfield Town",
-      "icon": "https://media.api-sports.io/football/teams/1357.png"
-    },
-    "leagueName": "League One",
-    "prediction": "HOME WIN",
-    "date": "2026-04-03"
-  },
-  {
-    "id": "fac_030426_5",
+    "id": "fac_040426_1",
     "teamA": {
       "name": "Chelsea",
       "icon": "https://media.api-sports.io/football/teams/49.png"
@@ -67,10 +11,10 @@
     },
     "leagueName": "FA Cup",
     "prediction": "HOME WIN",
-    "date": "2026-04-03"
+    "date": "2026-04-04"
   },
   {
-    "id": "fac_030426_6",
+    "id": "fac_040426_2",
     "teamA": {
       "name": "Manchester City",
       "icon": "https://media.api-sports.io/football/teams/50.png"
@@ -81,10 +25,10 @@
     },
     "leagueName": "FA Cup",
     "prediction": "HOME WIN",
-    "date": "2026-04-03"
+    "date": "2026-04-04"
   },
   {
-    "id": "spl_030426_7",
+    "id": "spl_040426_3",
     "teamA": {
       "name": "Rangers",
       "icon": "https://media.api-sports.io/football/teams/44.png"
@@ -95,10 +39,10 @@
     },
     "leagueName": "Scottish Premiership",
     "prediction": "HOME WIN",
-    "date": "2026-04-03"
+    "date": "2026-04-04"
   },
   {
-    "id": "laliga_030426_8",
+    "id": "laliga_040426_4",
     "teamA": {
       "name": "Mallorca",
       "icon": "https://media.api-sports.io/football/teams/798.png"
@@ -109,6 +53,6 @@
     },
     "leagueName": "La Liga",
     "prediction": "AWAY WIN",
-    "date": "2026-04-03"
+    "date": "2026-04-04"
   }
 ]
