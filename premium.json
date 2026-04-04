@@ -1,4 +1,34 @@
-["AWAY WIN",
+[
+  {
+    "id": "fac_040426_29",
+    "teamA": { "name": "Manchester City", "icon": "https://media.api-sports.io/football/teams/50.png" },
+    "teamB": { "name": "Liverpool", "icon": "https://media.api-sports.io/football/teams/40.png" },
+    "leagueName": "FA Cup",
+    "prediction": "HOME WIN & OVER 2.5 GOALS",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "fac_040426_30",
+    "teamA": { "name": "Chelsea", "icon": "https://media.api-sports.io/football/teams/49.png" },
+    "teamB": { "name": "Port Vale", "icon": "https://media.api-sports.io/football/teams/1356.png" },
+    "leagueName": "FA Cup",
+    "prediction": "HOME WIN & OVER 2.5 GOALS",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "fac_040426_31",
+    "teamA": { "name": "Southampton", "icon": "https://media.api-sports.io/football/teams/41.png" },
+    "teamB": { "name": "Arsenal", "icon": "https://media.api-sports.io/football/teams/42.png" },
+    "leagueName": "FA Cup",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "laliga_040426_32",
+    "teamA": { "name": "Mallorca", "icon": "https://media.api-sports.io/football/teams/798.png" },
+    "teamB": { "name": "Real Madrid", "icon": "https://media.api-sports.io/football/teams/541.png" },
+    "leagueName": "La Liga",
+    "prediction": "AWAY WIN",
     "date": "2026-04-04"
   },
   {
