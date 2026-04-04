@@ -54,5 +54,61 @@
     "leagueName": "League One",
     "prediction": "HOME WIN",
     "date": "2026-04-03"
+  },
+  {
+    "id": "fac_030426_5",
+    "teamA": {
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "teamB": {
+      "name": "Port Vale",
+      "icon": "https://media.api-sports.io/football/teams/1356.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME WIN",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "fac_030426_6",
+    "teamA": {
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
+    },
+    "teamB": {
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME WIN",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "spl_030426_7",
+    "teamA": {
+      "name": "Rangers",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
+    },
+    "teamB": {
+      "name": "Dundee United",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "HOME WIN",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "laliga_030426_8",
+    "teamA": {
+      "name": "Mallorca",
+      "icon": "https://media.api-sports.io/football/teams/798.png"
+    },
+    "teamB": {
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-03"
   }
 ]
