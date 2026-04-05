@@ -1,58 +1,44 @@
 [
   {
-    "id": "fac_040426_1",
+    "id": "spl_050426_5",
     "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Livingston",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
     },
     "teamB": {
-      "name": "Port Vale",
-      "icon": "https://media.api-sports.io/football/teams/1356.png"
-    },
-    "leagueName": "FA Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "fac_040426_2",
-    "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
-    },
-    "teamB": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "leagueName": "FA Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "spl_040426_3",
-    "teamA": {
-      "name": "Rangers",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
-    },
-    "teamB": {
-      "name": "Dundee United",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Hearts",
+      "icon": "https://media.api-sports.io/football/teams/62.png"
     },
     "leagueName": "Scottish Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "prediction": "AWAY WIN",
+    "date": "2026-04-05"
   },
   {
-    "id": "laliga_040426_4",
+    "id": "spl_050426_6",
     "teamA": {
-      "name": "Mallorca",
-      "icon": "https://media.api-sports.io/football/teams/798.png"
+      "name": "Dundee",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
     "teamB": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
+      "name": "Celtic",
+      "icon": "https://media.api-sports.io/football/teams/247.png"
     },
-    "leagueName": "La Liga",
+    "leagueName": "Scottish Premiership",
     "prediction": "AWAY WIN",
-    "date": "2026-04-04"
+    "date": "2026-04-05"
+  },
+  {
+    "id": "wfac_050426_7",
+    "teamA": {
+      "name": "Arsenal Women",
+      "icon": "https://media.api-sports.io/football/teams/522.png"
+    },
+    "teamB": {
+      "name": "Brighton & Hove Albion Women",
+      "icon": "https://media.api-sports.io/football/teams/519.png"
+    },
+    "leagueName": "Women's FA Cup",
+    "prediction": "HOME WIN",
+    "date": "2026-04-05"
   }
 ]
