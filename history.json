@@ -1,4 +1,29 @@
-[
+{
+    "date": "Saturday, 4th April 2026",
+    "gamesList": [
+      { "teamA": "Chelsea", "teamB": "Port Vale", "prediction": "HOME", "odds": "1.55", "results": "WIN" },
+      { "teamA": "Manchester United", "teamB": "Leeds United", "prediction": "HOME", "odds": "1.80", "results": "WIN" },
+      { "teamA": "Juventus", "teamB": "Napoli", "prediction": "DRAW/AWAY", "odds": "2.25", "results": "DRAW" },
+      { "teamA": "Bayern Munich", "teamB": "Borussia Dortmund", "prediction": "HOME", "odds": "1.70", "results": "WIN" },
+      { "teamA": "Paris SG", "teamB": "Marseille", "prediction": "HOME", "odds": "1.65", "results": "WIN" },
+      { "teamA": "Ajax", "teamB": "Feyenoord", "prediction": "HOME", "odds": "1.90", "results": "WIN" },
+      { "teamA": "River Plate", "teamB": "Boca Juniors", "prediction": "DRAW", "odds": "3.00", "results": "DRAW" },
+      { "teamA": "Corinthians", "teamB": "Palmeiras", "prediction": "AWAY", "odds": "2.20", "results": "WIN" }
+    ]
+  },
+  {
+    "date": "Friday, 3rd April 2026",
+    "gamesList": [
+      { "teamA": "SC Internacional", "teamB": "São Paulo FC", "prediction": "HOME", "odds": "1.95", "results": "WIN" },
+      { "teamA": "Chapecoense", "teamB": "Atlético Mineiro", "prediction": "AWAY", "odds": "2.10", "results": "WIN" },
+      { "teamA": "Coritiba", "teamB": "CR Vasco da Gama", "prediction": "HOME", "odds": "2.05", "results": "WIN" },
+      { "teamA": "Botafogo RJ", "teamB": "Mirassol", "prediction": "HOME", "odds": "2.00", "results": "WIN" },
+      { "teamA": "Fluminense", "teamB": "Grêmio", "prediction": "DRAW/AWAY", "odds": "2.20", "results": "WIN" },
+      { "teamA": "Atlético GO", "teamB": "Cuiabá", "prediction": "HOME", "odds": "2.15", "results": "WIN" },
+      { "teamA": "Vélez Sarsfield", "teamB": "Racing Club", "prediction": "DRAW", "odds": "3.10", "results": "DRAW" },
+      { "teamA": "Rosario Central", "teamB": "Newell's Old Boys", "prediction": "HOME", "odds": "1.95", "results": "WIN" }
+    ]
+  },
   {
     "date": "Thursday, 2nd April 2026",
     "gamesList": [
@@ -23,19 +48,6 @@
       { "teamA": "Almería", "teamB": "Eibar", "prediction": "DRAW/AWAY", "odds": "2.35", "results": "WIN" },
       { "teamA": "Granada", "teamB": "Real Zaragoza", "prediction": "HOME/DRAW", "odds": "2.00", "results": "WIN" },
       { "teamA": "Sydney FC", "teamB": "Melbourne Victory", "prediction": "HOME", "odds": "2.30", "results": "WIN" }
-    ]
-  },
-  {
-    "date": "Tuesday, 31st March 2026",
-    "gamesList": [
-      { "teamA": "Lincoln City", "teamB": "AFC Wimbledon", "prediction": "HOME", "odds": "2.15", "results": "WIN" },
-      { "teamA": "Leicester City", "teamB": "Preston North End", "prediction": "HOME", "odds": "1.80", "results": "WIN" },
-      { "teamA": "Bradford City", "teamB": "Northampton Town", "prediction": "HOME", "odds": "2.05", "results": "WIN" },
-      { "teamA": "Doncaster Rovers", "teamB": "Mansfield Town", "prediction": "HOME", "odds": "2.20", "results": "WIN" },
-      { "teamA": "Middlesbrough", "teamB": "Millwall", "prediction": "HOME", "odds": "2.10", "results": "WIN" },
-      { "teamA": "Rochdale", "teamB": "Morecambe", "prediction": "HOME", "odds": "2.00", "results": "WIN" },
-      { "teamA": "MK Dons", "teamB": "Barrow", "prediction": "HOME", "odds": "2.25", "results": "WIN" },
-      { "teamA": "Coventry City", "teamB": "Derby County", "prediction": "HOME/DRAW", "odds": "1.90", "results": "WIN" }
     ]
   }
 ]
