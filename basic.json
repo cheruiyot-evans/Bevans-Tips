@@ -1,82 +1,82 @@
 [
   {
-    "id": "fac_040426_15",
-    "teamA": { "name": "Manchester City", "icon": "https://media.api-sports.io/football/teams/50.png" },
-    "teamB": { "name": "Liverpool", "icon": "https://media.api-sports.io/football/teams/40.png" },
-    "leagueName": "FA Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "fac_040426_16",
-    "teamA": { "name": "Chelsea", "icon": "https://media.api-sports.io/football/teams/49.png" },
-    "teamB": { "name": "Port Vale", "icon": "https://media.api-sports.io/football/teams/1356.png" },
-    "leagueName": "FA Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "fac_040426_17",
-    "teamA": { "name": "Southampton", "icon": "https://media.api-sports.io/football/teams/41.png" },
-    "teamB": { "name": "Arsenal", "icon": "https://media.api-sports.io/football/teams/42.png" },
-    "leagueName": "FA Cup",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "laliga_040426_18",
-    "teamA": { "name": "Mallorca", "icon": "https://media.api-sports.io/football/teams/798.png" },
-    "teamB": { "name": "Real Madrid", "icon": "https://media.api-sports.io/football/teams/541.png" },
-    "leagueName": "La Liga",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "bund_040426_19",
-    "teamA": { "name": "Bayer Leverkusen", "icon": "https://media.api-sports.io/football/teams/168.png" },
-    "teamB": { "name": "Wolfsburg", "icon": "https://media.api-sports.io/football/teams/161.png" },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "bund_040426_20",
-    "teamA": { "name": "Freiburg", "icon": "https://media.api-sports.io/football/teams/160.png" },
-    "teamB": { "name": "Bayern Munich", "icon": "https://media.api-sports.io/football/teams/157.png" },
-    "leagueName": "Bundesliga",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "spl_040426_21",
-    "teamA": { "name": "Rangers", "icon": "https://media.api-sports.io/football/teams/44.png" },
-    "teamB": { "name": "Dundee United", "icon": "https://media.api-sports.io/football/teams/66.png" },
+    "id": "spl_050426_35",
+    "teamA": { "name": "Livingston", "icon": "https://media.api-sports.io/football/teams/257.png" },
+    "teamB": { "name": "Hearts", "icon": "https://media.api-sports.io/football/teams/62.png" },
     "leagueName": "Scottish Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "prediction": "AWAY WIN",
+    "date": "2026-04-05"
   },
   {
-    "id": "aleague_040426_22",
-    "teamA": { "name": "Melbourne City", "icon": "https://media.api-sports.io/football/teams/909.png" },
-    "teamB": { "name": "Western Sydney Wanderers", "icon": "https://media.api-sports.io/football/teams/916.png" },
-    "leagueName": "A-League",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "id": "spl_050426_36",
+    "teamA": { "name": "Dundee", "icon": "https://media.api-sports.io/football/teams/66.png" },
+    "teamB": { "name": "Celtic", "icon": "https://media.api-sports.io/football/teams/247.png" },
+    "leagueName": "Scottish Premiership",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-05"
   },
   {
-    "id": "aleague_040426_23",
-    "teamA": { "name": "Central Coast Mariners", "icon": "https://media.api-sports.io/football/teams/911.png" },
-    "teamB": { "name": "Perth Glory", "icon": "https://media.api-sports.io/football/teams/914.png" },
-    "leagueName": "A-League",
+    "id": "wfac_050426_37",
+    "teamA": { "name": "Arsenal Women", "icon": "https://media.api-sports.io/football/teams/522.png" },
+    "teamB": { "name": "Brighton & Hove Albion Women", "icon": "https://media.api-sports.io/football/teams/519.png" },
+    "leagueName": "Women's FA Cup",
     "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "date": "2026-04-05"
   },
   {
-    "id": "laliga_040426_24",
-    "teamA": { "name": "Real Sociedad", "icon": "https://media.api-sports.io/football/teams/548.png" },
-    "teamB": { "name": "Levante", "icon": "https://media.api-sports.io/football/teams/546.png" },
+    "id": "laliga_050426_38",
+    "teamA": { "name": "Getafe", "icon": "https://media.api-sports.io/football/teams/546.png" },
+    "teamB": { "name": "Athletic Club", "icon": "https://media.api-sports.io/football/teams/531.png" },
     "leagueName": "La Liga",
+    "prediction": "HOME OR DRAW",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "seriea_050426_39",
+    "teamA": { "name": "Inter Milan", "icon": "https://media.api-sports.io/football/teams/505.png" },
+    "teamB": { "name": "Roma", "icon": "https://media.api-sports.io/football/teams/497.png" },
+    "leagueName": "Serie A",
     "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "date": "2026-04-05"
+  },
+  {
+    "id": "turk_050426_40",
+    "teamA": { "name": "Fenerbahçe", "icon": "https://media.api-sports.io/football/teams/203.png" },
+    "teamB": { "name": "Beşiktaş", "icon": "https://media.api-sports.io/football/teams/204.png" },
+    "leagueName": "Super Lig",
+    "prediction": "HOME OR DRAW",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "bund_050426_41",
+    "teamA": { "name": "Union Berlin", "icon": "https://media.api-sports.io/football/teams/182.png" },
+    "teamB": { "name": "St. Pauli", "icon": "https://media.api-sports.io/football/teams/191.png" },
+    "leagueName": "Bundesliga",
+    "prediction": "HOME WIN",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "greek_050426_42",
+    "teamA": { "name": "PAOK", "icon": "https://media.api-sports.io/football/teams/194.png" },
+    "teamB": { "name": "Panathinaikos", "icon": "https://media.api-sports.io/football/teams/196.png" },
+    "leagueName": "Super League Greece",
+    "prediction": "HOME WIN",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "ukr_050426_43",
+    "teamA": { "name": "Shakhtar Donetsk", "icon": "https://media.api-sports.io/football/teams/558.png" },
+    "teamB": { "name": "Rukh Vynnyky", "icon": "https://media.api-sports.io/football/teams/8433.png" },
+    "leagueName": "Ukraine Premier League",
+    "prediction": "HOME WIN",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "aus_050426_44",
+    "teamA": { "name": "Hartberg", "icon": "https://media.api-sports.io/football/teams/2010.png" },
+    "teamB": { "name": "Red Bull Salzburg", "icon": "https://media.api-sports.io/football/teams/571.png" },
+    "leagueName": "Austrian Bundesliga",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-05"
   }
 ]
