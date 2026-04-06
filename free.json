@@ -1,44 +1,53 @@
 [
   {
-    "id": "spl_050426_5",
+    "id": "engc_060426_1",
     "teamA": {
-      "name": "Livingston",
-      "icon": "https://media.api-sports.io/football/teams/257.png"
+      "name": "Ipswich Town",
+      "icon": "https://media.api-sports.io/football/teams/349.png"
     },
     "teamB": {
-      "name": "Hearts",
-      "icon": "https://media.api-sports.io/football/teams/62.png"
+      "name": "Birmingham City",
+      "icon": "https://media.api-sports.io/football/teams/332.png"
     },
-    "leagueName": "Scottish Premiership",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-05"
+    "leagueName": "Championship",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "date": "2026-04-06",
+    "reason": "Ipswich are in excellent form with strong home attacking metrics (xG ~1.8) and solid defensive numbers, while Birmingham struggle away and lack consistent goal threat, making a home win or draw highly probable."
   },
   {
-    "id": "spl_050426_6",
+    "id": "engc_060426_2",
     "teamA": {
-      "name": "Dundee",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Sheffield Wednesday",
+      "icon": "https://media.api-sports.io/football/teams/345.png"
     },
     "teamB": {
-      "name": "Celtic",
-      "icon": "https://media.api-sports.io/football/teams/247.png"
+      "name": "Leicester City",
+      "icon": "https://media.api-sports.io/football/teams/46.png"
     },
-    "leagueName": "Scottish Premiership",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-05"
+    "leagueName": "Championship",
+    "prediction": "DRAW NO BET - AWAY",
+    "confidence": "82%",
+    "safetyRating": 7,
+    "date": "2026-04-06",
+    "reason": "Leicester have superior squad depth and better xG trends compared to Sheffield Wednesday, who remain inconsistent defensively; Leicester avoiding defeat is statistically likely."
   },
   {
-    "id": "wfac_050426_7",
+    "id": "wfac_060426_3",
     "teamA": {
-      "name": "Arsenal Women",
-      "icon": "https://media.api-sports.io/football/teams/522.png"
+      "name": "Chelsea Women",
+      "icon": "https://media.api-sports.io/football/teams/524.png"
     },
     "teamB": {
-      "name": "Brighton & Hove Albion Women",
-      "icon": "https://media.api-sports.io/football/teams/519.png"
+      "name": "Tottenham Hotspur Women",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
     },
     "leagueName": "Women's FA Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-05"
+    "prediction": "DOUBLE CHANCE - HOME",
+    "confidence": "86%",
+    "safetyRating": 8,
+    "date": "2026-04-06",
+    "reason": "Chelsea Women maintain dominant form with elite attacking xG and strong defensive structure, while Tottenham struggle against top-tier opposition and have poor head-to-head results."
   }
 ]
