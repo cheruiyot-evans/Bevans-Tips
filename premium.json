@@ -1,82 +1,206 @@
 [
   {
-    "id": "spl_040426_39",
-    "teamA": { "name": "Livingston", "icon": "https://media.api-sports.io/football/teams/257.png" },
-    "teamB": { "name": "Hearts", "icon": "https://media.api-sports.io/football/teams/62.png" },
-    "leagueName": "Scottish Premiership",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-04"
+    "id": "engc_040426_49",
+    "teamA": {
+      "name": "Ipswich Town",
+      "icon": "https://media.api-sports.io/football/teams/349.png"
+    },
+    "teamB": {
+      "name": "Birmingham City",
+      "icon": "https://media.api-sports.io/football/teams/332.png"
+    },
+    "leagueName": "Championship",
+    "prediction": "HOME OR DRAW",
+    "date": "2026-04-04",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "reason": "Ipswich showed strong home form with high xG and defensive stability, while Birmingham struggled away and created few chances, making a home win or draw highly probable."
   },
   {
-    "id": "spl_040426_40",
-    "teamA": { "name": "Dundee", "icon": "https://media.api-sports.io/football/teams/66.png" },
-    "teamB": { "name": "Celtic", "icon": "https://media.api-sports.io/football/teams/247.png" },
-    "leagueName": "Scottish Premiership",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-04"
+    "id": "engc_040426_50",
+    "teamA": {
+      "name": "Sheffield Wednesday",
+      "icon": "https://media.api-sports.io/football/teams/345.png"
+    },
+    "teamB": {
+      "name": "Leicester City",
+      "icon": "https://media.api-sports.io/football/teams/46.png"
+    },
+    "leagueName": "Championship",
+    "prediction": "AWAY OR DRAW",
+    "date": "2026-04-04",
+    "confidence": "82%",
+    "safetyRating": 7,
+    "reason": "Leicester had superior squad depth and attacking xG trends, while Sheffield Wednesday remained defensively inconsistent, making Leicester avoiding defeat the safer outcome."
   },
   {
-    "id": "wfac_040426_41",
-    "teamA": { "name": "Arsenal Women", "icon": "https://media.api-sports.io/football/teams/522.png" },
-    "teamB": { "name": "Brighton & Hove Albion Women", "icon": "https://media.api-sports.io/football/teams/519.png" },
+    "id": "wfac_040426_51",
+    "teamA": {
+      "name": "Chelsea Women",
+      "icon": "https://media.api-sports.io/football/teams/524.png"
+    },
+    "teamB": {
+      "name": "Tottenham Hotspur Women",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
+    },
     "leagueName": "Women's FA Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "laliga_040426_42",
-    "teamA": { "name": "Getafe", "icon": "https://media.api-sports.io/football/teams/546.png" },
-    "teamB": { "name": "Athletic Club", "icon": "https://media.api-sports.io/football/teams/531.png" },
-    "leagueName": "La Liga",
     "prediction": "HOME OR DRAW",
-    "date": "2026-04-04"
+    "date": "2026-04-04",
+    "confidence": "86%",
+    "safetyRating": 8,
+    "reason": "Chelsea Women dominated with superior xG, form, and head-to-head record, while Tottenham struggled against top-tier opposition."
   },
   {
-    "id": "seriea_040426_43",
-    "teamA": { "name": "Inter Milan", "icon": "https://media.api-sports.io/football/teams/505.png" },
-    "teamB": { "name": "Roma", "icon": "https://media.api-sports.io/football/teams/497.png" },
+    "id": "seriea_040426_52",
+    "teamA": {
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "teamB": {
+      "name": "Genoa",
+      "icon": "https://media.api-sports.io/football/teams/495.png"
+    },
     "leagueName": "Serie A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "turk_040426_44",
-    "teamA": { "name": "Fenerbahçe", "icon": "https://media.api-sports.io/football/teams/203.png" },
-    "teamB": { "name": "Beşiktaş", "icon": "https://media.api-sports.io/football/teams/204.png" },
-    "leagueName": "Super Lig",
     "prediction": "HOME OR DRAW",
-    "date": "2026-04-04"
+    "date": "2026-04-04",
+    "confidence": "84%",
+    "safetyRating": 8,
+    "reason": "Juventus maintained strong defensive numbers and home dominance, while Genoa lacked attacking threat away from home."
   },
   {
-    "id": "bund_040426_45",
-    "teamA": { "name": "Union Berlin", "icon": "https://media.api-sports.io/football/teams/182.png" },
-    "teamB": { "name": "St. Pauli", "icon": "https://media.api-sports.io/football/teams/191.png" },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "id": "seriea_040426_53",
+    "teamA": {
+      "name": "Lecce",
+      "icon": "https://media.api-sports.io/football/teams/867.png"
+    },
+    "teamB": {
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "AWAY OR DRAW",
+    "date": "2026-04-04",
+    "confidence": "80%",
+    "safetyRating": 7,
+    "reason": "Atalanta’s superior attacking metrics and consistent performances outweighed Lecce’s limited offensive output."
   },
   {
-    "id": "greek_040426_46",
-    "teamA": { "name": "PAOK", "icon": "https://media.api-sports.io/football/teams/194.png" },
-    "teamB": { "name": "Panathinaikos", "icon": "https://media.api-sports.io/football/teams/196.png" },
-    "leagueName": "Super League Greece",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "id": "seriea_040426_54",
+    "teamA": {
+      "name": "Napoli",
+      "icon": "https://media.api-sports.io/football/teams/492.png"
+    },
+    "teamB": {
+      "name": "AC Milan",
+      "icon": "https://media.api-sports.io/football/teams/489.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "BTTS",
+    "date": "2026-04-04",
+    "confidence": "80%",
+    "safetyRating": 7,
+    "reason": "Both teams showed strong attacking xG and frequent scoring patterns, with defensive inconsistencies leading to high BTTS probability."
   },
   {
-    "id": "ukr_040426_47",
-    "teamA": { "name": "Shakhtar Donetsk", "icon": "https://media.api-sports.io/football/teams/558.png" },
-    "teamB": { "name": "Rukh Vynnyky", "icon": "https://media.api-sports.io/football/teams/8433.png" },
-    "leagueName": "Ukraine Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-04-04"
+    "id": "laliga_040426_55",
+    "teamA": {
+      "name": "Girona",
+      "icon": "https://media.api-sports.io/football/teams/547.png"
+    },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-04",
+    "confidence": "82%",
+    "safetyRating": 7,
+    "reason": "Both sides consistently produced chances with strong attacking xG trends, making at least two goals likely."
   },
   {
-    "id": "aus_040426_48",
-    "teamA": { "name": "Hartberg", "icon": "https://media.api-sports.io/football/teams/2010.png" },
-    "teamB": { "name": "Red Bull Salzburg", "icon": "https://media.api-sports.io/football/teams/571.png" },
-    "leagueName": "Austrian Bundesliga",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-04"
+    "id": "belg_040426_56",
+    "teamA": {
+      "name": "Club Brugge",
+      "icon": "https://media.api-sports.io/football/teams/569.png"
+    },
+    "teamB": {
+      "name": "Anderlecht",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
+    },
+    "leagueName": "Belgian Pro League",
+    "prediction": "HOME OR DRAW",
+    "date": "2026-04-04",
+    "confidence": "81%",
+    "safetyRating": 7,
+    "reason": "Club Brugge’s strong home form and defensive solidity made them unlikely to lose against an inconsistent Anderlecht side."
+  },
+  {
+    "id": "ire_040426_57",
+    "teamA": {
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/3063.png"
+    },
+    "teamB": {
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/3064.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "HOME OR DRAW",
+    "date": "2026-04-04",
+    "confidence": "80%",
+    "safetyRating": 7,
+    "reason": "Shamrock Rovers had stronger home performances and better xG differential compared to Shelbourne’s inconsistent away form."
+  },
+  {
+    "id": "ire_040426_58",
+    "teamA": {
+      "name": "Drogheda United",
+      "icon": "https://media.api-sports.io/football/teams/3071.png"
+    },
+    "teamB": {
+      "name": "Galway United",
+      "icon": "https://media.api-sports.io/football/teams/3077.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-04",
+    "confidence": "78%",
+    "safetyRating": 7,
+    "reason": "Both teams showed consistent goal trends with supportive xG data and frequent over 1.5 outcomes in recent matches."
+  },
+  {
+    "id": "wfac_040426_59",
+    "teamA": {
+      "name": "Birmingham City Women",
+      "icon": "https://media.api-sports.io/football/teams/525.png"
+    },
+    "teamB": {
+      "name": "Manchester City Women",
+      "icon": "https://media.api-sports.io/football/teams/524.png"
+    },
+    "leagueName": "Women's FA Cup",
+    "prediction": "AWAY OR DRAW",
+    "date": "2026-04-04",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "reason": "Manchester City Women showed superior quality, higher xG, and dominant H2H record, making them highly unlikely to lose."
+  },
+  {
+    "id": "swpl_040426_60",
+    "teamA": {
+      "name": "Celtic Women",
+      "icon": "https://media.api-sports.io/football/teams/258.png"
+    },
+    "teamB": {
+      "name": "Rangers Women",
+      "icon": "https://media.api-sports.io/football/teams/259.png"
+    },
+    "leagueName": "Scottish SWPL 1",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-04",
+    "confidence": "80%",
+    "safetyRating": 7,
+    "reason": "High attacking output and strong xG from both teams, combined with historically high-scoring encounters, supported multiple goals."
   }
 ]
