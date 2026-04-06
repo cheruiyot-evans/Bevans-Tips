@@ -1,114 +1,128 @@
 [
   {
-    "id": "fac_040426_19",
+    "id": "champ_060426_1",
     "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Ipswich Town",
+      "icon": "https://media.api-sports.io/football/teams/354.png"
     },
     "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
+      "name": "Birmingham City",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
-    "leagueName": "FA Cup",
-    "prediction": "2-1",
-    "date": "2026-04-05"
+    "leagueName": "Championship",
+    "prediction": "Double Chance - Home",
+    "date": "2026-04-06"
   },
   {
-    "id": "spl_040426_20",
+    "id": "champ_060426_2",
     "teamA": {
-      "name": "Hearts",
-      "icon": "https://media.api-sports.io/football/teams/62.png"
-    },
-    "teamB": {
-      "name": "Livingston",
-      "icon": "https://media.api-sports.io/football/teams/257.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "2-0",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "spl_040426_21",
-    "teamA": {
-      "name": "Celtic",
-      "icon": "https://media.api-sports.io/football/teams/247.png"
-    },
-    "teamB": {
-      "name": "Dundee",
+      "name": "Sheffield Wednesday",
       "icon": "https://media.api-sports.io/football/teams/66.png"
     },
-    "leagueName": "Scottish Premiership",
-    "prediction": "3-1",
-    "date": "2026-04-05"
+    "teamB": {
+      "name": "Leicester City",
+      "icon": "https://media.api-sports.io/football/teams/67.png"
+    },
+    "leagueName": "Championship",
+    "prediction": "Draw No Bet - Leicester City",
+    "date": "2026-04-06"
   },
   {
-    "id": "wfac_040426_22",
+    "id": "wfac_060426_3",
     "teamA": {
-      "name": "Arsenal Women",
-      "icon": "https://media.api-sports.io/football/teams/522.png"
+      "name": "Chelsea Women",
+      "icon": "https://media.api-sports.io/football/teams/520.png"
     },
     "teamB": {
-      "name": "Brighton & Hove Albion Women",
-      "icon": "https://media.api-sports.io/football/teams/519.png"
+      "name": "Tottenham Hotspur Women",
+      "icon": "https://media.api-sports.io/football/teams/521.png"
     },
-    "leagueName": "Women's FA Cup",
-    "prediction": "3-0",
-    "date": "2026-04-05"
+    "leagueName": "Women's FA Cup – Quarter‑Finals",
+    "prediction": "Double Chance - Home",
+    "date": "2026-04-06"
   },
   {
-    "id": "seriea_040426_23",
+    "id": "seriea_060426_4",
     "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/501.png"
     },
     "teamB": {
-      "name": "Roma",
-      "icon": "https://media.api-sports.io/football/teams/497.png"
+      "name": "Genoa",
+      "icon": "https://media.api-sports.io/football/teams/502.png"
     },
     "leagueName": "Serie A",
-    "prediction": "2-1",
-    "date": "2026-04-05"
+    "prediction": "Double Chance - Home",
+    "date": "2026-04-06"
   },
   {
-    "id": "turk_040426_24",
+    "id": "seriea_060426_5",
     "teamA": {
-      "name": "Fenerbahçe",
-      "icon": "https://media.api-sports.io/football/teams/203.png"
+      "name": "Lecce",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
     "teamB": {
-      "name": "Beşiktaş",
-      "icon": "https://media.api-sports.io/football/teams/204.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/504.png"
     },
-    "leagueName": "Super Lig",
-    "prediction": "1-1",
-    "date": "2026-04-05"
+    "leagueName": "Serie A",
+    "prediction": "Draw No Bet - Atalanta",
+    "date": "2026-04-06"
   },
   {
-    "id": "bund_040426_25",
+    "id": "seriea_060426_6",
     "teamA": {
-      "name": "Union Berlin",
-      "icon": "https://media.api-sports.io/football/teams/182.png"
+      "name": "Napoli",
+      "icon": "https://media.api-sports.io/football/teams/506.png"
     },
     "teamB": {
-      "name": "St. Pauli",
-      "icon": "https://media.api-sports.io/football/teams/191.png"
+      "name": "AC Milan",
+      "icon": "https://media.api-sports.io/football/teams/507.png"
     },
-    "leagueName": "Bundesliga",
-    "prediction": "1-0",
-    "date": "2026-04-05"
+    "leagueName": "Serie A",
+    "prediction": "Both Teams To Score",
+    "date": "2026-04-06"
   },
   {
-    "id": "aus_040426_26",
+    "id": "laliga_060426_7",
     "teamA": {
-      "name": "Hartberg",
-      "icon": "https://media.api-sports.io/football/teams/2010.png"
+      "name": "Girona",
+      "icon": "https://media.api-sports.io/football/teams/508.png"
     },
     "teamB": {
-      "name": "Red Bull Salzburg",
-      "icon": "https://media.api-sports.io/football/teams/571.png"
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/509.png"
     },
-    "leagueName": "Austrian Bundesliga",
-    "prediction": "0-3",
-    "date": "2026-04-05"
+    "leagueName": "La Liga",
+    "prediction": "Over 1.5 Goals",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "bel_060426_8",
+    "teamA": {
+      "name": "Club Brugge",
+      "icon": "https://media.api-sports.io/football/teams/510.png"
+    },
+    "teamB": {
+      "name": "Anderlecht",
+      "icon": "https://media.api-sports.io/football/teams/511.png"
+    },
+    "leagueName": "Belgian Pro League",
+    "prediction": "Double Chance - Home",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "ire_060426_9",
+    "teamA": {
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/512.png"
+    },
+    "teamB": {
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/513.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "Double Chance - Home",
+    "date": "2026-04-06"
   }
 ]
