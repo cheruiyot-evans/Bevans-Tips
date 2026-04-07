@@ -1,53 +1,53 @@
 [
   {
-    "id": "engc_060426_1",
+    "id": "eng_070426_1",
     "teamA": {
-      "name": "Ipswich Town",
-      "icon": "https://media.api-sports.io/football/teams/349.png"
+      "name": "Wrexham",
+      "icon": "https://media.api-sports.io/football/teams/1134.png"
     },
     "teamB": {
-      "name": "Birmingham City",
-      "icon": "https://media.api-sports.io/football/teams/332.png"
+      "name": "Southampton",
+      "icon": "https://media.api-sports.io/football/teams/41.png"
     },
-    "leagueName": "Championship",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "confidence": "85%",
-    "safetyRating": 8,
-    "date": "2026-04-06",
-    "reason": "Ipswich are in excellent form with strong home attacking metrics (xG ~1.8) and solid defensive numbers, while Birmingham struggle away and lack consistent goal threat, making a home win or draw highly probable."
-  },
-  {
-    "id": "engc_060426_2",
-    "teamA": {
-      "name": "Sheffield Wednesday",
-      "icon": "https://media.api-sports.io/football/teams/345.png"
-    },
-    "teamB": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "leagueName": "Championship",
+    "leagueName": "England Cup",
     "prediction": "DRAW NO BET - AWAY",
-    "confidence": "82%",
-    "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Leicester have superior squad depth and better xG trends compared to Sheffield Wednesday, who remain inconsistent defensively; Leicester avoiding defeat is statistically likely."
+    "confidence": "90%",
+    "safetyRating": 9,
+    "date": "2026-04-07",
+    "reason": "Southampton possess superior squad quality, depth, and attacking efficiency compared to Wrexham. Despite Wrexham’s strong home spirit, Southampton’s higher xG output and experience against lower-tier sides make them very unlikely to lose."
   },
   {
-    "id": "wfac_060426_3",
+    "id": "eng_070426_2",
     "teamA": {
-      "name": "Chelsea Women",
-      "icon": "https://media.api-sports.io/football/teams/524.png"
+      "name": "Port Vale",
+      "icon": "https://media.api-sports.io/football/teams/1356.png"
     },
     "teamB": {
-      "name": "Tottenham Hotspur Women",
-      "icon": "https://media.api-sports.io/football/teams/523.png"
+      "name": "Rotherham United",
+      "icon": "https://media.api-sports.io/football/teams/385.png"
     },
-    "leagueName": "Women's FA Cup",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "confidence": "86%",
+    "leagueName": "England League One",
+    "prediction": "DOUBLE CHANCE - AWAY",
+    "confidence": "88%",
     "safetyRating": 8,
-    "date": "2026-04-06",
-    "reason": "Chelsea Women maintain dominant form with elite attacking xG and strong defensive structure, while Tottenham struggle against top-tier opposition and have poor head-to-head results."
+    "date": "2026-04-07",
+    "reason": "Rotherham show more consistent form and better defensive organization, while Port Vale struggle with consistency and chance creation. Away side avoiding defeat is statistically a safe outcome."
+  },
+  {
+    "id": "eng_070426_3",
+    "teamA": {
+      "name": "Bromley",
+      "icon": "https://media.api-sports.io/football/teams/1571.png"
+    },
+    "teamB": {
+      "name": "Shrewsbury Town",
+      "icon": "https://media.api-sports.io/football/teams/366.png"
+    },
+    "leagueName": "England League Two",
+    "prediction": "UNDER 3.5 GOALS",
+    "confidence": "87%",
+    "safetyRating": 8,
+    "date": "2026-04-07",
+    "reason": "Both teams typically play cautious, low-tempo football with limited attacking output. Their recent matches trend towards low-scoring outcomes, making under 3.5 goals a high-probability pick."
   }
 ]
