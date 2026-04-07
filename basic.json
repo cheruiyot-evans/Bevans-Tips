@@ -1,155 +1,121 @@
 [
   {
-    "id": "seriea_060426_45",
+    "id": "nor_070426_54",
     "teamA": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
+      "name": "Aalesund",
+      "icon": "https://media.api-sports.io/football/teams/1617.png"
     },
     "teamB": {
-      "name": "Genoa",
-      "icon": "https://media.api-sports.io/football/teams/495.png"
+      "name": "Fredrikstad",
+      "icon": "https://media.api-sports.io/football/teams/1618.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "HOME OR DRAW",
-    "confidence": "84%",
-    "safetyRating": 8,
-    "date": "2026-04-06",
-    "reason": "Juventus are defensively solid at home with strong xG conceded metrics and consistent clean sheets, while Genoa struggle away and create limited chances, making a home win or draw a low-risk outcome."
-  },
-  {
-    "id": "seriea_060426_46",
-    "teamA": {
-      "name": "Lecce",
-      "icon": "https://media.api-sports.io/football/teams/867.png"
-    },
-    "teamB": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/499.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "DRAW NO BET - AWAY",
-    "confidence": "80%",
-    "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Atalanta have superior attacking xG and are more consistent in results, while Lecce struggle against top sides and have limited offensive output, making Atalanta avoiding defeat the safer pick."
-  },
-  {
-    "id": "seriea_060426_47",
-    "teamA": {
-      "name": "Napoli",
-      "icon": "https://media.api-sports.io/football/teams/492.png"
-    },
-    "teamB": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "BTTS",
-    "confidence": "80%",
-    "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Both teams maintain high attacking xG and regularly score, with recent H2H trends favoring goals; defensive inconsistencies on both sides increase likelihood of both teams scoring."
-  },
-  {
-    "id": "laliga_060426_48",
-    "teamA": {
-      "name": "Girona",
-      "icon": "https://media.api-sports.io/football/teams/547.png"
-    },
-    "teamB": {
-      "name": "Villarreal",
-      "icon": "https://media.api-sports.io/football/teams/533.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "82%",
-    "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Both teams show strong attacking metrics and high xG trends, consistently producing goals; statistical patterns support at least two goals in this matchup."
-  },
-  {
-    "id": "belg_060426_49",
-    "teamA": {
-      "name": "Club Brugge",
-      "icon": "https://media.api-sports.io/football/teams/569.png"
-    },
-    "teamB": {
-      "name": "Anderlecht",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "leagueName": "Belgian Pro League",
-    "prediction": "HOME OR DRAW",
-    "confidence": "81%",
-    "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Club Brugge have strong home form with superior xG and defensive stability, while Anderlecht are less reliable away, making a home win or draw the safer outcome."
-  },
-  {
-    "id": "ire_060426_50",
-    "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": "https://media.api-sports.io/football/teams/3063.png"
-    },
-    "teamB": {
-      "name": "Shelbourne",
-      "icon": "https://media.api-sports.io/football/teams/3064.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "HOME OR DRAW",
-    "confidence": "80%",
-    "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Shamrock Rovers are stronger at home with better xG differential and league standing, while Shelbourne show inconsistency away, making a non-loss for the home side highly probable."
-  },
-  {
-    "id": "ire_060426_51",
-    "teamA": {
-      "name": "Drogheda United",
-      "icon": "https://media.api-sports.io/football/teams/3071.png"
-    },
-    "teamB": {
-      "name": "Galway United",
-      "icon": "https://media.api-sports.io/football/teams/3077.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "78%",
-    "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Both teams show moderate attacking output and recent fixtures trend toward goals, with xG data supporting at least two total goals in this matchup."
-  },
-  {
-    "id": "wfac_060426_52",
-    "teamA": {
-      "name": "Birmingham City Women",
-      "icon": "https://media.api-sports.io/football/teams/525.png"
-    },
-    "teamB": {
-      "name": "Manchester City Women",
-      "icon": "https://media.api-sports.io/football/teams/524.png"
-    },
-    "leagueName": "Women's FA Cup",
-    "prediction": "AWAY OR DRAW",
+    "leagueName": "Norway Eliteserien",
+    "prediction": "DOUBLE CHANCE - AWAY",
     "confidence": "85%",
     "safetyRating": 8,
-    "date": "2026-04-06",
-    "reason": "Manchester City Women have superior squad quality, higher xG metrics, and dominant head-to-head results; Birmingham rarely compete at this level, making a City non-loss highly likely."
+    "date": "2026-04-07",
+    "reason": "Fredrikstad show better recent form and defensive stability, while Aalesund struggle for consistency; away side avoiding defeat is statistically favorable."
   },
   {
-    "id": "swpl_060426_53",
+    "id": "nor_070426_55",
     "teamA": {
-      "name": "Celtic Women",
-      "icon": "https://media.api-sports.io/football/teams/258.png"
+      "name": "KFUM Oslo",
+      "icon": "https://media.api-sports.io/football/teams/1991.png"
     },
     "teamB": {
-      "name": "Rangers Women",
-      "icon": "https://media.api-sports.io/football/teams/259.png"
+      "name": "Sandefjord",
+      "icon": "https://media.api-sports.io/football/teams/1619.png"
     },
-    "leagueName": "Scottish SWPL 1",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "80%",
+    "leagueName": "Norway Eliteserien",
+    "prediction": "UNDER 3.5 GOALS",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "date": "2026-04-07",
+    "reason": "Both teams tend to play structured, low-scoring matches with limited attacking output, making a high goal count unlikely."
+  },
+  {
+    "id": "pol_070426_56",
+    "teamA": {
+      "name": "Arka Gdynia",
+      "icon": "https://media.api-sports.io/football/teams/3494.png"
+    },
+    "teamB": {
+      "name": "Zaglebie Lubin",
+      "icon": "https://media.api-sports.io/football/teams/3488.png"
+    },
+    "leagueName": "Poland Ekstraklasa",
+    "prediction": "DRAW NO BET - AWAY",
+    "confidence": "84%",
+    "safetyRating": 8,
+    "date": "2026-04-07",
+    "reason": "Zaglebie Lubin possess stronger squad depth and better recent results, while Arka Gdynia struggle against higher-quality opposition."
+  },
+  {
+    "id": "rsa_070426_57",
+    "teamA": {
+      "name": "Chippa United",
+      "icon": "https://media.api-sports.io/football/teams/983.png"
+    },
+    "teamB": {
+      "name": "Siwelele",
+      "icon": "https://media.api-sports.io/football/teams/982.png"
+    },
+    "leagueName": "South Africa PSL",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "confidence": "83%",
     "safetyRating": 7,
-    "date": "2026-04-06",
-    "reason": "Both teams consistently produce high attacking numbers and strong xG, with H2H fixtures often yielding multiple goals, making over 1.5 goals a safer option."
+    "date": "2026-04-07",
+    "reason": "Chippa United are more reliable at home and defensively organized, while Siwelele struggle for consistency, making home side avoiding defeat likely."
+  },
+  {
+    "id": "sco_070426_58",
+    "teamA": {
+      "name": "Montrose",
+      "icon": "https://media.api-sports.io/football/teams/2608.png"
+    },
+    "teamB": {
+      "name": "Cove Rangers",
+      "icon": "https://media.api-sports.io/football/teams/2609.png"
+    },
+    "leagueName": "Scotland League One",
+    "prediction": "UNDER 2.5 GOALS",
+    "confidence": "82%",
+    "safetyRating": 7,
+    "date": "2026-04-07",
+    "reason": "Both sides show low attacking efficiency and recent meetings tend to be tight, low-scoring affairs."
+  },
+  {
+    "id": "nir_070426_59",
+    "teamA": {
+      "name": "Cliftonville",
+      "icon": "https://media.api-sports.io/football/teams/2710.png"
+    },
+    "teamB": {
+      "name": "Glentoran",
+      "icon": "https://media.api-sports.io/football/teams/2709.png"
+    },
+    "leagueName": "Northern Ireland Premiership",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "confidence": "82%",
+    "safetyRating": 7,
+    "date": "2026-04-07",
+    "reason": "Cliftonville have stronger home form and better defensive numbers, while Glentoran are inconsistent away from home."
+  },
+  {
+    "id": "ucl_070426_60",
+    "teamA": {
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
+    },
+    "teamB": {
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
+    },
+    "leagueName": "UEFA Champions League",
+    "prediction": "OVER 1.5 GOALS",
+    "confidence": "81%",
+    "safetyRating": 7,
+    "date": "2026-04-07",
+    "reason": "Both teams have elite attacking quality and consistently high xG outputs, with Champions League fixtures between them typically producing multiple goals."
   }
 ]
