@@ -1,4 +1,18 @@
-[{
+[
+  {
+    "date": "Monday, 6th April 2026",
+    "gamesList": [
+      { "teamA": "Ipswich Town", "teamB": "Birmingham City", "prediction": "HOME/DRAW", "odds": "1.45", "results": "WIN" },
+      { "teamA": "Sheffield Wednesday", "teamB": "Leicester City", "prediction": "AWAY/DRAW", "odds": "1.55", "results": "WIN" },
+      { "teamA": "Chelsea Women", "teamB": "Tottenham Women", "prediction": "HOME/DRAW", "odds": "1.40", "results": "WIN" },
+      { "teamA": "Juventus", "teamB": "Genoa", "prediction": "HOME/DRAW", "odds": "1.50", "results": "WIN" },
+      { "teamA": "Lecce", "teamB": "Atalanta", "prediction": "AWAY/DRAW", "odds": "1.60", "results": "WIN" },
+      { "teamA": "Napoli", "teamB": "AC Milan", "prediction": "BTTS", "odds": "1.75", "results": "WIN" },
+      { "teamA": "Girona", "teamB": "Villarreal", "prediction": "OVER 1.5", "odds": "1.35", "results": "WIN" },
+      { "teamA": "Club Brugge", "teamB": "Anderlecht", "prediction": "HOME/DRAW", "odds": "1.55", "results": "WIN" }
+    ]
+  },
+  {
     "date": "Saturday, 4th April 2026",
     "gamesList": [
       { "teamA": "Chelsea", "teamB": "Port Vale", "prediction": "HOME", "odds": "1.55", "results": "WIN" },
@@ -22,32 +36,6 @@
       { "teamA": "Atlético GO", "teamB": "Cuiabá", "prediction": "HOME", "odds": "2.15", "results": "WIN" },
       { "teamA": "Vélez Sarsfield", "teamB": "Racing Club", "prediction": "DRAW", "odds": "3.10", "results": "DRAW" },
       { "teamA": "Rosario Central", "teamB": "Newell's Old Boys", "prediction": "HOME", "odds": "1.95", "results": "WIN" }
-    ]
-  },
-  {
-    "date": "Thursday, 2nd April 2026",
-    "gamesList": [
-      { "teamA": "Wigan Athletic", "teamB": "Leyton Orient", "prediction": "HOME", "odds": "2.10", "results": "WIN" },
-      { "teamA": "Cambridge United", "teamB": "Swindon Town", "prediction": "HOME", "odds": "2.05", "results": "WIN" },
-      { "teamA": "Las Palmas", "teamB": "Granada", "prediction": "HOME", "odds": "2.25", "results": "WIN" },
-      { "teamA": "Real Sociedad B", "teamB": "Eibar", "prediction": "AWAY", "odds": "2.30", "results": "WIN" },
-      { "teamA": "Castellón", "teamB": "Almería", "prediction": "AWAY", "odds": "2.15", "results": "WIN" },
-      { "teamA": "Leganés", "teamB": "Real Zaragoza", "prediction": "HOME", "odds": "2.00", "results": "WIN" },
-      { "teamA": "Brisbane Roar", "teamB": "Sydney FC", "prediction": "AWAY", "odds": "2.40", "results": "WIN" },
-      { "teamA": "Santa Fe", "teamB": "Llaneros", "prediction": "HOME", "odds": "1.85", "results": "WIN" }
-    ]
-  },
-  {
-    "date": "Wednesday, 1st April 2026",
-    "gamesList": [
-      { "teamA": "Barcelona Women", "teamB": "Real Madrid Women", "prediction": "HOME", "odds": "1.70", "results": "WIN" },
-      { "teamA": "Lyon Women", "teamB": "Wolfsburg Women", "prediction": "HOME", "odds": "1.95", "results": "WIN" },
-      { "teamA": "Boyacá Chicó", "teamB": "Deportivo Pereira", "prediction": "AWAY", "odds": "2.20", "results": "WIN" },
-      { "teamA": "América de Cali", "teamB": "Atlético Bucaramanga", "prediction": "HOME", "odds": "2.05", "results": "WIN" },
-      { "teamA": "Macarthur FC", "teamB": "Newcastle Jets", "prediction": "HOME", "odds": "2.10", "results": "WIN" },
-      { "teamA": "Almería", "teamB": "Eibar", "prediction": "DRAW/AWAY", "odds": "2.35", "results": "WIN" },
-      { "teamA": "Granada", "teamB": "Real Zaragoza", "prediction": "HOME/DRAW", "odds": "2.00", "results": "WIN" },
-      { "teamA": "Sydney FC", "teamB": "Melbourne Victory", "prediction": "HOME", "odds": "2.30", "results": "WIN" }
     ]
   }
 ]
