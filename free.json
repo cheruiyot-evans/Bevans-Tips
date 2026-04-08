@@ -1,53 +1,53 @@
 [
   {
-    "id": "eng_070426_1",
+    "id": "ucl_080426_1",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://media.api-sports.io/football/teams/1134.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/41.png"
+      "name": "Atletico Madrid",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
     },
-    "leagueName": "England Cup",
-    "prediction": "DRAW NO BET - AWAY",
-    "confidence": "90%",
+    "leagueName": "UEFA Champions League",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "confidence": "92%",
     "safetyRating": 9,
-    "date": "2026-04-07",
-    "reason": "Southampton possess superior squad quality, depth, and attacking efficiency compared to Wrexham. Despite Wrexham’s strong home spirit, Southampton’s higher xG output and experience against lower-tier sides make them very unlikely to lose."
+    "date": "2026-04-08",
+    "reason": "Barcelona’s dominant home form, strong consistency, and superior attacking metrics (xG) make them highly unlikely to lose, while Atletico show weaker away performances."
   },
   {
-    "id": "eng_070426_2",
+    "id": "ucl_080426_2",
     "teamA": {
-      "name": "Port Vale",
-      "icon": "https://media.api-sports.io/football/teams/1356.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Rotherham United",
-      "icon": "https://media.api-sports.io/football/teams/385.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
-    "leagueName": "England League One",
-    "prediction": "DOUBLE CHANCE - AWAY",
-    "confidence": "88%",
+    "leagueName": "UEFA Champions League",
+    "prediction": "DRAW NO BET - HOME",
+    "confidence": "85%",
     "safetyRating": 8,
-    "date": "2026-04-07",
-    "reason": "Rotherham show more consistent form and better defensive organization, while Port Vale struggle with consistency and chance creation. Away side avoiding defeat is statistically a safe outcome."
+    "date": "2026-04-08",
+    "reason": "PSG’s strong home performances and slightly superior xG output give them an edge, while Liverpool’s inconsistency away in Europe increases the likelihood PSG avoid defeat."
   },
   {
-    "id": "eng_070426_3",
+    "id": "uel_080426_1",
     "teamA": {
-      "name": "Bromley",
-      "icon": "https://media.api-sports.io/football/teams/1571.png"
+      "name": "Sporting Braga",
+      "icon": "https://media.api-sports.io/football/teams/561.png"
     },
     "teamB": {
-      "name": "Shrewsbury Town",
-      "icon": "https://media.api-sports.io/football/teams/366.png"
+      "name": "Real Betis",
+      "icon": "https://media.api-sports.io/football/teams/543.png"
     },
-    "leagueName": "England League Two",
-    "prediction": "UNDER 3.5 GOALS",
-    "confidence": "87%",
+    "leagueName": "UEFA Europa League",
+    "prediction": "DRAW NO BET - HOME",
+    "confidence": "84%",
     "safetyRating": 8,
-    "date": "2026-04-07",
-    "reason": "Both teams typically play cautious, low-tempo football with limited attacking output. Their recent matches trend towards low-scoring outcomes, making under 3.5 goals a high-probability pick."
+    "date": "2026-04-08",
+    "reason": "Braga’s strong home form and higher chance creation (xG) compared to Betis’ weaker away displays make them the safer side to avoid defeat."
   }
 ]
