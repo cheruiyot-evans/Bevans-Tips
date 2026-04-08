@@ -1,121 +1,104 @@
 [
   {
-    "id": "nor_070426_54",
+    "id": "engn_080426_1",
     "teamA": {
-      "name": "Aalesund",
-      "icon": "https://media.api-sports.io/football/teams/1617.png"
+      "name": "Marine",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Fredrikstad",
-      "icon": "https://media.api-sports.io/football/teams/1618.png"
+      "name": "Hereford",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Norway Eliteserien",
-    "prediction": "DOUBLE CHANCE - AWAY",
+    "leagueName": "National League North",
+    "prediction": "OVER 1.5 GOALS",
     "confidence": "85%",
     "safetyRating": 8,
-    "date": "2026-04-07",
-    "reason": "Fredrikstad show better recent form and defensive stability, while Aalesund struggle for consistency; away side avoiding defeat is statistically favorable."
+    "date": "2026-04-08",
+    "reason": "Marine are scoring consistently while Hereford show defensive vulnerability, and league trends strongly favor matches with at least two goals."
   },
   {
-    "id": "nor_070426_55",
+    "id": "scoh_080426_2",
     "teamA": {
-      "name": "KFUM Oslo",
-      "icon": "https://media.api-sports.io/football/teams/1991.png"
+      "name": "Brora Rangers",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Sandefjord",
-      "icon": "https://media.api-sports.io/football/teams/1619.png"
+      "name": "Brechin City",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Norway Eliteserien",
-    "prediction": "UNDER 3.5 GOALS",
-    "confidence": "85%",
-    "safetyRating": 8,
-    "date": "2026-04-07",
-    "reason": "Both teams tend to play structured, low-scoring matches with limited attacking output, making a high goal count unlikely."
-  },
-  {
-    "id": "pol_070426_56",
-    "teamA": {
-      "name": "Arka Gdynia",
-      "icon": "https://media.api-sports.io/football/teams/3494.png"
-    },
-    "teamB": {
-      "name": "Zaglebie Lubin",
-      "icon": "https://media.api-sports.io/football/teams/3488.png"
-    },
-    "leagueName": "Poland Ekstraklasa",
-    "prediction": "DRAW NO BET - AWAY",
+    "leagueName": "Scotland Highland League",
+    "prediction": "DOUBLE CHANCE - HOME",
     "confidence": "84%",
     "safetyRating": 8,
-    "date": "2026-04-07",
-    "reason": "Zaglebie Lubin possess stronger squad depth and better recent results, while Arka Gdynia struggle against higher-quality opposition."
+    "date": "2026-04-08",
+    "reason": "Brora’s strong home scoring consistency combined with Brechin’s weaker away performances makes the home side unlikely to lose."
   },
   {
-    "id": "rsa_070426_57",
+    "id": "scoh_080426_3",
     "teamA": {
-      "name": "Chippa United",
-      "icon": "https://media.api-sports.io/football/teams/983.png"
+      "name": "Formartine United",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Siwelele",
-      "icon": "https://media.api-sports.io/football/teams/982.png"
+      "name": "Banks O' Dee",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "South Africa PSL",
+    "leagueName": "Scotland Highland League",
+    "prediction": "OVER 1.5 GOALS",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "date": "2026-04-08",
+    "reason": "Both teams consistently score and the Highland League has strong over-goal trends, making at least two goals highly probable."
+  },
+  {
+    "id": "scoh_080426_4",
+    "teamA": {
+      "name": "Nairn County",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Fraserburgh",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Scotland Highland League",
     "prediction": "DOUBLE CHANCE - HOME",
     "confidence": "83%",
-    "safetyRating": 7,
-    "date": "2026-04-07",
-    "reason": "Chippa United are more reliable at home and defensively organized, while Siwelele struggle for consistency, making home side avoiding defeat likely."
+    "safetyRating": 8,
+    "date": "2026-04-08",
+    "reason": "Nairn’s consistent home scoring and Fraserburgh’s lower away win rate make the home side avoiding defeat a safer option."
   },
   {
-    "id": "sco_070426_58",
+    "id": "scoh_080426_5",
     "teamA": {
-      "name": "Montrose",
-      "icon": "https://media.api-sports.io/football/teams/2608.png"
+      "name": "Turriff United",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Cove Rangers",
-      "icon": "https://media.api-sports.io/football/teams/2609.png"
+      "name": "Inverurie Loco Works",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Scotland League One",
-    "prediction": "UNDER 2.5 GOALS",
-    "confidence": "82%",
-    "safetyRating": 7,
-    "date": "2026-04-07",
-    "reason": "Both sides show low attacking efficiency and recent meetings tend to be tight, low-scoring affairs."
-  },
-  {
-    "id": "nir_070426_59",
-    "teamA": {
-      "name": "Cliftonville",
-      "icon": "https://media.api-sports.io/football/teams/2710.png"
-    },
-    "teamB": {
-      "name": "Glentoran",
-      "icon": "https://media.api-sports.io/football/teams/2709.png"
-    },
-    "leagueName": "Northern Ireland Premiership",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "confidence": "82%",
-    "safetyRating": 7,
-    "date": "2026-04-07",
-    "reason": "Cliftonville have stronger home form and better defensive numbers, while Glentoran are inconsistent away from home."
-  },
-  {
-    "id": "ucl_070426_60",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
-    },
-    "leagueName": "UEFA Champions League",
+    "leagueName": "Scotland Highland League",
     "prediction": "OVER 1.5 GOALS",
-    "confidence": "81%",
-    "safetyRating": 7,
-    "date": "2026-04-07",
-    "reason": "Both teams have elite attacking quality and consistently high xG outputs, with Champions League fixtures between them typically producing multiple goals."
+    "confidence": "84%",
+    "safetyRating": 8,
+    "date": "2026-04-08",
+    "reason": "Both teams regularly score and concede, and league-wide trends strongly support matches exceeding one goal."
+  },
+  {
+    "id": "scol_080426_6",
+    "teamA": {
+      "name": "Stirling University",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Caledonian Braves",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Scotland Lowland League",
+    "prediction": "DRAW NO BET - AWAY",
+    "confidence": "83%",
+    "safetyRating": 8,
+    "date": "2026-04-08",
+    "reason": "Caledonian Braves show stronger attacking consistency and slightly better recent form, making them the safer side to avoid defeat."
   }
 ]
