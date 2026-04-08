@@ -1,223 +1,206 @@
 [
   {
-    "id": "eng_070426_61",
+    "id": "ucl_080426_74",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://media.api-sports.io/football/teams/1134.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/41.png"
+      "name": "Atletico Madrid",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
     },
-    "leagueName": "England Cup",
-    "prediction": "DRAW NO BET - AWAY",
-    "date": "2026-04-07",
-    "confidence": "90%",
+    "leagueName": "UEFA Champions League",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "date": "2026-04-08",
+    "confidence": "92%",
     "safetyRating": 9,
-    "reason": "Southampton have superior squad quality, depth, and attacking efficiency, while Wrexham rely heavily on home form; away side avoiding defeat is highly probable."
+    "reason": "Barcelona’s exceptional home form, superior consistency, and favorable head-to-head record make them highly unlikely to lose."
   },
   {
-    "id": "eng_070426_62",
+    "id": "ucl_080426_75",
     "teamA": {
-      "name": "Port Vale",
-      "icon": "https://media.api-sports.io/football/teams/1356.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Rotherham United",
-      "icon": "https://media.api-sports.io/football/teams/385.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
-    "leagueName": "England League One",
-    "prediction": "DOUBLE CHANCE - AWAY",
-    "date": "2026-04-07",
-    "confidence": "88%",
-    "safetyRating": 8,
-    "reason": "Rotherham show stronger consistency and defensive structure, while Port Vale struggle to create chances, making an away non-loss likely."
-  },
-  {
-    "id": "eng_070426_63",
-    "teamA": {
-      "name": "Bromley",
-      "icon": "https://media.api-sports.io/football/teams/1571.png"
-    },
-    "teamB": {
-      "name": "Shrewsbury Town",
-      "icon": "https://media.api-sports.io/football/teams/366.png"
-    },
-    "leagueName": "England League Two",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-07",
-    "confidence": "87%",
-    "safetyRating": 8,
-    "reason": "Both teams display low attacking output and controlled tempo, with recent matches trending toward low-scoring outcomes."
-  },
-  {
-    "id": "nor_070426_64",
-    "teamA": {
-      "name": "Aalesund",
-      "icon": "https://media.api-sports.io/football/teams/1617.png"
-    },
-    "teamB": {
-      "name": "Fredrikstad",
-      "icon": "https://media.api-sports.io/football/teams/1618.png"
-    },
-    "leagueName": "Norway Eliteserien",
-    "prediction": "DOUBLE CHANCE - AWAY",
-    "date": "2026-04-07",
+    "leagueName": "UEFA Champions League",
+    "prediction": "DRAW NO BET - HOME",
+    "date": "2026-04-08",
     "confidence": "85%",
     "safetyRating": 8,
-    "reason": "Fredrikstad are more consistent defensively and in form, while Aalesund struggle for stability, making away side avoiding defeat a strong pick."
+    "reason": "PSG’s strong home performances and slightly better attacking metrics (xG) give them the edge, while Liverpool remain less consistent away."
   },
   {
-    "id": "nor_070426_65",
+    "id": "uel_080426_76",
     "teamA": {
-      "name": "KFUM Oslo",
-      "icon": "https://media.api-sports.io/football/teams/1991.png"
+      "name": "Sporting Braga",
+      "icon": "https://media.api-sports.io/football/teams/561.png"
     },
     "teamB": {
-      "name": "Sandefjord",
-      "icon": "https://media.api-sports.io/football/teams/1619.png"
+      "name": "Real Betis",
+      "icon": "https://media.api-sports.io/football/teams/543.png"
     },
-    "leagueName": "Norway Eliteserien",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-07",
-    "confidence": "85%",
-    "safetyRating": 8,
-    "reason": "Both teams typically play compact football with limited attacking efficiency, making a high-scoring game unlikely."
-  },
-  {
-    "id": "pol_070426_66",
-    "teamA": {
-      "name": "Arka Gdynia",
-      "icon": "https://media.api-sports.io/football/teams/3494.png"
-    },
-    "teamB": {
-      "name": "Zaglebie Lubin",
-      "icon": "https://media.api-sports.io/football/teams/3488.png"
-    },
-    "leagueName": "Poland Ekstraklasa",
-    "prediction": "DRAW NO BET - AWAY",
-    "date": "2026-04-07",
+    "leagueName": "UEFA Europa League",
+    "prediction": "DRAW NO BET - HOME",
+    "date": "2026-04-08",
     "confidence": "84%",
     "safetyRating": 8,
-    "reason": "Zaglebie Lubin have stronger squad depth and better recent performances compared to Arka Gdynia."
+    "reason": "Braga’s strong home form and superior chance creation compared to Betis’ weaker away displays make them safer to avoid defeat."
   },
   {
-    "id": "rsa_070426_67",
+    "id": "engn_080426_77",
     "teamA": {
-      "name": "Chippa United",
-      "icon": "https://media.api-sports.io/football/teams/983.png"
+      "name": "Marine",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Siwelele",
-      "icon": "https://media.api-sports.io/football/teams/982.png"
+      "name": "Hereford",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "National League North",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-08",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "reason": "Both teams show consistent scoring patterns and league trends strongly support matches producing at least two goals."
+  },
+  {
+    "id": "scoh_080426_78",
+    "teamA": {
+      "name": "Brora Rangers",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Brechin City",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Scotland Highland League",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "date": "2026-04-08",
+    "confidence": "84%",
+    "safetyRating": 8,
+    "reason": "Brora’s strong home scoring consistency and Brechin’s weaker away performances make the home side unlikely to lose."
+  },
+  {
+    "id": "scoh_080426_79",
+    "teamA": {
+      "name": "Formartine United",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Banks O' Dee",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Scotland Highland League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-08",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "reason": "Both teams regularly score and the league’s high goal average supports at least two goals being scored."
+  },
+  {
+    "id": "scoh_080426_80",
+    "teamA": {
+      "name": "Nairn County",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Fraserburgh",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Scotland Highland League",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "date": "2026-04-08",
+    "confidence": "83%",
+    "safetyRating": 8,
+    "reason": "Nairn’s reliable home scoring and Fraserburgh’s lower away win rate make home side avoiding defeat a safer option."
+  },
+  {
+    "id": "scoh_080426_81",
+    "teamA": {
+      "name": "Turriff United",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Inverurie Loco Works",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Scotland Highland League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-08",
+    "confidence": "84%",
+    "safetyRating": 8,
+    "reason": "Both teams consistently score and concede, with league trends strongly favoring matches with multiple goals."
+  },
+  {
+    "id": "scol_080426_82",
+    "teamA": {
+      "name": "Stirling University",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Caledonian Braves",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Scotland Lowland League",
+    "prediction": "DRAW NO BET - AWAY",
+    "date": "2026-04-08",
+    "confidence": "83%",
+    "safetyRating": 8,
+    "reason": "Caledonian Braves show stronger attacking consistency and better recent form, making them safer to avoid defeat."
+  },
+  {
+    "id": "spl_080426_83",
+    "teamA": {
+      "name": "Al Fayha",
+      "icon": "https://media.api-sports.io/football/teams/2903.png"
+    },
+    "teamB": {
+      "name": "Al Ahli",
+      "icon": "https://media.api-sports.io/football/teams/2902.png"
+    },
+    "leagueName": "Saudi Pro League",
+    "prediction": "DOUBLE CHANCE - AWAY",
+    "date": "2026-04-08",
+    "confidence": "85%",
+    "safetyRating": 8,
+    "reason": "Al Ahli’s superior squad quality and higher attacking metrics make them significantly more reliable, even away from home."
+  },
+  {
+    "id": "rsa_080426_84",
+    "teamA": {
+      "name": "TS Galaxy",
+      "icon": "https://media.api-sports.io/football/teams/923.png"
+    },
+    "teamB": {
+      "name": "Polokwane City",
+      "icon": "https://media.api-sports.io/football/teams/1033.png"
     },
     "leagueName": "South Africa PSL",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "date": "2026-04-07",
-    "confidence": "83%",
-    "safetyRating": 7,
-    "reason": "Chippa United are more organized defensively at home, while Siwelele lack consistency away."
-  },
-  {
-    "id": "sco_070426_68",
-    "teamA": {
-      "name": "Montrose",
-      "icon": "https://media.api-sports.io/football/teams/2608.png"
-    },
-    "teamB": {
-      "name": "Cove Rangers",
-      "icon": "https://media.api-sports.io/football/teams/2609.png"
-    },
-    "leagueName": "Scotland League One",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-04-07",
-    "confidence": "82%",
-    "safetyRating": 7,
-    "reason": "Both teams show low attacking efficiency and tend to produce tight, low-scoring encounters."
-  },
-  {
-    "id": "nir_070426_69",
-    "teamA": {
-      "name": "Cliftonville",
-      "icon": "https://media.api-sports.io/football/teams/2710.png"
-    },
-    "teamB": {
-      "name": "Glentoran",
-      "icon": "https://media.api-sports.io/football/teams/2709.png"
-    },
-    "leagueName": "Northern Ireland Premiership",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "date": "2026-04-07",
-    "confidence": "82%",
-    "safetyRating": 7,
-    "reason": "Cliftonville have stronger home form and better defensive metrics compared to Glentoran’s away inconsistency."
-  },
-  {
-    "id": "ucl_070426_70",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
-    },
-    "leagueName": "UEFA Champions League",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-07",
-    "confidence": "81%",
-    "safetyRating": 7,
-    "reason": "Both teams have elite attacking quality and consistently produce high xG, making multiple goals very likely."
+    "date": "2026-04-08",
+    "confidence": "84%",
+    "safetyRating": 8,
+    "reason": "Both teams show attacking activity and league scoring trends support matches exceeding one goal."
   },
   {
-    "id": "ucl_070426_71",
+    "id": "tur_080426_85",
     "teamA": {
-      "name": "Sporting CP",
-      "icon": "https://media.api-sports.io/football/teams/228.png"
+      "name": "Göztepe",
+      "icon": "https://media.api-sports.io/football/teams/1013.png"
     },
     "teamB": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Galatasaray",
+      "icon": "https://media.api-sports.io/football/teams/645.png"
     },
-    "leagueName": "UEFA Champions League",
+    "leagueName": "Turkey Super Lig",
     "prediction": "DOUBLE CHANCE - AWAY",
-    "date": "2026-04-07",
-    "confidence": "80%",
-    "safetyRating": 7,
-    "reason": "Arsenal’s superior squad depth and attacking consistency give them an edge, while Sporting remain competitive but less consistent at elite level."
-  },
-  {
-    "id": "sco_070426_72",
-    "teamA": {
-      "name": "Ayr United",
-      "icon": "https://media.api-sports.io/football/teams/2612.png"
-    },
-    "teamB": {
-      "name": "Dunfermline Athletic",
-      "icon": "https://media.api-sports.io/football/teams/2596.png"
-    },
-    "leagueName": "Scotland Championship",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-07",
-    "confidence": "80%",
-    "safetyRating": 7,
-    "reason": "Both teams favor structured play with limited attacking output, leading to consistent low-scoring matches."
-  },
-  {
-    "id": "nir_070426_73",
-    "teamA": {
-      "name": "Dungannon Swifts",
-      "icon": "https://media.api-sports.io/football/teams/2713.png"
-    },
-    "teamB": {
-      "name": "Linfield",
-      "icon": "https://media.api-sports.io/football/teams/2706.png"
-    },
-    "leagueName": "Northern Ireland Premiership",
-    "prediction": "DRAW NO BET - AWAY",
-    "date": "2026-04-07",
-    "confidence": "80%",
-    "safetyRating": 7,
-    "reason": "Linfield have stronger squad quality and better recent form, while Dungannon struggle against top opposition."
+    "date": "2026-04-08",
+    "confidence": "91%",
+    "safetyRating": 9,
+    "reason": "Galatasaray’s elite attacking strength and consistency, combined with Göztepe’s struggles against top sides, make away side avoiding defeat highly likely."
   }
 ]
