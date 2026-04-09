@@ -1,6 +1,6 @@
 [
   {
-    "id": "uel_080426_2",
+    "id": "uel_090426_2",
     "teamA": {
       "name": "Freiburg",
       "icon": "https://media.api-sports.io/football/teams/160.png"
@@ -13,11 +13,11 @@
     "prediction": "OVER 1.5 GOALS",
     "confidence": "90%",
     "safetyRating": 9,
-    "date": "2026-04-08",
+    "date": "2026-04-09",
     "reason": "Both teams show consistent attacking output and defensive vulnerability, with strong xG trends supporting at least two total goals."
   },
   {
-    "id": "uel_080426_3",
+    "id": "uel_090426_3",
     "teamA": {
       "name": "Porto",
       "icon": "https://media.api-sports.io/football/teams/212.png"
@@ -30,11 +30,11 @@
     "prediction": "OVER 1.5 GOALS",
     "confidence": "91%",
     "safetyRating": 9,
-    "date": "2026-04-08",
+    "date": "2026-04-09",
     "reason": "Porto’s strong home attacking form combined with Forest’s open style and defensive gaps makes multiple goals highly probable."
   },
   {
-    "id": "uecl_080426_4",
+    "id": "uecl_090426_4",
     "teamA": {
       "name": "Mainz 05",
       "icon": "https://media.api-sports.io/football/teams/15.png"
@@ -47,7 +47,7 @@
     "prediction": "OVER 1.5 GOALS",
     "confidence": "90%",
     "safetyRating": 9,
-    "date": "2026-04-08",
+    "date": "2026-04-09",
     "reason": "Both sides regularly create chances and concede, with league and xG trends strongly favoring at least two goals."
   }
 ]
