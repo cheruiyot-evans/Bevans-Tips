@@ -1,53 +1,53 @@
 [
   {
-    "id": "ucl_080426_1",
+    "id": "uel_080426_2",
     "teamA": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/529.png"
+      "name": "Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
     },
     "teamB": {
-      "name": "Atletico Madrid",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
-    },
-    "leagueName": "UEFA Champions League",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "date": "2026-04-08",
-    "reason": "Barcelona’s dominant home form, strong consistency, and superior attacking metrics (xG) make them highly unlikely to lose, while Atletico show weaker away performances."
-  },
-  {
-    "id": "ucl_080426_2",
-    "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "leagueName": "UEFA Champions League",
-    "prediction": "DRAW NO BET - HOME",
-    "confidence": "85%",
-    "safetyRating": 8,
-    "date": "2026-04-08",
-    "reason": "PSG’s strong home performances and slightly superior xG output give them an edge, while Liverpool’s inconsistency away in Europe increases the likelihood PSG avoid defeat."
-  },
-  {
-    "id": "uel_080426_1",
-    "teamA": {
-      "name": "Sporting Braga",
-      "icon": "https://media.api-sports.io/football/teams/561.png"
-    },
-    "teamB": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/543.png"
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/538.png"
     },
     "leagueName": "UEFA Europa League",
-    "prediction": "DRAW NO BET - HOME",
-    "confidence": "84%",
-    "safetyRating": 8,
+    "prediction": "OVER 1.5 GOALS",
+    "confidence": "90%",
+    "safetyRating": 9,
     "date": "2026-04-08",
-    "reason": "Braga’s strong home form and higher chance creation (xG) compared to Betis’ weaker away displays make them the safer side to avoid defeat."
+    "reason": "Both teams show consistent attacking output and defensive vulnerability, with strong xG trends supporting at least two total goals."
+  },
+  {
+    "id": "uel_080426_3",
+    "teamA": {
+      "name": "Porto",
+      "icon": "https://media.api-sports.io/football/teams/212.png"
+    },
+    "teamB": {
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "OVER 1.5 GOALS",
+    "confidence": "91%",
+    "safetyRating": 9,
+    "date": "2026-04-08",
+    "reason": "Porto’s strong home attacking form combined with Forest’s open style and defensive gaps makes multiple goals highly probable."
+  },
+  {
+    "id": "uecl_080426_4",
+    "teamA": {
+      "name": "Mainz 05",
+      "icon": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "teamB": {
+      "name": "Strasbourg",
+      "icon": "https://media.api-sports.io/football/teams/576.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "OVER 1.5 GOALS",
+    "confidence": "90%",
+    "safetyRating": 9,
+    "date": "2026-04-08",
+    "reason": "Both sides regularly create chances and concede, with league and xG trends strongly favoring at least two goals."
   }
 ]
