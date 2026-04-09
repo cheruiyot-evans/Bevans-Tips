@@ -1,104 +1,172 @@
 [
   {
-    "id": "engn_080426_1",
+    "id": "uel_090426_5",
     "teamA": {
-      "name": "Marine",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
+      "name": "Bologna",
+      "icon": "https://media.api-sports.io/football/teams/489.png"
     },
     "teamB": {
-      "name": "Hereford",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
-    "leagueName": "National League North",
-    "prediction": "OVER 1.5 GOALS",
+    "leagueName": "UEFA Europa League",
+    "prediction": "DRAW NO BET - AWAY & OVER 1.5 GOALS",
+    "confidence": "90%",
+    "safetyRating": 9,
+    "date": "2026-04-09",
+    "reason": "Aston Villa show stronger attacking consistency and higher xG, while Bologna concede regularly; combined trends support Villa avoiding defeat with goals."
+  },
+  {
+    "id": "uel_090426_6",
+    "teamA": {
+      "name": "Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
+    },
+    "teamB": {
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/538.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "DRAW NO BET - AWAY & OVER 1.5 GOALS",
+    "confidence": "89%",
+    "safetyRating": 9,
+    "date": "2026-04-09",
+    "reason": "Celta Vigo display slightly better attacking metrics and Freiburg’s defense is inconsistent; xG trends support goals with away side safer not to lose."
+  },
+  {
+    "id": "uel_090426_7",
+    "teamA": {
+      "name": "Porto",
+      "icon": "https://media.api-sports.io/football/teams/212.png"
+    },
+    "teamB": {
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "DRAW NO BET - HOME & OVER 1.5 GOALS",
+    "confidence": "91%",
+    "safetyRating": 9,
+    "date": "2026-04-09",
+    "reason": "Porto’s strong home form and superior xG combined with Forest’s open play style make goals likely while Porto remain unlikely to lose."
+  },
+  {
+    "id": "uecl_090426_8",
+    "teamA": {
+      "name": "Rayo Vallecano",
+      "icon": "https://media.api-sports.io/football/teams/728.png"
+    },
+    "teamB": {
+      "name": "AEK Athens",
+      "icon": "https://media.api-sports.io/football/teams/597.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "DOUBLE CHANCE - HOME & OVER 1.5 GOALS",
+    "confidence": "86%",
+    "safetyRating": 8,
+    "date": "2026-04-09",
+    "reason": "Rayo’s home advantage and AEK’s inconsistency away suggest the hosts avoid defeat, with both teams contributing to a multi-goal outcome."
+  },
+  {
+    "id": "uecl_090426_9",
+    "teamA": {
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
+    },
+    "teamB": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/502.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "DRAW NO BET - AWAY & OVER 2.5 GOALS",
+    "confidence": "90%",
+    "safetyRating": 9,
+    "date": "2026-04-09",
+    "reason": "Fiorentina’s attacking efficiency and Palace’s defensive inconsistency create strong conditions for goals, with Fiorentina slightly favored to avoid defeat."
+  },
+  {
+    "id": "uecl_090426_10",
+    "teamA": {
+      "name": "Mainz 05",
+      "icon": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "teamB": {
+      "name": "Strasbourg",
+      "icon": "https://media.api-sports.io/football/teams/576.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "DRAW NO BET - HOME & OVER 1.5 GOALS",
+    "confidence": "87%",
+    "safetyRating": 8,
+    "date": "2026-04-09",
+    "reason": "Mainz show stronger home form and consistent scoring, while Strasbourg concede regularly; trends support a home-safe result with goals."
+  },
+  {
+    "id": "uecl_090426_11",
+    "teamA": {
+      "name": "Shakhtar Donetsk",
+      "icon": "https://media.api-sports.io/football/teams/560.png"
+    },
+    "teamB": {
+      "name": "AZ",
+      "icon": "https://media.api-sports.io/football/teams/197.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "DRAW NO BET - HOME & OVER 1.5 GOALS",
+    "confidence": "90%",
+    "safetyRating": 9,
+    "date": "2026-04-09",
+    "reason": "Shakhtar’s consistent attacking output and AZ’s open play style point toward goals, with home side slightly more reliable overall."
+  },
+  {
+    "id": "ser_090426_12",
+    "teamA": {
+      "name": "Red Star Belgrade",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
+    },
+    "teamB": {
+      "name": "Spartak Subotica",
+      "icon": "https://media.api-sports.io/football/teams/548.png"
+    },
+    "leagueName": "Serbian Super Liga",
+    "prediction": "HOME WIN & OVER 1.5 GOALS",
+    "confidence": "92%",
+    "safetyRating": 9,
+    "date": "2026-04-09",
+    "reason": "Red Star dominate domestically with superior squad quality and xG, consistently winning while producing multiple goals."
+  },
+  {
+    "id": "ser_090426_13",
+    "teamA": {
+      "name": "Čukarički",
+      "icon": "https://media.api-sports.io/football/teams/545.png"
+    },
+    "teamB": {
+      "name": "Radnički Kragujevac",
+      "icon": "https://media.api-sports.io/football/teams/547.png"
+    },
+    "leagueName": "Serbian Super Liga",
+    "prediction": "DOUBLE CHANCE - HOME & OVER 1.5 GOALS",
     "confidence": "85%",
     "safetyRating": 8,
-    "date": "2026-04-08",
-    "reason": "Marine are scoring consistently while Hereford show defensive vulnerability, and league trends strongly favor matches with at least two goals."
+    "date": "2026-04-09",
+    "reason": "Čukarički’s stronger home consistency and Radnički’s defensive gaps support a safe home outcome with goals."
   },
   {
-    "id": "scoh_080426_2",
+    "id": "tur_090426_14",
     "teamA": {
-      "name": "Brora Rangers",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
+      "name": "Rizespor",
+      "icon": "https://media.api-sports.io/football/teams/565.png"
     },
     "teamB": {
-      "name": "Brechin City",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
+      "name": "Samsunspor",
+      "icon": "https://media.api-sports.io/football/teams/566.png"
     },
-    "leagueName": "Scotland Highland League",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "confidence": "84%",
-    "safetyRating": 8,
-    "date": "2026-04-08",
-    "reason": "Brora’s strong home scoring consistency combined with Brechin’s weaker away performances makes the home side unlikely to lose."
-  },
-  {
-    "id": "scoh_080426_3",
-    "teamA": {
-      "name": "Formartine United",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Banks O' Dee",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Scotland Highland League",
-    "prediction": "OVER 1.5 GOALS",
+    "leagueName": "Turkish Super Lig",
+    "prediction": "DOUBLE CHANCE - HOME & OVER 1.5 GOALS",
     "confidence": "85%",
     "safetyRating": 8,
-    "date": "2026-04-08",
-    "reason": "Both teams consistently score and the Highland League has strong over-goal trends, making at least two goals highly probable."
-  },
-  {
-    "id": "scoh_080426_4",
-    "teamA": {
-      "name": "Nairn County",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Fraserburgh",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Scotland Highland League",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "confidence": "83%",
-    "safetyRating": 8,
-    "date": "2026-04-08",
-    "reason": "Nairn’s consistent home scoring and Fraserburgh’s lower away win rate make the home side avoiding defeat a safer option."
-  },
-  {
-    "id": "scoh_080426_5",
-    "teamA": {
-      "name": "Turriff United",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Inverurie Loco Works",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Scotland Highland League",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "84%",
-    "safetyRating": 8,
-    "date": "2026-04-08",
-    "reason": "Both teams regularly score and concede, and league-wide trends strongly support matches exceeding one goal."
-  },
-  {
-    "id": "scol_080426_6",
-    "teamA": {
-      "name": "Stirling University",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Caledonian Braves",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Scotland Lowland League",
-    "prediction": "DRAW NO BET - AWAY",
-    "confidence": "83%",
-    "safetyRating": 8,
-    "date": "2026-04-08",
-    "reason": "Caledonian Braves show stronger attacking consistency and slightly better recent form, making them the safer side to avoid defeat."
+    "date": "2026-04-09",
+    "reason": "Rizespor’s home advantage and both teams’ scoring trends align with a safe home-leaning result and at least two goals."
   }
 ]
