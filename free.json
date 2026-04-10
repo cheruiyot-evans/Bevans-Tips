@@ -1,53 +1,53 @@
 [
   {
-    "id": "uel_090426_2",
+    "id": "esp_100426_1",
     "teamA": {
-      "name": "Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
     "teamB": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/538.png"
+      "name": "Girona",
+      "icon": "https://media.api-sports.io/football/teams/547.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "La Liga",
     "prediction": "OVER 1.5 GOALS",
     "confidence": "90%",
     "safetyRating": 9,
-    "date": "2026-04-09",
-    "reason": "Both teams show consistent attacking output and defensive vulnerability, with strong xG trends supporting at least two total goals."
+    "date": "2026-04-10",
+    "reason": "Real Madrid’s elite attacking output and Girona’s defensive vulnerability create strong alignment for multiple goals, with consistent xG superiority and high-scoring H2H trends supporting over 1.5."
   },
   {
-    "id": "uel_090426_3",
+    "id": "ned_100426_2",
     "teamA": {
-      "name": "Porto",
-      "icon": "https://media.api-sports.io/football/teams/212.png"
+      "name": "Twente",
+      "icon": "https://media.api-sports.io/football/teams/1515.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Volendam",
+      "icon": "https://media.api-sports.io/football/teams/1517.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "Eredivisie",
     "prediction": "OVER 1.5 GOALS",
     "confidence": "91%",
     "safetyRating": 9,
-    "date": "2026-04-09",
-    "reason": "Porto’s strong home attacking form combined with Forest’s open style and defensive gaps makes multiple goals highly probable."
+    "date": "2026-04-10",
+    "reason": "Twente’s strong home attacking metrics and Volendam’s poor defensive record, combined with high-scoring league trends and dominant H2H goal patterns, make over 1.5 a very safe outcome."
   },
   {
-    "id": "uecl_090426_4",
+    "id": "aut_100426_3",
     "teamA": {
-      "name": "Mainz 05",
-      "icon": "https://media.api-sports.io/football/teams/15.png"
+      "name": "Red Bull Salzburg",
+      "icon": "https://media.api-sports.io/football/teams/571.png"
     },
     "teamB": {
-      "name": "Strasbourg",
-      "icon": "https://media.api-sports.io/football/teams/576.png"
+      "name": "LASK",
+      "icon": "https://media.api-sports.io/football/teams/572.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "90%",
+    "leagueName": "Austrian Bundesliga",
+    "prediction": "DOUBLE CHANCE - HOME",
+    "confidence": "88%",
     "safetyRating": 9,
-    "date": "2026-04-09",
-    "reason": "Both sides regularly create chances and concede, with league and xG trends strongly favoring at least two goals."
+    "date": "2026-04-10",
+    "reason": "Salzburg’s dominant home form, superior consistency, and strong historical H2H record against LASK make them highly unlikely to lose, with clear advantages in xG and overall squad quality."
   }
 ]
