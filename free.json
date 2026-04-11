@@ -1,53 +1,41 @@
 [
   {
-    "id": "esp_100426_1",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "Girona",
-      "icon": "https://media.api-sports.io/football/teams/547.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "90%",
-    "safetyRating": 9,
-    "date": "2026-04-10",
-    "reason": "Real Madrid’s elite attacking output and Girona’s defensive vulnerability create strong alignment for multiple goals, with consistent xG superiority and high-scoring H2H trends supporting over 1.5."
+    "match": "Arsenal vs AFC Bournemouth",
+    "league": "Premier League",
+    "safe_bet": "Over 1.5 Goals",
+    "confidence": "Very High",
+    "safety_score": 9,
+    "key_factors": [
+      "Arsenal’s last 5 matches show dominant attacking form with consistently high xG (>1.8) and strong goal output; Bournemouth concede regularly with xGA >1.6.",
+      "Home vs away trends strongly favor goals, with Arsenal scoring frequently at home and Bournemouth struggling defensively on the road.",
+      "Premier League goal average (~2.8 per game) and high Over 1.5 hit rate (>80%) align with both teams’ attacking/defensive profiles."
+    ],
+    "reason": "All key indicators—xG dominance, strong attacking form, and league-wide scoring trends—support a high-probability outcome of at least two goals, making this a very safe selection."
   },
   {
-    "id": "ned_100426_2",
-    "teamA": {
-      "name": "Twente",
-      "icon": "https://media.api-sports.io/football/teams/1515.png"
-    },
-    "teamB": {
-      "name": "Volendam",
-      "icon": "https://media.api-sports.io/football/teams/1517.png"
-    },
-    "leagueName": "Eredivisie",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "91%",
-    "safetyRating": 9,
-    "date": "2026-04-10",
-    "reason": "Twente’s strong home attacking metrics and Volendam’s poor defensive record, combined with high-scoring league trends and dominant H2H goal patterns, make over 1.5 a very safe outcome."
+    "match": "Brentford vs Everton",
+    "league": "Premier League",
+    "safe_bet": "Over 1.5 Goals",
+    "confidence": "Very High",
+    "safety_score": 9,
+    "key_factors": [
+      "Both teams’ recent matches show consistent goal involvement, with combined xG averages typically exceeding 2.4 per game.",
+      "Brentford’s home matches and Everton’s away fixtures both trend toward goals due to defensive inconsistency (xGA >1.4 each).",
+      "League-wide data strongly supports Over 1.5 Goals in balanced fixtures, with high conversion rates and low 0-0 probability."
+    ],
+    "reason": "Consistent xG production from both sides, combined with defensive vulnerabilities and strong league trends, creates a high-probability scenario for at least two total goals."
   },
   {
-    "id": "aut_100426_3",
-    "teamA": {
-      "name": "Red Bull Salzburg",
-      "icon": "https://media.api-sports.io/football/teams/571.png"
-    },
-    "teamB": {
-      "name": "LASK",
-      "icon": "https://media.api-sports.io/football/teams/572.png"
-    },
-    "leagueName": "Austrian Bundesliga",
-    "prediction": "DOUBLE CHANCE - HOME",
-    "confidence": "88%",
-    "safetyRating": 9,
-    "date": "2026-04-10",
-    "reason": "Salzburg’s dominant home form, superior consistency, and strong historical H2H record against LASK make them highly unlikely to lose, with clear advantages in xG and overall squad quality."
+    "match": "Liverpool vs Fulham",
+    "league": "Premier League",
+    "safe_bet": "Over 1.5 Goals",
+    "confidence": "Very High",
+    "safety_score": 8,
+    "key_factors": [
+      "Liverpool’s attacking xG at home regularly exceeds 2.0, with consistent goal scoring across recent fixtures.",
+      "Fulham’s matches show high volatility with frequent goals scored and conceded (xG + xGA combined >2.5).",
+      "Historical H2H and league trends indicate very low likelihood of low-scoring outcomes in this matchup."
+    ],
+    "reason": "Liverpool’s elite attacking consistency and Fulham’s open-game tendencies align strongly with league scoring patterns, making Over 1.5 Goals a safe and statistically supported outcome."
   }
 ]
