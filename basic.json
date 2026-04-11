@@ -1,6 +1,6 @@
 [
   {
-    "id": "eng_110426_12",
+    "id": "epl_110426_1",
     "teamA": {
       "name": "Arsenal",
       "icon": "https://media.api-sports.io/football/teams/42.png"
@@ -10,11 +10,79 @@
       "icon": "https://media.api-sports.io/football/teams/35.png"
     },
     "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "92%",
-    "safetyRating": 9,
+    "prediction": "DOUBLE CHANCE - HOME (1X) OR OVER 1.5 GOALS",
     "date": "2026-04-11",
-    "reason": "Arsenal’s dominant attacking form and Bournemouth’s defensive struggles, supported by strong xG metrics and consistent multi-goal trends, create a very high probability of at least two goals."
+    "confidence": "94%",
+    "safetyRating": 9,
+    "reason": "Arsenal’s strong home dominance, high attacking xG, and Bournemouth’s defensive weakness support both a safe 1X outcome and a high probability of at least two goals."
+  },
+  {
+    "id": "epl_110426_2",
+    "teamA": {
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
+    },
+    "teamB": {
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "DOUBLE CHANCE - HOME (1X) OR OVER 1.5 GOALS",
+    "date": "2026-04-11",
+    "confidence": "93%",
+    "safetyRating": 9,
+    "reason": "Liverpool’s strong home form and attacking consistency combined with Fulham’s open style make both 1X and over 1.5 goals highly probable."
+  },
+  {
+    "id": "sco_110426_3",
+    "teamA": {
+      "name": "Celtic",
+      "icon": "https://media.api-sports.io/football/teams/247.png"
+    },
+    "teamB": {
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "DOUBLE CHANCE - HOME (1X) OR OVER 1.5 GOALS",
+    "date": "2026-04-11",
+    "confidence": "95%",
+    "safetyRating": 9,
+    "reason": "Celtic’s dominance in both H2H and attacking metrics makes them very unlikely to lose, while their scoring power strongly supports multiple goals."
+  },
+  {
+    "id": "laliga_110426_4",
+    "teamA": {
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
+    },
+    "teamB": {
+      "name": "Espanyol",
+      "icon": "https://media.api-sports.io/football/teams/540.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "DOUBLE CHANCE - HOME (1X)",
+    "date": "2026-04-11",
+    "confidence": "94%",
+    "safetyRating": 9,
+    "reason": "Barcelona’s superior squad quality and derby dominance make them highly unlikely to lose, with strong control expected throughout the match."
+  },
+  {
+    "id": "bund_110426_5",
+    "teamA": {
+      "name": "St. Pauli",
+      "icon": "https://media.api-sports.io/football/teams/191.png"
+    },
+    "teamB": {
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "DOUBLE CHANCE - AWAY (X2) OR OVER 1.5 GOALS",
+    "date": "2026-04-11",
+    "confidence": "95%",
+    "safetyRating": 9,
+    "reason": "Bayern’s elite attacking output and overall superiority make them extremely unlikely to lose, while their goal-scoring consistency supports a multi-goal outcome."
   },
   {
     "id": "eng_110426_13",
@@ -28,44 +96,10 @@
     },
     "leagueName": "Premier League",
     "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
     "confidence": "91%",
     "safetyRating": 9,
-    "date": "2026-04-11",
-    "reason": "Both teams’ xG profiles and recent form show consistent scoring and conceding patterns, with league-wide trends strongly supporting at least two total goals."
-  },
-  {
-    "id": "eng_110426_14",
-    "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "teamB": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/36.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "90%",
-    "safetyRating": 8,
-    "date": "2026-04-11",
-    "reason": "Liverpool’s strong home attacking metrics combined with Fulham’s tendency to both score and concede align with high xG expectations for multiple goals."
-  },
-  {
-    "id": "sco_110426_15",
-    "teamA": {
-      "name": "Celtic",
-      "icon": "https://media.api-sports.io/football/teams/247.png"
-    },
-    "teamB": {
-      "name": "St. Mirren",
-      "icon": "https://media.api-sports.io/football/teams/257.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "date": "2026-04-11",
-    "reason": "Celtic’s attacking dominance and St. Mirren’s defensive record, supported by strong league goal trends, make multiple goals highly probable."
+    "reason": "Both teams show consistent scoring and conceding trends, supported by strong xG data and league-wide goal patterns."
   },
   {
     "id": "engc_110426_16",
@@ -79,10 +113,10 @@
     },
     "leagueName": "Championship",
     "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
     "confidence": "91%",
     "safetyRating": 9,
-    "date": "2026-04-11",
-    "reason": "Both teams’ xG profiles and Championship trends indicate a strong likelihood of at least two goals, with consistent scoring patterns on both sides."
+    "reason": "Consistent attacking metrics and Championship goal trends strongly support at least two goals."
   },
   {
     "id": "engc_110426_17",
@@ -96,10 +130,10 @@
     },
     "leagueName": "Championship",
     "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
     "confidence": "88%",
     "safetyRating": 8,
-    "date": "2026-04-11",
-    "reason": "Leicester’s strong attacking output and Swansea’s open game style align with league-wide goal trends supporting at least two goals."
+    "reason": "Leicester’s attacking strength and Swansea’s open play style align with multi-goal expectations."
   },
   {
     "id": "engc_110426_18",
@@ -113,10 +147,10 @@
     },
     "leagueName": "Championship",
     "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
     "confidence": "88%",
     "safetyRating": 8,
-    "date": "2026-04-11",
-    "reason": "Consistent scoring and conceding patterns from both sides, combined with Championship goal trends, support a multi-goal outcome."
+    "reason": "Both teams show stable scoring trends with supportive xG data indicating at least two goals."
   },
   {
     "id": "ger_110426_19",
@@ -130,26 +164,9 @@
     },
     "leagueName": "Bundesliga",
     "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
     "confidence": "92%",
     "safetyRating": 9,
-    "date": "2026-04-11",
-    "reason": "Two of the most attacking teams in the Bundesliga with high xG outputs and frequent high-scoring matches strongly support at least two goals."
-  },
-  {
-    "id": "ger_110426_20",
-    "teamA": {
-      "name": "St. Pauli",
-      "icon": "https://media.api-sports.io/football/teams/191.png"
-    },
-    "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "OVER 1.5 GOALS",
-    "confidence": "93%",
-    "safetyRating": 9,
-    "date": "2026-04-11",
-    "reason": "Bayern’s elite attacking consistency and Bundesliga goal trends, combined with St. Pauli’s defensive vulnerability against top teams, make multiple goals highly likely."
+    "reason": "High attacking intensity from both teams and strong xG outputs make multiple goals highly likely."
   }
 ]
