@@ -2,7 +2,7 @@
   {
     "match": "Arsenal vs AFC Bournemouth",
     "league": "Premier League",
-    "safe_bet": "Over 1.5 Goals",
+    "prediction": "Over 1.5 Goals",
     "confidence": "Very High",
     "safety_score": 9,
     "key_factors": [
@@ -15,7 +15,7 @@
   {
     "match": "Brentford vs Everton",
     "league": "Premier League",
-    "safe_bet": "Over 1.5 Goals",
+    "prediction": "Over 1.5 Goals",
     "confidence": "Very High",
     "safety_score": 9,
     "key_factors": [
@@ -28,7 +28,7 @@
   {
     "match": "Liverpool vs Fulham",
     "league": "Premier League",
-    "safe_bet": "Over 1.5 Goals",
+    "prediction": "Over 1.5 Goals",
     "confidence": "Very High",
     "safety_score": 8,
     "key_factors": [
