@@ -1,242 +1,242 @@
 [
   {
-    "id": "ucl_070426_1",
+    "id": "ucl_140426_1",
     "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "PSG",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "leagueName": "UEFA Champions League",
-    "prediction": "DRAW",
-    "date": "2026-04-07",
-    "confidence": "70%",
-    "reason": "Both sides have elite attacking xG and strong knockout-stage experience; tactical balance and similar quality increase probability of a draw."
+    "prediction": "X2",
+    "date": "2026-04-14",
+    "confidence": "78%",
+    "reason": "PSG have stronger recent UCL form and H2H edge; safer to cover draw due to Liverpool’s Anfield strength."
   },
   {
-    "id": "engc_070426_2",
+    "id": "lib_150426_2",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Cerro Porteno",
+      "icon": "https://media.api-sports.io/football/teams/2353.png"
     },
     "teamB": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/41.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-07",
-    "confidence": "80%",
-    "reason": "Southampton have stronger squad depth and superior xG metrics, while Wrexham struggle against higher-level opposition."
-  },
-  {
-    "id": "sud_080426_3",
-    "teamA": {
-      "name": "Barracas Central",
-      "icon": "https://media.api-sports.io/football/teams/4513.png"
-    },
-    "teamB": {
-      "name": "Vasco Da Gama",
-      "icon": "https://media.api-sports.io/football/teams/127.png"
-    },
-    "leagueName": "CONMEBOL Sudamericana",
-    "prediction": "DRAW",
-    "date": "2026-04-08",
-    "confidence": "65%",
-    "reason": "Balanced matchup with moderate xG from both sides; home advantage offset by Vasco’s stronger squad quality."
-  },
-  {
-    "id": "lib_080426_4",
-    "teamA": {
-      "name": "Barcelona SC",
-      "icon": "https://media.api-sports.io/football/teams/2383.png"
-    },
-    "teamB": {
-      "name": "Cruzeiro",
-      "icon": "https://media.api-sports.io/football/teams/131.png"
+      "name": "Junior",
+      "icon": "https://media.api-sports.io/football/teams/2406.png"
     },
     "leagueName": "CONMEBOL Libertadores",
-    "prediction": "DRAW",
-    "date": "2026-04-08",
-    "confidence": "68%",
-    "reason": "Barcelona SC strong at home but Cruzeiro have better continental experience; xG trends suggest a tight, balanced game."
-  },
-  {
-    "id": "rus_080426_5",
-    "teamA": {
-      "name": "Dinamo Moscow",
-      "icon": "https://media.api-sports.io/football/teams/108.png"
-    },
-    "teamB": {
-      "name": "Krasnodar",
-      "icon": "https://media.api-sports.io/football/teams/558.png"
-    },
-    "leagueName": "Russian Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-08",
+    "prediction": "HOME",
+    "date": "2026-04-15",
     "confidence": "75%",
-    "reason": "Dinamo show stronger home xG and better defensive metrics, giving them a slight edge in cup competition."
+    "reason": "Cerro Porteno are very strong at home in Libertadores while Junior struggle away."
   },
   {
-    "id": "uel_080426_6",
+    "id": "sud_150426_3",
     "teamA": {
-      "name": "Braga",
-      "icon": "https://media.api-sports.io/football/teams/561.png"
+      "name": "Cd Palestino",
+      "icon": "https://media.api-sports.io/football/teams/2387.png"
     },
     "teamB": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/543.png"
+      "name": "Montevideo City Torque",
+      "icon": "https://media.api-sports.io/football/teams/6029.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "CONMEBOL Sudamericana",
+    "prediction": "HOME",
+    "date": "2026-04-15",
+    "confidence": "72%",
+    "reason": "Palestino’s home consistency and Torque’s poor away record favor the home side."
+  },
+  {
+    "id": "lib_150426_4",
+    "teamA": {
+      "name": "Universitario De Deportes",
+      "icon": "https://media.api-sports.io/football/teams/2541.png"
+    },
+    "teamB": {
+      "name": "Coquimbo U.",
+      "icon": "https://media.api-sports.io/football/teams/2389.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "HOME",
+    "date": "2026-04-15",
+    "confidence": "80%",
+    "reason": "Strong home advantage and altitude make Universitario clear favorites."
+  },
+  {
+    "id": "arg_150426_5",
+    "teamA": {
+      "name": "Gimnasia Y Esgrima Mendoza",
+      "icon": "https://media.api-sports.io/football/teams/4508.png"
+    },
+    "teamB": {
+      "name": "Gimnasia Y Tiro De Salta",
+      "icon": "https://media.api-sports.io/football/teams/4510.png"
+    },
+    "leagueName": "Copa Argentina",
     "prediction": "DRAW",
-    "date": "2026-04-08",
-    "confidence": "70%",
-    "reason": "Both teams have similar xG output and defensive organization, making a close draw likely in knockout football."
+    "date": "2026-04-15",
+    "confidence": "72%",
+    "reason": "Lower-tier cup match with balanced quality and high draw probability."
   },
   {
-    "id": "uel_090426_7",
+    "id": "lib_160426_6",
     "teamA": {
-      "name": "Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
+      "name": "Libertad Asuncion",
+      "icon": "https://media.api-sports.io/football/teams/2355.png"
     },
     "teamB": {
+      "name": "Ca Rosario Central",
+      "icon": "https://media.api-sports.io/football/teams/474.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "HOME",
+    "date": "2026-04-16",
+    "confidence": "82%",
+    "reason": "Libertad’s dominant home form vs Rosario’s weak away Libertadores record."
+  },
+  {
+    "id": "uel_160426_7",
+    "teamA": {
       "name": "Celta Vigo",
       "icon": "https://media.api-sports.io/football/teams/538.png"
     },
+    "teamB": {
+      "name": "Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
+    },
     "leagueName": "UEFA Europa League",
-    "prediction": "HOME WIN",
-    "date": "2026-04-09",
-    "confidence": "72%",
-    "reason": "Freiburg have stronger home performances and better xG creation, while Celta struggle away."
+    "prediction": "DRAW",
+    "date": "2026-04-16",
+    "confidence": "75%",
+    "reason": "Balanced tactical matchup; Freiburg disciplined, Celta inconsistent."
   },
   {
-    "id": "uel_090426_8",
+    "id": "uecl_160426_8",
     "teamA": {
-      "name": "Bologna",
-      "icon": "https://media.api-sports.io/football/teams/500.png"
+      "name": "Az Alkmaar",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Fc Shakhtar Donetsk",
+      "icon": "https://media.api-sports.io/football/teams/558.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-09",
-    "confidence": "78%",
-    "reason": "Aston Villa show superior attacking xG and squad depth compared to Bologna, making them favorites."
+    "leagueName": "UEFA Conference League",
+    "prediction": "DRAW",
+    "date": "2026-04-16",
+    "confidence": "74%",
+    "reason": "Shakhtar’s experience vs AZ’s home strength creates a balanced outcome."
   },
   {
-    "id": "uel_090426_9",
+    "id": "uel_160426_9",
     "teamA": {
-      "name": "FC Porto",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
+      "name": "Betis",
+      "icon": "https://media.api-sports.io/football/teams/543.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Braga",
+      "icon": "https://media.api-sports.io/football/teams/561.png"
     },
     "leagueName": "UEFA Europa League",
-    "prediction": "HOME WIN",
-    "date": "2026-04-09",
-    "confidence": "82%",
-    "reason": "Porto’s strong home form and higher xG efficiency make them clear favorites against an inconsistent Forest side."
+    "prediction": "DRAW",
+    "date": "2026-04-16",
+    "confidence": "76%",
+    "reason": "Both teams tactically organized; neither clearly dominant."
   },
   {
-    "id": "uecl_090426_10",
+    "id": "uecl_160426_10",
     "teamA": {
+      "name": "Aek Athens",
+      "icon": "https://media.api-sports.io/football/teams/1112.png"
+    },
+    "teamB": {
       "name": "Rayo Vallecano",
       "icon": "https://media.api-sports.io/football/teams/728.png"
     },
-    "teamB": {
-      "name": "AEK Athens",
-      "icon": "https://media.api-sports.io/football/teams/1112.png"
-    },
     "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2026-04-09",
-    "confidence": "75%",
-    "reason": "Rayo’s home attacking numbers and La Liga experience give them an edge over AEK’s weaker away performances."
+    "prediction": "HOME",
+    "date": "2026-04-16",
+    "confidence": "78%",
+    "reason": "AEK strong at home; Rayo inconsistent away in Europe."
   },
   {
-    "id": "uecl_090426_11",
+    "id": "uel_160426_11",
     "teamA": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://media.api-sports.io/football/teams/558.png"
+      "name": "Nottingham",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
     "teamB": {
-      "name": "AZ Alkmaar",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
+      "name": "Fc Porto",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2026-04-09",
-    "confidence": "77%",
-    "reason": "Shakhtar’s strong attacking xG and home advantage outweigh AZ’s structured but less dynamic approach."
+    "leagueName": "UEFA Europa League",
+    "prediction": "AWAY",
+    "date": "2026-04-16",
+    "confidence": "80%",
+    "reason": "Porto’s European pedigree and consistency outweigh Forest’s instability."
   },
   {
-    "id": "uecl_090426_12",
+    "id": "uecl_160426_12",
     "teamA": {
-      "name": "Mainz",
-      "icon": "https://media.api-sports.io/football/teams/164.png"
+      "name": "Acf Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/502.png"
     },
     "teamB": {
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "HOME",
+    "date": "2026-04-16",
+    "confidence": "76%",
+    "reason": "Fiorentina’s home dominance and European experience give them the edge."
+  },
+  {
+    "id": "uecl_160426_13",
+    "teamA": {
       "name": "Strasbourg",
       "icon": "https://media.api-sports.io/football/teams/576.png"
     },
+    "teamB": {
+      "name": "Mainz",
+      "icon": "https://media.api-sports.io/football/teams/164.png"
+    },
     "leagueName": "UEFA Conference League",
     "prediction": "DRAW",
-    "date": "2026-04-09",
-    "confidence": "68%",
-    "reason": "Both teams show similar xG and defensive metrics, making a balanced draw the most probable outcome."
+    "date": "2026-04-16",
+    "confidence": "73%",
+    "reason": "Both teams evenly matched; Mainz structure vs Strasbourg inconsistency."
   },
   {
-    "id": "lib_100426_13",
+    "id": "rom_170426_14",
     "teamA": {
-      "name": "Platense",
-      "icon": "https://media.api-sports.io/football/teams/4506.png"
+      "name": "Acs Champions Fc Arges",
+      "icon": "https://media.api-sports.io/football/teams/2596.png"
     },
     "teamB": {
-      "name": "Corinthians",
-      "icon": "https://media.api-sports.io/football/teams/121.png"
+      "name": "Cfr 1907 Cluj",
+      "icon": "https://media.api-sports.io/football/teams/2598.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-10",
-    "confidence": "76%",
-    "reason": "Corinthians have stronger squad quality and better xG trends, giving them an edge over Platense."
+    "leagueName": "Romania Superliga",
+    "prediction": "AWAY",
+    "date": "2026-04-17",
+    "confidence": "82%",
+    "reason": "CFR Cluj superior in quality, form, and league dominance."
   },
   {
-    "id": "fr_100426_14",
+    "id": "bund_170426_15",
     "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "St. Pauli",
+      "icon": "https://media.api-sports.io/football/teams/172.png"
     },
     "teamB": {
-      "name": "Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "HOME WIN",
-    "date": "2026-04-10",
-    "confidence": "85%",
-    "reason": "PSG’s elite attacking xG and strong home record make them favorites against Monaco’s inconsistent defense."
-  },
-  {
-    "id": "bund_100426_15",
-    "teamA": {
-      "name": "Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
-    },
-    "teamB": {
-      "name": "Hoffenheim",
-      "icon": "https://media.api-sports.io/football/teams/167.png"
+      "name": "1. Fc Cologne",
+      "icon": "https://media.api-sports.io/football/teams/134.png"
     },
     "leagueName": "Bundesliga",
-    "prediction": "DRAW",
-    "date": "2026-04-10",
-    "confidence": "66%",
-    "reason": "Both teams have similar xG and defensive records, making a draw the most balanced outcome."
+    "prediction": "HOME",
+    "date": "2026-04-17",
+    "confidence": "78%",
+    "reason": "St. Pauli’s strong home form vs Cologne’s poor away consistency."
   }
 ]
