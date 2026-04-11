@@ -1,41 +1,53 @@
 [
   {
-    "match": "Arsenal vs AFC Bournemouth",
-    "league": "Premier League",
-    "prediction": "Over 1.5 Goals",
-    "confidence": "Very High",
-    "safety_score": 9,
-    "key_factors": [
-      "Arsenal’s last 5 matches show dominant attacking form with consistently high xG (>1.8) and strong goal output; Bournemouth concede regularly with xGA >1.6.",
-      "Home vs away trends strongly favor goals, with Arsenal scoring frequently at home and Bournemouth struggling defensively on the road.",
-      "Premier League goal average (~2.8 per game) and high Over 1.5 hit rate (>80%) align with both teams’ attacking/defensive profiles."
-    ],
-    "reason": "All key indicators—xG dominance, strong attacking form, and league-wide scoring trends—support a high-probability outcome of at least two goals, making this a very safe selection."
+    "id": "epl_110426_1",
+    "teamA": {
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
+    },
+    "teamB": {
+      "name": "AFC Bournemouth",
+      "icon": "https://media.api-sports.io/football/teams/35.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
+    "confidence": "92%",
+    "safetyRating": 9,
+    "reason": "Arsenal’s strong attacking xG and consistent goal-scoring form combined with Bournemouth’s defensive weakness and high xGA create a strong expectation of goals. Both home and away trends favor open play, and the Premier League’s high scoring environment further reinforces a high probability of at least two goals."
   },
   {
-    "match": "Brentford vs Everton",
-    "league": "Premier League",
-    "prediction": "Over 1.5 Goals",
-    "confidence": "Very High",
-    "safety_score": 9,
-    "key_factors": [
-      "Both teams’ recent matches show consistent goal involvement, with combined xG averages typically exceeding 2.4 per game.",
-      "Brentford’s home matches and Everton’s away fixtures both trend toward goals due to defensive inconsistency (xGA >1.4 each).",
-      "League-wide data strongly supports Over 1.5 Goals in balanced fixtures, with high conversion rates and low 0-0 probability."
-    ],
-    "reason": "Consistent xG production from both sides, combined with defensive vulnerabilities and strong league trends, creates a high-probability scenario for at least two total goals."
+    "id": "epl_110426_2",
+    "teamA": {
+      "name": "Brentford",
+      "icon": "https://media.api-sports.io/football/teams/55.png"
+    },
+    "teamB": {
+      "name": "Everton",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
+    "confidence": "90%",
+    "safetyRating": 9,
+    "reason": "Both teams show consistent involvement in high-xG matches, with Brentford’s home games and Everton’s away matches frequently producing goals due to defensive instability. Combined attacking output and league-wide scoring trends strongly support at least two total goals."
   },
   {
-    "match": "Liverpool vs Fulham",
-    "league": "Premier League",
-    "prediction": "Over 1.5 Goals",
-    "confidence": "Very High",
-    "safety_score": 8,
-    "key_factors": [
-      "Liverpool’s attacking xG at home regularly exceeds 2.0, with consistent goal scoring across recent fixtures.",
-      "Fulham’s matches show high volatility with frequent goals scored and conceded (xG + xGA combined >2.5).",
-      "Historical H2H and league trends indicate very low likelihood of low-scoring outcomes in this matchup."
-    ],
-    "reason": "Liverpool’s elite attacking consistency and Fulham’s open-game tendencies align strongly with league scoring patterns, making Over 1.5 Goals a safe and statistically supported outcome."
+    "id": "epl_110426_3",
+    "teamA": {
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
+    },
+    "teamB": {
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-11",
+    "confidence": "91%",
+    "safetyRating": 8,
+    "reason": "Liverpool’s elite attacking xG at Anfield combined with Fulham’s open defensive structure and tendency to both score and concede creates a strong multi-goal expectation. Historical head-to-head trends and Premier League scoring averages further reinforce a high probability of over 1.5 goals."
   }
 ]
