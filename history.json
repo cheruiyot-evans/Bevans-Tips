@@ -1,41 +1,37 @@
 [
   {
-    "date": "Monday, 6th April 2026",
+    "date": "Saturday, 11th April 2026",
     "gamesList": [
-      { "teamA": "Ipswich Town", "teamB": "Birmingham City", "prediction": "HOME/DRAW", "odds": "1.45", "results": "WIN" },
-      { "teamA": "Sheffield Wednesday", "teamB": "Leicester City", "prediction": "AWAY/DRAW", "odds": "1.55", "results": "WIN" },
-      { "teamA": "Chelsea Women", "teamB": "Tottenham Women", "prediction": "HOME/DRAW", "odds": "1.40", "results": "WIN" },
-      { "teamA": "Juventus", "teamB": "Genoa", "prediction": "HOME/DRAW", "odds": "1.50", "results": "WIN" },
-      { "teamA": "Lecce", "teamB": "Atalanta", "prediction": "AWAY/DRAW", "odds": "1.60", "results": "WIN" },
-      { "teamA": "Napoli", "teamB": "AC Milan", "prediction": "BTTS", "odds": "1.75", "results": "WIN" },
-      { "teamA": "Girona", "teamB": "Villarreal", "prediction": "OVER 1.5", "odds": "1.35", "results": "WIN" },
-      { "teamA": "Club Brugge", "teamB": "Anderlecht", "prediction": "HOME/DRAW", "odds": "1.55", "results": "WIN" }
+      { "teamA": "Arsenal", "teamB": "AFC Bournemouth", "prediction": "1X / OVER 1.5", "odds": "1.35", "results": "WIN" },
+      { "teamA": "Brentford", "teamB": "Everton", "prediction": "OVER 1.5", "odds": "1.40", "results": "WIN" },
+      { "teamA": "Liverpool", "teamB": "Fulham", "prediction": "1X / OVER 1.5", "odds": "1.30", "results": "WIN" },
+      { "teamA": "Celtic", "teamB": "St. Mirren", "prediction": "1X / OVER 1.5", "odds": "1.25", "results": "WIN" },
+      { "teamA": "Barcelona", "teamB": "Espanyol", "prediction": "1X", "odds": "1.20", "results": "WIN" },
+      { "teamA": "St. Pauli", "teamB": "Bayern Munich", "prediction": "X2 / OVER 1.5", "odds": "1.28", "results": "WIN" },
+      { "teamA": "Leeds United", "teamB": "Norwich City", "prediction": "OVER 1.5", "odds": "1.38", "results": "WIN" },
+      { "teamA": "Leicester City", "teamB": "Swansea City", "prediction": "OVER 1.5", "odds": "1.42", "results": "WIN" }
     ]
   },
   {
-    "date": "Saturday, 4th April 2026",
+    "date": "Friday, 10th April 2026",
     "gamesList": [
-      { "teamA": "Chelsea", "teamB": "Port Vale", "prediction": "HOME", "odds": "1.55", "results": "WIN" },
-      { "teamA": "Manchester United", "teamB": "Leeds United", "prediction": "HOME", "odds": "1.80", "results": "WIN" },
-      { "teamA": "Juventus", "teamB": "Napoli", "prediction": "DRAW/AWAY", "odds": "2.25", "results": "DRAW" },
-      { "teamA": "Bayern Munich", "teamB": "Borussia Dortmund", "prediction": "HOME", "odds": "1.70", "results": "WIN" },
-      { "teamA": "Paris SG", "teamB": "Marseille", "prediction": "HOME", "odds": "1.65", "results": "WIN" },
-      { "teamA": "Ajax", "teamB": "Feyenoord", "prediction": "HOME", "odds": "1.90", "results": "WIN" },
-      { "teamA": "River Plate", "teamB": "Boca Juniors", "prediction": "DRAW", "odds": "3.00", "results": "DRAW" },
-      { "teamA": "Corinthians", "teamB": "Palmeiras", "prediction": "AWAY", "odds": "2.20", "results": "WIN" }
+      { "teamA": "Borussia Dortmund", "teamB": "RB Leipzig", "prediction": "OVER 1.5", "odds": "1.35", "results": "WIN" },
+      { "teamA": "AC Milan", "teamB": "Torino", "prediction": "1X", "odds": "1.30", "results": "WIN" },
+      { "teamA": "Lyon", "teamB": "Nice", "prediction": "OVER 1.5", "odds": "1.40", "results": "WIN" },
+      { "teamA": "Real Sociedad", "teamB": "Getafe", "prediction": "1X", "odds": "1.33", "results": "WIN" },
+      { "teamA": "Sporting CP", "teamB": "Boavista", "prediction": "1X", "odds": "1.25", "results": "WIN" },
+      { "teamA": "Fenerbahce", "teamB": "Antalyaspor", "prediction": "OVER 1.5", "odds": "1.36", "results": "WIN" }
     ]
   },
   {
-    "date": "Friday, 3rd April 2026",
+    "date": "Thursday, 9th April 2026",
     "gamesList": [
-      { "teamA": "SC Internacional", "teamB": "São Paulo FC", "prediction": "HOME", "odds": "1.95", "results": "WIN" },
-      { "teamA": "Chapecoense", "teamB": "Atlético Mineiro", "prediction": "AWAY", "odds": "2.10", "results": "WIN" },
-      { "teamA": "Coritiba", "teamB": "CR Vasco da Gama", "prediction": "HOME", "odds": "2.05", "results": "WIN" },
-      { "teamA": "Botafogo RJ", "teamB": "Mirassol", "prediction": "HOME", "odds": "2.00", "results": "WIN" },
-      { "teamA": "Fluminense", "teamB": "Grêmio", "prediction": "DRAW/AWAY", "odds": "2.20", "results": "WIN" },
-      { "teamA": "Atlético GO", "teamB": "Cuiabá", "prediction": "HOME", "odds": "2.15", "results": "WIN" },
-      { "teamA": "Vélez Sarsfield", "teamB": "Racing Club", "prediction": "DRAW", "odds": "3.10", "results": "DRAW" },
-      { "teamA": "Rosario Central", "teamB": "Newell's Old Boys", "prediction": "HOME", "odds": "1.95", "results": "WIN" }
+      { "teamA": "Manchester United", "teamB": "West Ham United", "prediction": "1X", "odds": "1.35", "results": "WIN" },
+      { "teamA": "Atletico Madrid", "teamB": "Sevilla", "prediction": "UNDER 3.5", "odds": "1.40", "results": "WIN" },
+      { "teamA": "Inter Milan", "teamB": "Fiorentina", "prediction": "1X", "odds": "1.30", "results": "WIN" },
+      { "teamA": "PSG", "teamB": "Monaco", "prediction": "OVER 1.5", "odds": "1.33", "results": "WIN" },
+      { "teamA": "Ajax", "teamB": "AZ Alkmaar", "prediction": "OVER 1.5", "odds": "1.38", "results": "WIN" },
+      { "teamA": "Galatasaray", "teamB": "Besiktas", "prediction": "1X", "odds": "1.45", "results": "WIN" }
     ]
   }
 ]
