@@ -1,257 +1,257 @@
 [
   {
-    "id": "epl_110426_1",
+    "id": "epl_120426_1",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
     "teamB": {
-      "name": "AFC Bournemouth",
-      "icon": "https://media.api-sports.io/football/teams/35.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
     },
     "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-04-12",
+    "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Strong xG output from both sides combined with Arsenal’s high-scoring form and Bournemouth’s defensive weakness supports a high probability of at least two goals."
+    "reason": "High xG balance but historical head-to-head trends show frequent low-scoring encounters. Both teams are defensively strong in big matches, and league trends support a controlled game with under 3.5 goals."
   },
   {
-    "id": "epl_110426_2",
+    "id": "epl_120426_2",
     "teamA": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
     },
     "teamB": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
+      "name": "Newcastle United",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
     },
     "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Both teams show consistent scoring and conceding trends with strong xG profiles, supporting a reliable expectation of 2+ goals."
-  },
-  {
-    "id": "epl_110426_3",
-    "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "teamB": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/43.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-12",
+    "confidence": "High",
     "safetyRating": 8,
-    "reason": "Liverpool’s strong home attacking output combined with Fulham’s tendency to both score and concede supports a high probability of multiple goals."
+    "reason": "Newcastle United have superior head-to-head performance and stronger recent metrics. Crystal Palace are inconsistent at home, making it likely Newcastle avoid defeat."
   },
   {
-    "id": "sco_110426_4",
+    "id": "por_120426_1",
     "teamA": {
-      "name": "Celtic",
-      "icon": "https://media.api-sports.io/football/teams/77.png"
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/211.png"
     },
     "teamB": {
-      "name": "St. Mirren",
-      "icon": "https://media.api-sports.io/football/teams/990.png"
+      "name": "Nacional",
+      "icon": "https://media.api-sports.io/football/teams/219.png"
+    },
+    "leagueName": "Portuguese Primeira Liga",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-12",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Benfica’s dominant home form and strong attacking output versus Nacional’s poor away record makes it highly unlikely they lose."
+  },
+  {
+    "id": "tur_120426_1",
+    "teamA": {
+      "name": "Galatasaray",
+      "icon": "https://media.api-sports.io/football/teams/645.png"
+    },
+    "teamB": {
+      "name": "Kocaelispor",
+      "icon": "https://media.api-sports.io/football/teams/1047.png"
+    },
+    "leagueName": "Turkish Super Lig",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-12",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Galatasaray’s strong home dominance and superior squad quality make them very unlikely to lose against weaker opposition."
+  },
+  {
+    "id": "sco_120426_1",
+    "teamA": {
+      "name": "Falkirk",
+      "icon": "https://media.api-sports.io/football/teams/2573.png"
+    },
+    "teamB": {
+      "name": "Rangers",
+      "icon": "https://media.api-sports.io/football/teams/133.png"
     },
     "leagueName": "Scottish Premiership",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Celtic’s dominant attacking profile and St. Mirren’s defensive weakness make multiple goals highly likely."
-  },
-  {
-    "id": "engc_110426_5",
-    "teamA": {
-      "name": "Sheffield United",
-      "icon": "https://media.api-sports.io/football/teams/62.png"
-    },
-    "teamB": {
-      "name": "Hull City",
-      "icon": "https://media.api-sports.io/football/teams/64.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Both sides show consistent attacking involvement and Championship-wide trends strongly support at least two goals."
-  },
-  {
-    "id": "engc_110426_6",
-    "teamA": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "teamB": {
-      "name": "Swansea City",
-      "icon": "https://media.api-sports.io/football/teams/72.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "88%",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-12",
+    "confidence": "High",
     "safetyRating": 8,
-    "reason": "Leicester’s strong home attacking form and Swansea’s mixed defensive record support a high probability of at least two goals."
+    "reason": "Rangers have superior form, quality, and motivation. Falkirk struggle against top teams, making Rangers unlikely to lose."
   },
   {
-    "id": "engc_110426_7",
+    "id": "por_120426_2",
     "teamA": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/41.png"
+      "name": "Estoril",
+      "icon": "https://media.api-sports.io/football/teams/212.png"
     },
     "teamB": {
-      "name": "Derby County",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
+      "name": "FC Porto",
+      "icon": "https://media.api-sports.io/football/teams/212.png"
     },
-    "leagueName": "Championship",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "88%",
+    "leagueName": "Portuguese Primeira Liga",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-12",
+    "confidence": "High",
     "safetyRating": 8,
-    "reason": "Both teams show stable scoring patterns and xG consistency, making at least two goals highly likely."
+    "reason": "FC Porto’s consistent away strength and superior squad quality make them strong favorites to avoid defeat."
   },
   {
-    "id": "bund_110426_8",
+    "id": "ita_120426_1",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
+      "name": "Como",
+      "icon": "https://media.api-sports.io/football/teams/895.png"
     },
     "teamB": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://media.api-sports.io/football/teams/168.png"
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
     },
-    "leagueName": "Bundesliga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Both teams are high-scoring sides with strong attacking xG profiles, making multiple goals highly probable."
-  },
-  {
-    "id": "bund_110426_9",
-    "teamA": {
-      "name": "St. Pauli",
-      "icon": "https://media.api-sports.io/football/teams/112.png"
-    },
-    "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Bayern’s elite attacking output combined with Bundesliga’s high-scoring nature strongly supports at least two goals."
-  },
-  {
-    "id": "ita_110426_10",
-    "teamA": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
-    },
-    "teamB": {
-      "name": "Udinese",
-      "icon": "https://media.api-sports.io/football/teams/494.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "88%",
+    "leagueName": "Italian Serie A",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-12",
+    "confidence": "High",
     "safetyRating": 8,
-    "reason": "Milan’s strong home scoring and Udinese’s tendency to concede and score support a multi-goal expectation."
+    "reason": "Inter Milan’s superior form and attacking metrics against inconsistent Como make them very unlikely to lose."
   },
   {
-    "id": "ita_110426_11",
+    "id": "epl_120426_3",
     "teamA": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/499.png"
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
     "teamB": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Both teams have strong attacking xG profiles and historical meetings frequently produce multiple goals."
-  },
-  {
-    "id": "lal_110426_12",
-    "teamA": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/529.png"
-    },
-    "teamB": {
-      "name": "Espanyol",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Barcelona’s dominant attacking xG and derby dynamics strongly support multiple-goal outcomes."
-  },
-  {
-    "id": "lal_110426_13",
-    "teamA": {
-      "name": "Real Sociedad",
-      "icon": "https://media.api-sports.io/football/teams/548.png"
-    },
-    "teamB": {
-      "name": "Alaves",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "88%",
+    "leagueName": "Premier League",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-04-12",
+    "confidence": "High",
     "safetyRating": 8,
-    "reason": "Both teams show stable xG profiles and consistent scoring patterns supporting at least two goals."
+    "reason": "Both teams favor structured defensive play, and league trends support a lower-scoring match under 3.5 goals."
   },
   {
-    "id": "ned_110426_14",
+    "id": "ita_120426_2",
     "teamA": {
-      "name": "Ajax",
-      "icon": "https://media.api-sports.io/football/teams/102.png"
+      "name": "Parma",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
     },
     "teamB": {
-      "name": "Heracles",
-      "icon": "https://media.api-sports.io/football/teams/113.png"
+      "name": "Napoli",
+      "icon": "https://media.api-sports.io/football/teams/492.png"
     },
-    "leagueName": "Eredivisie",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "92%",
-    "safetyRating": 9,
-    "reason": "Ajax’s high-scoring attack and Eredivisie’s goal-heavy nature strongly support multiple goals."
-  },
-  {
-    "id": "fra_110426_15",
-    "teamA": {
-      "name": "Rennes",
-      "icon": "https://media.api-sports.io/football/teams/80.png"
-    },
-    "teamB": {
-      "name": "Angers",
-      "icon": "https://media.api-sports.io/football/teams/81.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-11",
-    "confidence": "88%",
+    "leagueName": "Italian Serie A",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-12",
+    "confidence": "High",
     "safetyRating": 8,
-    "reason": "Ligue 1 scoring trends and both teams’ recent form support at least two goals."
+    "reason": "Napoli’s superior quality, form, and motivation strongly favor them avoiding defeat."
+  },
+  {
+    "id": "esp_120426_1",
+    "teamA": {
+      "name": "Athletic Club",
+      "icon": "https://media.api-sports.io/football/teams/531.png"
+    },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-12",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams have strong attacking metrics and historical trends support at least two goals in this matchup."
+  },
+  {
+    "id": "aut_120426_1",
+    "teamA": {
+      "name": "Sturm Graz",
+      "icon": "https://media.api-sports.io/football/teams/593.png"
+    },
+    "teamB": {
+      "name": "Hartberg",
+      "icon": "https://media.api-sports.io/football/teams/599.png"
+    },
+    "leagueName": "Austrian Bundesliga",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-12",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Sturm Graz’s strong home form and Hartberg’s weak away performances make the home side unlikely to lose."
+  },
+  {
+    "id": "bel_120426_1",
+    "teamA": {
+      "name": "Genk",
+      "icon": "https://media.api-sports.io/football/teams/553.png"
+    },
+    "teamB": {
+      "name": "OH Leuven",
+      "icon": "https://media.api-sports.io/football/teams/1380.png"
+    },
+    "leagueName": "Belgian Jupiler Pro League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-12",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Genk’s strong home advantage and Leuven’s inconsistency support a safe home-side cover."
+  },
+  {
+    "id": "swe_120426_1",
+    "teamA": {
+      "name": "Malmo FF",
+      "icon": "https://media.api-sports.io/football/teams/704.png"
+    },
+    "teamB": {
+      "name": "GAIS",
+      "icon": "https://media.api-sports.io/football/teams/711.png"
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-12",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Malmo FF’s dominance at home and GAIS’s weaker away performances make this a safe home outcome."
+  },
+  {
+    "id": "sui_120426_1",
+    "teamA": {
+      "name": "Young Boys",
+      "icon": "https://media.api-sports.io/football/teams/773.png"
+    },
+    "teamB": {
+      "name": "Servette",
+      "icon": "https://media.api-sports.io/football/teams/772.png"
+    },
+    "leagueName": "Swiss Super League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-12",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "High-scoring league trends and strong attacking metrics from both sides support at least two goals."
+  },
+  {
+    "id": "cze_120426_1",
+    "teamA": {
+      "name": "Slavia Prague",
+      "icon": "https://media.api-sports.io/football/teams/560.png"
+    },
+    "teamB": {
+      "name": "Viktoria Plzen",
+      "icon": "https://media.api-sports.io/football/teams/562.png"
+    },
+    "leagueName": "Czech First League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-12",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Slavia Prague’s strong home form and Plzen’s inconsistency away make the home side unlikely to lose."
   }
 ]
