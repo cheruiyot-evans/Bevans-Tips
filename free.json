@@ -1,53 +1,19 @@
 [
   {
-    "id": "epl_120426_1",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "teamB": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-12",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "High xG balance but historical head-to-head trends show frequent low-scoring encounters with Manchester City control. Both teams are defensively disciplined in big matches, and league data supports under 3.5 goals in top clashes. Tactical approach from both sides suggests a controlled, low-volatility game."
+  "id": "epl_130426_2",
+  "teamA": {
+    "name": "Manchester United",
+    "icon": "https://media.api-sports.io/football/teams/33.png"
   },
-  {
-    "id": "epl_120426_2",
-    "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
-    },
-    "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-12",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Newcastle United hold a strong head-to-head advantage and better recent xG metrics. Crystal Palace have inconsistent home form, while Newcastle are solid away. Motivation and overall form trends suggest Newcastle are unlikely to lose, making double chance a safer option."
+  "teamB": {
+    "name": "Leeds United",
+    "icon": "https://media.api-sports.io/football/teams/63.png"
   },
-  {
-    "id": "por_120426_1",
-    "teamA": {
-      "name": "Benfica",
-      "icon": "https://media.api-sports.io/football/teams/211.png"
-    },
-    "teamB": {
-      "name": "Nacional",
-      "icon": "https://media.api-sports.io/football/teams/219.png"
-    },
-    "leagueName": "Portuguese Primeira Liga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-12",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Benfica have a dominant home record with strong attacking output, while Nacional struggle away. Historical and statistical trends show Benfica rarely lose such matchups, making double chance 1X an extremely safe selection."
-  }
+  "leagueName": "Premier League",
+  "prediction": "DOUBLE CHANCE 1X",
+  "date": "2026-04-13",
+  "confidence": "Very High",
+  "safetyRating": 9,
+  "reason": "Manchester United’s strong home form combined with dominant head-to-head record against Leeds United significantly reduces upset risk. Statistical xG trends also favor United, while the double chance (1X) provides added protection. Tactical and historical data align to support a low-risk home-leaning outcome."
+}
 ]
