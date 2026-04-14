@@ -1,19 +1,53 @@
 [
   {
-  "id": "epl_130426_2",
-  "teamA": {
-    "name": "Manchester United",
-    "icon": "https://media.api-sports.io/football/teams/33.png"
+    "id": "wewcq_140426_1",
+    "teamA": {
+      "name": "Gibraltar",
+      "icon": "https://media.api-sports.io/football/teams/2076.png"
+    },
+    "teamB": {
+      "name": "Croatia",
+      "icon": "https://media.api-sports.io/football/teams/448.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-14",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Croatia holds a massive quality and tactical advantage over Gibraltar, who consistently concede heavily against stronger opposition. The extreme mismatch makes an away win highly likely, while X2 provides maximum safety cover."
   },
-  "teamB": {
-    "name": "Leeds United",
-    "icon": "https://media.api-sports.io/football/teams/63.png"
+  {
+    "id": "wewcq_140426_2",
+    "teamA": {
+      "name": "Latvia",
+      "icon": "https://media.api-sports.io/football/teams/739.png"
+    },
+    "teamB": {
+      "name": "Portugal",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-14",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Portugal’s superior squad depth, attacking quality, and consistent performances outweigh Latvia’s weaker structure. Even away from home, Portugal are unlikely to lose, making X2 a safe and conservative option."
   },
-  "leagueName": "Premier League",
-  "prediction": "DOUBLE CHANCE 1X",
-  "date": "2026-04-13",
-  "confidence": "Very High",
-  "safetyRating": 9,
-  "reason": "Manchester United’s strong home form combined with dominant head-to-head record against Leeds United significantly reduces upset risk. Statistical xG trends also favor United, while the double chance (1X) provides added protection. Tactical and historical data align to support a low-risk home-leaning outcome."
-}
+  {
+    "id": "wewcq_140426_3",
+    "teamA": {
+      "name": "Andorra",
+      "icon": "https://media.api-sports.io/football/teams/1573.png"
+    },
+    "teamB": {
+      "name": "Azerbaijan",
+      "icon": "https://media.api-sports.io/football/teams/557.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-14",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams display weak defensive structures and high goal concession rates. Historical trends show frequent matches exceeding 1.5 goals, making this a statistically safe low-line selection."
+  }
 ]
