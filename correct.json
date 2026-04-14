@@ -1,70 +1,87 @@
 [
   {
-    "id": "esp_130426_1",
+    "id": "wewcq_140426_1",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/543.png"
+      "name": "Gibraltar",
+      "icon": "https://media.api-sports.io/football/teams/2076.png"
     },
     "teamB": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/546.png"
+      "name": "Croatia",
+      "icon": "https://media.api-sports.io/football/teams/448.png"
     },
-    "leagueName": "Spanish La Liga",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-13",
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-14",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Croatia’s superior quality and attacking strength far exceed Gibraltar’s level. Gibraltar concedes heavily, making an away win highly likely, with X2 ensuring maximum safety."
+  },
+  {
+    "id": "wewcq_140426_2",
+    "teamA": {
+      "name": "Latvia",
+      "icon": "https://media.api-sports.io/football/teams/739.png"
+    },
+    "teamB": {
+      "name": "Portugal",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-14",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Getafe’s defensive structure and Levante’s low attacking output create a low-scoring environment. League trends and xG data strongly support under 3.5 goals in this balanced matchup."
+    "reason": "Portugal’s stronger squad and consistent performances give them a clear edge over Latvia. Even away from home, Portugal are unlikely to lose, making X2 a safe pick."
   },
   {
-    "id": "ita_130426_2",
+    "id": "wewcq_140426_3",
     "teamA": {
-      "name": "Fiorentina",
-      "icon": "https://media.api-sports.io/football/teams/502.png"
+      "name": "Estonia",
+      "icon": "https://media.api-sports.io/football/teams/573.png"
     },
     "teamB": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
+      "name": "Liechtenstein",
+      "icon": "https://media.api-sports.io/football/teams/575.png"
     },
-    "leagueName": "Italian Serie A",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-13",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Historical head-to-head trends and recent low-scoring results combined with balanced xG metrics suggest a controlled game with under 3.5 goals highly probable."
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-14",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Liechtenstein’s poor defensive record and heavy recent defeats make Estonia favorites, especially at home. The 1X option minimizes risk effectively."
   },
   {
-    "id": "pol_130426_1",
+    "id": "wewcq_140426_4",
     "teamA": {
-      "name": "Piast Gliwice",
-      "icon": "https://media.api-sports.io/football/teams/3499.png"
+      "name": "Germany",
+      "icon": "https://media.api-sports.io/football/teams/1590.png"
     },
     "teamB": {
-      "name": "Pogoń Szczecin",
-      "icon": "https://media.api-sports.io/football/teams/3502.png"
+      "name": "Austria",
+      "icon": "https://media.api-sports.io/football/teams/1591.png"
     },
-    "leagueName": "Polish Ekstraklasa",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-13",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams show moderate attacking output with consistent under trends in recent matches. League averages and H2H data support a low-scoring encounter."
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-14",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Germany’s dominance in quality, depth, and historical head-to-head performance makes them overwhelming favorites. The 1X option ensures maximum safety."
   },
   {
-    "id": "den_130426_1",
+    "id": "wewcq_140426_5",
     "teamA": {
-      "name": "Fredericia",
-      "icon": "https://media.api-sports.io/football/teams/3918.png"
+      "name": "Andorra",
+      "icon": "https://media.api-sports.io/football/teams/1573.png"
     },
     "teamB": {
-      "name": "Vejle",
-      "icon": "https://media.api-sports.io/football/teams/390.png"
+      "name": "Azerbaijan",
+      "icon": "https://media.api-sports.io/football/teams/557.png"
     },
-    "leagueName": "Danish Superligaen",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-13",
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-14",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Relegation pressure typically leads to cautious play. Both teams exhibit low xG trends, and league data supports under 3.5 goals in such high-stakes fixtures."
+    "reason": "Both teams have weak defensive structures and consistently concede goals. Trends strongly support matches exceeding the 1.5 goal mark."
   }
 ]
