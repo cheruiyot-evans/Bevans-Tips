@@ -1,70 +1,138 @@
 [
   {
-    "id": "epl_130426_2",
+    "id": "wewcq_140426_1",
     "teamA": {
-      "name": "Manchester United",
-      "icon": "https://media.api-sports.io/football/teams/33.png"
+      "name": "Gibraltar",
+      "icon": "https://media.api-sports.io/football/teams/2076.png"
     },
     "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
+      "name": "Croatia",
+      "icon": "https://media.api-sports.io/football/teams/448.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-13",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Manchester United’s strong home form and clear head-to-head dominance against Leeds United significantly reduce upset probability. Recent xG trends also favor United, and the double chance (1X) adds an extra safety layer for a low-risk outcome."
-  },
-  {
-    "id": "cro_130426_1",
-    "teamA": {
-      "name": "Vukovar",
-      "icon": "https://media.api-sports.io/football/teams/7286.png"
-    },
-    "teamB": {
-      "name": "Dinamo Zagreb",
-      "icon": "https://media.api-sports.io/football/teams/551.png"
-    },
-    "leagueName": "Croatia Prva HNL",
+    "leagueName": "Women's European World Cup Qualifiers",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Dinamo Zagreb’s dominance in the league, superior squad quality, and strong away form combined with consistent H2H victories make X2 a highly reliable low-risk selection."
+    "safetyRating": 10,
+    "reason": "Croatia’s superior squad quality and attacking efficiency far exceed Gibraltar’s level. Gibraltar consistently concedes heavily, making an away win highly probable, with X2 providing maximum safety."
   },
   {
-    "id": "ukr_130426_1",
+    "id": "wewcq_140426_2",
     "teamA": {
-      "name": "LNZ Cherkasy",
-      "icon": "https://media.api-sports.io/football/teams/10057.png"
+      "name": "Latvia",
+      "icon": "https://media.api-sports.io/football/teams/739.png"
     },
     "teamB": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://media.api-sports.io/football/teams/560.png"
+      "name": "Portugal",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
     },
-    "leagueName": "Ukraine Premier League",
+    "leagueName": "Women's European World Cup Qualifiers",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-13",
+    "date": "2026-04-14",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Shakhtar Donetsk’s elite form, unbeaten away record, and perfect head-to-head history against LNZ Cherkasy strongly support an X2 outcome with minimal risk exposure."
+    "reason": "Portugal’s technical superiority and stronger squad depth give them a clear edge over Latvia. Even away from home, Portugal are unlikely to lose, making X2 a safe option."
   },
   {
-    "id": "ita_130426_1",
+    "id": "wewcq_140426_3",
     "teamA": {
-      "name": "Fiorentina",
-      "icon": "https://media.api-sports.io/football/teams/502.png"
+      "name": "Andorra",
+      "icon": "https://media.api-sports.io/football/teams/1573.png"
     },
     "teamB": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
+      "name": "Azerbaijan",
+      "icon": "https://media.api-sports.io/football/teams/557.png"
     },
-    "leagueName": "Italian Serie A",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-13",
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-14",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Both teams show balanced attacking metrics with relatively low recent scoring trends. Historical matchups and league patterns support a controlled game, making under 3.5 goals a safe, low-volatility option."
+    "reason": "Both teams have weak defensive structures and consistently concede goals. Historical trends strongly support matches exceeding 1.5 goals."
+  },
+  {
+    "id": "wewcq_140426_4",
+    "teamA": {
+      "name": "Estonia",
+      "icon": "https://media.api-sports.io/football/teams/573.png"
+    },
+    "teamB": {
+      "name": "Liechtenstein",
+      "icon": "https://media.api-sports.io/football/teams/575.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-14",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Liechtenstein shows extremely poor defensive numbers, conceding heavily in recent matches. Estonia’s home advantage and slightly stronger structure make 1X a safe pick."
+  },
+  {
+    "id": "spl_140426_1",
+    "teamA": {
+      "name": "Al Qadsiah",
+      "icon": "https://media.api-sports.io/football/teams/3081.png"
+    },
+    "teamB": {
+      "name": "Al Shabab",
+      "icon": "https://media.api-sports.io/football/teams/2939.png"
+    },
+    "leagueName": "Saudi Arabian League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-14",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Al Qadsiah’s unbeaten home record and consistent form provide a strong edge, while Al Shabab’s poor away results reduce their chances of an upset."
+  },
+  {
+    "id": "npfl_140426_1",
+    "teamA": {
+      "name": "El Kanemi Warriors",
+      "icon": "https://media.api-sports.io/football/teams/4167.png"
+    },
+    "teamB": {
+      "name": "Nasarawa United",
+      "icon": "https://media.api-sports.io/football/teams/4170.png"
+    },
+    "leagueName": "Nigerian Premier League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-14",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "El Kanemi consistently hits over 1.5 goals at home, while Nasarawa also shows a solid trend toward low but consistent scoring games exceeding this line."
+  },
+  {
+    "id": "wewcq_140426_5",
+    "teamA": {
+      "name": "Germany",
+      "icon": "https://media.api-sports.io/football/teams/1590.png"
+    },
+    "teamB": {
+      "name": "Austria",
+      "icon": "https://media.api-sports.io/football/teams/1591.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-14",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Germany’s dominance in quality, depth, and historical head-to-head results makes them overwhelming favorites. The 1X option ensures maximum safety."
+  },
+  {
+    "id": "lib_140426_1",
+    "teamA": {
+      "name": "Cerro Porteño",
+      "icon": "https://media.api-sports.io/football/teams/2402.png"
+    },
+    "teamB": {
+      "name": "Junior",
+      "icon": "https://media.api-sports.io/football/teams/2408.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-14",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Cerro Porteño’s home strength and tactical stability give them an advantage, while Junior’s inconsistent away performances reduce their winning probability."
   }
 ]
