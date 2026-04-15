@@ -1,53 +1,36 @@
 [
   {
-    "id": "wewcq_140426_1",
+    "id": "alnassr_alettifaq_20260415",
     "teamA": {
-      "name": "Gibraltar",
-      "icon": "https://media.api-sports.io/football/teams/2076.png"
+      "name": "Al Nassr",
+      "icon": "https://media.api-sports.io/football/teams/2896.png"
     },
     "teamB": {
-      "name": "Croatia",
-      "icon": "https://media.api-sports.io/football/teams/448.png"
+      "name": "Al Ettifaq",
+      "icon": "https://media.api-sports.io/football/teams/2939.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-14",
+    "leagueName": "Saudi Arabian League",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-15",
     "confidence": "Very High",
     "safetyRating": 10,
-    "reason": "Croatia holds a massive quality and tactical advantage over Gibraltar, who consistently concede heavily against stronger opposition. The extreme mismatch makes an away win highly likely, while X2 provides maximum safety cover."
+    "reason": "Al Nassr are in excellent scoring form with 5 straight wins and 16 goals scored. Strong home dominance and consistent high-scoring patterns make at least two goals highly likely."
   },
   {
-    "id": "wewcq_140426_2",
+    "id": "magesi_kaizerchiefs_20260415",
     "teamA": {
-      "name": "Latvia",
-      "icon": "https://media.api-sports.io/football/teams/739.png"
+      "name": "Magesi",
+      "icon": "https://media.api-sports.io/football/teams/6978.png"
     },
     "teamB": {
-      "name": "Portugal",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
+      "name": "Kaizer Chiefs",
+      "icon": "https://media.api-sports.io/football/teams/305.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
+    "leagueName": "South Africa PSL",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-14",
+    "date": "2026-04-15",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Portugal’s superior squad depth, attacking quality, and consistent performances outweigh Latvia’s weaker structure. Even away from home, Portugal are unlikely to lose, making X2 a safe and conservative option."
-  },
-  {
-    "id": "wewcq_140426_3",
-    "teamA": {
-      "name": "Andorra",
-      "icon": "https://media.api-sports.io/football/teams/1573.png"
-    },
-    "teamB": {
-      "name": "Azerbaijan",
-      "icon": "https://media.api-sports.io/football/teams/557.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-14",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams display weak defensive structures and high goal concession rates. Historical trends show frequent matches exceeding 1.5 goals, making this a statistically safe low-line selection."
+    "reason": "Kaizer Chiefs are defensively solid, conceding just once in their last four matches. Magesi struggle in attack and have poor head-to-head results, making an away loss unlikely."
   }
 ]
