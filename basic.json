@@ -1,138 +1,87 @@
 [
   {
-    "id": "wewcq_140426_1",
+    "id": "alnassr_alettifaq_20260415",
     "teamA": {
-      "name": "Gibraltar",
-      "icon": "https://media.api-sports.io/football/teams/2076.png"
+      "name": "Al Nassr",
+      "icon": "https://media.api-sports.io/football/teams/2896.png"
     },
     "teamB": {
-      "name": "Croatia",
-      "icon": "https://media.api-sports.io/football/teams/448.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-14",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Croatia’s superior squad quality and attacking efficiency far exceed Gibraltar’s level. Gibraltar consistently concedes heavily, making an away win highly probable, with X2 providing maximum safety."
-  },
-  {
-    "id": "wewcq_140426_2",
-    "teamA": {
-      "name": "Latvia",
-      "icon": "https://media.api-sports.io/football/teams/739.png"
-    },
-    "teamB": {
-      "name": "Portugal",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-14",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Portugal’s technical superiority and stronger squad depth give them a clear edge over Latvia. Even away from home, Portugal are unlikely to lose, making X2 a safe option."
-  },
-  {
-    "id": "wewcq_140426_3",
-    "teamA": {
-      "name": "Andorra",
-      "icon": "https://media.api-sports.io/football/teams/1573.png"
-    },
-    "teamB": {
-      "name": "Azerbaijan",
-      "icon": "https://media.api-sports.io/football/teams/557.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-14",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams have weak defensive structures and consistently concede goals. Historical trends strongly support matches exceeding 1.5 goals."
-  },
-  {
-    "id": "wewcq_140426_4",
-    "teamA": {
-      "name": "Estonia",
-      "icon": "https://media.api-sports.io/football/teams/573.png"
-    },
-    "teamB": {
-      "name": "Liechtenstein",
-      "icon": "https://media.api-sports.io/football/teams/575.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-14",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Liechtenstein shows extremely poor defensive numbers, conceding heavily in recent matches. Estonia’s home advantage and slightly stronger structure make 1X a safe pick."
-  },
-  {
-    "id": "spl_140426_1",
-    "teamA": {
-      "name": "Al Qadsiah",
-      "icon": "https://media.api-sports.io/football/teams/3081.png"
-    },
-    "teamB": {
-      "name": "Al Shabab",
+      "name": "Al Ettifaq",
       "icon": "https://media.api-sports.io/football/teams/2939.png"
     },
     "leagueName": "Saudi Arabian League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-14",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Al Qadsiah’s unbeaten home record and consistent form provide a strong edge, while Al Shabab’s poor away results reduce their chances of an upset."
-  },
-  {
-    "id": "npfl_140426_1",
-    "teamA": {
-      "name": "El Kanemi Warriors",
-      "icon": "https://media.api-sports.io/football/teams/4167.png"
-    },
-    "teamB": {
-      "name": "Nasarawa United",
-      "icon": "https://media.api-sports.io/football/teams/4170.png"
-    },
-    "leagueName": "Nigerian Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-14",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "El Kanemi consistently hits over 1.5 goals at home, while Nasarawa also shows a solid trend toward low but consistent scoring games exceeding this line."
-  },
-  {
-    "id": "wewcq_140426_5",
-    "teamA": {
-      "name": "Germany",
-      "icon": "https://media.api-sports.io/football/teams/1590.png"
-    },
-    "teamB": {
-      "name": "Austria",
-      "icon": "https://media.api-sports.io/football/teams/1591.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-14",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-15",
     "confidence": "Very High",
     "safetyRating": 10,
-    "reason": "Germany’s dominance in quality, depth, and historical head-to-head results makes them overwhelming favorites. The 1X option ensures maximum safety."
+    "reason": "Both teams consistently produce goals, with Al Nassr especially dominant offensively. Historical trends strongly support at least two goals."
   },
   {
-    "id": "lib_140426_1",
+    "id": "magesi_kaizerchiefs_20260415",
     "teamA": {
-      "name": "Cerro Porteño",
-      "icon": "https://media.api-sports.io/football/teams/2402.png"
+      "name": "Magesi",
+      "icon": "https://media.api-sports.io/football/teams/6978.png"
     },
     "teamB": {
-      "name": "Junior",
-      "icon": "https://media.api-sports.io/football/teams/2408.png"
+      "name": "Kaizer Chiefs",
+      "icon": "https://media.api-sports.io/football/teams/305.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-14",
+    "leagueName": "South Africa PSL",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-15",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Cerro Porteño’s home strength and tactical stability give them an advantage, while Junior’s inconsistent away performances reduce their winning probability."
+    "reason": "Kaizer Chiefs have better squad quality and recent form, while Magesi struggle offensively, making an away loss unlikely."
+  },
+  {
+    "id": "afcwimbledon_stockport_20260415",
+    "teamA": {
+      "name": "AFC Wimbledon",
+      "icon": "https://media.api-sports.io/football/teams/1044.png"
+    },
+    "teamB": {
+      "name": "Stockport County",
+      "icon": "https://media.api-sports.io/football/teams/1352.png"
+    },
+    "leagueName": "League One",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-15",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Stockport are in stronger form and more consistent, while Wimbledon are struggling, reducing the likelihood of a home win."
+  },
+  {
+    "id": "luton_northampton_20260415",
+    "teamA": {
+      "name": "Luton Town",
+      "icon": "https://media.api-sports.io/football/teams/1359.png"
+    },
+    "teamB": {
+      "name": "Northampton Town",
+      "icon": "https://media.api-sports.io/football/teams/1353.png"
+    },
+    "leagueName": "League One",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-15",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Luton’s strong home performances and better motivation give them a clear edge, while Northampton lack consistency."
+  },
+  {
+    "id": "tromso_lillestrom_20260415",
+    "teamA": {
+      "name": "Tromsø",
+      "icon": "https://media.api-sports.io/football/teams/521.png"
+    },
+    "teamB": {
+      "name": "Lillestrøm",
+      "icon": "https://media.api-sports.io/football/teams/524.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-15",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Both teams are involved in matches with regular goals, and head-to-head trends favor at least two goals."
   }
 ]
