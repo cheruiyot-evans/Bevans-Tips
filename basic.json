@@ -1,87 +1,87 @@
 [
   {
-    "id": "alnassr_alettifaq_20260415",
+    "id": "civ-pak-20260416",
     "teamA": {
-      "name": "Al Nassr",
-      "icon": "https://media.api-sports.io/football/teams/2896.png"
+      "name": "Côte d'Ivoire",
+      "icon": "https://example.com/cote-divoire-logo.png"
     },
     "teamB": {
-      "name": "Al Ettifaq",
-      "icon": "https://media.api-sports.io/football/teams/2939.png"
+      "name": "Pakistan",
+      "icon": "https://example.com/pakistan-logo.png"
     },
-    "leagueName": "Saudi Arabian League",
-    "prediction": "OVER 1.5",
-    "date": "2026-04-15",
+    "leagueName": "Internationals Women Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-16",
     "confidence": "Very High",
     "safetyRating": 10,
-    "reason": "Both teams consistently produce goals, with Al Nassr especially dominant offensively. Historical trends strongly support at least two goals."
+    "reason": "Côte d'Ivoire show strong dominance and scoring consistency, while Pakistan struggle heavily in away fixtures, making a home loss highly unlikely."
   },
   {
-    "id": "magesi_kaizerchiefs_20260415",
+    "id": "sen-bfa-20260416",
     "teamA": {
-      "name": "Magesi",
-      "icon": "https://media.api-sports.io/football/teams/6978.png"
+      "name": "Senegal",
+      "icon": "https://example.com/senegal-logo.png"
     },
     "teamB": {
-      "name": "Kaizer Chiefs",
-      "icon": "https://media.api-sports.io/football/teams/305.png"
+      "name": "Burkina Faso",
+      "icon": "https://example.com/burkina-faso-logo.png"
     },
-    "leagueName": "South Africa PSL",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-15",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Kaizer Chiefs have better squad quality and recent form, while Magesi struggle offensively, making an away loss unlikely."
-  },
-  {
-    "id": "afcwimbledon_stockport_20260415",
-    "teamA": {
-      "name": "AFC Wimbledon",
-      "icon": "https://media.api-sports.io/football/teams/1044.png"
-    },
-    "teamB": {
-      "name": "Stockport County",
-      "icon": "https://media.api-sports.io/football/teams/1352.png"
-    },
-    "leagueName": "League One",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-15",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Stockport are in stronger form and more consistent, while Wimbledon are struggling, reducing the likelihood of a home win."
-  },
-  {
-    "id": "luton_northampton_20260415",
-    "teamA": {
-      "name": "Luton Town",
-      "icon": "https://media.api-sports.io/football/teams/1359.png"
-    },
-    "teamB": {
-      "name": "Northampton Town",
-      "icon": "https://media.api-sports.io/football/teams/1353.png"
-    },
-    "leagueName": "League One",
+    "leagueName": "Internationals Women Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-15",
+    "date": "2026-04-16",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Luton’s strong home performances and better motivation give them a clear edge, while Northampton lack consistency."
+    "reason": "Senegal possess superior squad quality and recent form, and historically edge this matchup, making them unlikely to lose."
   },
   {
-    "id": "tromso_lillestrom_20260415",
+    "id": "tun-com-20260416",
     "teamA": {
-      "name": "Tromsø",
-      "icon": "https://media.api-sports.io/football/teams/521.png"
+      "name": "Tunisia",
+      "icon": "https://example.com/tunisia-logo.png"
     },
     "teamB": {
-      "name": "Lillestrøm",
-      "icon": "https://media.api-sports.io/football/teams/524.png"
+      "name": "Comoros",
+      "icon": "https://example.com/comoros-logo.png"
     },
-    "leagueName": "Norwegian Eliteserien",
+    "leagueName": "Internationals Women Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-16",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Tunisia are more structured and consistent, especially at home, while Comoros lack attacking threat, supporting a safe 1X outcome."
+  },
+  {
+    "id": "tci-mrt-20260416",
+    "teamA": {
+      "name": "Turks and Caicos Islands",
+      "icon": "https://example.com/turks-caicos-logo.png"
+    },
+    "teamB": {
+      "name": "Mauritania",
+      "icon": "https://example.com/mauritania-logo.png"
+    },
+    "leagueName": "Internationals Women Friendlies",
     "prediction": "OVER 1.5",
-    "date": "2026-04-15",
+    "date": "2026-04-16",
     "confidence": "Medium-High",
     "safetyRating": 7,
-    "reason": "Both teams are involved in matches with regular goals, and head-to-head trends favor at least two goals."
+    "reason": "Matches involving developing national teams often produce defensive gaps, increasing the likelihood of at least two total goals."
+  },
+  {
+    "id": "cel-fre-20260416",
+    "teamA": {
+      "name": "Celta Vigo",
+      "icon": "https://example.com/celta-vigo-logo.png"
+    },
+    "teamB": {
+      "name": "Freiburg",
+      "icon": "https://example.com/freiburg-logo.png"
+    },
+    "leagueName": "UEFA Europa League Quarter-finals",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-16",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "With an aggregate deficit, Celta Vigo are expected to push forward aggressively, creating an open game that favors multiple goals."
   }
 ]
