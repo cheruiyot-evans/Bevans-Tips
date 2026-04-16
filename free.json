@@ -1,36 +1,36 @@
 [
   {
-    "id": "alnassr_alettifaq_20260415",
+    "id": "civ-pak-20260416",
     "teamA": {
-      "name": "Al Nassr",
-      "icon": "https://media.api-sports.io/football/teams/2896.png"
+      "name": "Côte d'Ivoire",
+      "icon": "https://example.com/cote-divoire-logo.png"
     },
     "teamB": {
-      "name": "Al Ettifaq",
-      "icon": "https://media.api-sports.io/football/teams/2939.png"
+      "name": "Pakistan",
+      "icon": "https://example.com/pakistan-logo.png"
     },
-    "leagueName": "Saudi Arabian League",
-    "prediction": "OVER 1.5",
-    "date": "2026-04-15",
+    "leagueName": "Internationals Women Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-16",
     "confidence": "Very High",
     "safetyRating": 10,
-    "reason": "Al Nassr are in excellent scoring form with 5 straight wins and 16 goals scored. Strong home dominance and consistent high-scoring patterns make at least two goals highly likely."
+    "reason": "Côte d'Ivoire are in excellent form with strong attacking consistency, while Pakistan remain winless and weak away, making a home loss highly unlikely."
   },
   {
-    "id": "magesi_kaizerchiefs_20260415",
+    "id": "sen-bfa-20260416",
     "teamA": {
-      "name": "Magesi",
-      "icon": "https://media.api-sports.io/football/teams/6978.png"
+      "name": "Senegal",
+      "icon": "https://example.com/senegal-logo.png"
     },
     "teamB": {
-      "name": "Kaizer Chiefs",
-      "icon": "https://media.api-sports.io/football/teams/305.png"
+      "name": "Burkina Faso",
+      "icon": "https://example.com/burkina-faso-logo.png"
     },
-    "leagueName": "South Africa PSL",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-15",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Kaizer Chiefs are defensively solid, conceding just once in their last four matches. Magesi struggle in attack and have poor head-to-head results, making an away loss unlikely."
+    "leagueName": "Internationals Women Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-16",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Senegal have the stronger squad and recent edge in head-to-head encounters, making them unlikely to lose this matchup."
   }
 ]
