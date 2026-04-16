@@ -1,87 +1,87 @@
 [
   {
-    "id": "wewcq_140426_1",
+    "id": "civ-pak-20260416",
     "teamA": {
-      "name": "Gibraltar",
-      "icon": "https://media.api-sports.io/football/teams/2076.png"
+      "name": "Côte d'Ivoire",
+      "icon": "https://example.com/cote-divoire-logo.png"
     },
     "teamB": {
-      "name": "Croatia",
-      "icon": "https://media.api-sports.io/football/teams/448.png"
+      "name": "Pakistan",
+      "icon": "https://example.com/pakistan-logo.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-14",
+    "leagueName": "Internationals Women Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-16",
     "confidence": "Very High",
     "safetyRating": 10,
-    "reason": "Croatia’s superior quality and attacking strength far exceed Gibraltar’s level. Gibraltar concedes heavily, making an away win highly likely, with X2 ensuring maximum safety."
+    "reason": "Côte d'Ivoire show strong dominance and scoring consistency, while Pakistan struggle heavily in away fixtures, making a home loss highly unlikely."
   },
   {
-    "id": "wewcq_140426_2",
+    "id": "sen-bfa-20260416",
     "teamA": {
-      "name": "Latvia",
-      "icon": "https://media.api-sports.io/football/teams/739.png"
+      "name": "Senegal",
+      "icon": "https://example.com/senegal-logo.png"
     },
     "teamB": {
-      "name": "Portugal",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
+      "name": "Burkina Faso",
+      "icon": "https://example.com/burkina-faso-logo.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-14",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Portugal’s stronger squad and consistent performances give them a clear edge over Latvia. Even away from home, Portugal are unlikely to lose, making X2 a safe pick."
-  },
-  {
-    "id": "wewcq_140426_3",
-    "teamA": {
-      "name": "Estonia",
-      "icon": "https://media.api-sports.io/football/teams/573.png"
-    },
-    "teamB": {
-      "name": "Liechtenstein",
-      "icon": "https://media.api-sports.io/football/teams/575.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
+    "leagueName": "Internationals Women Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-14",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Liechtenstein’s poor defensive record and heavy recent defeats make Estonia favorites, especially at home. The 1X option minimizes risk effectively."
-  },
-  {
-    "id": "wewcq_140426_4",
-    "teamA": {
-      "name": "Germany",
-      "icon": "https://media.api-sports.io/football/teams/1590.png"
-    },
-    "teamB": {
-      "name": "Austria",
-      "icon": "https://media.api-sports.io/football/teams/1591.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-14",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Germany’s dominance in quality, depth, and historical head-to-head performance makes them overwhelming favorites. The 1X option ensures maximum safety."
-  },
-  {
-    "id": "wewcq_140426_5",
-    "teamA": {
-      "name": "Andorra",
-      "icon": "https://media.api-sports.io/football/teams/1573.png"
-    },
-    "teamB": {
-      "name": "Azerbaijan",
-      "icon": "https://media.api-sports.io/football/teams/557.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-14",
+    "date": "2026-04-16",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Both teams have weak defensive structures and consistently concede goals. Trends strongly support matches exceeding the 1.5 goal mark."
+    "reason": "Senegal possess superior squad quality and recent form, and historically edge this matchup, making them unlikely to lose."
+  },
+  {
+    "id": "tun-com-20260416",
+    "teamA": {
+      "name": "Tunisia",
+      "icon": "https://example.com/tunisia-logo.png"
+    },
+    "teamB": {
+      "name": "Comoros",
+      "icon": "https://example.com/comoros-logo.png"
+    },
+    "leagueName": "Internationals Women Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-16",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Tunisia are more structured and consistent, especially at home, while Comoros lack attacking threat, supporting a safe 1X outcome."
+  },
+  {
+    "id": "tci-mrt-20260416",
+    "teamA": {
+      "name": "Turks and Caicos Islands",
+      "icon": "https://example.com/turks-caicos-logo.png"
+    },
+    "teamB": {
+      "name": "Mauritania",
+      "icon": "https://example.com/mauritania-logo.png"
+    },
+    "leagueName": "Internationals Women Friendlies",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-16",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Matches involving developing national teams often produce defensive gaps, increasing the likelihood of at least two total goals."
+  },
+  {
+    "id": "cel-fre-20260416",
+    "teamA": {
+      "name": "Celta Vigo",
+      "icon": "https://example.com/celta-vigo-logo.png"
+    },
+    "teamB": {
+      "name": "Freiburg",
+      "icon": "https://example.com/freiburg-logo.png"
+    },
+    "leagueName": "UEFA Europa League Quarter-finals",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-16",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "With an aggregate deficit, Celta Vigo are expected to push forward aggressively, creating an open game that favors multiple goals."
   }
 ]
