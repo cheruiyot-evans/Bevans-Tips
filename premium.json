@@ -1,87 +1,172 @@
 [
   {
-    "id": "civ-pak-20260416",
+    "id": "inter_milan_cagliari",
     "teamA": {
-      "name": "Côte d'Ivoire",
-      "icon": "https://example.com/cote-divoire-logo.png"
+      "name": "Inter Milan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1034/image.png"
     },
     "teamB": {
-      "name": "Pakistan",
-      "icon": "https://example.com/pakistan-logo.png"
+      "name": "Cagliari",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1034/image.png"
     },
-    "leagueName": "Internationals Women Friendlies",
+    "leagueName": "Italian Serie A",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-16",
+    "date": "2026-04-17",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Côte d'Ivoire show strong dominance and scoring consistency, while Pakistan struggle heavily in away fixtures, making a home loss highly unlikely."
+    "safetyRating": 9,
+    "reason": "Inter Milan are dominant at home with superior squad depth and attacking consistency, while Cagliari struggle significantly away, making a home loss highly unlikely."
   },
   {
-    "id": "sen-bfa-20260416",
+    "id": "fenerbahce_rizespor",
     "teamA": {
-      "name": "Senegal",
-      "icon": "https://example.com/senegal-logo.png"
+      "name": "Fenerbahçe",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2123/image.png"
     },
     "teamB": {
-      "name": "Burkina Faso",
-      "icon": "https://example.com/burkina-faso-logo.png"
+      "name": "Rizespor",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2123/image.png"
     },
-    "leagueName": "Internationals Women Friendlies",
+    "leagueName": "Turkish Super Lig",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-16",
+    "date": "2026-04-17",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Senegal possess superior squad quality and recent form, and historically edge this matchup, making them unlikely to lose."
+    "reason": "Fenerbahçe are title contenders with strong scoring form, while Rizespor concede frequently away, supporting a safe non-loss outcome for the hosts."
   },
   {
-    "id": "tun-com-20260416",
+    "id": "dynamo_kyiv_zorya",
     "teamA": {
-      "name": "Tunisia",
-      "icon": "https://example.com/tunisia-logo.png"
+      "name": "Dynamo Kyiv",
+      "icon": "https://cdn.sofascore.app/api/v1/team/84/image.png"
     },
     "teamB": {
-      "name": "Comoros",
-      "icon": "https://example.com/comoros-logo.png"
+      "name": "Zorya",
+      "icon": "https://cdn.sofascore.app/api/v1/team/84/image.png"
     },
-    "leagueName": "Internationals Women Friendlies",
+    "leagueName": "Ukraine Premier League",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-16",
+    "date": "2026-04-17",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Tunisia are more structured and consistent, especially at home, while Comoros lack attacking threat, supporting a safe 1X outcome."
+    "reason": "Dynamo Kyiv have strong home performances and better defensive structure, while Zorya struggle against top teams, making Dynamo unlikely to lose."
   },
   {
-    "id": "tci-mrt-20260416",
+    "id": "shamrock_rovers_bohemians",
     "teamA": {
-      "name": "Turks and Caicos Islands",
-      "icon": "https://example.com/turks-caicos-logo.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/512/image.png"
     },
     "teamB": {
-      "name": "Mauritania",
-      "icon": "https://example.com/mauritania-logo.png"
+      "name": "Bohemians",
+      "icon": "https://cdn.sofascore.app/api/v1/team/512/image.png"
     },
-    "leagueName": "Internationals Women Friendlies",
-    "prediction": "OVER 1.5",
-    "date": "2026-04-16",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Matches involving developing national teams often produce defensive gaps, increasing the likelihood of at least two total goals."
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-17",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Shamrock Rovers are consistently strong at home with better attacking output, while Bohemians show inconsistency away, making a home defeat unlikely."
   },
   {
-    "id": "cel-fre-20260416",
+    "id": "stellenbosch_sekhukhune",
     "teamA": {
-      "name": "Celta Vigo",
-      "icon": "https://example.com/celta-vigo-logo.png"
+      "name": "Stellenbosch",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3456/image.png"
     },
     "teamB": {
-      "name": "Freiburg",
-      "icon": "https://example.com/freiburg-logo.png"
+      "name": "Sekhukhune United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3456/image.png"
     },
-    "leagueName": "UEFA Europa League Quarter-finals",
-    "prediction": "OVER 1.5",
-    "date": "2026-04-16",
+    "leagueName": "South Africa PSL",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-17",
     "confidence": "Medium-High",
     "safetyRating": 7,
-    "reason": "With an aggregate deficit, Celta Vigo are expected to push forward aggressively, creating an open game that favors multiple goals."
+    "reason": "Stellenbosch have a solid home record and slight quality edge, while Sekhukhune struggle to convert chances away, supporting a safer 1X pick."
+  },
+  {
+    "id": "melbourne_victory_jets",
+    "teamA": {
+      "name": "Melbourne Victory",
+      "icon": "https://cdn.sofascore.app/api/v1/team/212/image.png"
+    },
+    "teamB": {
+      "name": "Newcastle Jets",
+      "icon": "https://cdn.sofascore.app/api/v1/team/212/image.png"
+    },
+    "leagueName": "Australian A-League Men",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-17",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams play open attacking football and consistently produce goals, making at least two goals highly probable."
+  },
+  {
+    "id": "flamengo_independiente_medellin",
+    "teamA": {
+      "name": "Flamengo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1023/image.png"
+    },
+    "teamB": {
+      "name": "Independiente Medellín",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1023/image.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-17",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Flamengo possess superior squad quality and strong home advantage, while Medellín struggle against top-tier opposition, making a home loss unlikely."
+  },
+  {
+    "id": "shandong_taishan_shanghai_port",
+    "teamA": {
+      "name": "Shandong Taishan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/10201/image.png"
+    },
+    "teamB": {
+      "name": "Shanghai Port",
+      "icon": "https://cdn.sofascore.app/api/v1/team/10201/image.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-17",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Both teams have strong attacking records and frequent high-scoring encounters, making two or more goals very likely."
+  },
+  {
+    "id": "dundalk_galway_united",
+    "teamA": {
+      "name": "Dundalk",
+      "icon": "https://cdn.sofascore.app/api/v1/team/516/image.png"
+    },
+    "teamB": {
+      "name": "Galway United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/516/image.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-17",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Recent meetings and attacking trends suggest a high likelihood of multiple goals, with both teams capable of contributing."
+  },
+  {
+    "id": "blackburn_cov",
+    "teamA": {
+      "name": "Blackburn Rovers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/412/image.png"
+    },
+    "teamB": {
+      "name": "Coventry City",
+      "icon": "https://cdn.sofascore.app/api/v1/team/412/image.png"
+    },
+    "leagueName": "Championship",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-17",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Coventry City show better overall form and consistency, while Blackburn are inconsistent, making the away side safer to avoid defeat."
   }
 ]
