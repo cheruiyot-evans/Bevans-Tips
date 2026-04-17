@@ -1,36 +1,53 @@
 [
   {
-    "id": "civ-pak-20260416",
+    "id": "inter_milan_cagliari",
     "teamA": {
-      "name": "Côte d'Ivoire",
-      "icon": "https://example.com/cote-divoire-logo.png"
+      "name": "Inter Milan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1034/image.png"
     },
     "teamB": {
-      "name": "Pakistan",
-      "icon": "https://example.com/pakistan-logo.png"
+      "name": "Cagliari",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1034/image.png"
     },
-    "leagueName": "Internationals Women Friendlies",
+    "leagueName": "Italian Serie A",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-16",
+    "date": "2026-04-17",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Côte d'Ivoire are in excellent form with strong attacking consistency, while Pakistan remain winless and weak away, making a home loss highly unlikely."
+    "safetyRating": 9,
+    "reason": "Inter Milan are dominant at home with superior attacking quality and consistency, while Cagliari struggle significantly in away fixtures, making a home loss highly unlikely."
   },
   {
-    "id": "sen-bfa-20260416",
+    "id": "fenerbahce_rizespor",
     "teamA": {
-      "name": "Senegal",
-      "icon": "https://example.com/senegal-logo.png"
+      "name": "Fenerbahçe",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2123/image.png"
     },
     "teamB": {
-      "name": "Burkina Faso",
-      "icon": "https://example.com/burkina-faso-logo.png"
+      "name": "Rizespor",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2123/image.png"
     },
-    "leagueName": "Internationals Women Friendlies",
+    "leagueName": "Turkish Super Lig",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-16",
+    "date": "2026-04-17",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Senegal have the stronger squad and recent edge in head-to-head encounters, making them unlikely to lose this matchup."
+    "reason": "Fenerbahçe have strong attacking form and home advantage, while Rizespor concede frequently away, supporting a safe non-loss outcome for the hosts."
+  },
+  {
+    "id": "dynamo_kyiv_zorya",
+    "teamA": {
+      "name": "Dynamo Kyiv",
+      "icon": "https://cdn.sofascore.app/api/v1/team/84/image.png"
+    },
+    "teamB": {
+      "name": "Zorya",
+      "icon": "https://cdn.sofascore.app/api/v1/team/84/image.png"
+    },
+    "leagueName": "Ukraine Premier League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-17",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Dynamo Kyiv show strong home performances and defensive solidity, while Zorya struggle against stronger sides, making a home defeat unlikely."
   }
 ]
