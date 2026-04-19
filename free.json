@@ -1,52 +1,52 @@
 [
-{ "id": "bayer-leverkusen-augsburg",
+{ "id": "porto-tondela",
 "teamA": {
-"name": "Bayer Leverkusen",
-"icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
+"name": "Porto",
+"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
 },
 "teamB": {
-"name": "Augsburg",
-"icon": "https://cdn.sofascore.app/api/v1/team/2402/image.png"
+"name": "Tondela",
+"icon": "https://cdn.sofascore.app/api/v1/team/50023/image.png"
 },
-"leagueName": "German Bundesliga",
+"leagueName": "Portuguese Primeira Liga",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-18",
+"date": "2026-04-19",
 "confidence": "Very High",
-"safetyRating": 9,
-"reason": "Leverkusen unbeaten in last 10 home games with 4 straight H2H wins vs Augsburg, who have key defensive injuries."
+"safetyRating": 9.5,
+"reason": "Porto unbeaten at home vs Tondela in last 6 H2H, strong home form averaging 2.2 goals scored, Tondela struggling in league."
 
 },
-{ "id": "spain-ukraine-women",
+{ "id": "celtic-st-mirren",
 "teamA": {
-"name": "Spain",
-"icon": "https://cdn.sofascore.app/api/v1/team/4340/image.png"
+"name": "Celtic",
+"icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
 },
 "teamB": {
-"name": "Ukraine",
-"icon": "https://cdn.sofascore.app/api/v1/team/4341/image.png"
+"name": "St. Mirren",
+"icon": "https://cdn.sofascore.app/api/v1/team/190/image.png"
 },
-"leagueName": "Women's European World Cup Qualifiers",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-18",
+"leagueName": "Scottish Cup",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
 "confidence": "Very High",
-"safetyRating": 9,
-"reason": "Spain won recent H2H 3-1 away; qualifiers avg 3+ goals, Ukraine concedes heavily to elite teams."
+"safetyRating": 9.2,
+"reason": "Celtic won 38 of 46 H2H vs St Mirren, St Mirren poor recent home form with 3 losses in last 6, multiple injuries for visitors."
 
 },
-{ "id": "croatia-gibraltar-women",
+{ "id": "viktoria-plzen-pardubice",
 "teamA": {
-"name": "Croatia",
-"icon": "https://cdn.sofascore.app/api/v1/team/4350/image.png"
+"name": "Viktoria Plzeň",
+"icon": "https://cdn.sofascore.app/api/v1/team/596/image.png"
 },
 "teamB": {
-"name": "Gibraltar",
-"icon": "https://cdn.sofascore.app/api/v1/team/4360/image.png"
+"name": "Pardubice",
+"icon": "https://cdn.sofascore.app/api/v1/team/2523/image.png"
 },
-"leagueName": "Women's European World Cup Qualifiers",
+"leagueName": "Czech First League",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-18",
+"date": "2026-04-19",
 "confidence": "Very High",
-"safetyRating": 10,
-"reason": "Gibraltar minnows lose all vs top sides; Croatia strong form and predictions favor heavy win."
+"safetyRating": 9,
+"reason": "Plzen won 8 of last 11 H2H vs Pardubice, strong home record and recent 5-1 win in fixture, Pardubice mid-table."
 
 } ]
