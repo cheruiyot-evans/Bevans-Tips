@@ -1,128 +1,321 @@
 [
-  {
-    "id": "bayer_leverkusen_augsburg_20260418",
-    "teamA": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://cdn.sofascore.app/api/v1/team/36/image.png"
-    },
-    "teamB": {
-      "name": "Augsburg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/16/image.png"
-    },
-    "leagueName": "German Bundesliga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-18",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "odds_range": "1.20 - 1.40",
-    "reason": "Leverkusen dominant in recent H2H and very strong at home; Augsburg missing key defensive players."
-  },
-  {
-    "id": "spain_ukraine_women_20260418",
-    "teamA": {
-      "name": "Spain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4698/image.png"
-    },
-    "teamB": {
-      "name": "Ukraine",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4689/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "OVER 1.5",
-    "date": "2026-04-18",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "odds_range": "1.25 - 1.45",
-    "reason": "Spain consistently score multiple goals and Ukraine concede heavily against top opposition."
-  },
-  {
-    "id": "france_netherlands_women_20260418",
-    "teamA": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4700/image.png"
-    },
-    "teamB": {
-      "name": "Netherlands",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4702/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-18",
-    "confidence": "High",
-    "safetyRating": 8,
-    "odds_range": "1.30 - 1.50",
-    "reason": "France in excellent winning form; Netherlands struggling defensively in recent matches."
-  },
-  {
-    "id": "croatia_gibraltar_women_20260418",
-    "teamA": {
-      "name": "Croatia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
-    },
-    "teamB": {
-      "name": "Gibraltar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-18",
-    "confidence": "Extremely High",
-    "safetyRating": 10,
-    "odds_range": "1.05 - 1.15",
-    "reason": "Huge quality gap; Gibraltar among weakest sides while Croatia dominate weaker opposition."
-  },
-  {
-    "id": "slovakia_portugal_women_20260418",
-    "teamA": {
-      "name": "Slovakia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4718/image.png"
-    },
-    "teamB": {
-      "name": "Portugal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-04-18",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "odds_range": "1.15 - 1.30",
-    "reason": "Portugal superior quality and strong H2H dominance, including a recent 4-0 win."
-  },
-  {
-    "id": "austria_germany_women_20260418",
-    "teamA": {
-      "name": "Austria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
-    },
-    "teamB": {
-      "name": "Germany",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4705/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "OVER 1.5",
-    "date": "2026-04-18",
-    "confidence": "High",
-    "safetyRating": 8,
-    "odds_range": "1.20 - 1.40",
-    "reason": "Both teams’ scoring trends and H2H history strongly favor at least two goals."
-  },
-  {
-    "id": "shanghai_shenhua_liaoning_20260418",
-    "teamA": {
-      "name": "Shanghai Shenhua",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1993/image.png"
-    },
-    "teamB": {
-      "name": "Liaoning Tieren",
-      "icon": "https://cdn.sofascore.app/api/v1/team/10230/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-04-18",
-    "confidence": "High",
-    "safetyRating": 8,
-    "odds_range": "1.25 - 1.45",
-    "reason": "Shanghai Shenhua strong at home; safer approach is backing them to avoid defeat."
-  }
-]
+{ "id": "porto-tondela",
+"teamA": {
+"name": "Porto",
+"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+},
+"teamB": {
+"name": "Tondela",
+"icon": "https://cdn.sofascore.app/api/v1/team/50023/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Very High",
+"safetyRating": 9.5,
+"reason": "Porto unbeaten at home vs Tondela in last 6 H2H, strong home form averaging 2.2 goals scored, Tondela struggling in league."
+},
+{ "id": "celtic-st-mirren",
+"teamA": {
+"name": "Celtic",
+"icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
+},
+"teamB": {
+"name": "St. Mirren",
+"icon": "https://cdn.sofascore.app/api/v1/team/190/image.png"
+},
+"leagueName": "Scottish Cup",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Very High",
+"safetyRating": 9.2,
+"reason": "Celtic won 38 of 46 H2H vs St Mirren, St Mirren poor recent form with 3 losses in last 6, multiple injuries for visitors."
+},
+{ "id": "viktoria-plzen-pardubice",
+"teamA": {
+"name": "Viktoria Plzeň",
+"icon": "https://cdn.sofascore.app/api/v1/team/596/image.png"
+},
+"teamB": {
+"name": "Pardubice",
+"icon": "https://cdn.sofascore.app/api/v1/team/2523/image.png"
+},
+"leagueName": "Czech First League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Plzen won 8 of last 11 H2H vs Pardubice, strong home record and recent 5-1 win in fixture, Pardubice mid-table."
+},
+{ "id": "juventus-bologna",
+"teamA": {
+"name": "Juventus",
+"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
+},
+"teamB": {
+"name": "Bologna",
+"icon": "https://cdn.sofascore.app/api/v1/team/119/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.8,
+"reason": "Juventus solid home form unbeaten in 8, Bologna competitive but rarely beats top sides away."
+},
+{ "id": "psg-lyon",
+"teamA": {
+"name": "Paris Saint-Germain",
+"icon": "https://cdn.sofascore.app/api/v1/team/164/image.png"
+},
+"teamB": {
+"name": "Olympique Lyonnais",
+"icon": "https://cdn.sofascore.app/api/v1/team/162/image.png"
+},
+"leagueName": "French Ligue 1",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.7,
+"reason": "PSG dominant in recent H2H winning 83% of last 6 vs Lyon, strong home advantage."
+},
+{ "id": "bayern-stuttgart",
+"teamA": {
+"name": "Bayern Munich",
+"icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
+},
+"teamB": {
+"name": "Stuttgart",
+"icon": "https://cdn.sofascore.app/api/v1/team/2402/image.png"
+},
+"leagueName": "German Bundesliga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.6,
+"reason": "Bayern unbeaten home vs Stuttgart in 10+ years, superior squad depth despite Stuttgart's form."
+},
+{ "id": "man-city-arsenal",
+"teamA": {
+"name": "Manchester City",
+"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+},
+"teamB": {
+"name": "Arsenal",
+"icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
+},
+"leagueName": "Premier League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.5,
+"reason": "Last 8 H2H averaged 3.2 goals, both teams top scorers with leaky defenses recently."
+},
+{ "id": "sporting-cp-benfica",
+"teamA": {
+"name": "Sporting CP",
+"icon": "https://cdn.sofascore.app/api/v1/team/3001/image.png"
+},
+"teamB": {
+"name": "Benfica",
+"icon": "https://cdn.sofascore.app/api/v1/team/3004/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.4,
+"reason": "Portuguese derby always goals: 92% Over 1.5 in last 12 meetings, both attack-focused."
+},
+{ "id": "liverpool-everton",
+"teamA": {
+"name": "Everton",
+"icon": "https://cdn.sofascore.app/api/v1/team/45/image.png"
+},
+"teamB": {
+"name": "Liverpool",
+"icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
+},
+"leagueName": "Premier League",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.3,
+"reason": "Liverpool won 22 of last 25 Merseyside derbies, Everton poor recent form vs top sides."
+},
+{ "id": "peterborough-burton",
+"teamA": {
+"name": "Peterborough United",
+"icon": "https://cdn.sofascore.app/api/v1/team/2160/image.png"
+},
+"teamB": {
+"name": "Burton Albion",
+"icon": "https://cdn.sofascore.app/api/v1/team/2164/image.png"
+},
+"leagueName": "League One",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.2,
+"reason": "Peterborough top scorers in League One, Burton bottom 4 with worst away defense."
+},
+{ "id": "wigan-port-vale",
+"teamA": {
+"name": "Port Vale",
+"icon": "https://cdn.sofascore.app/api/v1/team/2165/image.png"
+},
+"teamB": {
+"name": "Wigan Athletic",
+"icon": "https://cdn.sofascore.app/api/v1/team/2166/image.png"
+},
+"leagueName": "League One",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-19",
+"confidence": "High",
+"safetyRating": 8.1,
+"reason": "Wigan strong favorites, Port Vale relegation candidates with poor home record."
+},
+{ "id": "monaco-auxerre",
+"teamA": {
+"name": "Monaco",
+"icon": "https://cdn.sofascore.app/api/v1/team/1646/image.png"
+},
+"teamB": {
+"name": "Auxerre",
+"icon": "https://cdn.sofascore.app/api/v1/team/1647/image.png"
+},
+"leagueName": "French Ligue 1",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 8.0,
+"reason": "Monaco 2nd in Ligue 1, Auxerre newly promoted struggling vs top teams."
+},
+{ "id": "red-bull-salzburg-austria-wien",
+"teamA": {
+"name": "Austria Wien",
+"icon": "https://cdn.sofascore.app/api/v1/team/2935/image.png"
+},
+"teamB": {
+"name": "Red Bull Salzburg",
+"icon": "https://cdn.sofascore.app/api/v1/team/2936/image.png"
+},
+"leagueName": "Austrian Bundesliga",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.9,
+"reason": "Salzburg Austrian champions, won 15 of last 18 vs Austria Wien."
+},
+{ "id": "lask-sturm-graz",
+"teamA": {
+"name": "LASK",
+"icon": "https://cdn.sofascore.app/api/v1/team/2937/image.png"
+},
+"teamB": {
+"name": "Sturm Graz",
+"icon": "https://cdn.sofascore.app/api/v1/team/2938/image.png"
+},
+"leagueName": "Austrian Bundesliga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.8,
+"reason": "Both top championship contenders, 85% Over 1.5 in recent H2H."
+},
+{ "id": "palmeiras-athletico-pr",
+"teamA": {
+"name": "Palmeiras",
+"icon": "https://cdn.sofascore.app/api/v1/team/6085/image.png"
+},
+"teamB": {
+"name": "Athletico Paranaense",
+"icon": "https://cdn.sofascore.app/api/v1/team/6086/image.png"
+},
+"leagueName": "Brazilian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.7,
+"reason": "Palmeiras Brazilian champions, home dominance vs mid-table Athletico."
+},
+{ "id": "flamengo-bahia",
+"teamA": {
+"name": "Flamengo",
+"icon": "https://cdn.sofascore.app/api/v1/team/6083/image.png"
+},
+"teamB": {
+"name": "Bahia",
+"icon": "https://cdn.sofascore.app/api/v1/team/6084/image.png"
+},
+"leagueName": "Brazilian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.6,
+"reason": "Flamengo top of Serie A, Bahia inconsistent away from home."
+},
+{ "id": "slavia-prague-hradec-kralove",
+"teamA": {
+"name": "Hradec Králové",
+"icon": "https://cdn.sofascore.app/api/v1/team/597/image.png"
+},
+"teamB": {
+"name": "Slavia Prague",
+"icon": "https://cdn.sofascore.app/api/v1/team/598/image.png"
+},
+"leagueName": "Czech First League",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.5,
+"reason": "Slavia Czech title contenders, Hradec mid-table with poor record vs top sides."
+},
+{ "id": "sporting-braga-famalicao",
+"teamA": {
+"name": "Sporting Braga",
+"icon": "https://cdn.sofascore.app/api/v1/team/3003/image.png"
+},
+"teamB": {
+"name": "Famalicão",
+"icon": "https://cdn.sofascore.app/api/v1/team/3005/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.4,
+"reason": "Braga strong 3rd place home form, Famalicão mid-table strugglers."
+},
+{ "id": "ipswich-middlesbrough",
+"teamA": {
+"name": "Ipswich Town",
+"icon": "https://cdn.sofascore.app/api/v1/team/1648/image.png"
+},
+"teamB": {
+"name": "Middlesbrough",
+"icon": "https://cdn.sofascore.app/api/v1/team/1649/image.png"
+},
+"leagueName": "Championship",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.3,
+"reason": "Championship high-scoring league, both teams recent form Over 1.5 in 80% matches."
+},
+{ "id": "freiburg-heidenheim",
+"teamA": {
+"name": "Freiburg",
+"icon": "https://cdn.sofascore.app/api/v1/team/2401/image.png"
+},
+"teamB": {
+"name": "Heidenheim",
+"icon": "https://cdn.sofascore.app/api/v1/team/2403/image.png"
+},
+"leagueName": "German Bundesliga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-19",
+"confidence": "Medium-High",
+"safetyRating": 7.2,
+"reason": "Freiburg solid mid-table home record, Heidenheim relegation battle strugglers."
+} ]
