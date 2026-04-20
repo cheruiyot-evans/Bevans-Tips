@@ -1,52 +1,35 @@
 [
-{ "id": "porto-tondela",
+{ "id": "shakhtar-donetsk-polissya",
 "teamA": {
-"name": "Porto",
-"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+"name": "Shakhtar Donetsk",
+"icon": "https://cdn.sofascore.app/api/v1/team/621/image.png"
 },
 "teamB": {
-"name": "Tondela",
-"icon": "https://cdn.sofascore.app/api/v1/team/50023/image.png"
+"name": "Polissya",
+"icon": "https://cdn.sofascore.app/api/v1/team/109277/image.png"
 },
-"leagueName": "Portuguese Primeira Liga",
+"leagueName": "Ukraine Premier League",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "Very High",
-"safetyRating": 9.5,
-"reason": "Porto unbeaten at home vs Tondela in last 6 H2H, strong home form averaging 2.2 goals scored, Tondela struggling in league."
-
-},
-{ "id": "celtic-st-mirren",
-"teamA": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
-},
-"teamB": {
-"name": "St. Mirren",
-"icon": "https://cdn.sofascore.app/api/v1/team/190/image.png"
-},
-"leagueName": "Scottish Cup",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "Very High",
-"safetyRating": 9.2,
-"reason": "Celtic won 38 of 46 H2H vs St Mirren, St Mirren poor recent home form with 3 losses in last 6, multiple injuries for visitors."
-
-},
-{ "id": "viktoria-plzen-pardubice",
-"teamA": {
-"name": "Viktoria Plzeň",
-"icon": "https://cdn.sofascore.app/api/v1/team/596/image.png"
-},
-"teamB": {
-"name": "Pardubice",
-"icon": "https://cdn.sofascore.app/api/v1/team/2523/image.png"
-},
-"leagueName": "Czech First League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
+"date": "2026-04-20",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Plzen won 8 of last 11 H2H vs Pardubice, strong home record and recent 5-1 win in fixture, Pardubice mid-table."
+"reason": "Shakhtar excellent home form with 10 wins in 12 home games, 68% win rate overall; models predict 47.89% win + 26% draw vs Polissya."
+
+},
+{ "id": "gaziantep-kayserispor",
+"teamA": {
+"name": "Gaziantep FK",
+"icon": "https://cdn.sofascore.app/api/v1/team/1339/image.png"
+},
+"teamB": {
+"name": "Kayserispor",
+"icon": "https://cdn.sofascore.app/api/v1/team/1331/image.png"
+},
+"leagueName": "Turkish Super Lig",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-20",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Models forecast Gaziantep edge at home with 1X solid pick; low odds 1.33 on DC 1X, recent H2H draws common."
 
 } ]
