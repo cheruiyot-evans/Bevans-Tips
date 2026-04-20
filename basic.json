@@ -1,225 +1,103 @@
 [
-{ "id": "porto-tondela",
+{ "id": "shakhtar-donetsk-polissya",
 "teamA": {
-"name": "Porto",
-"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+"name": "Shakhtar Donetsk",
+"icon": "https://cdn.sofascore.app/api/v1/team/621/image.png"
 },
 "teamB": {
-"name": "Tondela",
-"icon": "https://cdn.sofascore.app/api/v1/team/50023/image.png"
+"name": "Polissya",
+"icon": "https://cdn.sofascore.app/api/v1/team/109277/image.png"
+},
+"leagueName": "Ukraine Premier League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-20",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Shakhtar excellent home form with 10 wins in 12 home games, 68% win rate overall; models predict 47.89% win + 26% draw vs Polissya."
+
+},
+{ "id": "gaziantep-kayserispor",
+"teamA": {
+"name": "Gaziantep FK",
+"icon": "https://cdn.sofascore.app/api/v1/team/1339/image.png"
+},
+"teamB": {
+"name": "Kayserispor",
+"icon": "https://cdn.sofascore.app/api/v1/team/1331/image.png"
+},
+"leagueName": "Turkish Super Lig",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-20",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Models forecast Gaziantep edge at home with 1X solid pick; low odds 1.33 on DC 1X, recent H2H draws common."
+
+},
+{ "id": "crystal-palace-west-ham",
+"teamA": {
+"name": "Crystal Palace",
+"icon": "https://cdn.sofascore.app/api/v1/team/40/image.png"
+},
+"teamB": {
+"name": "West Ham United",
+"icon": "https://cdn.sofascore.app/api/v1/team/39/image.png"
+},
+"leagueName": "Premier League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-20",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Palace favored at home vs poor traveling West Ham; DC 1X at -275 odds, predictions lean home win or draw."
+
+},
+{ "id": "midtjylland-agf",
+"teamA": {
+"name": "Midtjylland",
+"icon": "https://cdn.sofascore.app/api/v1/team/4334/image.png"
+},
+"teamB": {
+"name": "AGF",
+"icon": "https://cdn.sofascore.app/api/v1/team/4335/image.png"
+},
+"leagueName": "Danish Superligaen",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-20",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Midtjylland strong home advantage in championship round; 1X recommended as solid calculated choice."
+
+},
+{ "id": "oleksandria-veres-rivne",
+"teamA": {
+"name": "Oleksandria",
+"icon": "https://cdn.sofascore.app/api/v1/team/6545/image.png"
+},
+"teamB": {
+"name": "Veres Rivne",
+"icon": "https://cdn.sofascore.app/api/v1/team/109278/image.png"
+},
+"leagueName": "Ukraine Premier League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-20",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both teams show 70-90% Over 1.5 in recent away/home forms; low-scoring but consistent goals trend."
+
+},
+{ "id": "moreirense-estoril",
+"teamA": {
+"name": "Moreirense",
+"icon": "https://cdn.sofascore.app/api/v1/team/2856/image.png"
+},
+"teamB": {
+"name": "Estoril",
+"icon": "https://cdn.sofascore.app/api/v1/team/2857/image.png"
 },
 "leagueName": "Portuguese Primeira Liga",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "Very High",
-"safetyRating": 9.5,
-"reason": "Porto unbeaten at home vs Tondela in last 6 H2H, strong home form averaging 2.2 goals scored, Tondela struggling in league."
-},
-{ "id": "celtic-st-mirren",
-"teamA": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
-},
-"teamB": {
-"name": "St. Mirren",
-"icon": "https://cdn.sofascore.app/api/v1/team/190/image.png"
-},
-"leagueName": "Scottish Cup",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "Very High",
-"safetyRating": 9.2,
-"reason": "Celtic won 38 of 46 H2H vs St Mirren, St Mirren poor recent form with 3 losses in last 6, multiple injuries for visitors."
-},
-{ "id": "viktoria-plzen-pardubice",
-"teamA": {
-"name": "Viktoria Plzeň",
-"icon": "https://cdn.sofascore.app/api/v1/team/596/image.png"
-},
-"teamB": {
-"name": "Pardubice",
-"icon": "https://cdn.sofascore.app/api/v1/team/2523/image.png"
-},
-"leagueName": "Czech First League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "Very High",
-"safetyRating": 9.0,
-"reason": "Plzen won 8 of last 11 H2H vs Pardubice, strong home record and recent 5-1 win in fixture, Pardubice mid-table."
-},
-{ "id": "juventus-bologna",
-"teamA": {
-"name": "Juventus",
-"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
-},
-"teamB": {
-"name": "Bologna",
-"icon": "https://cdn.sofascore.app/api/v1/team/119/image.png"
-},
-"leagueName": "Italian Serie A",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
+"date": "2026-04-20",
 "confidence": "High",
-"safetyRating": 8.8,
-"reason": "Juventus solid home form unbeaten in 8, Bologna competitive but rarely beats top sides away."
-},
-{ "id": "psg-lyon",
-"teamA": {
-"name": "Paris Saint-Germain",
-"icon": "https://cdn.sofascore.app/api/v1/team/164/image.png"
-},
-"teamB": {
-"name": "Olympique Lyonnais",
-"icon": "https://cdn.sofascore.app/api/v1/team/162/image.png"
-},
-"leagueName": "French Ligue 1",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "High",
-"safetyRating": 8.7,
-"reason": "PSG dominant in recent H2H winning 83% of last 6 vs Lyon, strong home advantage."
-},
-{ "id": "bayern-stuttgart",
-"teamA": {
-"name": "Bayern Munich",
-"icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
-},
-"teamB": {
-"name": "Stuttgart",
-"icon": "https://cdn.sofascore.app/api/v1/team/2402/image.png"
-},
-"leagueName": "German Bundesliga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "High",
-"safetyRating": 8.6,
-"reason": "Bayern unbeaten home vs Stuttgart in 10+ years, superior squad depth despite Stuttgart's form."
-},
-{ "id": "man-city-arsenal",
-"teamA": {
-"name": "Manchester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
-},
-"teamB": {
-"name": "Arsenal",
-"icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-19",
-"confidence": "High",
-"safetyRating": 8.5,
-"reason": "Last 8 H2H averaged 3.2 goals, both teams top scorers with leaky defenses recently."
-},
-{ "id": "sporting-cp-benfica",
-"teamA": {
-"name": "Sporting CP",
-"icon": "https://cdn.sofascore.app/api/v1/team/3001/image.png"
-},
-"teamB": {
-"name": "Benfica",
-"icon": "https://cdn.sofascore.app/api/v1/team/3004/image.png"
-},
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-19",
-"confidence": "High",
-"safetyRating": 8.4,
-"reason": "Portuguese derby always goals: 92% Over 1.5 in last 12 meetings, both attack-focused."
-},
-{ "id": "liverpool-everton",
-"teamA": {
-"name": "Everton",
-"icon": "https://cdn.sofascore.app/api/v1/team/45/image.png"
-},
-"teamB": {
-"name": "Liverpool",
-"icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-19",
-"confidence": "High",
-"safetyRating": 8.3,
-"reason": "Liverpool won 22 of last 25 Merseyside derbies, Everton poor recent form vs top sides."
-},
-{ "id": "peterborough-burton",
-"teamA": {
-"name": "Peterborough United",
-"icon": "https://cdn.sofascore.app/api/v1/team/2160/image.png"
-},
-"teamB": {
-"name": "Burton Albion",
-"icon": "https://cdn.sofascore.app/api/v1/team/2164/image.png"
-},
-"leagueName": "League One",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "High",
-"safetyRating": 8.2,
-"reason": "Peterborough top scorers in League One, Burton bottom 4 with worst away defense."
-},
-{ "id": "wigan-port-vale",
-"teamA": {
-"name": "Port Vale",
-"icon": "https://cdn.sofascore.app/api/v1/team/2165/image.png"
-},
-"teamB": {
-"name": "Wigan Athletic",
-"icon": "https://cdn.sofascore.app/api/v1/team/2166/image.png"
-},
-"leagueName": "League One",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-19",
-"confidence": "High",
-"safetyRating": 8.1,
-"reason": "Wigan strong favorites, Port Vale relegation candidates with poor home record."
-},
-{ "id": "monaco-auxerre",
-"teamA": {
-"name": "Monaco",
-"icon": "https://cdn.sofascore.app/api/v1/team/1646/image.png"
-},
-"teamB": {
-"name": "Auxerre",
-"icon": "https://cdn.sofascore.app/api/v1/team/1647/image.png"
-},
-"leagueName": "French Ligue 1",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-19",
-"confidence": "Medium-High",
-"safetyRating": 8.0,
-"reason": "Monaco 2nd in Ligue 1, Auxerre newly promoted struggling vs top teams."
-},
-{ "id": "red-bull-salzburg-austria-wien",
-"teamA": {
-"name": "Austria Wien",
-"icon": "https://cdn.sofascore.app/api/v1/team/2935/image.png"
-},
-"teamB": {
-"name": "Red Bull Salzburg",
-"icon": "https://cdn.sofascore.app/api/v1/team/2936/image.png"
-},
-"leagueName": "Austrian Bundesliga",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-19",
-"confidence": "Medium-High",
-"safetyRating": 7.9,
-"reason": "Salzburg Austrian champions, won 15 of last 18 vs Austria Wien."
-},
-{ "id": "lask-sturm-graz",
-"teamA": {
-"name": "LASK",
-"icon": "https://cdn.sofascore.app/api/v1/team/2937/image.png"
-},
-"teamB": {
-"name": "Sturm Graz",
-"icon": "https://cdn.sofascore.app/api/v1/team/2938/image.png"
-},
-"leagueName": "Austrian Bundesliga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-19",
-"confidence": "Medium-High",
-"safetyRating": 7.8,
-"reason": "Both top championship contenders, 85% Over 1.5 in recent H2H."
+"safetyRating": 7,
+"reason": "Moreirense solid home record with 6 wins in 14; Estoril poor away with 4 wins in 14."
+
 } ]
