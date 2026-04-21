@@ -1,35 +1,52 @@
 [
-{ "id": "shakhtar-donetsk-polissya",
-"teamA": {
-"name": "Shakhtar Donetsk",
-"icon": "https://cdn.sofascore.app/api/v1/team/621/image.png"
-},
-"teamB": {
-"name": "Polissya",
-"icon": "https://cdn.sofascore.app/api/v1/team/109277/image.png"
-},
-"leagueName": "Ukraine Premier League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-20",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Shakhtar excellent home form with 10 wins in 12 home games, 68% win rate overall; models predict 47.89% win + 26% draw vs Polissya."
-
-},
-{ "id": "gaziantep-kayserispor",
-"teamA": {
-"name": "Gaziantep FK",
-"icon": "https://cdn.sofascore.app/api/v1/team/1339/image.png"
-},
-"teamB": {
-"name": "Kayserispor",
-"icon": "https://cdn.sofascore.app/api/v1/team/1331/image.png"
-},
-"leagueName": "Turkish Super Lig",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-20",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Models forecast Gaziantep edge at home with 1X solid pick; low odds 1.33 on DC 1X, recent H2H draws common."
-
-} ]
+  { "id": "real-madrid-alaves-2",
+    "teamA": { "name": "Real Madrid", "icon": "https://cdn.sofascore.app/api/v1/team/102/image.png" },
+    "teamB": { "name": "Alavés", "icon": "https://cdn.sofascore.app/api/v1/team/515/image.png" },
+    "leagueName": "Spanish La Liga",
+    "prediction": "Double Chance 1X",
+    "date": "2026-04-21",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Real Madrid strong home record and superior squad, while Alavés struggle against top‑flight sides; Double Chance 1X almost guarantees coverage against upset."
+  },
+  { "id": "real-madrid-alaves",
+    "teamA": { "name": "Real Madrid", "icon": "https://cdn.sofascore.app/api/v1/team/102/image.png" },
+    "teamB": { "name": "Alavés", "icon": "https://cdn.sofascore.app/api/v1/team/515/image.png" },
+    "leagueName": "Spanish La Liga",
+    "prediction": "Over 1.5 Goals",
+    "date": "2026-04-21",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Real Madrid score frequently at home and Alavés have allowed several goals recently; Over 1.5 Goals is highly probable given attacking trends of both sides."
+  },
+  { "id": "shanghai-port-chongqing-tonglianglong",
+    "teamA": { "name": "Shanghai Port", "icon": "https://cdn.sofascore.app/api/v1/team/18004/image.png" },
+    "teamB": { "name": "Chongqing Tonglianglong", "icon": "https://cdn.sofascore.app/api/v1/team/18016/image.png" },
+    "leagueName": "Chinese Super League",
+    "prediction": "Double Chance 1X",
+    "date": "2026-04-21",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Shanghai Port are top‑tier title‑contenders and vastly stronger than mid‑table Chongqing; Double Chance 1X heavily favors a home win or draw."
+  },
+  { "id": "leicester-hull",
+    "teamA": { "name": "Leicester City", "icon": "https://cdn.sofascore.app/api/v1/team/18/image.png" },
+    "teamB": { "name": "Hull City", "icon": "https://cdn.sofascore.app/api/v1/team/212/image.png" },
+    "leagueName": "English Championship",
+    "prediction": "Double Chance 2X",
+    "date": "2026-04-21",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Hull are league leaders with strong overall form while Leicester struggle for consistency; Double Chance 2X covers Hull win or draw with lower variance."
+  },
+  { "id": "shenzhen-peng-people-beijing-guoan",
+    "teamA": { "name": "Shenzhen Peng City", "icon": "https://cdn.sofascore.app/api/v1/team/18022/image.png" },
+    "teamB": { "name": "Beijing Guoan", "icon": "https://cdn.sofascore.app/api/v1/team/18002/image.png" },
+    "leagueName": "Chinese Super League",
+    "prediction": "Double Chance 2X",
+    "date": "2026-04-21",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Beijing Guoan are stronger on paper and have better away‑form, while Shenzhen Peng City are inconsistent at home; Double Chance 2X covers Beijing Guoan win or draw."
+  }
+]
