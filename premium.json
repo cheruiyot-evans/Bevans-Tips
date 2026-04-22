@@ -1,342 +1,154 @@
 [
-{ "id": "brighton-chelsea",
+{ "id": "manchester-city-burnley",
 "teamA": {
-"name": "Brighton & Hove Albion",
-"icon": "https://cdn.sofascore.app/api/v1/team/1052/image.png"
+"name": "Burnley",
+"icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
 },
 "teamB": {
-"name": "Chelsea",
-"icon": "https://cdn.sofascore.app/api/v1/team/6/image.png"
+"name": "Manchester City",
+"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
 },
-"leagueName": "English Premier League",
-"prediction": "Double Chance 1X",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Brighton strong at home and Chelsea inconsistent away, with both teams solid defensively but Brighton slightly favored at home; Double Chance 1X covers Brighton win or draw at fair odds."
-
-},
-{ "id": "leicester-hull",
-"teamA": {
-"name": "Leicester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/18/image.png"
-},
-"teamB": {
-"name": "Hull City",
-"icon": "https://cdn.sofascore.app/api/v1/team/212/image.png"
-},
-"leagueName": "English Championship",
-"prediction": "Double Chance 2X",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Hull are league leaders with strong overall form while Leicester struggle for consistency; Double Chance 2X covers Hull win or draw with lower variance."
-
-},
-{ "id": "real-madrid-alaves",
-"teamA": {
-"name": "Real Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/102/image.png"
-},
-"teamB": {
-"name": "Alavés",
-"icon": "https://cdn.sofascore.app/api/v1/team/515/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "Over 1.5 Goals",
-"date": "2026-04-21",
+"leagueName": "Premier League",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-04-22",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Real Madrid score frequently at home and Alavés have allowed several goals recently; Over 1.5 Goals is highly probable given attacking trends of both sides."
+"reason": "Man City won 19 of last 23 H2H vs Burnley, scoring 74-14; dominant away form with 8 wins in 16 league aways."
 
 },
-{ "id": "brighton-chelsea-2",
+{ "id": "psg-nantes",
 "teamA": {
-"name": "Brighton & Hove Albion",
-"icon": "https://cdn.sofascore.app/api/v1/team/1052/image.png"
+"name": "Paris Saint-Germain",
+"icon": "https://cdn.sofascore.app/api/v1/team/164/image.png"
 },
 "teamB": {
-"name": "Chelsea",
-"icon": "https://cdn.sofascore.app/api/v1/team/6/image.png"
+"name": "Nantes",
+"icon": "https://cdn.sofascore.app/api/v1/team/1795/image.png"
 },
-"leagueName": "English Premier League",
-"prediction": "Over 1.5 Goals",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams attack aggressively and have featured in high‑scoring games this season; Over 1.5 Goals is a safe target given pace and attacking quality."
-
-},
-{ "id": "hajduk-split-osijek",
-"teamA": {
-"name": "Hajduk Split",
-"icon": "https://cdn.sofascore.app/api/v1/team/103/image.png"
-},
-"teamB": {
-"name": "Osijek",
-"icon": "https://cdn.sofascore.app/api/v1/team/412/image.png"
-},
-"leagueName": "Croatia Prva HNL",
-"prediction": "Double Chance 1X",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Hajduk favorited at home with strong recent form and Osijek struggling for away consistency; Double Chance 1X protects against an unlikely away win."
-
-},
-{ "id": "lokomotiva-zagreb-slaven-koprivnica",
-"teamA": {
-"name": "Lokomotiva Zagreb",
-"icon": "https://cdn.sofascore.app/api/v1/team/1152/image.png"
-},
-"teamB": {
-"name": "Slaven Koprivnica",
-"icon": "https://cdn.sofascore.app/api/v1/team/1154/image.png"
-},
-"leagueName": "Croatia Prva HNL",
-"prediction": "Double Chance 2X",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Slaven Koprivnica have improved defensively and are more solid on the road, while Lokomotiva are inconsistent at home; Double Chance 2X covers Slaven win or draw safely."
-
-},
-{ "id": "chennaiyin-mohammedan",
-"teamA": {
-"name": "Chennaiyin",
-"icon": "https://cdn.sofascore.app/api/v1/team/4182/image.png"
-},
-"teamB": {
-"name": "Mohammedan",
-"icon": "https://cdn.sofascore.app/api/v1/team/4186/image.png"
-},
-"leagueName": "Indian Super League",
-"prediction": "Draw No Bet (Chennaiyin)",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Chennaiyin have slight edge in class and recent form, while Mohammedan are narrowly weaker; Draw No Bet on Chennaiyin removes risk of a draw outcome."
-
-},
-{ "id": "lokomotiva-zagreb-slaven-koprivnica-2",
-"teamA": {
-"name": "Lokomotiva Zagreb",
-"icon": "https://cdn.sofascore.app/api/v1/team/1152/image.png"
-},
-"teamB": {
-"name": "Slaven Koprivnica",
-"icon": "https://cdn.sofascore.app/api/v1/team/1154/image.png"
-},
-"leagueName": "Croatia Prva HNL",
-"prediction": "Over 1.5 Goals",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams tend to score in away and home games respectively; recent fixtures show moderate to high scoring trends, making Over 1.5 Goals a conservative target."
-
-},
-{ "id": "hajduk-split-osijek-2",
-"teamA": {
-"name": "Hajduk Split",
-"icon": "https://cdn.sofascore.app/api/v1/team/103/image.png"
-},
-"teamB": {
-"name": "Osijek",
-"icon": "https://cdn.sofascore.app/api/v1/team/412/image.png"
-},
-"leagueName": "Croatia Prva HNL",
-"prediction": "Both Teams To Score - Yes",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Hajduk score regularly at home and Osijek have a decent attacking record, with both sides often involved in matches with goals at both ends."
-
-},
-{ "id": "real-madrid-alaves-2",
-"teamA": {
-"name": "Real Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/102/image.png"
-},
-"teamB": {
-"name": "Alavés",
-"icon": "https://cdn.sofascore.app/api/v1/team/515/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "Double Chance 1X",
-"date": "2026-04-21",
+"leagueName": "French Ligue 1",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Real Madrid strong home record and superior squad, while Alavés struggle against top‑flight sides; Double Chance 1X almost guarantees coverage against upset."
+"reason": "PSG won 23 of 28 H2H vs Nantes (82% win rate), unbeaten in 26/28; strong home record."
 
 },
-{ "id": "brighton-chelsea-3",
+{ "id": "barcelona-celta-vigo",
 "teamA": {
-"name": "Brighton & Hove Albion",
-"icon": "https://cdn.sofascore.app/api/v1/team/1052/image.png"
+"name": "Barcelona",
+"icon": "https://cdn.sofascore.app/api/v1/team/83/image.png"
 },
 "teamB": {
-"name": "Chelsea",
-"icon": "https://cdn.sofascore.app/api/v1/team/6/image.png"
+"name": "Celta Vigo",
+"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
 },
-"leagueName": "English Premier League",
-"prediction": "Both Teams To Score - Yes",
-"date": "2026-04-21",
-"confidence": "Moderate",
-"safetyRating": 7,
-"reason": "Both defenses have been penetrable recently and both teams attack aggressively; BTTS Yes is statistically plausible given attacking‑minded setup."
-
-},
-{ "id": "leicester-hull-2",
-"teamA": {
-"name": "Leicester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/18/image.png"
-},
-"teamB": {
-"name": "Hull City",
-"icon": "https://cdn.sofascore.app/api/v1/team/212/image.png"
-},
-"leagueName": "English Championship",
-"prediction": "Over 1.5 Goals",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams score regularly and have shown attacking intent in recent fixtures; Over 1.5 Goals is a safe target despite potential 1‑0 outcomes."
-
-},
-{ "id": "shenzhen-peng-people-beijing-guoan",
-"teamA": {
-"name": "Shenzhen Peng City",
-"icon": "https://cdn.sofascore.app/api/v1/team/18022/image.png"
-},
-"teamB": {
-"name": "Beijing Guoan",
-"icon": "https://cdn.sofascore.app/api/v1/team/18002/image.png"
-},
-"leagueName": "Chinese Super League",
-"prediction": "Double Chance 2X",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Beijing Guoan are stronger on paper and have better away‑form, while Shenzhen Peng City are inconsistent at home; Double Chance 2X covers Beijing Guoan win or draw."
-
-},
-{ "id": "chengdu-rongcheng-yunnan-yukun",
-"teamA": {
-"name": "Chengdu Rongcheng",
-"icon": "https://cdn.sofascore.app/api/v1/team/18026/image.png"
-},
-"teamB": {
-"name": "Yunnan Yukun",
-"icon": "https://cdn.sofascore.app/api/v1/team/18028/image.png"
-},
-"leagueName": "Chinese Super League",
-"prediction": "Double Chance 1X",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Chengdu Rongcheng strong at home and Yunnan Yukun relatively weaker, especially on the road; Double Chance 1X buffers against a shock away win."
-
-},
-{ "id": "wuhan-three-towns-zhejiang",
-"teamA": {
-"name": "Wuhan Three Towns",
-"icon": "https://cdn.sofascore.app/api/v1/team/18008/image.png"
-},
-"teamB": {
-"name": "Zhejiang",
-"icon": "https://cdn.sofascore.app/api/v1/team/18010/image.png"
-},
-"leagueName": "Chinese Super League",
-"prediction": "Over 1.5 Goals",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams emphasize attacking football and have seen goals in a majority of recent fixtures; Over 1.5 Goals is a conservative but reliable line."
-
-},
-{ "id": "shanghai-port-chongqing-tonglianglong",
-"teamA": {
-"name": "Shanghai Port",
-"icon": "https://cdn.sofascore.app/api/v1/team/18004/image.png"
-},
-"teamB": {
-"name": "Chongqing Tonglianglong",
-"icon": "https://cdn.sofascore.app/api/v1/team/18016/image.png"
-},
-"leagueName": "Chinese Super League",
-"prediction": "Double Chance 1X",
-"date": "2026-04-21",
+"leagueName": "Spanish La Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Shanghai Port are top‑tier title‑contenders and vastly stronger than mid‑table Chongqing; Double Chance 1X heavily favors a home win or draw."
+"reason": "Barcelona won 20 of 33 H2H vs Celta (undefeated home streak), 26 wins in 31 league games."
 
 },
-{ "id": "tianjin-jinmen-tiger-shandong-taishan",
+{ "id": "elche-atletico-madrid",
 "teamA": {
-"name": "Tianjin Jinmen Tiger",
-"icon": "https://cdn.sofascore.app/api/v1/team/18006/image.png"
+"name": "Elche",
+"icon": "https://cdn.sofascore.app/api/v1/team/2805/image.png"
 },
 "teamB": {
-"name": "Shandong Taishan",
-"icon": "https://cdn.sofascore.app/api/v1/team/18012/image.png"
+"name": "Atletico Madrid",
+"icon": "https://cdn.sofascore.app/api/v1/team/283/image.png"
 },
-"leagueName": "Chinese Super League",
-"prediction": "Double Chance X2",
-"date": "2026-04-21",
+"leagueName": "Spanish La Liga",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-04-22",
+"confidence": "Very High",
+"safetyRating": 8,
+"reason": "Atletico won 9 of last 10 H2H vs Elche (20-2 goals), 8 clean sheets; Elche poor recent form."
+
+},
+{ "id": "mamelodi-sundowns-stellenbosch",
+"teamA": {
+"name": "Mamelodi Sundowns",
+"icon": "https://cdn.sofascore.app/api/v1/team/18960/image.png"
+},
+"teamB": {
+"name": "Stellenbosch",
+"icon": "https://cdn.sofascore.app/api/v1/team/18983/image.png"
+},
+"leagueName": "South Africa PSL",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Shandong Taishan clearly stronger but Tianjin decent at home, so X2 (draw or away win) balances safety with realistic outcome."
+"reason": "Sundowns won 14 of 20 H2H vs Stellenbosch; excellent home form, low concessions recently."
 
 },
-{ "id": "athletic-club-osasuna",
+{ "id": "red-star-zelenicar-pancevo",
 "teamA": {
-"name": "Athletic Club",
-"icon": "https://cdn.sofascore.app/api/v1/team/104/image.png"
+"name": "Železničar Pančevo",
+"icon": "https://cdn.sofascore.app/api/v1/team/223596/image.png"
 },
 "teamB": {
-"name": "Osasuna",
-"icon": "https://cdn.sofascore.app/api/v1/team/542/image.png"
+"name": "Red Star Belgrade",
+"icon": "https://cdn.sofascore.app/api/v1/team/21812/image.png"
 },
-"leagueName": "Spanish La Liga",
-"prediction": "Double Chance 1X",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Athletic Club strong at home and Osasuna inconsistent away; Double Chance 1X covers home advantage and a likely draw."
+"leagueName": "Serbian Super Liga",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-04-22",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Red Star excellent form (25W-3D-3L, 81% win rate), strong away (11W); title motivation."
 
 },
-{ "id": "mallorca-valencia",
+{ "id": "dinamo-zagreb-istra-1961",
 "teamA": {
-"name": "Mallorca",
-"icon": "https://cdn.sofascore.app/api/v1/team/521/image.png"
+"name": "Istra 1961",
+"icon": "https://cdn.sofascore.app/api/v1/team/6520/image.png"
 },
 "teamB": {
-"name": "Valencia",
-"icon": "https://cdn.sofascore.app/api/v1/team/520/image.png"
+"name": "Dinamo Zagreb",
+"icon": "https://cdn.sofascore.app/api/v1/team/2438/image.png"
 },
-"leagueName": "Spanish La Liga",
-"prediction": "Double Chance X2",
-"date": "2026-04-21",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Valencia slightly stronger on paper but Mallorca tough at home; X2 (draw or away) is safer than backing a clear winner."
+"leagueName": "Croatia Prva HNL",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-04-22",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Dinamo won 53 of 70 H2H vs Istra (76% win rate), 2.31 goals avg; home dominance."
 
 },
-{ "id": "girona-real-betis",
+{ "id": "club-brugge-mechelen",
 "teamA": {
-"name": "Girona",
-"icon": "https://cdn.sofascore.app/api/v1/team/514/image.png"
+"name": "Club Brugge",
+"icon": "https://cdn.sofascore.app/api/v1/team/1040/image.png"
 },
 "teamB": {
-"name": "Real Betis",
-"icon": "https://cdn.sofascore.app/api/v1/team/518/image.png"
+"name": "Mechelen",
+"icon": "https://cdn.sofascore.app/api/v1/team/1085/image.png"
 },
-"leagueName": "Spanish La Liga",
-"prediction": "Over 1.5 Goals",
-"date": "2026-04-21",
+"leagueName": "Belgian First Division A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
 "confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams attack‑oriented and frequently feature in matches with at least two goals; Over 1.5 Goals is a conservative but statistically sound pick."
+"safetyRating": 8,
+"reason": "Club Brugge won 29 of 55 H2H vs Mechelen, 11 home wins; good championship form."
 
-}
-]
+},
+{ "id": "salzburg-austria-wien",
+"teamA": {
+"name": "Red Bull Salzburg",
+"icon": "https://cdn.sofascore.app/api/v1/team/11776/image.png"
+},
+"teamB": {
+"name": "Austria Wien",
+"icon": "https://cdn.sofascore.app/api/v1/team/3651/image.png"
+},
+"leagueName": "Austrian Bundesliga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Salzburg won 48 of 85 H2H vs Austria Wien; consistent home performance in championship round."
+
+} ]
