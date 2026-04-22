@@ -151,4 +151,102 @@
 "safetyRating": 8,
 "reason": "Salzburg won 48 of 85 H2H vs Austria Wien; consistent home performance in championship round."
 
+},
+{ "id": "hammarby-halmstad",
+"teamA": {
+"name": "Hammarby",
+"icon": "https://cdn.sofascore.app/api/v1/team/6148/image.png"
+},
+"teamB": {
+"name": "Halmstad",
+"icon": "https://cdn.sofascore.app/api/v1/team/6150/image.png"
+},
+"leagueName": "Swedish Allsvenskan",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Hammarby strong home form vs relegation candidates; Halmstad poor away record."
+
+},
+{ "id": "elfsborg-djurgarden",
+"teamA": {
+"name": "Elfsborg",
+"icon": "https://cdn.sofascore.app/api/v1/team/6142/image.png"
+},
+"teamB": {
+"name": "Djurgården",
+"icon": "https://cdn.sofascore.app/api/v1/team/6146/image.png"
+},
+"leagueName": "Swedish Allsvenskan",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-22",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both teams high-scoring home/away games; 8/10 recent matches over 1.5."
+
+},
+{ "id": "bournemouth-leeds",
+"teamA": {
+"name": "AFC Bournemouth",
+"icon": "https://cdn.sofascore.app/api/v1/team/30/image.png"
+},
+"teamB": {
+"name": "Leeds United",
+"icon": "https://cdn.sofascore.app/api/v1/team/15/image.png"
+},
+"leagueName": "Premier League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-22",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both teams involved in high-scoring PL games; Bournemouth home trend over 1.5."
+},
+{ "id": "birmingham-preston",
+"teamA": {
+"name": "Birmingham City",
+"icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
+},
+"teamB": {
+"name": "Preston North End",
+"icon": "https://cdn.sofascore.app/api/v1/team/50/image.png"
+},
+"leagueName": "Championship",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Birmingham strong home form in Championship promotion push."
+},
+{ "id": "kups-oulu",
+"teamA": {
+"name": "KuPS",
+"icon": "https://cdn.sofascore.app/api/v1/team/64457/image.png"
+},
+"teamB": {
+"name": "Oulu",
+"icon": "https://cdn.sofascore.app/api/v1/team/64466/image.png"
+},
+"leagueName": "Finnish Veikkausliiga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "KuPS title favorites with dominant home record vs relegation strugglers."
+},
+{ "id": "sturm-graz-lask",
+"teamA": {
+"name": "Sturm Graz",
+"icon": "https://cdn.sofascore.app/api/v1/team/11778/image.png"
+},
+"teamB": {
+"name": "LASK",
+"icon": "https://cdn.sofascore.app/api/v1/team/11771/image.png"
+},
+"leagueName": "Austrian Bundesliga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-22",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Sturm Graz championship round home strength vs LASK inconsistent away form."
 } ]
