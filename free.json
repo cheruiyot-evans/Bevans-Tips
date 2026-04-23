@@ -1,52 +1,52 @@
 [
-{ "id": "manchester-city-burnley",
+{ "id": "psv-pec-zwolle",
 "teamA": {
-"name": "Burnley",
-"icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
+"name": "PSV",
+"icon": "https://cdn.sofascore.app/api/v1/team/67/image.png"
 },
 "teamB": {
-"name": "Manchester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+"name": "PEC Zwolle",
+"icon": "https://cdn.sofascore.app/api/v1/team/66/image.png"
 },
-"leagueName": "Premier League",
-"prediction": "DOUBLE CHANCE 2X",
-"date": "2026-04-22",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Man City won 19 of last 23 H2H vs Burnley, scoring 74-14; dominant away form with 8 wins in 16 league aways."
-
-},
-{ "id": "psg-nantes",
-"teamA": {
-"name": "Paris Saint-Germain",
-"icon": "https://cdn.sofascore.app/api/v1/team/164/image.png"
-},
-"teamB": {
-"name": "Nantes",
-"icon": "https://cdn.sofascore.app/api/v1/team/1795/image.png"
-},
-"leagueName": "French Ligue 1",
+"leagueName": "Dutch Eredivisie",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-22",
+"date": "2026-04-23",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "PSG won 23 of 28 H2H vs Nantes (82% win rate), unbeaten in 26/28; strong home record."
+"reason": "PSV dominant home form with mathematical predictions favoring 4-1 win, clear favorites at 1.19 odds vs underdogs."
 
 },
-{ "id": "red-star-zelenicar-pancevo",
+{ "id": "malmo-ff-sirius",
 "teamA": {
-"name": "Železničar Pančevo",
-"icon": "https://cdn.sofascore.app/api/v1/team/223596/image.png"
+"name": "Malmö FF",
+"icon": "https://cdn.sofascore.app/api/v1/team/1892/image.png"
 },
 "teamB": {
-"name": "Red Star Belgrade",
-"icon": "https://cdn.sofascore.app/api/v1/team/21812/image.png"
+"name": "Sirius",
+"icon": "https://cdn.sofascore.app/api/v1/team/2022/image.png"
 },
-"leagueName": "Serbian Super Liga",
-"prediction": "DOUBLE CHANCE 2X",
-"date": "2026-04-22",
+"leagueName": "Swedish Allsvenskan",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-23",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Red Star excellent form (25W-3D-3L, 81% win rate), strong away (11W); title motivation."
+"reason": "Malmö FF unbeaten in recent matches (67% wins), 100% home over 1.5 goals, 40.6% win probability."
+
+},
+{ "id": "aik-degerfors",
+"teamA": {
+"name": "Degerfors",
+"icon": "https://cdn.sofascore.app/api/v1/team/2753/image.png"
+},
+"teamB": {
+"name": "AIK",
+"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
+},
+"leagueName": "Swedish Allsvenskan",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-23",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "AIK superior H2H record (7 wins in 13 vs Degerfors 2), strong away trends against weaker opposition."
 
 } ]
