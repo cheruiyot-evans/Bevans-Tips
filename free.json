@@ -1,52 +1,52 @@
 [
-{ "id": "psv-pec-zwolle",
+{ "id": "rangers-hearts",
 "teamA": {
-"name": "PSV",
-"icon": "https://cdn.sofascore.app/api/v1/team/67/image.png"
+"name": "Rangers",
+"icon": "https://cdn.sofascore.app/api/v1/team/4895/image.png"
 },
 "teamB": {
-"name": "PEC Zwolle",
-"icon": "https://cdn.sofascore.app/api/v1/team/66/image.png"
+"name": "Hearts",
+"icon": "https://cdn.sofascore.app/api/v1/team/4901/image.png"
 },
-"leagueName": "Dutch Eredivisie",
+"leagueName": "Scottish SWPL 1 Championship Round",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-23",
+"date": "2026-04-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "PSV dominant home form with mathematical predictions favoring 4-1 win, clear favorites at 1.19 odds vs underdogs."
+"reason": "Rangers unbeaten in 24 home games, 26 H2H wins in 41, dominant in championship race."
 
 },
-{ "id": "malmo-ff-sirius",
+{ "id": "hibernian-celtic",
 "teamA": {
-"name": "Malmö FF",
-"icon": "https://cdn.sofascore.app/api/v1/team/1892/image.png"
+"name": "Hibernian",
+"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
 },
 "teamB": {
-"name": "Sirius",
-"icon": "https://cdn.sofascore.app/api/v1/team/2022/image.png"
+"name": "Celtic",
+"icon": "https://cdn.sofascore.app/api/v1/team/4896/image.png"
 },
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-23",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Malmö FF unbeaten in recent matches (67% wins), 100% home over 1.5 goals, 40.6% win probability."
-
-},
-{ "id": "aik-degerfors",
-"teamA": {
-"name": "Degerfors",
-"icon": "https://cdn.sofascore.app/api/v1/team/2753/image.png"
-},
-"teamB": {
-"name": "AIK",
-"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
+"leagueName": "Scottish SWPL 1 Championship Round",
 "prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "AIK superior H2H record (7 wins in 13 vs Degerfors 2), strong away trends against weaker opposition."
+"date": "2026-04-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Celtic superior form and position vs Hibs, consistent H2H edge."
+
+},
+{ "id": "napoli-cremonese",
+"teamA": {
+"name": "Napoli",
+"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
+},
+"teamB": {
+"name": "Cremonese",
+"icon": "https://cdn.sofascore.app/api/v1/team/2696/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Napoli 10/15 H2H wins, unbeaten 7 home, Cremonese weak away; banker per experts."
 
 } ]
