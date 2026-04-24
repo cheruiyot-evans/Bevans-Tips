@@ -1,169 +1,137 @@
 [
-{ "id": "psv-pec-zwolle",
+{ "id": "rangers-hearts",
 "teamA": {
-"name": "PSV",
-"icon": "https://cdn.sofascore.app/api/v1/team/67/image.png"
+"name": "Rangers",
+"icon": "https://cdn.sofascore.app/api/v1/team/4895/image.png"
 },
 "teamB": {
-"name": "PEC Zwolle",
-"icon": "https://cdn.sofascore.app/api/v1/team/66/image.png"
+"name": "Hearts",
+"icon": "https://cdn.sofascore.app/api/v1/team/4901/image.png"
 },
-"leagueName": "Dutch Eredivisie",
+"leagueName": "Scottish SWPL 1 Championship Round",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-23",
+"date": "2026-04-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "PSV dominant home form with mathematical predictions favoring 4-1 win, clear favorites at 1.19 odds vs underdogs."
+"reason": "Rangers won 26 of last 41 H2H vs Hearts, unbeaten in 24 home games, strong home form in championship race."
 
 },
-{ "id": "malmo-ff-sirius",
+{ "id": "hibernian-celtic",
 "teamA": {
-"name": "Malmö FF",
-"icon": "https://cdn.sofascore.app/api/v1/team/1892/image.png"
+"name": "Hibernian",
+"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
 },
 "teamB": {
-"name": "Sirius",
-"icon": "https://cdn.sofascore.app/api/v1/team/2022/image.png"
+"name": "Celtic",
+"icon": "https://cdn.sofascore.app/api/v1/team/4896/image.png"
 },
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-23",
+"leagueName": "Scottish SWPL 1 Championship Round",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Malmö FF unbeaten in recent matches (67% wins), 100% home over 1.5 goals, 40.6% win probability."
+"reason": "Celtic dominant vs Hibernian despite injuries, superior league position and consistent scoring trends."
 
 },
-{ "id": "aik-degerfors",
+{ "id": "napoli-cremonese",
 "teamA": {
-"name": "Degerfors",
-"icon": "https://cdn.sofascore.app/api/v1/team/2753/image.png"
+"name": "Napoli",
+"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
 },
 "teamB": {
-"name": "AIK",
-"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
+"name": "Cremonese",
+"icon": "https://cdn.sofascore.app/api/v1/team/2696/image.png"
 },
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Napoli won 10 of 15 H2H, unbeaten in 7 home games, Cremonese poor away form."
+
+},
+{ "id": "rb-leipzig-union-berlin",
+"teamA": {
+"name": "RB Leipzig",
+"icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
+},
+"teamB": {
+"name": "Union Berlin",
+"icon": "https://cdn.sofascore.app/api/v1/team/4771/image.png"
+},
+"leagueName": "German Bundesliga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "AIK superior H2H record (7 wins in 13 vs Degerfors 2), strong away trends against weaker opposition."
+"reason": "Leipzig strong home record with 8/13 wins, scored in last 32 home games, Union winless in 13/15 away."
 
 },
-{ "id": "zorya-shakhtar",
+{ "id": "real-betis-real-madrid",
 "teamA": {
-"name": "Zorya",
-"icon": "https://cdn.sofascore.app/api/v1/team/2585/image.png"
+"name": "Real Betis",
+"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
 },
 "teamB": {
-"name": "Shakhtar Donetsk",
-"icon": "https://cdn.sofascore.app/api/v1/team/2584/image.png"
+"name": "Real Madrid",
+"icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
 },
-"leagueName": "Ukraine Premier League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
+"leagueName": "Spanish La Liga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-24",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Shakhtar top of league with excellent away form (5W-5D-0L), dominant H2H (38 wins vs Zorya 5)."
+"reason": "Madrid high scoring avg 2.09 goals/game, dominant H2H 26 wins in 43, both teams consistent over trends."
 
 },
-{ "id": "casa-pia-braga",
+{ "id": "leicester-city-millwall",
 "teamA": {
-"name": "Casa Pia",
-"icon": "https://cdn.sofascore.app/api/v1/team/50091/image.png"
+"name": "Leicester City",
+"icon": "https://cdn.sofascore.app/api/v1/team/34/image.png"
 },
 "teamB": {
-"name": "Sporting Braga",
-"icon": "https://cdn.sofascore.app/api/v1/team/50064/image.png"
+"name": "Millwall",
+"icon": "https://cdn.sofascore.app/api/v1/team/1615/image.png"
 },
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
+"leagueName": "Championship",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Recent H2H high-scoring (4-0, 2-1), Braga strong attackers even away, defensive styles but goals likely."
+"reason": "Leicester solid home form despite H2H, Millwall poor recent away, low draw history."
 
 },
-{ "id": "kalmar-ifk-goteborg",
+{ "id": "shelbourne-drogheda-united",
 "teamA": {
-"name": "Kalmar",
-"icon": "https://cdn.sofascore.app/api/v1/team/2023/image.png"
+"name": "Shelbourne",
+"icon": "https://cdn.sofascore.app/api/v1/team/60850/image.png"
 },
 "teamB": {
-"name": "IFK Göteborg",
-"icon": "https://cdn.sofascore.app/api/v1/team/2024/image.png"
+"name": "Drogheda United",
+"icon": "https://cdn.sofascore.app/api/v1/team/60848/image.png"
 },
-"leagueName": "Swedish Allsvenskan",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
+"leagueName": "Irish Premier Division",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
 "confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams 80% over 1.5 in recent games, average 1.6-2.0 scored per match."
+"safetyRating": 8,
+"reason": "Shelbourne leading league, even H2H but home advantage, Drogheda multiple injuries."
 
 },
-{ "id": "sint-truiden-anderlecht",
+{ "id": "istanbul-basaksehir-kasimpasa",
 "teamA": {
-"name": "Sint-Truiden",
-"icon": "https://cdn.sofascore.app/api/v1/team/5120/image.png"
+"name": "İstanbul Başakşehir",
+"icon": "https://cdn.sofascore.app/api/v1/team/6066/image.png"
 },
 "teamB": {
-"name": "Anderlecht",
-"icon": "https://cdn.sofascore.app/api/v1/team/5121/image.png"
+"name": "Kasımpaşa",
+"icon": "https://cdn.sofascore.app/api/v1/team/6068/image.png"
 },
-"leagueName": "Belgian First Division A",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "Medium-High",
+"leagueName": "Turkish Super Lig",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
+"confidence": "Medium",
 "safetyRating": 7,
-"reason": "Anderlecht strong H2H (19 wins vs 3), despite some injuries still superior squad."
+"reason": "Başakşehir 30 H2H wins in 46, higher shots and possession avg at home."
 
-},
-{ "id": "gais-mjallby",
-"teamA": {
-"name": "GAIS",
-"icon": "https://cdn.sofascore.app/api/v1/team/3758/image.png"
-},
-"teamB": {
-"name": "Mjällby",
-"icon": "https://cdn.sofascore.app/api/v1/team/2026/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "Medium-High",
-"safetyRating": 7,
-"reason": "Mjällby favored at 2.38 odds, double chance 1.25-1.38 low-risk."
-
-},
-{ "id": "stuttgart-freiburg",
-"teamA": {
-"name": "Stuttgart",
-"icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
-},
-"teamB": {
-"name": "Freiburg",
-"icon": "https://cdn.sofascore.app/api/v1/team/2402/image.png"
-},
-"leagueName": "German DFB Pokal",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Cup semi-final high motivation, both teams consistent goal trends in knockouts."
-},
-{ "id": "nordsjaelland-agf",
-"teamA": {
-"name": "Nordsjælland",
-"icon": "https://cdn.sofascore.app/api/v1/team/4640/image.png"
-},
-"teamB": {
-"name": "AGF",
-"icon": "https://cdn.sofascore.app/api/v1/team/4641/image.png"
-},
-"leagueName": "Danish Superligaen",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
-"confidence": "Medium-High",
-"safetyRating": 6,
-"reason": "Championship round attacking styles, consistent over patterns in recent form."
 } ]
