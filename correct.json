@@ -1,169 +1,86 @@
 [
-{ "id": "psv-pec-zwolle",
+{ "id": "rangers-hearts",
 "teamA": {
-"name": "PSV",
-"icon": "https://cdn.sofascore.app/api/v1/team/67/image.png"
+"name": "Rangers",
+"icon": "https://cdn.sofascore.app/api/v1/team/4895/image.png"
 },
 "teamB": {
-"name": "PEC Zwolle",
-"icon": "https://cdn.sofascore.app/api/v1/team/66/image.png"
+"name": "Hearts",
+"icon": "https://cdn.sofascore.app/api/v1/team/4901/image.png"
 },
-"leagueName": "Dutch Eredivisie",
+"leagueName": "Scottish SWPL 1 Championship Round",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-23",
+"date": "2026-04-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "PSV dominant home form with mathematical predictions favoring 4-1 win, clear favorites at 1.19 odds vs underdogs."
+"reason": "Rangers unbeaten in 24 home games, 26 H2H wins in 41, dominant championship position."
 
 },
-{ "id": "malmo-ff-sirius",
+{ "id": "hibernian-celtic",
 "teamA": {
-"name": "Malmö FF",
-"icon": "https://cdn.sofascore.app/api/v1/team/1892/image.png"
+"name": "Hibernian",
+"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
 },
 "teamB": {
-"name": "Sirius",
-"icon": "https://cdn.sofascore.app/api/v1/team/2022/image.png"
+"name": "Celtic",
+"icon": "https://cdn.sofascore.app/api/v1/team/4896/image.png"
 },
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-23",
+"leagueName": "Scottish SWPL 1 Championship Round",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Malmö FF unbeaten in recent matches (67% wins), 100% home over 1.5 goals, 40.6% win probability."
+"reason": "Celtic superior league standing, consistent H2H dominance over Hibs."
 
 },
-{ "id": "aik-degerfors",
+{ "id": "napoli-cremonese",
 "teamA": {
-"name": "Degerfors",
-"icon": "https://cdn.sofascore.app/api/v1/team/2753/image.png"
+"name": "Napoli",
+"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
 },
 "teamB": {
-"name": "AIK",
-"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
+"name": "Cremonese",
+"icon": "https://cdn.sofascore.app/api/v1/team/2696/image.png"
 },
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Napoli 10/15 H2H wins, 7-game home unbeaten streak, Cremonese poor away."
+
+},
+{ "id": "rb-leipzig-union-berlin",
+"teamA": {
+"name": "RB Leipzig",
+"icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
+},
+"teamB": {
+"name": "Union Berlin",
+"icon": "https://cdn.sofascore.app/api/v1/team/4771/image.png"
+},
+"leagueName": "German Bundesliga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-24",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "AIK superior H2H record (7 wins in 13 vs Degerfors 2), strong away trends against weaker opposition."
+"reason": "Leipzig 8/13 home wins, scored in 32 straight home games, Union winless 13/15 away."
 
 },
-{ "id": "zorya-shakhtar",
+{ "id": "real-betis-real-madrid",
 "teamA": {
-"name": "Zorya",
-"icon": "https://cdn.sofascore.app/api/v1/team/2585/image.png"
+"name": "Real Betis",
+"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
 },
 "teamB": {
-"name": "Shakhtar Donetsk",
-"icon": "https://cdn.sofascore.app/api/v1/team/2584/image.png"
+"name": "Real Madrid",
+"icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
 },
-"leagueName": "Ukraine Premier League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
+"leagueName": "Spanish La Liga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-24",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Shakhtar top of league with excellent away form (5W-5D-0L), dominant H2H (38 wins vs Zorya 5)."
+"reason": "Madrid avg 2.09 goals/game, 26 H2H wins in 43, consistent over 1.5 trends."
 
-},
-{ "id": "casa-pia-braga",
-"teamA": {
-"name": "Casa Pia",
-"icon": "https://cdn.sofascore.app/api/v1/team/50091/image.png"
-},
-"teamB": {
-"name": "Sporting Braga",
-"icon": "https://cdn.sofascore.app/api/v1/team/50064/image.png"
-},
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Recent H2H high-scoring (4-0, 2-1), Braga strong attackers even away, defensive styles but goals likely."
-
-},
-{ "id": "kalmar-ifk-goteborg",
-"teamA": {
-"name": "Kalmar",
-"icon": "https://cdn.sofascore.app/api/v1/team/2023/image.png"
-},
-"teamB": {
-"name": "IFK Göteborg",
-"icon": "https://cdn.sofascore.app/api/v1/team/2024/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams 80% over 1.5 in recent games, average 1.6-2.0 scored per match."
-
-},
-{ "id": "sint-truiden-anderlecht",
-"teamA": {
-"name": "Sint-Truiden",
-"icon": "https://cdn.sofascore.app/api/v1/team/5120/image.png"
-},
-"teamB": {
-"name": "Anderlecht",
-"icon": "https://cdn.sofascore.app/api/v1/team/5121/image.png"
-},
-"leagueName": "Belgian First Division A",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "Medium-High",
-"safetyRating": 7,
-"reason": "Anderlecht strong H2H (19 wins vs 3), despite some injuries still superior squad."
-
-},
-{ "id": "gais-mjallby",
-"teamA": {
-"name": "GAIS",
-"icon": "https://cdn.sofascore.app/api/v1/team/3758/image.png"
-},
-"teamB": {
-"name": "Mjällby",
-"icon": "https://cdn.sofascore.app/api/v1/team/2026/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "Medium-High",
-"safetyRating": 7,
-"reason": "Mjällby favored at 2.38 odds, double chance 1.25-1.38 low-risk."
-
-},
-{ "id": "stuttgart-freiburg",
-"teamA": {
-"name": "Stuttgart",
-"icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
-},
-"teamB": {
-"name": "Freiburg",
-"icon": "https://cdn.sofascore.app/api/v1/team/2402/image.png"
-},
-"leagueName": "German DFB Pokal",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Cup semi-final high motivation, both teams consistent goal trends in knockouts."
-},
-{ "id": "nordsjaelland-agf",
-"teamA": {
-"name": "Nordsjælland",
-"icon": "https://cdn.sofascore.app/api/v1/team/4640/image.png"
-},
-"teamB": {
-"name": "AGF",
-"icon": "https://cdn.sofascore.app/api/v1/team/4641/image.png"
-},
-"leagueName": "Danish Superligaen",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-23",
-"confidence": "Medium-High",
-"safetyRating": 6,
-"reason": "Championship round attacking styles, consistent over patterns in recent form."
 } ]
