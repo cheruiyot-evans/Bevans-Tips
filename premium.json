@@ -1,137 +1,337 @@
 [
-{ "id": "rangers-hearts",
+{ "id": "manchester-city-southampton",
 "teamA": {
-"name": "Rangers",
-"icon": "https://cdn.sofascore.app/api/v1/team/4895/image.png"
+"name": "Manchester City",
+"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
 },
 "teamB": {
-"name": "Hearts",
-"icon": "https://cdn.sofascore.app/api/v1/team/4901/image.png"
+"name": "Southampton",
+"icon": "https://cdn.sofascore.app/api/v1/team/32/image.png"
 },
-"leagueName": "Scottish SWPL 1 Championship Round",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
+"leagueName": "FA Cup Semi-finals",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-25",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Rangers won 26 of last 41 H2H vs Hearts, unbeaten in 24 home games, strong home form in championship race."
-
+"reason": "City are the clear quality favorite and this matchup has a large attack-vs-defense gap, making a low goal line safer than a result market. The main risk is rotation in a cup tie, so the conservative goals line is preferred over a straight win."
 },
-{ "id": "hibernian-celtic",
+{ "id": "liverpool-crystal-palace",
 "teamA": {
-"name": "Hibernian",
-"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
+"name": "Liverpool",
+"icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
 },
 "teamB": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/4896/image.png"
+"name": "Crystal Palace",
+"icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
 },
-"leagueName": "Scottish SWPL 1 Championship Round",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-24",
+"leagueName": "Premier League",
+"prediction": "LIVERPOOL OR DRAW (1X)",
+"date": "2026-04-25",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Celtic dominant vs Hibernian despite injuries, superior league position and consistent scoring trends."
-
+"reason": "Liverpool are a top-side favorite and Palace are the weaker away team in this matchup. A double-chance angle is safer than a straight home win and fits a capital-preservation approach."
 },
-{ "id": "napoli-cremonese",
+{ "id": "arsenal-newcastle-united",
 "teamA": {
-"name": "Napoli",
-"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
+"name": "Arsenal",
+"icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
 },
 "teamB": {
-"name": "Cremonese",
-"icon": "https://cdn.sofascore.app/api/v1/team/2696/image.png"
+"name": "Newcastle United",
+"icon": "https://cdn.sofascore.app/api/v1/team/34/image.png"
 },
-"leagueName": "Italian Serie A",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Napoli won 10 of 15 H2H, unbeaten in 7 home games, Cremonese poor away form."
-
+"leagueName": "Premier League",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "This is a high-quality league game, but the conservative totals market is safer than picking a side. Premier League fixtures between strong teams often stay under 4.5 unless the game opens early."
 },
-{ "id": "rb-leipzig-union-berlin",
+{ "id": "manchester-city-southampton-1x",
 "teamA": {
-"name": "RB Leipzig",
+"name": "Manchester City",
+"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+},
+"teamB": {
+"name": "Southampton",
+"icon": "https://cdn.sofascore.app/api/v1/team/32/image.png"
+},
+"leagueName": "FA Cup Semi-finals",
+"prediction": "MANCHESTER CITY OR DRAW (1X)",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 10,
+"reason": "City have an overwhelming quality edge over Southampton, and 1X is the safest possible side-based market. Even with cup rotation, City avoiding defeat is the low-variance angle."
+},
+{ "id": "west-ham-everton-under-45",
+"teamA": {
+"name": "West Ham United",
+"icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
+},
+"teamB": {
+"name": "Everton",
+"icon": "https://cdn.sofascore.app/api/v1/team/45/image.png"
+},
+"leagueName": "Premier League",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both teams are usually more reliable in lower-scoring games than in open shootouts. Under 4.5 covers the most common match scripts and avoids winner volatility."
+},
+{ "id": "wolverhampton-tottenham-under-45",
+"teamA": {
+"name": "Wolverhampton Wanderers",
 "icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
 },
 "teamB": {
-"name": "Union Berlin",
-"icon": "https://cdn.sofascore.app/api/v1/team/4771/image.png"
+"name": "Tottenham Hotspur",
+"icon": "https://cdn.sofascore.app/api/v1/team/35/image.png"
 },
-"leagueName": "German Bundesliga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
+"leagueName": "Premier League",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Leipzig strong home record with 8/13 wins, scored in last 32 home games, Union winless in 13/15 away."
-
+"reason": "This fixture has enough quality to avoid extreme scorelines, but not enough certainty for a side pick. Under 4.5 is a safer, low-variance market."
 },
-{ "id": "real-betis-real-madrid",
+{ "id": "birmingham-bristol-city-under-45",
 "teamA": {
-"name": "Real Betis",
-"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
+"name": "Birmingham City",
+"icon": ""
 },
 "teamB": {
-"name": "Real Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Madrid high scoring avg 2.09 goals/game, dominant H2H 26 wins in 43, both teams consistent over trends."
-
-},
-{ "id": "leicester-city-millwall",
-"teamA": {
-"name": "Leicester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/34/image.png"
-},
-"teamB": {
-"name": "Millwall",
-"icon": "https://cdn.sofascore.app/api/v1/team/1615/image.png"
+"name": "Bristol City",
+"icon": ""
 },
 "leagueName": "Championship",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Leicester solid home form despite H2H, Millwall poor recent away, low draw history."
-
+"reason": "Championship matches often stay controlled and physical rather than high-scoring. Under 4.5 is the most conservative option without needing a form-dependent side."
 },
-{ "id": "shelbourne-drogheda-united",
+{ "id": "sheffield-united-preston-under-45",
 "teamA": {
-"name": "Shelbourne",
-"icon": "https://cdn.sofascore.app/api/v1/team/60850/image.png"
+"name": "Sheffield United",
+"icon": ""
 },
 "teamB": {
-"name": "Drogheda United",
-"icon": "https://cdn.sofascore.app/api/v1/team/60848/image.png"
+"name": "Preston North End",
+"icon": ""
 },
-"leagueName": "Irish Premier Division",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
+"leagueName": "Championship",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Shelbourne leading league, even H2H but home advantage, Drogheda multiple injuries."
-
+"reason": "This is the type of second-tier game that usually rewards caution rather than aggression. A high ceiling on goals keeps the variance low."
 },
-{ "id": "istanbul-basaksehir-kasimpasa",
+{ "id": "celtic-falkirk-over-15",
 "teamA": {
-"name": "İstanbul Başakşehir",
-"icon": "https://cdn.sofascore.app/api/v1/team/6066/image.png"
+"name": "Celtic",
+"icon": ""
 },
 "teamB": {
-"name": "Kasımpaşa",
-"icon": "https://cdn.sofascore.app/api/v1/team/6068/image.png"
+"name": "Falkirk",
+"icon": ""
+},
+"leagueName": "Scottish Premiership",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Celtic have a major class edge, and the over 1.5 line is still very safe even in a one-sided game. It only needs two goals total, which fits a strong favorite profile."
+},
+{ "id": "bayern-munich-barcelona-under-45",
+"teamA": {
+"name": "Bayern Munich",
+"icon": ""
+},
+"teamB": {
+"name": "Barcelona",
+"icon": ""
+},
+"leagueName": "UEFA Women's Champions League Semi-finals",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "A semi-final between elite teams is usually more controlled than chaotic, so a high total line is safer than choosing a side. Under 4.5 gives protection against a normal competitive match."
+},
+{ "id": "bayer-leverkusen-cologne-under-45",
+"teamA": {
+"name": "Köln",
+"icon": ""
+},
+"teamB": {
+"name": "Bayer Leverkusen",
+"icon": ""
+},
+"leagueName": "German Bundesliga",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Leverkusen are the stronger side, but the safest route is a ceiling market that does not depend on a winner. Bundesliga matches with a clear favorite often remain below this line."
+},
+{ "id": "mainz-bayern-munich-over-15",
+"teamA": {
+"name": "Mainz 05",
+"icon": ""
+},
+"teamB": {
+"name": "Bayern Munich",
+"icon": ""
+},
+"leagueName": "German Bundesliga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Bayern’s attacking strength makes two total goals a very conservative threshold. This is safer than any result bet because it only needs a modest scoring game."
+},
+{ "id": "lyon-auxerre-over-15",
+"teamA": {
+"name": "Olympique Lyonnais",
+"icon": ""
+},
+"teamB": {
+"name": "Auxerre",
+"icon": ""
+},
+"leagueName": "French Ligue 1",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Lyon and Auxerre both profile well for a low threshold over goals bet, and the recent league context shows Lyon with a clear edge. Over 1.5 is conservative and avoids the risk of picking the winner."
+},
+{ "id": "angers-psg-over-15",
+"teamA": {
+"name": "Angers SCO",
+"icon": ""
+},
+"teamB": {
+"name": "Paris Saint-Germain",
+"icon": ""
+},
+"leagueName": "French Ligue 1",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "PSG are a strong attacking side against a much weaker opponent, so two goals total is a very low bar. This is one of the safest low-risk markets on the slate."
+},
+{ "id": "benfica-moreirense-over-15",
+"teamA": {
+"name": "Benfica",
+"icon": ""
+},
+"teamB": {
+"name": "Moreirense",
+"icon": ""
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Benfica’s superior attacking quality makes a two-goal match total highly plausible without needing any specific side outcome. It is a conservative totals play with strong safety characteristics."
+},
+{ "id": "feyenoord-groningen-1x",
+"teamA": {
+"name": "Feyenoord",
+"icon": ""
+},
+"teamB": {
+"name": "Groningen",
+"icon": ""
+},
+"leagueName": "Dutch Eredivisie",
+"prediction": "FEYENOORD OR DRAW (1X)",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Feyenoord are the stronger team and 1X is the lowest-risk side market available. It gives protection against an unexpected draw while still backing the favorite profile."
+},
+{ "id": "barcelona-getafe-under-45",
+"teamA": {
+"name": "Getafe",
+"icon": ""
+},
+"teamB": {
+"name": "Barcelona",
+"icon": ""
+},
+"leagueName": "Spanish La Liga",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Barcelona are the superior side, but the safest route is a generous totals line rather than a winner market. Under 4.5 protects against a normal away-favorite game state."
+},
+{ "id": "bologna-roma-under-45",
+"teamA": {
+"name": "Bologna",
+"icon": ""
+},
+"teamB": {
+"name": "Roma",
+"icon": ""
+},
+"leagueName": "Italian Serie A",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Serie A is usually more controlled than many leagues, and this matchup suits a conservative goals ceiling. Under 4.5 is safer than trying to call a tight result."
+},
+{ "id": "eyupspor-gaziantep-fk-under-45",
+"teamA": {
+"name": "Eyüpspor",
+"icon": ""
+},
+"teamB": {
+"name": "Gaziantep FK",
+"icon": ""
 },
 "leagueName": "Turkish Super Lig",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Medium",
-"safetyRating": 7,
-"reason": "Başakşehir 30 H2H wins in 46, higher shots and possession avg at home."
-
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "This is a safer totals market than any side bet in a league known for variance. Under 4.5 gives wide room for a normal competitive match."
+},
+{ "id": "parma-pisa-under-45",
+"teamA": {
+"name": "Parma",
+"icon": ""
+},
+"teamB": {
+"name": "Pisa",
+"icon": ""
+},
+"leagueName": "Italian Serie A",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "A conservative totals bet is the safest play in a matchup that does not clearly warrant a side call. The line is high enough to avoid unnecessary variance."
+},
+{ "id": "west-brom-ipswich-under-45",
+"teamA": {
+"name": "West Bromwich Albion",
+"icon": ""
+},
+"teamB": {
+"name": "Ipswich Town",
+"icon": ""
+},
+"leagueName": "Championship",
+"prediction": "UNDER 4.5 GOALS",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "This is another Championship fixture where caution is more reliable than picking a result. Under 4.5 has a strong safety buffer."
 } ]
