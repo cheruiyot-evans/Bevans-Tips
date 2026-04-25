@@ -1,137 +1,129 @@
 [
-{ "id": "rangers-hearts",
+{ "id": "mainz-bayern-munich",
 "teamA": {
-"name": "Rangers",
-"icon": "https://cdn.sofascore.app/api/v1/team/4895/image.png"
+"name": "Mainz 05",
+"icon": ""
 },
 "teamB": {
-"name": "Hearts",
-"icon": "https://cdn.sofascore.app/api/v1/team/4901/image.png"
-},
-"leagueName": "Scottish SWPL 1 Championship Round",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Rangers won 26 of last 41 H2H vs Hearts, unbeaten in 24 home games, strong home form in championship race."
-
-},
-{ "id": "hibernian-celtic",
-"teamA": {
-"name": "Hibernian",
-"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
-},
-"teamB": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/4896/image.png"
-},
-"leagueName": "Scottish SWPL 1 Championship Round",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Celtic dominant vs Hibernian despite injuries, superior league position and consistent scoring trends."
-
-},
-{ "id": "napoli-cremonese",
-"teamA": {
-"name": "Napoli",
-"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
-},
-"teamB": {
-"name": "Cremonese",
-"icon": "https://cdn.sofascore.app/api/v1/team/2696/image.png"
-},
-"leagueName": "Italian Serie A",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Napoli won 10 of 15 H2H, unbeaten in 7 home games, Cremonese poor away form."
-
-},
-{ "id": "rb-leipzig-union-berlin",
-"teamA": {
-"name": "RB Leipzig",
-"icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
-},
-"teamB": {
-"name": "Union Berlin",
-"icon": "https://cdn.sofascore.app/api/v1/team/4771/image.png"
+"name": "Bayern Munich",
+"icon": ""
 },
 "leagueName": "German Bundesliga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Leipzig strong home record with 8/13 wins, scored in last 32 home games, Union winless in 13/15 away."
-
+"prediction": "Bayern Munich win or draw (X2)",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Bayern are 1st in the Bundesliga with a 25-4-1 record and a dominant +80 goal difference, while Mainz are 10th with a negative goal difference and far weaker overall output. The quality gap is very large, Bayern’s league position and season consistency are elite, and this is a league match with no knockout volatility."
 },
-{ "id": "real-betis-real-madrid",
+{ "id": "cologne-bayer-leverkusen",
 "teamA": {
-"name": "Real Betis",
-"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
+"name": "Köln",
+"icon": ""
 },
 "teamB": {
-"name": "Real Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
+"name": "Bayer Leverkusen",
+"icon": ""
 },
-"leagueName": "Spanish La Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Madrid high scoring avg 2.09 goals/game, dominant H2H 26 wins in 43, both teams consistent over trends."
-
+"leagueName": "German Bundesliga",
+"prediction": "Bayer Leverkusen win or draw (X2)",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Leverkusen are 6th in the Bundesliga with a strong +19 goal difference, clearly ahead of Köln, who are 12th and much less stable. The away side have the stronger squad profile and overall season level, making X2 the conservative choice."
 },
-{ "id": "leicester-city-millwall",
+{ "id": "angers-psg",
 "teamA": {
-"name": "Leicester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/34/image.png"
+"name": "Angers SCO",
+"icon": ""
 },
 "teamB": {
-"name": "Millwall",
-"icon": "https://cdn.sofascore.app/api/v1/team/1615/image.png"
+"name": "Paris Saint-Germain",
+"icon": ""
 },
-"leagueName": "Championship",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Leicester solid home form despite H2H, Millwall poor recent away, low draw history."
-
+"leagueName": "French Ligue 1",
+"prediction": "Paris Saint-Germain win or draw (X2)",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "PSG have a major quality edge over Angers in squad strength and league status, and this is the kind of mismatch suited to a low-variance X2. The fixture is a standard league game, not a cup tie, and PSG’s baseline level makes a loss unlikely."
 },
-{ "id": "shelbourne-drogheda-united",
+{ "id": "feyenoord-groningen",
 "teamA": {
-"name": "Shelbourne",
-"icon": "https://cdn.sofascore.app/api/v1/team/60850/image.png"
+"name": "Feyenoord",
+"icon": ""
 },
 "teamB": {
-"name": "Drogheda United",
-"icon": "https://cdn.sofascore.app/api/v1/team/60848/image.png"
+"name": "Groningen",
+"icon": ""
 },
-"leagueName": "Irish Premier Division",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
+"leagueName": "Dutch Eredivisie",
+"prediction": "Feyenoord win or draw (X2)",
+"date": "2026-04-25",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Shelbourne leading league, even H2H but home advantage, Drogheda multiple injuries."
-
+"reason": "Feyenoord are the stronger side by class and league standing profile, while Groningen are the weaker opponent in the matchup. X2 is the safest market because it avoids needing a straight home win in a match that still has some variance."
 },
-{ "id": "istanbul-basaksehir-kasimpasa",
+{ "id": "benfica-moreirense",
 "teamA": {
-"name": "İstanbul Başakşehir",
-"icon": "https://cdn.sofascore.app/api/v1/team/6066/image.png"
+"name": "Benfica",
+"icon": ""
 },
 "teamB": {
-"name": "Kasımpaşa",
-"icon": "https://cdn.sofascore.app/api/v1/team/6068/image.png"
+"name": "Moreirense",
+"icon": ""
 },
-"leagueName": "Turkish Super Lig",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Medium",
-"safetyRating": 7,
-"reason": "Başakşehir 30 H2H wins in 46, higher shots and possession avg at home."
-
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "Benfica win or draw (X2)",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Benfica are the clear top-tier favorite in this pairing, and Moreirense are a much weaker opponent on paper. The quality gap is broad enough to justify a conservative double-chance approach rather than a riskier straight win."
+},
+{ "id": "slavia-prague-sigma-olomouc",
+"teamA": {
+"name": "Slavia Prague",
+"icon": ""
+},
+"teamB": {
+"name": "Sigma Olomouc",
+"icon": ""
+},
+"leagueName": "Czech First League",
+"prediction": "Slavia Prague win or draw (X2)",
+"date": "2026-04-25",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Slavia Prague are one of the strongest teams in the league and should have a clear quality edge over Sigma Olomouc. For capital preservation, X2 is the safest market available in a fixture where the favorite profile is strong."
+},
+{ "id": "psg-angers-under-45",
+"teamA": {
+"name": "Angers SCO",
+"icon": ""
+},
+"teamB": {
+"name": "Paris Saint-Germain",
+"icon": ""
+},
+"leagueName": "French Ligue 1",
+"prediction": "Under 4.5 Goals",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "This is a highly one-sided league match, and Under 4.5 is a conservative ceiling market that allows for a PSG control game without requiring a specific result. It is safer than goals-based overs because it covers most normal match scripts."
+},
+{ "id": "mainz-bayern-under-45",
+"teamA": {
+"name": "Mainz 05",
+"icon": ""
+},
+"teamB": {
+"name": "Bayern Munich",
+"icon": ""
+},
+"leagueName": "German Bundesliga",
+"prediction": "Under 4.5 Goals",
+"date": "2026-04-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Bayern are far stronger, but this market avoids needing a winner and only requires the game not to become an extreme goal fest. That makes it a stable low-risk option for a dominant favorite away from home."
 } ]
