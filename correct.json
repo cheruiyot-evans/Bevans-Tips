@@ -1,86 +1,87 @@
 [
-{ "id": "rangers-hearts",
-"teamA": {
-"name": "Rangers",
-"icon": "https://cdn.sofascore.app/api/v1/team/4895/image.png"
-},
-"teamB": {
-"name": "Hearts",
-"icon": "https://cdn.sofascore.app/api/v1/team/4901/image.png"
-},
-"leagueName": "Scottish SWPL 1 Championship Round",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Rangers unbeaten in 24 home games, 26 H2H wins in 41, dominant championship position."
-
-},
-{ "id": "hibernian-celtic",
-"teamA": {
-"name": "Hibernian",
-"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
-},
-"teamB": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/4896/image.png"
-},
-"leagueName": "Scottish SWPL 1 Championship Round",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Celtic superior league standing, consistent H2H dominance over Hibs."
-
-},
-{ "id": "napoli-cremonese",
-"teamA": {
-"name": "Napoli",
-"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
-},
-"teamB": {
-"name": "Cremonese",
-"icon": "https://cdn.sofascore.app/api/v1/team/2696/image.png"
-},
-"leagueName": "Italian Serie A",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Napoli 10/15 H2H wins, 7-game home unbeaten streak, Cremonese poor away."
-
-},
-{ "id": "rb-leipzig-union-berlin",
-"teamA": {
-"name": "RB Leipzig",
-"icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
-},
-"teamB": {
-"name": "Union Berlin",
-"icon": "https://cdn.sofascore.app/api/v1/team/4771/image.png"
-},
-"leagueName": "German Bundesliga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Leipzig 8/13 home wins, scored in 32 straight home games, Union winless 13/15 away."
-
-},
-{ "id": "real-betis-real-madrid",
-"teamA": {
-"name": "Real Betis",
-"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
-},
-"teamB": {
-"name": "Real Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Madrid avg 2.09 goals/game, 26 H2H wins in 43, consistent over 1.5 trends."
-
-} ]
+  {
+    "id": "liverpool-crystal-palace",
+    "teamA": {
+      "name": "Liverpool",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
+    },
+    "teamB": {
+      "name": "Crystal Palace",
+      "icon": "https://cdn.sofascore.app/api/v1/team/52/image.png"
+    },
+    "leagueName": "English Premier League",
+    "prediction": "Over 1.5 Goals",
+    "date": "2026-04-25",
+    "confidence": "90%",
+    "safetyRating": 9,
+    "reason": "Liverpool consistently score 2+ at home and Palace concede regularly away. Last H2H meetings also favor multiple goals."
+  },
+  {
+    "id": "koln-bayer-leverkusen",
+    "teamA": {
+      "name": "Köln",
+      "icon": "https://cdn.sofascore.app/api/v1/team/65/image.png"
+    },
+    "teamB": {
+      "name": "Bayer Leverkusen",
+      "icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
+    },
+    "leagueName": "German Bundesliga",
+    "prediction": "Double Chance: Bayer Leverkusen or Draw",
+    "date": "2026-04-25",
+    "confidence": "88%",
+    "safetyRating": 9,
+    "reason": "Leverkusen in strong form and unbeaten in recent H2H vs Köln, who struggle defensively against top teams."
+  },
+  {
+    "id": "mainz-bayern-munich",
+    "teamA": {
+      "name": "Mainz 05",
+      "icon": "https://cdn.sofascore.app/api/v1/team/15/image.png"
+    },
+    "teamB": {
+      "name": "Bayern Munich",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2672/image.png"
+    },
+    "leagueName": "German Bundesliga",
+    "prediction": "Double Chance: Bayern Munich or Draw",
+    "date": "2026-04-25",
+    "confidence": "90%",
+    "safetyRating": 9,
+    "reason": "Bayern dominate H2H and maintain strong attacking output; Mainz inconsistent against top-tier opposition."
+  },
+  {
+    "id": "getafe-barcelona",
+    "teamA": {
+      "name": "Getafe",
+      "icon": "https://cdn.sofascore.app/api/v1/team/546/image.png"
+    },
+    "teamB": {
+      "name": "Barcelona",
+      "icon": "https://cdn.sofascore.app/api/v1/team/529/image.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "Double Chance: Barcelona or Draw",
+    "date": "2026-04-25",
+    "confidence": "87%",
+    "safetyRating": 8,
+    "reason": "Barcelona superior in squad quality and H2H dominance; Getafe rarely beat top sides."
+  },
+  {
+    "id": "angers-psg",
+    "teamA": {
+      "name": "Angers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/543/image.png"
+    },
+    "teamB": {
+      "name": "Paris Saint-Germain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1644/image.png"
+    },
+    "leagueName": "French Ligue 1",
+    "prediction": "Double Chance: PSG or Draw",
+    "date": "2026-04-25",
+    "confidence": "91%",
+    "safetyRating": 9,
+    "reason": "PSG dominate weaker sides with strong scoring form; Angers struggle defensively against elite teams."
+  }
+]
