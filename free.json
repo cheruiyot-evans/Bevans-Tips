@@ -1,80 +1,49 @@
-[{ "id": "mainz-bayern-munich",
+[
+{ "id": "sporting-delhi-mohammedan",
 "teamA": {
-"name": "Mainz 05",
-"icon": ""
+"name": "Sporting Delhi",
+"icon": "https://cdn.sofascore.app/api/v1/team/1789/image.png"
 },
 "teamB": {
-"name": "Bayern Munich",
-"icon": ""
+"name": "Mohammedan",
+"icon": "https://cdn.sofascore.app/api/v1/team/1790/image.png"
 },
-"leagueName": "German Bundesliga",
-"prediction": "Bayern Munich win or draw (X2)",
-"date": "2026-04-25",
+"leagueName": "Indian Super League",
+"prediction": "DRAW NO BET - Sporting Delhi",
+"date": "2026-04-26",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Bayern are 1st in the Bundesliga with a 25-4-1 record and a dominant +80 goal difference, while Mainz are 10th with a negative goal difference and far weaker overall output. The quality gap is very large, Bayern’s league position and season consistency are elite, and this is a league match with no knockout volatility."
+"reason": "Sporting Delhi hold a strong home‑advantage edge with around 65% implied winning probability versus bottom‑placed, winless Mohammedan at very low market odds, making a draw‑no‑bet on the home side a low‑risk way to back their clear superiority while hedging the draw."
 },
-{ "id": "cologne-bayer-leverkusen",
+{ "id": "atromitos-asteras-tripolis",
 "teamA": {
-"name": "Köln",
-"icon": ""
+"name": "Atromitos",
+"icon": "https://cdn.sofascore.app/api/v1/team/121/image.png"
 },
 "teamB": {
-"name": "Bayer Leverkusen",
-"icon": ""
+"name": "Asteras Tripolis",
+"icon": "https://cdn.sofascore.app/api/v1/team/122/image.png"
 },
-"leagueName": "German Bundesliga",
-"prediction": "Bayer Leverkusen win or draw (X2)",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Leverkusen are 6th in the Bundesliga with a strong +19 goal difference, clearly ahead of Köln, who are 12th and much less stable. The away side have the stronger squad profile and overall season level, making X2 the conservative choice."
-},
-{ "id": "angers-psg",
-"teamA": {
-"name": "Angers SCO",
-"icon": ""
-},
-"teamB": {
-"name": "Paris Saint-Germain",
-"icon": ""
-},
-"leagueName": "French Ligue 1",
-"prediction": "Paris Saint-Germain win or draw (X2)",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "PSG have a major quality edge over Angers in squad strength and league status, and this is the kind of mismatch suited to a low-variance X2. The fixture is a standard league game, not a cup tie, and PSG’s baseline level makes a loss unlikely."
-},
-{ "id": "feyenoord-groningen",
-"teamA": {
-"name": "Feyenoord",
-"icon": ""
-},
-"teamB": {
-"name": "Groningen",
-"icon": ""
-},
-"leagueName": "Dutch Eredivisie",
-"prediction": "Feyenoord win or draw (X2)",
-"date": "2026-04-25",
+"leagueName": "Greek Super League Relegation Round",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-26",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Feyenoord are the stronger side by class and league standing profile, while Groningen are the weaker opponent in the matchup. X2 is the safest market because it avoids needing a straight home win in a match that still has some variance."
+"reason": "Historical tip models and market pricing show Atromitos as a slight edge at home over a mid‑table side, with a double‑chance 1X covering both a win and a safety‑draw while avoiding the higher‑risk 2 on the visitor."
 },
-{ "id": "benfica-moreirense",
+{ "id": "larissa-panserraikos",
 "teamA": {
-"name": "Benfica",
-"icon": ""
+"name": "AE Larissa",
+"icon": "https://cdn.sofascore.app/api/v1/team/126/image.png"
 },
 "teamB": {
-"name": "Moreirense",
-"icon": ""
+"name": "Panserraikos",
+"icon": "https://cdn.sofascore.app/api/v1/team/127/image.png"
 },
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "Benfica win or draw (X2)",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Benfica are the clear top-tier favorite in this pairing, and Moreirense are a much weaker opponent on paper. The quality gap is broad enough to justify a conservative double-chance approach rather than a riskier straight win."
-}]
+"leagueName": "Greek Super League Relegation Round",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Statistical previews place a solid probability of over‑1.5 goals in this fixture and show both sides have been involved in scoring patterns above 1.5 goals in recent meetings, making this a conservative goals‑based pick rather than a straight result."
+} ]
