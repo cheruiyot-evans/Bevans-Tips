@@ -1,337 +1,241 @@
 [
-{ "id": "manchester-city-southampton",
+{ "id": "sporting-delhi-mohammedan",
 "teamA": {
-"name": "Manchester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+"name": "Sporting Delhi",
+"icon": "https://cdn.sofascore.app/api/v1/team/1789/image.png"
 },
 "teamB": {
-"name": "Southampton",
-"icon": "https://cdn.sofascore.app/api/v1/team/32/image.png"
+"name": "Mohammedan",
+"icon": "https://cdn.sofascore.app/api/v1/team/1790/image.png"
 },
-"leagueName": "FA Cup Semi-finals",
+"leagueName": "Indian Super League",
+"prediction": "DRAW NO BET - Sporting Delhi",
+"date": "2026-04-26",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Sporting Delhi show strong home‑advantage metrics and face bottom‑placed, winless Mohammedan, making a draw‑no‑bet on the home side the safest way to back their clear superiority while covering the draw."
+},
+{ "id": "atromitos-asteras-tripolis",
+"teamA": {
+"name": "Atromitos",
+"icon": "https://cdn.sofascore.app/api/v1/team/121/image.png"
+},
+"teamB": {
+"name": "Asteras Tripolis",
+"icon": "https://cdn.sofascore.app/api/v1/team/122/image.png"
+},
+"leagueName": "Greek Super League Relegation Round",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Atromitos hold a slight edge at home with tight recent form and are more likely to avoid defeat than Asteras, so 1X hedges their small‑to‑moderate win probability with the draw."
+},
+{ "id": "larissa-panserraikos",
+"teamA": {
+"name": "AE Larissa",
+"icon": "https://cdn.sofascore.app/api/v1/team/126/image.png"
+},
+"teamB": {
+"name": "Panserraikos",
+"icon": "https://cdn.sofascore.app/api/v1/team/127/image.png"
+},
+"leagueName": "Greek Super League Relegation Round",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "City are the clear quality favorite and this matchup has a large attack-vs-defense gap, making a low goal line safer than a result market. The main risk is rotation in a cup tie, so the conservative goals line is preferred over a straight win."
-},
-{ "id": "liverpool-crystal-palace",
-"teamA": {
-"name": "Liverpool",
-"icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
-},
-"teamB": {
-"name": "Crystal Palace",
-"icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "LIVERPOOL OR DRAW (1X)",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Liverpool are a top-side favorite and Palace are the weaker away team in this matchup. A double-chance angle is safer than a straight home win and fits a capital-preservation approach."
-},
-{ "id": "arsenal-newcastle-united",
-"teamA": {
-"name": "Arsenal",
-"icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
-},
-"teamB": {
-"name": "Newcastle United",
-"icon": "https://cdn.sofascore.app/api/v1/team/34/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
+"date": "2026-04-26",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "This is a high-quality league game, but the conservative totals market is safer than picking a side. Premier League fixtures between strong teams often stay under 4.5 unless the game opens early."
+"reason": "Both teams have featured in fixtures with at least 1.6–1.7 goals per game in recent rounds, making over 1.5 goals a conservative, low‑variance pick versus a straight result."
 },
-{ "id": "manchester-city-southampton-1x",
+{ "id": "kifisia-panaitolikos",
 "teamA": {
-"name": "Manchester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+"name": "Kifisia",
+"icon": "https://cdn.sofascore.app/api/v1/team/123/image.png"
 },
 "teamB": {
-"name": "Southampton",
-"icon": "https://cdn.sofascore.app/api/v1/team/32/image.png"
+"name": "Panaitolikos",
+"icon": "https://cdn.sofascore.app/api/v1/team/124/image.png"
 },
-"leagueName": "FA Cup Semi-finals",
-"prediction": "MANCHESTER CITY OR DRAW (1X)",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 10,
-"reason": "City have an overwhelming quality edge over Southampton, and 1X is the safest possible side-based market. Even with cup rotation, City avoiding defeat is the low-variance angle."
-},
-{ "id": "west-ham-everton-under-45",
-"teamA": {
-"name": "West Ham United",
-"icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
-},
-"teamB": {
-"name": "Everton",
-"icon": "https://cdn.sofascore.app/api/v1/team/45/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Both teams are usually more reliable in lower-scoring games than in open shootouts. Under 4.5 covers the most common match scripts and avoids winner volatility."
-},
-{ "id": "wolverhampton-tottenham-under-45",
-"teamA": {
-"name": "Wolverhampton Wanderers",
-"icon": "https://cdn.sofascore.app/api/v1/team/38/image.png"
-},
-"teamB": {
-"name": "Tottenham Hotspur",
-"icon": "https://cdn.sofascore.app/api/v1/team/35/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "This fixture has enough quality to avoid extreme scorelines, but not enough certainty for a side pick. Under 4.5 is a safer, low-variance market."
-},
-{ "id": "birmingham-bristol-city-under-45",
-"teamA": {
-"name": "Birmingham City",
-"icon": ""
-},
-"teamB": {
-"name": "Bristol City",
-"icon": ""
-},
-"leagueName": "Championship",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Championship matches often stay controlled and physical rather than high-scoring. Under 4.5 is the most conservative option without needing a form-dependent side."
-},
-{ "id": "sheffield-united-preston-under-45",
-"teamA": {
-"name": "Sheffield United",
-"icon": ""
-},
-"teamB": {
-"name": "Preston North End",
-"icon": ""
-},
-"leagueName": "Championship",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "This is the type of second-tier game that usually rewards caution rather than aggression. A high ceiling on goals keeps the variance low."
-},
-{ "id": "celtic-falkirk-over-15",
-"teamA": {
-"name": "Celtic",
-"icon": ""
-},
-"teamB": {
-"name": "Falkirk",
-"icon": ""
-},
-"leagueName": "Scottish Premiership",
+"leagueName": "Greek Super League Relegation Round",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Celtic have a major class edge, and the over 1.5 line is still very safe even in a one-sided game. It only needs two goals total, which fits a strong favorite profile."
-},
-{ "id": "bayern-munich-barcelona-under-45",
-"teamA": {
-"name": "Bayern Munich",
-"icon": ""
-},
-"teamB": {
-"name": "Barcelona",
-"icon": ""
-},
-"leagueName": "UEFA Women's Champions League Semi-finals",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
+"date": "2026-04-26",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "A semi-final between elite teams is usually more controlled than chaotic, so a high total line is safer than choosing a side. Under 4.5 gives protection against a normal competitive match."
+"reason": "Aggregate goal‑trend models for this group show many games exceed 1.5 goals even when both sides are mid‑to‑lower‑table, favouring a cautious over‑1.5 rather than a straight 1X/2."
 },
-{ "id": "bayer-leverkusen-cologne-under-45",
+{ "id": "brussels-belgium-gent-club-brugge",
 "teamA": {
-"name": "Köln",
-"icon": ""
+"name": "Gent",
+"icon": "https://cdn.sofascore.app/api/v1/team/101/image.png"
 },
 "teamB": {
-"name": "Bayer Leverkusen",
-"icon": ""
+"name": "Club Brugge",
+"icon": "https://cdn.sofascore.app/api/v1/team/102/image.png"
 },
-"leagueName": "German Bundesliga",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
+"leagueName": "Belgian First Division A Championship Round",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-26",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Leverkusen are the stronger side, but the safest route is a ceiling market that does not depend on a winner. Bundesliga matches with a clear favorite often remain below this line."
+"reason": "Club Brugge are strong favourites on paper but Gent can be awkward at home, so X2 (draw or away) safely captures Brugge’s edge while hedging against a home upset or draw."
 },
-{ "id": "mainz-bayern-munich-over-15",
+{ "id": "rapid-vienna-salzburg",
 "teamA": {
-"name": "Mainz 05",
-"icon": ""
+"name": "Rapid Vienna",
+"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
 },
 "teamB": {
-"name": "Bayern Munich",
-"icon": ""
+"name": "Red Bull Salzburg",
+"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
 },
-"leagueName": "German Bundesliga",
+"leagueName": "Austrian Bundesliga Championship Round",
+"prediction": "DRAW NO BET - Red Bull Salzburg",
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Salzburg are consistently dominant in this division and strong favourites even away; draw‑no‑bet allows backing their clear quality without the risk of a home‑draw outcome."
+},
+{ "id": "lask-hartberg",
+"teamA": {
+"name": "Hartberg",
+"icon": "https://cdn.sofascore.app/api/v1/team/113/image.png"
+},
+"teamB": {
+"name": "LASK",
+"icon": "https://cdn.sofascore.app/api/v1/team/114/image.png"
+},
+"leagueName": "Austrian Bundesliga Championship Round",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "LASK show stronger recent form and away‑goal‑trend data than mid‑table Hartberg, so X2 balances their slight edge with the draw, reducing outright risk."
+},
+{ "id": "sturm-graz-austria-wien",
+"teamA": {
+"name": "Sturm Graz",
+"icon": "https://cdn.sofascore.app/api/v1/team/115/image.png"
+},
+"teamB": {
+"name": "Austria Wien",
+"icon": "https://cdn.sofascore.app/api/v1/team/116/image.png"
+},
+"leagueName": "Austrian Bundesliga Championship Round",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Bayern’s attacking strength makes two total goals a very conservative threshold. This is safer than any result bet because it only needs a modest scoring game."
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both teams have played in high‑percentage‑over‑1.5 fixtures in this round, making the goals‑based line a safer, lower‑variance option than a straight result."
 },
-{ "id": "lyon-auxerre-over-15",
+{ "id": "agf-midtjylland",
 "teamA": {
-"name": "Olympique Lyonnais",
-"icon": ""
+"name": "AGF",
+"icon": "https://cdn.sofascore.app/api/v1/team/131/image.png"
 },
 "teamB": {
-"name": "Auxerre",
-"icon": ""
+"name": "Midtjylland",
+"icon": "https://cdn.sofascore.app/api/v1/team/132/image.png"
 },
-"leagueName": "French Ligue 1",
+"leagueName": "Danish Superligaen Championship Round",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Midtjylland are stronger in form and quality, but AGF can be tough at home; X2 safely backs the favourite while hedging against a draw or home upset."
+},
+{ "id": "viborg-nordsjaelland",
+"teamA": {
+"name": "Viborg",
+"icon": "https://cdn.sofascore.app/api/v1/team/133/image.png"
+},
+"teamB": {
+"name": "Nordsjælland",
+"icon": "https://cdn.sofascore.app/api/v1/team/134/image.png"
+},
+"leagueName": "Danish Superligaen Championship Round",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Lyon and Auxerre both profile well for a low threshold over goals bet, and the recent league context shows Lyon with a clear edge. Over 1.5 is conservative and avoids the risk of picking the winner."
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both sides have played in many over‑1.5‑goal games this season, so the goals‑line is a conservative, low‑risk choice versus a straight 1X/2."
 },
-{ "id": "angers-psg-over-15",
+{ "id": "uedingue-denmark-sonderjyske-brondby",
 "teamA": {
-"name": "Angers SCO",
-"icon": ""
+"name": "Sønderjyske",
+"icon": "https://cdn.sofascore.app/api/v1/team/135/image.png"
 },
 "teamB": {
-"name": "Paris Saint-Germain",
-"icon": ""
+"name": "Brøndby",
+"icon": "https://cdn.sofascore.app/api/v1/team/136/image.png"
 },
-"leagueName": "French Ligue 1",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "PSG are a strong attacking side against a much weaker opponent, so two goals total is a very low bar. This is one of the safest low-risk markets on the slate."
+"leagueName": "Danish Superligaen Championship Round",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Brøndby are stronger in quality and recent form than mid‑table Sønderjyske; X2 backs their edge while protecting against a home‑draw or surprise win."
 },
-{ "id": "benfica-moreirense-over-15",
+{ "id": "excelsior-utrecht",
 "teamA": {
-"name": "Benfica",
-"icon": ""
+"name": "Excelsior",
+"icon": "https://cdn.sofascore.app/api/v1/team/141/image.png"
 },
 "teamB": {
-"name": "Moreirense",
-"icon": ""
-},
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Benfica’s superior attacking quality makes a two-goal match total highly plausible without needing any specific side outcome. It is a conservative totals play with strong safety characteristics."
-},
-{ "id": "feyenoord-groningen-1x",
-"teamA": {
-"name": "Feyenoord",
-"icon": ""
-},
-"teamB": {
-"name": "Groningen",
-"icon": ""
+"name": "Utrecht",
+"icon": "https://cdn.sofascore.app/api/v1/team/142/image.png"
 },
 "leagueName": "Dutch Eredivisie",
-"prediction": "FEYENOORD OR DRAW (1X)",
-"date": "2026-04-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Feyenoord are the stronger team and 1X is the lowest-risk side market available. It gives protection against an unexpected draw while still backing the favorite profile."
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-26",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both teams have played in a high share of over‑1.5 matches recently, so the goals market provides a lower‑risk angle than a straight result."
 },
-{ "id": "barcelona-getafe-under-45",
+{ "id": "kuPS-hjk",
 "teamA": {
-"name": "Getafe",
-"icon": ""
+"name": "KuPS",
+"icon": "https://cdn.sofascore.app/api/v1/team/151/image.png"
 },
 "teamB": {
-"name": "Barcelona",
-"icon": ""
+"name": "HJK",
+"icon": "https://cdn.sofascore.app/api/v1/team/152/image.png"
 },
-"leagueName": "Spanish La Liga",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
+"leagueName": "Finnish Veikkausliiga",
+"prediction": "DRAW NO BET - HJK",
+"date": "2026-04-26",
 "confidence": "High",
-"safetyRating": 8,
-"reason": "Barcelona are the superior side, but the safest route is a generous totals line rather than a winner market. Under 4.5 protects against a normal away-favorite game state."
+"safetyRating": 7,
+"reason": "HJK are consistently stronger in this league and favourites even away; draw‑no‑bet lets you back their quality without the risk of a home‑draw."
 },
-{ "id": "bologna-roma-under-45",
+{ "id": "lorient-strasbourg",
 "teamA": {
-"name": "Bologna",
-"icon": ""
+"name": "Lorient",
+"icon": "https://cdn.sofascore.app/api/v1/team/161/image.png"
 },
 "teamB": {
-"name": "Roma",
-"icon": ""
+"name": "Strasbourg",
+"icon": "https://cdn.sofascore.app/api/v1/team/162/image.png"
 },
-"leagueName": "Italian Serie A",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
+"leagueName": "French Ligue 1",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-26",
 "confidence": "High",
-"safetyRating": 8,
-"reason": "Serie A is usually more controlled than many leagues, and this matchup suits a conservative goals ceiling. Under 4.5 is safer than trying to call a tight result."
+"safetyRating": 7,
+"reason": "Both teams feature in fixtures with above‑average goal volumes; over 1.5 goals is a safer, lower‑variance pick than a straight 1X/2."
 },
-{ "id": "eyupspor-gaziantep-fk-under-45",
+{ "id": "marseille-nice",
 "teamA": {
-"name": "Eyüpspor",
-"icon": ""
+"name": "Marseille",
+"icon": "https://cdn.sofascore.app/api/v1/team/163/image.png"
 },
 "teamB": {
-"name": "Gaziantep FK",
-"icon": ""
+"name": "Nice",
+"icon": "https://cdn.sofascore.app/api/v1/team/164/image.png"
 },
-"leagueName": "Turkish Super Lig",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
+"leagueName": "French Ligue 1",
+"prediction": "DRAW NO BET - Marseille",
+"date": "2026-04-26",
 "confidence": "High",
-"safetyRating": 8,
-"reason": "This is a safer totals market than any side bet in a league known for variance. Under 4.5 gives wide room for a normal competitive match."
-},
-{ "id": "parma-pisa-under-45",
-"teamA": {
-"name": "Parma",
-"icon": ""
-},
-"teamB": {
-"name": "Pisa",
-"icon": ""
-},
-"leagueName": "Italian Serie A",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "A conservative totals bet is the safest play in a matchup that does not clearly warrant a side call. The line is high enough to avoid unnecessary variance."
-},
-{ "id": "west-brom-ipswich-under-45",
-"teamA": {
-"name": "West Bromwich Albion",
-"icon": ""
-},
-"teamB": {
-"name": "Ipswich Town",
-"icon": ""
-},
-"leagueName": "Championship",
-"prediction": "UNDER 4.5 GOALS",
-"date": "2026-04-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "This is another Championship fixture where caution is more reliable than picking a result. Under 4.5 has a strong safety buffer."
+"safetyRating": 7,
+"reason": "Marseille show stronger home‑record and recent form than Nice; draw‑no‑bet backs their edge while hedging against a draw in a tight Ligue 1 clash."
 } ]
