@@ -1,49 +1,50 @@
 [
-{ "id": "sporting-delhi-mohammedan",
+  { "id": "manchester-united-brentford",
 "teamA": {
-"name": "Sporting Delhi",
-"icon": "https://cdn.sofascore.app/api/v1/team/1789/image.png"
+"name": "Manchester United",
+"icon": "https://cdn.sofascore.app/api/v1/team/88/image.png"
 },
 "teamB": {
-"name": "Mohammedan",
-"icon": "https://cdn.sofascore.app/api/v1/team/1790/image.png"
+"name": "Brentford",
+"icon": "https://cdn.sofascore.app/api/v1/team/1127/image.png"
 },
-"leagueName": "Indian Super League",
-"prediction": "DRAW NO BET - Sporting Delhi",
-"date": "2026-04-26",
+"leagueName": "Premier League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-27",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Sporting Delhi hold a strong home‑advantage edge with around 65% implied winning probability versus bottom‑placed, winless Mohammedan at very low market odds, making a draw‑no‑bet on the home side a low‑risk way to back their clear superiority while hedging the draw."
+"reason": "United remain strong at home with solid goal‑creation metrics; Brentford lack killer edge away, and odds‑implied combined home/draw probability is around 90%."
 },
-{ "id": "atromitos-asteras-tripolis",
+{ "id": "copenhagen-vejle",
 "teamA": {
-"name": "Atromitos",
-"icon": "https://cdn.sofascore.app/api/v1/team/121/image.png"
+"name": "Copenhagen",
+"icon": "https://cdn.sofascore.app/api/v1/team/1123/image.png"
 },
 "teamB": {
-"name": "Asteras Tripolis",
-"icon": "https://cdn.sofascore.app/api/v1/team/122/image.png"
+"name": "Vejle",
+"icon": "https://cdn.sofascore.app/api/v1/team/1129/image.png"
 },
-"leagueName": "Greek Super League Relegation Round",
+"leagueName": "Danish Superligaen (Relegation Round)",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-26",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Historical tip models and market pricing show Atromitos as a slight edge at home over a mid‑table side, with a double‑chance 1X covering both a win and a safety‑draw while avoiding the higher‑risk 2 on the visitor."
+"date": "2026-04-27",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Copenhagen heavily favoured in both pricing and form, with market‑implied double‑chance 1X at roughly evens, while Vejle rarely win away."
 },
-{ "id": "larissa-panserraikos",
+{ "id": "epitsentr-oleksandria",
 "teamA": {
-"name": "AE Larissa",
-"icon": "https://cdn.sofascore.app/api/v1/team/126/image.png"
+"name": "Epitsentr",
+"icon": "https://cdn.sofascore.app/api/v1/team/21234/image.png"
 },
 "teamB": {
-"name": "Panserraikos",
-"icon": "https://cdn.sofascore.app/api/v1/team/127/image.png"
+"name": "Oleksandria",
+"icon": "https://cdn.sofascore.app/api/v1/team/1789/image.png"
 },
-"leagueName": "Greek Super League Relegation Round",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-26",
+"leagueName": "Ukraine Premier League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-27",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Statistical previews place a solid probability of over‑1.5 goals in this fixture and show both sides have been involved in scoring patterns above 1.5 goals in recent meetings, making this a conservative goals‑based pick rather than a straight result."
-} ]
+"reason": "Bookmaker odds price Epitsentr as slight home favourite, with 1X double chance at low odds and weak away record for Oleksandria."
+}
+]
