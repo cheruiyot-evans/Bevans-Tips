@@ -1,1 +1,273 @@
 
+[
+{ "id": "al-hilal-damac",
+"teamA": {
+"name": "Al Hilal",
+"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
+},
+"teamB": {
+"name": "Damac",
+"icon": "https://cdn.sofascore.app/api/v1/team/131/image.png"
+},
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-28",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Al Hilal heavy league favorite with 70%+ win probability in recent form; Damac weak away and prone to losses, making a home win or draw extremely likely."
+}, { "id": "al-shabab-al-fateh",
+"teamA": {
+"name": "Al Shabab",
+"icon": "https://cdn.sofascore.app/api/v1/team/115/image.png"
+},
+"teamB": {
+"name": "Al Fateh",
+"icon": "https://cdn.sofascore.app/api/v1/team/118/image.png"
+},
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Al Shabab stronger in standard metrics and consistency; Al Fateh decent at home but lack cutting edge, making a home win or draw a safe play."
+}, { "id": "neom-al-hazem",
+"teamA": {
+"name": "NEOM",
+"icon": "https://cdn.sofascore.app/api/v1/team/1123/image.png"
+},
+"teamB": {
+"name": "Al Hazem",
+"icon": "https://cdn.sofascore.app/api/v1/team/120/image.png"
+},
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "NEOM superior in points, goals and defensive record; Al Hazem struggles away and often concedes, making a non‑loss for NEOM statistically robust."
+}, { "id": "al-khaleej-al-najma",
+"teamA": {
+"name": "Al Khaleej",
+"icon": "https://cdn.sofascore.app/api/v1/team/114/image.png"
+},
+"teamB": {
+"name": "Al Najma",
+"icon": "https://cdn.sofascore.app/api/v1/team/2121/image.png"
+},
+"leagueName": "Saudi Pro League",
+"prediction": "DRAW NO BET - Al Khaleej",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Al Khaleej clearly stronger in squad and xG‑style metrics; Al Najma completely winless and bottom‑of‑table, making a draw or home win highly probable."
+}, { "id": "southampton-ipswich",
+"teamA": {
+"name": "Southampton",
+"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+},
+"teamB": {
+"name": "Ipswich Town",
+"icon": "https://cdn.sofascore.app/api/v1/team/21/image.png"
+},
+"leagueName": "English Championship",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Both teams among the top‑scoring sides in the Championship this season; recent form and H2H show most fixtures exceed 1.5 goals."
+}, { "id": "northampton-barnsley",
+"teamA": {
+"name": "Northampton Town",
+"icon": "https://cdn.sofascore.app/api/v1/team/101/image.png"
+},
+"teamB": {
+"name": "Barnsley",
+"icon": "https://cdn.sofascore.app/api/v1/team/102/image.png"
+},
+"leagueName": "English League One",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Barnsley significantly higher in table and better away form; Northampton struggling near relegation zone, making a non‑loss for Barnsley safer."
+}, { "id": "peterborough-mansfield",
+"teamA": {
+"name": "Peterborough United",
+"icon": "https://cdn.sofascore.app/api/v1/team/103/image.png"
+},
+"teamB": {
+"name": "Mansfield Town",
+"icon": "https://cdn.sofascore.app/api/v1/team/107/image.png"
+},
+"leagueName": "English League One",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Peterborough typically stronger in attack and home; Mansfield inconsistent and often concede late, making a home win or draw very likely."
+}, { "id": "stockport-port-vale",
+"teamA": {
+"name": "Stockport County",
+"icon": "https://cdn.sofascore.app/api/v1/team/110/image.png"
+},
+"teamB": {
+"name": "Port Vale",
+"icon": "https://cdn.sofascore.app/api/v1/team/108/image.png"
+},
+"leagueName": "English League One",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Stockport slightly better in table position and home record; Port Vale poor defensively and low‑scoring, making a home‑side non‑loss statistically strong."
+}, { "id": "scunthorpe-southend",
+"teamA": {
+"name": "Scunthorpe United",
+"icon": "https://cdn.sofascore.app/api/v1/team/105/image.png"
+},
+"teamB": {
+"name": "Southend United",
+"icon": "https://cdn.sofascore.app/api/v1/team/106/image.png"
+},
+"leagueName": "English National League Play‑offs",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both sides mid‑to‑high on goals and open in attack despite defensive flaws; recent H2H and overall season trends show most fixtures exceed 1.5 goals."
+}, { "id": "buxton-scarborough",
+"teamA": {
+"name": "Buxton",
+"icon": "https://cdn.sofascore.app/api/v1/team/1523/image.png"
+},
+"teamB": {
+"name": "Scarborough Athletic",
+"icon": "https://cdn.sofascore.app/api/v1/team/1527/image.png"
+},
+"leagueName": "England National League North",
+"prediction": "BOTH TEAMS TO SCORE - YES",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both teams consistently score and concede in this division; underlying stats and recent form support a high probability of goals at both ends."
+}, { "id": "east-bengal-odisha",
+"teamA": {
+"name": "East Bengal",
+"icon": "https://cdn.sofascore.app/api/v1/team/167/image.png"
+},
+"teamB": {
+"name": "Odisha",
+"icon": "https://cdn.sofascore.app/api/v1/team/166/image.png"
+},
+"leagueName": "Indian Super League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "ISL generally high‑scoring and both teams attack‑oriented; recent form and H2H show most fixtures easily clear 1.5 goals."
+}, { "id": "lanus-ldu-quito",
+"teamA": {
+"name": "Lanús",
+"icon": "https://cdn.sofascore.app/api/v1/team/171/image.png"
+},
+"teamB": {
+"name": "LDU Quito",
+"icon": "https://cdn.sofascore.app/api/v1/team/172/image.png"
+},
+"leagueName": "CONMEBOL Libertadores",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both sides play expansive football in Libertadores; group‑stage fixtures in this tie have repeatedly exceeded 1.5 goals."
+}, { "id": "libertad-independiente-valle",
+"teamA": {
+"name": "Libertad",
+"icon": "https://cdn.sofascore.app/api/v1/team/175/image.png"
+},
+"teamB": {
+"name": "Independiente Valle",
+"icon": "https://cdn.sofascore.app/api/v1/team/176/image.png"
+},
+"leagueName": "CONMEBOL Libertadores",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Historical data and recent form show both teams combine attacking intent with defensive vulnerability, leading to frequent 2+‑goal games."
+}, { "id": "rodajc-rkc-waalwijk",
+"teamA": {
+"name": "Roda JC",
+"icon": "https://cdn.sofascore.app/api/v1/team/140/image.png"
+},
+"teamB": {
+"name": "RKC Waalwijk",
+"icon": "https://cdn.sofascore.app/api/v1/team/141/image.png"
+},
+"leagueName": "Dutch Play‑offs 1/2",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "RKC Waalwijk historically stronger in top‑tier metrics and better away; Roda JC mid‑table and inconsistent, making a non‑loss for RKC appropriate."
+}, { "id": "hearts-partick-thistle",
+"teamA": {
+"name": "Hearts",
+"icon": "https://cdn.sofascore.app/api/v1/team/155/image.png"
+},
+"teamB": {
+"name": "Partick Thistle",
+"icon": "https://cdn.sofascore.app/api/v1/team/159/image.png"
+},
+"leagueName": "Scottish SWPL 1",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Hearts typically stronger in class and table position; Partick Thistle mid‑tier and prone to draws, making a home win or draw statistically solid."
+}, { "id": "annagh-united-crusaders",
+"teamA": {
+"name": "Annagh United",
+"icon": "https://cdn.sofascore.app/api/v1/team/180/image.png"
+},
+"teamB": {
+"name": "Crusaders",
+"icon": "https://cdn.sofascore.app/api/v1/team/181/image.png"
+},
+"leagueName": "Northern Ireland Play‑offs 1/2",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Crusaders big‑tier force with better squad and recent form; Annagh mid‑league, making a non‑loss for Crusaders the safer low‑risk option."
+}, { "id": "hemel-hempstead-weston",
+"teamA": {
+"name": "Hemel Hempstead Town",
+"icon": "https://cdn.sofascore.app/api/v1/team/150/image.png"
+},
+"teamB": {
+"name": "Weston‑super‑Mare",
+"icon": "https://cdn.sofascore.app/api/v1/team/151/image.png"
+},
+"leagueName": "National League South",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both sides tend to score but leak goals at this level; league‑wide stats and recent form support a high probability of at least 2 total goals."
+}, { "id": "paris-bayern",
+"teamA": {
+"name": "Paris Saint‑Germain",
+"icon": "https://cdn.sofascore.app/api/v1/team/35/image.png"
+},
+"teamB": {
+"name": "Bayern Munich",
+"icon": "https://cdn.sofascore.app/api/v1/team/36/image.png"
+},
+"leagueName": "UEFA Champions League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Both teams elite in attack and Champions League‑stage form; almost every recent H2H and current‑season UCL fixture exceeds 1.5 goals."
+} ]
