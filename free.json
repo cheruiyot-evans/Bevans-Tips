@@ -1,50 +1,47 @@
 [
-  { "id": "manchester-united-brentford",
+{ "id": "al-hilal-damac",
 "teamA": {
-"name": "Manchester United",
-"icon": "https://cdn.sofascore.app/api/v1/team/88/image.png"
+"name": "Al Hilal",
+"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
 },
 "teamB": {
-"name": "Brentford",
-"icon": "https://cdn.sofascore.app/api/v1/team/1127/image.png"
+"name": "Damac",
+"icon": "https://cdn.sofascore.app/api/v1/team/131/image.png"
 },
-"leagueName": "Premier League",
+"leagueName": "Saudi Pro League",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-27",
+"date": "2026-04-28",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "United remain strong at home with solid goal‑creation metrics; Brentford lack killer edge away, and odds‑implied combined home/draw probability is around 90%."
-},
-{ "id": "copenhagen-vejle",
+"reason": "Al Hilal heavy league favorite with 70%+ win probability in recent form; Damac weak away and prone to losses, making a home win or draw extremely likely."
+}, { "id": "southampton-ipswich",
 "teamA": {
-"name": "Copenhagen",
-"icon": "https://cdn.sofascore.app/api/v1/team/1123/image.png"
+"name": "Southampton",
+"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
 },
 "teamB": {
-"name": "Vejle",
-"icon": "https://cdn.sofascore.app/api/v1/team/1129/image.png"
+"name": "Ipswich Town",
+"icon": "https://cdn.sofascore.app/api/v1/team/21/image.png"
 },
-"leagueName": "Danish Superligaen (Relegation Round)",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-27",
+"leagueName": "English Championship",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Copenhagen heavily favoured in both pricing and form, with market‑implied double‑chance 1X at roughly evens, while Vejle rarely win away."
-},
-{ "id": "epitsentr-oleksandria",
+"reason": "Both teams among the top‑scoring sides in the Championship this season; recent form and H2H show most fixtures exceed 1.5 goals."
+}, { "id": "paris-bayern",
 "teamA": {
-"name": "Epitsentr",
-"icon": "https://cdn.sofascore.app/api/v1/team/21234/image.png"
+"name": "Paris Saint‑Germain",
+"icon": "https://cdn.sofascore.app/api/v1/team/35/image.png"
 },
 "teamB": {
-"name": "Oleksandria",
-"icon": "https://cdn.sofascore.app/api/v1/team/1789/image.png"
+"name": "Bayern Munich",
+"icon": "https://cdn.sofascore.app/api/v1/team/36/image.png"
 },
-"leagueName": "Ukraine Premier League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-27",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Bookmaker odds price Epitsentr as slight home favourite, with 1X double chance at low odds and weak away record for Oleksandria."
-}
-]
+"leagueName": "UEFA Champions League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-28",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Both teams elite in attack and Champions League‑stage form; almost every recent H2H and current‑season UCL fixture exceeds 1.5 goals."
+} ]
