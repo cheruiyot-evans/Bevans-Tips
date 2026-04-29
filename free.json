@@ -1,47 +1,52 @@
 [
-{ "id": "al-hilal-damac",
+{ "id": "mamelodi-sundowns-polokwane",
 "teamA": {
-"name": "Al Hilal",
-"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
+"name": "Polokwane City",
+"icon": "https://cdn.sofascore.app/api/v1/team/6453/image.png"
 },
 "teamB": {
-"name": "Damac",
-"icon": "https://cdn.sofascore.app/api/v1/team/131/image.png"
+"name": "Mamelodi Sundowns",
+"icon": "https://cdn.sofascore.app/api/v1/team/6446/image.png"
+},
+"leagueName": "South Africa PSL",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-29",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Mamelodi Sundowns dominate the head-to-head record with 12 wins compared to Polokwane's 4, maintaining strong league form."
+
+},
+{ "id": "al-nassr-al-ahli",
+"teamA": {
+"name": "Al Nassr",
+"icon": "https://cdn.sofascore.app/api/v1/team/3067/image.png"
+},
+"teamB": {
+"name": "Al Ahli",
+"icon": "https://cdn.sofascore.app/api/v1/team/3069/image.png"
 },
 "leagueName": "Saudi Pro League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-28",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Al Hilal heavy league favorite with 70%+ win probability in recent form; Damac weak away and prone to losses, making a home win or draw extremely likely."
-}, { "id": "southampton-ipswich",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-04-29",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Al Nassr averages 16 shots per match with a strong conversion rate, making an open game with multiple goals statistically likely."
+
+},
+{ "id": "al-taawoun-al-ittihad",
 "teamA": {
-"name": "Southampton",
-"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+"name": "Al Taawoun",
+"icon": "https://cdn.sofascore.app/api/v1/team/4612/image.png"
 },
 "teamB": {
-"name": "Ipswich Town",
-"icon": "https://cdn.sofascore.app/api/v1/team/21/image.png"
+"name": "Al Ittihad",
+"icon": "https://cdn.sofascore.app/api/v1/team/3065/image.png"
 },
-"leagueName": "English Championship",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-28",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Both teams among the top‑scoring sides in the Championship this season; recent form and H2H show most fixtures exceed 1.5 goals."
-}, { "id": "paris-bayern",
-"teamA": {
-"name": "Paris Saint‑Germain",
-"icon": "https://cdn.sofascore.app/api/v1/team/35/image.png"
-},
-"teamB": {
-"name": "Bayern Munich",
-"icon": "https://cdn.sofascore.app/api/v1/team/36/image.png"
-},
-"leagueName": "UEFA Champions League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-28",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Both teams elite in attack and Champions League‑stage form; almost every recent H2H and current‑season UCL fixture exceeds 1.5 goals."
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-04-29",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Al Ittihad leads the historical head-to-head record significantly and has shown better recent scoring efficiency compared to Al Taawoun."
+
 } ]
