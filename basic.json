@@ -1,172 +1,52 @@
-
 [
-{ "id": "mamelodi-sundowns-polokwane",
+{ "id": "bodo-glimt-start",
 "teamA": {
-"name": "Polokwane City",
-"icon": "https://cdn.sofascore.app/api/v1/team/6453/image.png"
+"name": "Bodø / Glimt",
+"icon": "https://cdn.sofascore.app/api/v1/team/1968/image.png"
 },
 "teamB": {
-"name": "Mamelodi Sundowns",
-"icon": "https://cdn.sofascore.app/api/v1/team/6446/image.png"
+"name": "Start",
+"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
 },
-"leagueName": "South Africa PSL",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-29",
+"leagueName": "Norwegian Eliteserien",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-30",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Mamelodi Sundowns dominate the head-to-head record with 12 wins compared to Polokwane's 4, maintaining strong league form."
+"reason": "Bodø/Glimt dominant at home with recent 3-0, 3-0 wins, 83% win probability vs Start (15th), odds 1.02 on 1X, Over 1.5 at 1.06."
 
 },
-{ "id": "sporting-cp-tondela",
+{ "id": "al-kholood-al-fayha",
 "teamA": {
-"name": "Sporting CP",
-"icon": "https://cdn.sofascore.app/api/v1/team/2967/image.png"
+"name": "Al Kholood",
+"icon": "https://cdn.sofascore.app/api/v1/team/111191/image.png"
 },
 "teamB": {
-"name": "Tondela",
-"icon": "https://cdn.sofascore.app/api/v1/team/2544/image.png"
+"name": "Al Fayha",
+"icon": "https://cdn.sofascore.app/api/v1/team/5150/image.png"
 },
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "WIN 1",
-"date": "2026-04-29",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Sporting CP has won 12 of their last 17 meetings against Tondela and boasts an 83% home win rate in recent league matches."
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-04-30",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Al Kholood edged as home favorite at 1.50 odds for 1X, poor overall form but home advantage vs mid-table Al Fayha (11th), low-risk pick."
 
 },
-{ "id": "arsenal-w-leicester-w",
+{ "id": "al-okhdood-al-ettifaq",
 "teamA": {
-"name": "Arsenal Women",
-"icon": "https://cdn.sofascore.app/api/v1/team/2860/image.png"
+"name": "Al Okhdood",
+"icon": "https://cdn.sofascore.app/api/v1/team/114084/image.png"
 },
 "teamB": {
-"name": "Leicester City Women",
-"icon": "https://cdn.sofascore.app/api/v1/team/2863/image.png"
-},
-"leagueName": "Women's Super League",
-"prediction": "WIN 1",
-"date": "2026-04-29",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Arsenal Women are on a strong winning streak and have a dominant record against a Leicester side that struggles offensively."
-
-},
-{ "id": "al-nassr-al-ahli",
-"teamA": {
-"name": "Al Nassr",
-"icon": "https://cdn.sofascore.app/api/v1/team/3067/image.png"
-},
-"teamB": {
-"name": "Al Ahli",
-"icon": "https://cdn.sofascore.app/api/v1/team/3069/image.png"
+"name": "Al Ettifaq",
+"icon": "https://cdn.sofascore.app/api/v1/team/5928/image.png"
 },
 "leagueName": "Saudi Pro League",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-04-29",
+"date": "2026-04-30",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Al Nassr consistently maintains high shot conversion rates, making a multi-goal outcome highly probable in this encounter."
-
-},
-{ "id": "al-taawoun-al-ittihad",
-"teamA": {
-"name": "Al Taawoun",
-"icon": "https://cdn.sofascore.app/api/v1/team/4612/image.png"
-},
-"teamB": {
-"name": "Al Ittihad",
-"icon": "https://cdn.sofascore.app/api/v1/team/3065/image.png"
-},
-"leagueName": "Saudi Pro League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-29",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Al Ittihad leads the historical head-to-head record significantly and has shown superior recent scoring efficiency."
-
-},
-{ "id": "rangers-hibernian-swpl",
-"teamA": {
-"name": "Rangers",
-"icon": "https://cdn.sofascore.app/api/v1/team/6410/image.png"
-},
-"teamB": {
-"name": "Hibernian",
-"icon": "https://cdn.sofascore.app/api/v1/team/6407/image.png"
-},
-"leagueName": "Scottish SWPL 1",
-"prediction": "WIN 1",
-"date": "2026-04-29",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Rangers have secured five consecutive victories and maintain a strong position in the league standings over Hibernian."
-
-},
-{ "id": "arsenal-atletico-ucl",
-"teamA": {
-"name": "Atletico Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/3052/image.png"
-},
-"teamB": {
-"name": "Arsenal",
-"icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
-},
-"leagueName": "UEFA Champions League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-29",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Both teams are highly motivated in a semi-final clash, and Arsenal’s recent track record against Spanish opposition suggests an attacking game."
-
-},
-{ "id": "den-bosch-almere",
-"teamA": {
-"name": "Den Bosch",
-"icon": "https://cdn.sofascore.app/api/v1/team/4612/image.png"
-},
-"teamB": {
-"name": "Almere City",
-"icon": "https://cdn.sofascore.app/api/v1/team/4612/image.png"
-},
-"leagueName": "Dutch Play-offs",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-29",
-"confidence": "Medium-High",
-"safetyRating": 7,
-"reason": "Den Bosch enters the play-offs with better recent league point accumulation than Almere City."
-
-},
-{ "id": "glasgow-city-celtic",
-"teamA": {
-"name": "Glasgow City",
-"icon": "https://cdn.sofascore.app/api/v1/team/6410/image.png"
-},
-"teamB": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/6407/image.png"
-},
-"leagueName": "Scottish SWPL 1",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-29",
-"confidence": "Medium-High",
-"safetyRating": 7,
-"reason": "Glasgow City sits in first position and has proven superior consistency at home this season."
-
-},
-{ "id": "siwelele-kaizer-chiefs",
-"teamA": {
-"name": "Siwelele",
-"icon": "https://cdn.sofascore.app/api/v1/team/6453/image.png"
-},
-"teamB": {
-"name": "Kaizer Chiefs",
-"icon": "https://cdn.sofascore.app/api/v1/team/6446/image.png"
-},
-"leagueName": "South Africa PSL",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-29",
-"confidence": "Medium-High",
-"safetyRating": 7,
-"reason": "Kaizer Chiefs have historical advantages and remain the more established side in competitive H2H matchups against Siwelele."
+"reason": "Al Ettifaq 70% Over 1.5 home, Al Okhdood 50% away, recent trends show 60%+ combined Over 1.5 despite Al Okhdood's under streaks."
 
 } ]
