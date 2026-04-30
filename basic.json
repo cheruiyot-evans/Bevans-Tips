@@ -1,53 +1,172 @@
-
 [
-{ "id": "bodo-glimt-start",
-"teamA": {
-"name": "Bodø / Glimt",
-"icon": "https://cdn.sofascore.app/api/v1/team/1968/image.png"
-},
-"teamB": {
-"name": "Start",
-"icon": "https://cdn.sofascore.app/api/v1/team/4900/image.png"
-},
-"leagueName": "Norwegian Eliteserien",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-30",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Bodø/Glimt dominant at home with recent 3-0, 3-0 wins, 83% win probability vs Start (15th), odds 1.02 on 1X, Over 1.5 at 1.06."
-
-},
-{ "id": "al-kholood-al-fayha",
-"teamA": {
-"name": "Al Kholood",
-"icon": "https://cdn.sofascore.app/api/v1/team/111191/image.png"
-},
-"teamB": {
-"name": "Al Fayha",
-"icon": "https://cdn.sofascore.app/api/v1/team/5150/image.png"
-},
-"leagueName": "Saudi Pro League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-30",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Al Kholood edged as home favorite at 1.50 odds for 1X, poor overall form but home advantage vs mid-table Al Fayha (11th), low-risk pick."
-
-},
-{ "id": "al-okhdood-al-ettifaq",
-"teamA": {
-"name": "Al Okhdood",
-"icon": "https://cdn.sofascore.app/api/v1/team/114084/image.png"
-},
-"teamB": {
-"name": "Al Ettifaq",
-"icon": "https://cdn.sofascore.app/api/v1/team/5928/image.png"
-},
-"leagueName": "Saudi Pro League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-30",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Al Ettifaq 70% Over 1.5 home, Al Okhdood 50% away, recent trends show 60%+ combined Over 1.5 despite Al Okhdood's under streaks."
-
-} ]
+  {
+    "id": "bodo-glimt-start",
+    "teamA": {
+      "name": "Bodø / Glimt",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2619/image.png"
+    },
+    "teamB": {
+      "name": "Start",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2670/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-30",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Bodø/Glimt consistently high-scoring at home; 90%+ of recent matches exceed 1.5 goals."
+  },
+  {
+    "id": "bodo-glimt-start-1x",
+    "teamA": {
+      "name": "Bodø / Glimt",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2619/image.png"
+    },
+    "teamB": {
+      "name": "Start",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2670/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-30",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Bodø/Glimt dominant at home with strong squad depth; Start poor away."
+  },
+  {
+    "id": "independiente-rivadavia-la-guaira",
+    "teamA": {
+      "name": "Independiente Rivadavia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44141/image.png"
+    },
+    "teamB": {
+      "name": "Deportivo La Guaira",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6210/image.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Home advantage in Argentina is significant; La Guaira weak in away continental fixtures."
+  },
+  {
+    "id": "independiente-rivadavia-la-guaira-goals",
+    "teamA": {
+      "name": "Independiente Rivadavia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44141/image.png"
+    },
+    "teamB": {
+      "name": "Deportivo La Guaira",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6210/image.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both sides show defensive weaknesses; Libertadores group games trend above 1.5."
+  },
+  {
+    "id": "bolivar-fluminense",
+    "teamA": {
+      "name": "Bolívar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3208/image.png"
+    },
+    "teamB": {
+      "name": "Fluminense",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1961/image.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "High-altitude matches in Bolivia often produce goals; both teams attack-oriented."
+  },
+  {
+    "id": "al-okhdood-al-ettifaq",
+    "teamA": {
+      "name": "Al Okhdood",
+      "icon": "https://cdn.sofascore.app/api/v1/team/43633/image.png"
+    },
+    "teamB": {
+      "name": "Al Ettifaq",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2936/image.png"
+    },
+    "leagueName": "Saudi Pro League",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Al Ettifaq stronger squad and better form; Okhdood inconsistent."
+  },
+  {
+    "id": "al-kholood-al-fayha",
+    "teamA": {
+      "name": "Al Kholood",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44190/image.png"
+    },
+    "teamB": {
+      "name": "Al Fayha",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2939/image.png"
+    },
+    "leagueName": "Saudi Pro League",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Both teams average low scoring games; defensive setups dominate."
+  },
+  {
+    "id": "sporting-braga-freiburg",
+    "teamA": {
+      "name": "Sporting Braga",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2663/image.png"
+    },
+    "teamB": {
+      "name": "Freiburg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/267/image.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both sides have consistent scoring trends; European ties rarely stay low scoring."
+  },
+  {
+    "id": "rayo-vallecano-strasbourg",
+    "teamA": {
+      "name": "Rayo Vallecano",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2818/image.png"
+    },
+    "teamB": {
+      "name": "Strasbourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/376/image.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Rayo strong at home; Strasbourg inconsistent away in European competitions."
+  },
+  {
+    "id": "shakhtar-palace",
+    "teamA": {
+      "name": "Shakhtar Donetsk",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1610/image.png"
+    },
+    "teamB": {
+      "name": "Crystal Palace",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7/image.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-04-30",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Both teams tactically cautious in knockout ties; low goal variance expected."
+  }
+]
