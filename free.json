@@ -1,53 +1,70 @@
 [
   {
-    "id": "shamrock-rovers-waterford",
+    "id": "psg-lorient",
     "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/417/image.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1644/image.png"
     },
     "teamB": {
-      "name": "Waterford",
-      "icon": "https://cdn.sofascore.app/api/v1/team/422/image.png"
+      "name": "Lorient",
+      "icon": "https://cdn.sofascore.app/api/v1/team/273/image.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "Ligue 1",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-01",
+    "date": "2026-05-02",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Rovers strong attack, consistent 2+ goals games; Waterford concede frequently."
+    "safetyRating": 10,
+    "reason": "PSG consistently involved in high-scoring matches; Lorient weak defensively."
   },
   {
-    "id": "crusaders-annagh",
+    "id": "bayern-heidenheim",
     "teamA": {
-      "name": "Crusaders",
-      "icon": "https://cdn.sofascore.app/api/v1/team/690/image.png"
+      "name": "Bayern Munich",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2672/image.png"
     },
     "teamB": {
-      "name": "Annagh United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/7799/image.png"
+      "name": "Heidenheim",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
     },
-    "leagueName": "Northern Ireland Playoffs",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-01",
+    "leagueName": "Bundesliga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-02",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Huge quality gap; Crusaders dominant at home vs lower-tier opposition."
+    "safetyRating": 10,
+    "reason": "Bayern average multiple goals per game; strong attacking dominance."
   },
   {
-    "id": "girona-mallorca",
+    "id": "porto-alverca",
     "teamA": {
-      "name": "Girona",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2780/image.png"
+      "name": "Porto",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1675/image.png"
     },
     "teamB": {
-      "name": "Mallorca",
-      "icon": "https://cdn.sofascore.app/api/v1/team/282/image.png"
+      "name": "Alverca",
+      "icon": "https://cdn.sofascore.app/api/v1/team/8522/image.png"
     },
-    "leagueName": "Spanish La Liga",
+    "leagueName": "Primeira Liga",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-01",
+    "date": "2026-05-02",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Girona matches consistently produce goals; Mallorca concede regularly away."
+    "safetyRating": 10,
+    "reason": "Porto dominant attack; matches regularly exceed 2 goals."
+  },
+  {
+    "id": "al-hazem-al-hilal",
+    "teamA": {
+      "name": "Al Hazem",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4362/image.png"
+    },
+    "teamB": {
+      "name": "Al Hilal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4330/image.png"
+    },
+    "leagueName": "Saudi Pro League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-02",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Al Hilal high-scoring side; matches consistently produce multiple goals."
   }
 ]
