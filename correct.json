@@ -1,172 +1,90 @@
 [
   {
-    "id": "psg-lorient",
-    "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1644/image.png"
-    },
-    "teamB": {
-      "name": "Lorient",
-      "icon": "https://cdn.sofascore.app/api/v1/team/273/image.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-02",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "PSG consistently involved in high-scoring matches; Lorient weak defensively."
-  },
-  {
-    "id": "bayern-heidenheim",
-    "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2672/image.png"
-    },
-    "teamB": {
-      "name": "Heidenheim",
-      "icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-02",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Bayern average multiple goals per game; strong attacking dominance."
-  },
-  {
-    "id": "porto-alverca",
-    "teamA": {
-      "name": "Porto",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1675/image.png"
-    },
-    "teamB": {
-      "name": "Alverca",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8522/image.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-02",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Porto dominant attack; matches regularly exceed 2 goals."
-  },
-  {
-    "id": "al-hazem-al-hilal",
-    "teamA": {
-      "name": "Al Hazem",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4362/image.png"
-    },
-    "teamB": {
-      "name": "Al Hilal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4330/image.png"
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-02",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Al Hilal high-scoring side; matches consistently produce multiple goals."
-  },
-  {
-    "id": "arsenal-fulham",
-    "teamA": {
-      "name": "Arsenal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
-    },
-    "teamB": {
-      "name": "Fulham",
-      "icon": "https://cdn.sofascore.app/api/v1/team/43/image.png"
-    },
-    "leagueName": "Premier League",
+    "id": "sundowns-polokwane",
+    "teamA": { "name": "Mamelodi Sundowns", "icon": "https://cdn.sofascore.app/api/v1/team/3239/image.png" },
+    "teamB": { "name": "Polokwane City", "icon": "https://cdn.sofascore.app/api/v1/team/3246/image.png" },
+    "leagueName": "South Africa PSL",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Arsenal dominant at home with strong form; Fulham inconsistent away and weaker defensively."
+    "safetyRating": 10,
+    "reason": "Sundowns dominant with elite defense and exceptional home consistency."
   },
   {
-    "id": "ipswich-qpr",
-    "teamA": {
-      "name": "Ipswich Town",
-      "icon": "https://cdn.sofascore.app/api/v1/team/52/image.png"
-    },
-    "teamB": {
-      "name": "Queens Park Rangers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/72/image.png"
-    },
-    "leagueName": "Championship",
+    "id": "hibernian-celtic",
+    "teamA": { "name": "Hibernian", "icon": "https://cdn.sofascore.app/api/v1/team/2841/image.png" },
+    "teamB": { "name": "Celtic", "icon": "https://cdn.sofascore.app/api/v1/team/2476/image.png" },
+    "leagueName": "Scottish Premiership",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-03",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Celtic superior squad and dominant H2H record."
+  },
+  {
+    "id": "inter-parma",
+    "teamA": { "name": "Inter Milan", "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png" },
+    "teamB": { "name": "Parma", "icon": "https://cdn.sofascore.app/api/v1/team/2686/image.png" },
+    "leagueName": "Italian Serie A",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Ipswich strong home form and promotion push; QPR poor away record."
+    "reason": "Inter extremely strong at home; Parma poor away."
   },
   {
-    "id": "metz-monaco",
-    "teamA": {
-      "name": "Metz",
-      "icon": "https://cdn.sofascore.app/api/v1/team/170/image.png"
-    },
-    "teamB": {
-      "name": "Monaco",
-      "icon": "https://cdn.sofascore.app/api/v1/team/91/image.png"
-    },
-    "leagueName": "Ligue 1",
+    "id": "real-madrid-espanyol",
+    "teamA": { "name": "Espanyol", "icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png" },
+    "teamB": { "name": "Real Madrid", "icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png" },
+    "leagueName": "Spanish La Liga",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Monaco in strong form and chasing top positions; Metz struggling."
+    "reason": "Real Madrid consistency and quality edge."
   },
   {
-    "id": "osasuna-barcelona",
-    "teamA": {
-      "name": "Osasuna",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2828/image.png"
-    },
-    "teamB": {
-      "name": "Barcelona",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2817/image.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-02",
+    "id": "plzen-hradec",
+    "teamA": { "name": "Viktoria Plzeň", "icon": "https://cdn.sofascore.app/api/v1/team/3153/image.png" },
+    "teamB": { "name": "Hradec Králové", "icon": "https://cdn.sofascore.app/api/v1/team/3155/image.png" },
+    "leagueName": "Czech First League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-03",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Barcelona superior squad and consistent form; unlikely to lose."
+    "reason": "Plzen dominant at home with strong winning streak."
   },
   {
-    "id": "como-napoli",
-    "teamA": {
-      "name": "Como",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
-    },
-    "teamB": {
-      "name": "Napoli",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2714/image.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-02",
+    "id": "sparta-jablonec",
+    "teamA": { "name": "Sparta Prague", "icon": "https://cdn.sofascore.app/api/v1/team/3152/image.png" },
+    "teamB": { "name": "Jablonec", "icon": "https://cdn.sofascore.app/api/v1/team/3156/image.png" },
+    "leagueName": "Czech First League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-03",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Napoli superior squad quality and consistent form; Como weaker overall."
+    "reason": "Sparta Prague strong title push and excellent home form."
   },
   {
-    "id": "dinamo-gorica",
-    "teamA": {
-      "name": "HNK Gorica",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5673/image.png"
-    },
-    "teamB": {
-      "name": "Dinamo Zagreb",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1786/image.png"
-    },
-    "leagueName": "Croatia HNL",
+    "id": "youngboys-lugano",
+    "teamA": { "name": "Lugano", "icon": "https://cdn.sofascore.app/api/v1/team/3279/image.png" },
+    "teamB": { "name": "Young Boys", "icon": "https://cdn.sofascore.app/api/v1/team/3278/image.png" },
+    "leagueName": "Swiss Super League",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Dinamo dominant domestically; Gorica struggles against top teams."
+    "reason": "Young Boys consistent champions, rarely lose."
+  },
+  {
+    "id": "juventus-verona",
+    "teamA": { "name": "Juventus", "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png" },
+    "teamB": { "name": "Hellas Verona", "icon": "https://cdn.sofascore.app/api/v1/team/2696/image.png" },
+    "leagueName": "Italian Serie A",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-03",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Juventus rarely drop points at home vs weaker opposition."
   }
 ]
