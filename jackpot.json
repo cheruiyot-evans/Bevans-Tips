@@ -1,241 +1,257 @@
 [
-{ "id": "fc-porto-sporting",
-"teamA": {
-"name": "FC Porto",
-"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
-},
-"teamB": {
-"name": "Sporting",
-"icon": "https://cdn.sofascore.app/api/v1/team/3001/image.png"
-},
-"leagueName": "Taca de Portugal",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-22",
-"confidence": "High",
-"safetyRating": 8.5,
-"reason": "Porto strong home record in cup ties, unbeaten vs Sporting in last 5 domestic home games, high motivation for semi-final."
-},
-{ "id": "elche-atletico-madrid",
-"teamA": {
-"name": "Elche",
-"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
-},
-"teamB": {
-"name": "Atletico Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/2834/image.png"
-},
-"leagueName": "LaLiga",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-22",
-"confidence": "Very High",
-"safetyRating": 9.2,
-"reason": "Atletico dominant vs bottom-half LaLiga sides, Elche relegation strugglers with poor home defense."
-},
-{ "id": "levante-sevilla",
-"teamA": {
-"name": "Levante",
-"icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png"
-},
-"teamB": {
-"name": "Sevilla",
-"icon": "https://cdn.sofascore.app/api/v1/team/2835/image.png"
-},
-"leagueName": "LaLiga",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 8.3,
-"reason": "Sevilla won last 5 H2H meetings, Levante winless in 8 LaLiga games, under 2.5 goals trend."
-},
-{ "id": "rayo-vallecano-espanyol",
-"teamA": {
-"name": "Rayo Vallecano",
-"icon": "https://cdn.sofascore.app/api/v1/team/2828/image.png"
-},
-"teamB": {
-"name": "Espanyol",
-"icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
-},
-"leagueName": "LaLiga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 8.0,
-"reason": "Rayo strong home form at Vallecas, Espanyol winless in 14 LaLiga away games."
-},
-{ "id": "telstar-sparta-rotterdam",
-"teamA": {
-"name": "SC Telstar",
-"icon": "https://cdn.sofascore.app/api/v1/team/2901/image.png"
-},
-"teamB": {
-"name": "Sparta Rotterdam",
-"icon": "https://cdn.sofascore.app/api/v1/team/2902/image.png"
-},
-"leagueName": "Eredivisie",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-22",
-"confidence": "Medium-High",
-"safetyRating": 7.8,
-"reason": "Sparta superior league position, Telstar inconsistent Eerste Divisie side in cup matchup."
-},
-{ "id": "go-ahead-eagles-az-alkmaar",
-"teamA": {
-"name": "Go Ahead Eagles",
-"icon": "https://cdn.sofascore.app/api/v1/team/2903/image.png"
-},
-"teamB": {
-"name": "AZ Alkmaar",
-"icon": "https://cdn.sofascore.app/api/v1/team/2904/image.png"
-},
-"leagueName": "Eredivisie",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 8.2,
-"reason": "AZ title challengers with strong away form, Go Ahead mid-table with defensive vulnerabilities."
-},
-{ "id": "bournemouth-leeds",
-"teamA": {
-"name": "Bournemouth",
-"icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
-},
-"teamB": {
-"name": "Leeds",
-"icon": "https://cdn.sofascore.app/api/v1/team/15/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-22",
-"confidence": "High",
-"safetyRating": 8.4,
-"reason": "Both teams high-scoring Premier League sides, last 6 H2H averaged over 3 goals."
-},
-{ "id": "sunderland-nottingham",
-"teamA": {
-"name": "Sunderland",
-"icon": "https://cdn.sofascore.app/api/v1/team/301/image.png"
-},
-"teamB": {
-"name": "Nottingham",
-"icon": "https://cdn.sofascore.app/api/v1/team/300/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-24",
-"confidence": "Medium-High",
-"safetyRating": 7.7,
-"reason": "Nottingham Forest strong away performers, Sunderland inconsistent home side."
-},
-{ "id": "st-truidense-anderlecht",
-"teamA": {
-"name": "St. Truidense",
-"icon": "https://cdn.sofascore.app/api/v1/team/2939/image.png"
-},
-"teamB": {
-"name": "RSC Anderlecht",
-"icon": "https://cdn.sofascore.app/api/v1/team/2940/image.png"
-},
-"leagueName": "Pro League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "High",
-"safetyRating": 8.1,
-"reason": "Anderlecht Belgian title favorites, won 7 of last 10 vs St Truiden."
-},
-{ "id": "dinamo-bucuresti-craiova",
-"teamA": {
-"name": "FC Dinamo Bucuresti 1948",
-"icon": "https://cdn.sofascore.app/api/v1/team/2941/image.png"
-},
-"teamB": {
-"name": "CS Universitatea Craiova",
-"icon": "https://cdn.sofascore.app/api/v1/team/2942/image.png"
-},
-"leagueName": "Romania Cup",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-23",
-"confidence": "Medium-High",
-"safetyRating": 7.9,
-"reason": "Craiova superior squad quality in cup semi-final, Dinamo inconsistent form."
-},
-{ "id": "lavallois-rodez",
-"teamA": {
-"name": "Stade Lavallois",
-"icon": "https://cdn.sofascore.app/api/v1/team/1645/image.png"
-},
-"teamB": {
-"name": "MFC Rodez",
-"icon": "https://cdn.sofascore.app/api/v1/team/1646/image.png"
-},
-"leagueName": "Ligue 2",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-04-24",
-"confidence": "Medium-High",
-"safetyRating": 7.6,
-"reason": "Ligue 2 high-scoring league, both teams recent matches Over 1.5 in 75% games."
-},
-{ "id": "albacete-eibar",
-"teamA": {
-"name": "Albacete",
-"icon": "https://cdn.sofascore.app/api/v1/team/2824/image.png"
-},
-"teamB": {
-"name": "Eibar",
-"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
-},
-"leagueName": "LaLiga 2",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-24",
-"confidence": "Medium-High",
-"safetyRating": 7.5,
-"reason": "Eibar promotion contenders, Albacete mid-table with poor recent home form."
-},
-{ "id": "leicester-millwall",
-"teamA": {
-"name": "Leicester",
-"icon": "https://cdn.sofascore.app/api/v1/team/41/image.png"
-},
-"teamB": {
-"name": "Millwall",
-"icon": "https://cdn.sofascore.app/api/v1/team/20/image.png"
-},
-"leagueName": "Championship",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8.3,
-"reason": "Leicester Championship leaders, unbeaten home run of 12 games."
-},
-{ "id": "st-patricks-bohemians",
-"teamA": {
-"name": "Saint Patrick's Athletic",
-"icon": "https://cdn.sofascore.app/api/v1/team/2943/image.png"
-},
-"teamB": {
-"name": "FC Bohemians Dublin",
-"icon": "https://cdn.sofascore.app/api/v1/team/2944/image.png"
-},
-"leagueName": "Premier Division",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-04-24",
-"confidence": "Medium-High",
-"safetyRating": 7.7,
-"reason": "St Pats strong home derby record vs Bohemians, won 6 of last 8 meetings."
-},
-{ "id": "derry-city-shamrock",
-"teamA": {
-"name": "Derry City",
-"icon": "https://cdn.sofascore.app/api/v1/team/2945/image.png"
-},
-"teamB": {
-"name": "Shamrock Rovers",
-"icon": "https://cdn.sofascore.app/api/v1/team/2946/image.png"
-},
-"leagueName": "Premier Division",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-04-24",
-"confidence": "High",
-"safetyRating": 8.0,
-"reason": "Shamrock defending champions, superior squad depth vs Derry."
-} ]
+  {
+    "id": "torino-sassuolo",
+    "teamA": {
+      "name": "Torino",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2690/image.png"
+    },
+    "teamB": {
+      "name": "Sassuolo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2714/image.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-08",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Torino inconsistent offensively; Sassuolo capable of scoring and avoiding defeat."
+  },
+  {
+    "id": "levante-osasuna",
+    "teamA": {
+      "name": "Levante",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2820/image.png"
+    },
+    "teamB": {
+      "name": "Osasuna",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-08",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Osasuna more structured defensively and better recent form than Levante."
+  },
+  {
+    "id": "cusco-estudiantes",
+    "teamA": {
+      "name": "Cusco FC",
+      "icon": "https://cdn.sofascore.app/api/v1/team/40645/image.png"
+    },
+    "teamB": {
+      "name": "Estudiantes",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3722/image.png"
+    },
+    "leagueName": "Copa Libertadores",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Estudiantes superior squad and experience despite altitude challenge."
+  },
+  {
+    "id": "laguaira-bolivar",
+    "teamA": {
+      "name": "Deportivo La Guaira",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6338/image.png"
+    },
+    "teamB": {
+      "name": "Bolivar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3216/image.png"
+    },
+    "leagueName": "Copa Libertadores",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Bolivar more consistent attack and overall stronger team."
+  },
+  {
+    "id": "rivadavia-fluminense",
+    "teamA": {
+      "name": "Independiente Rivadavia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/38675/image.png"
+    },
+    "teamB": {
+      "name": "Fluminense",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1961/image.png"
+    },
+    "leagueName": "Copa Libertadores",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Fluminense superior quality, depth, and recent form advantage."
+  },
+  {
+    "id": "santafe-corinthians",
+    "teamA": {
+      "name": "Santa Fe",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3217/image.png"
+    },
+    "teamB": {
+      "name": "Corinthians",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1957/image.png"
+    },
+    "leagueName": "Copa Libertadores",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Corinthians more experienced and defensively disciplined in continental matches."
+  },
+  {
+    "id": "ucatolica-cruzeiro",
+    "teamA": {
+      "name": "Universidad Catolica",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3215/image.png"
+    },
+    "teamB": {
+      "name": "Cruzeiro",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1954/image.png"
+    },
+    "leagueName": "Copa Libertadores",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Cruzeiro stronger squad with better recent results."
+  },
+  {
+    "id": "platense-penarol",
+    "teamA": {
+      "name": "Platense",
+      "icon": "https://cdn.sofascore.app/api/v1/team/38531/image.png"
+    },
+    "teamB": {
+      "name": "Penarol",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3220/image.png"
+    },
+    "leagueName": "Copa Libertadores",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-08",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Penarol experienced but away fixture remains difficult."
+  },
+  {
+    "id": "botafogo-racing",
+    "teamA": {
+      "name": "Botafogo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1958/image.png"
+    },
+    "teamB": {
+      "name": "Racing Club",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3717/image.png"
+    },
+    "leagueName": "Copa Sudamericana",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Racing competitive but Botafogo home advantage limits safety."
+  },
+  {
+    "id": "ohiggins-saopaulo",
+    "teamA": {
+      "name": "O'Higgins",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6337/image.png"
+    },
+    "teamB": {
+      "name": "Sao Paulo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1981/image.png"
+    },
+    "leagueName": "Copa Sudamericana",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-08",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Sao Paulo superior squad and strong continental experience."
+  },
+  {
+    "id": "cluj-craiova",
+    "teamA": {
+      "name": "CFR Cluj",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3046/image.png"
+    },
+    "teamB": {
+      "name": "Universitatea Craiova",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3047/image.png"
+    },
+    "leagueName": "Romanian Superliga",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-08",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Craiova competitive but Cluj strong home side."
+  },
+  {
+    "id": "audax-vasco",
+    "teamA": {
+      "name": "Audax Italiano",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3214/image.png"
+    },
+    "teamB": {
+      "name": "Vasco da Gama",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5991/image.png"
+    },
+    "leagueName": "Copa Sudamericana",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Vasco stronger squad and better attacking consistency."
+  },
+  {
+    "id": "boston-millonarios",
+    "teamA": {
+      "name": "Boston River",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6336/image.png"
+    },
+    "teamB": {
+      "name": "Millonarios",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3226/image.png"
+    },
+    "leagueName": "Copa Sudamericana",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-08",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Millonarios more consistent and tactically disciplined."
+  },
+  {
+    "id": "freiburg-braga",
+    "teamA": {
+      "name": "Freiburg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2537/image.png"
+    },
+    "teamB": {
+      "name": "Braga",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Balanced matchup; Braga strong but Freiburg solid at home."
+  },
+  {
+    "id": "strasbourg-rayo",
+    "teamA": {
+      "name": "Strasbourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3631/image.png"
+    },
+    "teamB": {
+      "name": "Rayo Vallecano",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2818/image.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-07",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Rayo competitive but Strasbourg home advantage creates uncertainty."
+  }
+]
