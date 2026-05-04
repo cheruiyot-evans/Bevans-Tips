@@ -1,57 +1,53 @@
 [
   {
-    "id": "sundowns-polokwane",
-    "teamA": { "name": "Mamelodi Sundowns", "icon": "https://cdn.sofascore.app/api/v1/team/3239/image.png" },
-    "teamB": { "name": "Polokwane City", "icon": "https://cdn.sofascore.app/api/v1/team/3246/image.png" },
-    "leagueName": "South Africa PSL",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-03",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Sundowns are dominant league leaders with elite defense and near-perfect home form."
-  },
-  {
-    "id": "hibernian-celtic",
-    "teamA": { "name": "Hibernian", "icon": "https://cdn.sofascore.app/api/v1/team/2841/image.png" },
-    "teamB": { "name": "Celtic", "icon": "https://cdn.sofascore.app/api/v1/team/2476/image.png" },
-    "leagueName": "Scottish Premiership",
+    "id": "everton-manchester-city",
+    "teamA": {
+      "name": "Everton",
+      "icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
+    },
+    "teamB": {
+      "name": "Manchester City",
+      "icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+    },
+    "leagueName": "Premier League",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-03",
+    "date": "2026-05-04",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Celtic rarely lose and dominate H2H with superior squad depth."
+    "reason": "Man City elite form and depth; Everton rarely get results vs top-tier sides."
   },
   {
-    "id": "inter-parma",
-    "teamA": { "name": "Inter Milan", "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png" },
-    "teamB": { "name": "Parma", "icon": "https://cdn.sofascore.app/api/v1/team/2686/image.png" },
-    "leagueName": "Italian Serie A",
+    "id": "shamrock-rovers-drogheda",
+    "teamA": {
+      "name": "Shamrock Rovers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2589/image.png"
+    },
+    "teamB": {
+      "name": "Drogheda United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2601/image.png"
+    },
+    "leagueName": "Irish Premier Division",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-03",
+    "date": "2026-05-04",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Inter extremely strong at home; Parma poor away with weak defense."
+    "reason": "Rovers dominant at home; Drogheda poor away with weak defense."
   },
   {
-    "id": "real-madrid-espanyol",
-    "teamA": { "name": "Espanyol", "icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png" },
-    "teamB": { "name": "Real Madrid", "icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png" },
-    "leagueName": "Spanish La Liga",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-03",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Madrid's consistency and quality edge make defeat highly unlikely."
-  },
-  {
-    "id": "plzen-hradec",
-    "teamA": { "name": "Viktoria Plzeň", "icon": "https://cdn.sofascore.app/api/v1/team/3153/image.png" },
-    "teamB": { "name": "Hradec Králové", "icon": "https://cdn.sofascore.app/api/v1/team/3155/image.png" },
-    "leagueName": "Czech First League",
+    "id": "derry-city-galway-united",
+    "teamA": {
+      "name": "Derry City",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2593/image.png"
+    },
+    "teamB": {
+      "name": "Galway United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2610/image.png"
+    },
+    "leagueName": "Irish Premier Division",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-03",
+    "date": "2026-05-04",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Plzen dominant at home with consistent winning streaks."
+    "reason": "Derry strong home record and defensive stability; Galway inconsistent."
   }
 ]
