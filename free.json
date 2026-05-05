@@ -1,53 +1,53 @@
 [
   {
-    "id": "everton-manchester-city",
+    "id": "al-khaleej-al-hilal",
     "teamA": {
-      "name": "Everton",
-      "icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
+      "name": "Al Khaleej",
+      "icon": "https://cdn.sofascore.app/api/v1/team/8567/image.png"
     },
     "teamB": {
-      "name": "Manchester City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+      "name": "Al Hilal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7011/image.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Saudi Pro League",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Man City elite form and depth; Everton rarely get results vs top-tier sides."
+    "reason": "Al Hilal dominant domestically with elite squad depth and consistency; Khaleej struggle badly vs top-tier opposition."
   },
   {
-    "id": "shamrock-rovers-drogheda",
+    "id": "sporting-cristal-palmeiras",
     "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2589/image.png"
+      "name": "Sporting Cristal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2311/image.png"
     },
     "teamB": {
-      "name": "Drogheda United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2601/image.png"
+      "name": "Palmeiras",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1963/image.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-04",
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-05",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Rovers dominant at home; Drogheda poor away with weak defense."
+    "reason": "Palmeiras highly consistent in Libertadores with strong defense; Cristal unreliable against elite sides."
   },
   {
-    "id": "derry-city-galway-united",
+    "id": "liaoning-tieren-chengdu-rongcheng",
     "teamA": {
-      "name": "Derry City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2593/image.png"
+      "name": "Liaoning Tieren",
+      "icon": "https://cdn.sofascore.app/api/v1/team/42643/image.png"
     },
     "teamB": {
-      "name": "Galway United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2610/image.png"
+      "name": "Chengdu Rongcheng",
+      "icon": "https://cdn.sofascore.app/api/v1/team/39543/image.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-04",
+    "leagueName": "Chinese Super League",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-05",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Derry strong home record and defensive stability; Galway inconsistent."
+    "reason": "Chengdu in strong form with consistent scoring and better squad quality; Liaoning defensively weak."
   }
 ]
