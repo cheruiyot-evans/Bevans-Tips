@@ -14,7 +14,7 @@
     "date": "2026-05-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Nice have superior squad depth, better defensive record, and stronger recent form (4W in last 6). Auxerre struggle against top-half teams and concede frequently. H2H also favors Nice, especially in controlled, low-error matches."
+    "reason": "Nice more structured defensively, better form and superior squad depth; Auxerre struggle vs stronger teams."
   },
   {
     "id": "angers-strasbourg",
@@ -31,7 +31,7 @@
     "date": "2026-05-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Strasbourg are in better form with consistent goal scoring, while Angers have one of the weakest defensive records in the league. Away form for Strasbourg has improved, and they dominate midfield transitions."
+    "reason": "Strasbourg stronger attacking output and better recent consistency; Angers defensively weak."
   },
   {
     "id": "monaco-lille",
@@ -48,7 +48,7 @@
     "date": "2026-05-10",
     "confidence": "Medium-High",
     "safetyRating": 7,
-    "reason": "Monaco have strong home scoring trends and attacking depth. Lille are solid but less effective away, especially defensively under pressure. Monaco’s pressing style gives them the edge."
+    "reason": "Monaco’s home attacking strength and tempo advantage outweigh Lille’s balanced but less aggressive away form."
   },
   {
     "id": "crystal-palace-everton",
@@ -65,7 +65,7 @@
     "date": "2026-05-10",
     "confidence": "Medium-High",
     "safetyRating": 7,
-    "reason": "Both teams show inconsistent attacking output and prioritize defensive shape. Palace are solid at home but lack finishing, while Everton are resilient away. High probability of a balanced stalemate."
+    "reason": "Both sides low-scoring and defensively organized; limited attacking output points to a draw."
   },
   {
     "id": "nottingham-newcastle",
@@ -82,7 +82,7 @@
     "date": "2026-05-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Newcastle possess superior squad quality, better defensive structure, and more consistent results. Forest concede regularly and struggle against top-tier pressing systems."
+    "reason": "Newcastle superior in all phases; Forest struggle defensively vs high-pressing teams."
   },
   {
     "id": "fiorentina-genoa",
@@ -99,7 +99,7 @@
     "date": "2026-05-10",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Fiorentina have a strong home record (unbeaten in recent matches) and a solid defensive unit. Genoa struggle offensively away and rarely convert chances against organized teams."
+    "reason": "Fiorentina dominant at home with strong defensive shape; Genoa weak offensively away."
   },
   {
     "id": "oviedo-getafe",
@@ -116,7 +116,7 @@
     "date": "2026-05-10",
     "confidence": "Medium",
     "safetyRating": 6,
-    "reason": "Getafe’s defensive style limits scoring, while Oviedo lack attacking efficiency. Both teams prioritize structure, leading to a likely low-scoring draw."
+    "reason": "Two defensive setups with low attacking efficiency; draw highly plausible."
   },
   {
     "id": "milan-atalanta",
@@ -133,7 +133,7 @@
     "date": "2026-05-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Milan are strong at home with better defensive stability. Atalanta play open football but are vulnerable defensively, especially away against top sides."
+    "reason": "Milan stronger at home and tactically balanced; Atalanta vulnerable defensively."
   },
   {
     "id": "metz-lorient",
@@ -150,7 +150,7 @@
     "date": "2026-05-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Lorient show better attacking cohesion and recent form. Metz have defensive issues and struggle to control games against structured opponents."
+    "reason": "Lorient more consistent and better attacking transitions; Metz leak goals."
   },
   {
     "id": "stuttgart-leverkusen",
@@ -167,7 +167,7 @@
     "date": "2026-05-09",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Leverkusen have elite attacking metrics and consistent performances. Stuttgart are competitive but struggle against top-tier attacking sides."
+    "reason": "Leverkusen’s attacking efficiency and consistency outperform Stuttgart."
   },
   {
     "id": "augsburg-gladbach",
@@ -184,7 +184,24 @@
     "date": "2026-05-09",
     "confidence": "Medium-High",
     "safetyRating": 7,
-    "reason": "Gladbach have slightly better attacking quality and midfield control. Augsburg concede too many chances, especially against possession-based teams."
+    "reason": "Gladbach slightly better squad and attacking patterns; Augsburg inconsistent defensively."
+  },
+  {
+    "id": "fulham-bournemouth",
+    "teamA": {
+      "name": "Fulham",
+      "icon": "https://cdn.sofascore.app/api/v1/team/43/image.png"
+    },
+    "teamB": {
+      "name": "Bournemouth",
+      "icon": "https://cdn.sofascore.app/api/v1/team/60/image.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "1",
+    "date": "2026-05-09",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Fulham strong home performances; Bournemouth inconsistent away."
   },
   {
     "id": "sevilla-espanyol",
@@ -201,6 +218,40 @@
     "date": "2026-05-09",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Sevilla’s home advantage and defensive solidity give them the edge. Espanyol struggle away and lack consistency in chance creation."
+    "reason": "Sevilla strong home advantage; Espanyol poor away results."
+  },
+  {
+    "id": "real-sociedad-betis",
+    "teamA": {
+      "name": "Real Sociedad",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2820/image.png"
+    },
+    "teamB": {
+      "name": "Real Betis",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2816/image.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "1",
+    "date": "2026-05-09",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Sociedad solid at home with better defensive structure; Betis inconsistent away."
+  },
+  {
+    "id": "mallorca-villarreal",
+    "teamA": {
+      "name": "Mallorca",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
+    },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2819/image.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "2",
+    "date": "2026-05-10",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Villarreal have better attacking quality and midfield control; Mallorca limited offensively."
   }
 ]
