@@ -1,257 +1,206 @@
 [
   {
-    "id": "torino-sassuolo",
+    "id": "auxerre-nice",
     "teamA": {
-      "name": "Torino",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2690/image.png"
+      "name": "Auxerre",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2908/image.png"
     },
     "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2714/image.png"
+      "name": "Nice",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2856/image.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "2",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Nice have superior squad depth, better defensive record, and stronger recent form (4W in last 6). Auxerre struggle against top-half teams and concede frequently. H2H also favors Nice, especially in controlled, low-error matches."
+  },
+  {
+    "id": "angers-strasbourg",
+    "teamA": {
+      "name": "Angers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2931/image.png"
+    },
+    "teamB": {
+      "name": "Strasbourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2952/image.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "2",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Strasbourg are in better form with consistent goal scoring, while Angers have one of the weakest defensive records in the league. Away form for Strasbourg has improved, and they dominate midfield transitions."
+  },
+  {
+    "id": "monaco-lille",
+    "teamA": {
+      "name": "Monaco",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2817/image.png"
+    },
+    "teamB": {
+      "name": "Lille",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2857/image.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "1",
+    "date": "2026-05-10",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Monaco have strong home scoring trends and attacking depth. Lille are solid but less effective away, especially defensively under pressure. Monaco’s pressing style gives them the edge."
+  },
+  {
+    "id": "crystal-palace-everton",
+    "teamA": {
+      "name": "Crystal Palace",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7/image.png"
+    },
+    "teamB": {
+      "name": "Everton",
+      "icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "X",
+    "date": "2026-05-10",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Both teams show inconsistent attacking output and prioritize defensive shape. Palace are solid at home but lack finishing, while Everton are resilient away. High probability of a balanced stalemate."
+  },
+  {
+    "id": "nottingham-newcastle",
+    "teamA": {
+      "name": "Nottingham Forest",
+      "icon": "https://cdn.sofascore.app/api/v1/team/14/image.png"
+    },
+    "teamB": {
+      "name": "Newcastle",
+      "icon": "https://cdn.sofascore.app/api/v1/team/39/image.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "2",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Newcastle possess superior squad quality, better defensive structure, and more consistent results. Forest concede regularly and struggle against top-tier pressing systems."
+  },
+  {
+    "id": "fiorentina-genoa",
+    "teamA": {
+      "name": "ACF Fiorentina",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2886/image.png"
+    },
+    "teamB": {
+      "name": "Genoa",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2897/image.png"
     },
     "leagueName": "Serie A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
-    "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Torino inconsistent offensively; Sassuolo capable of scoring and avoiding defeat."
+    "prediction": "1",
+    "date": "2026-05-10",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Fiorentina have a strong home record (unbeaten in recent matches) and a solid defensive unit. Genoa struggle offensively away and rarely convert chances against organized teams."
   },
   {
-    "id": "levante-osasuna",
+    "id": "oviedo-getafe",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2820/image.png"
+      "name": "Oviedo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4362/image.png"
     },
     "teamB": {
-      "name": "Osasuna",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
+      "name": "Getafe",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2787/image.png"
     },
     "leagueName": "La Liga",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Osasuna more structured defensively and better recent form than Levante."
-  },
-  {
-    "id": "cusco-estudiantes",
-    "teamA": {
-      "name": "Cusco FC",
-      "icon": "https://cdn.sofascore.app/api/v1/team/40645/image.png"
-    },
-    "teamB": {
-      "name": "Estudiantes",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3722/image.png"
-    },
-    "leagueName": "Copa Libertadores",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Estudiantes superior squad and experience despite altitude challenge."
-  },
-  {
-    "id": "laguaira-bolivar",
-    "teamA": {
-      "name": "Deportivo La Guaira",
-      "icon": "https://cdn.sofascore.app/api/v1/team/6338/image.png"
-    },
-    "teamB": {
-      "name": "Bolivar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3216/image.png"
-    },
-    "leagueName": "Copa Libertadores",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Bolivar more consistent attack and overall stronger team."
-  },
-  {
-    "id": "rivadavia-fluminense",
-    "teamA": {
-      "name": "Independiente Rivadavia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/38675/image.png"
-    },
-    "teamB": {
-      "name": "Fluminense",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1961/image.png"
-    },
-    "leagueName": "Copa Libertadores",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Fluminense superior quality, depth, and recent form advantage."
-  },
-  {
-    "id": "santafe-corinthians",
-    "teamA": {
-      "name": "Santa Fe",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3217/image.png"
-    },
-    "teamB": {
-      "name": "Corinthians",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1957/image.png"
-    },
-    "leagueName": "Copa Libertadores",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Corinthians more experienced and defensively disciplined in continental matches."
-  },
-  {
-    "id": "ucatolica-cruzeiro",
-    "teamA": {
-      "name": "Universidad Catolica",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3215/image.png"
-    },
-    "teamB": {
-      "name": "Cruzeiro",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1954/image.png"
-    },
-    "leagueName": "Copa Libertadores",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Cruzeiro stronger squad with better recent results."
-  },
-  {
-    "id": "platense-penarol",
-    "teamA": {
-      "name": "Platense",
-      "icon": "https://cdn.sofascore.app/api/v1/team/38531/image.png"
-    },
-    "teamB": {
-      "name": "Penarol",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3220/image.png"
-    },
-    "leagueName": "Copa Libertadores",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
+    "prediction": "X",
+    "date": "2026-05-10",
     "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Penarol experienced but away fixture remains difficult."
+    "safetyRating": 6,
+    "reason": "Getafe’s defensive style limits scoring, while Oviedo lack attacking efficiency. Both teams prioritize structure, leading to a likely low-scoring draw."
   },
   {
-    "id": "botafogo-racing",
+    "id": "milan-atalanta",
     "teamA": {
-      "name": "Botafogo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1958/image.png"
+      "name": "AC Milan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2692/image.png"
     },
     "teamB": {
-      "name": "Racing Club",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3717/image.png"
+      "name": "Atalanta",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
     },
-    "leagueName": "Copa Sudamericana",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Racing competitive but Botafogo home advantage limits safety."
-  },
-  {
-    "id": "ohiggins-saopaulo",
-    "teamA": {
-      "name": "O'Higgins",
-      "icon": "https://cdn.sofascore.app/api/v1/team/6337/image.png"
-    },
-    "teamB": {
-      "name": "Sao Paulo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1981/image.png"
-    },
-    "leagueName": "Copa Sudamericana",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Sao Paulo superior squad and strong continental experience."
-  },
-  {
-    "id": "cluj-craiova",
-    "teamA": {
-      "name": "CFR Cluj",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3046/image.png"
-    },
-    "teamB": {
-      "name": "Universitatea Craiova",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3047/image.png"
-    },
-    "leagueName": "Romanian Superliga",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
-    "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Craiova competitive but Cluj strong home side."
-  },
-  {
-    "id": "audax-vasco",
-    "teamA": {
-      "name": "Audax Italiano",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3214/image.png"
-    },
-    "teamB": {
-      "name": "Vasco da Gama",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5991/image.png"
-    },
-    "leagueName": "Copa Sudamericana",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
+    "leagueName": "Serie A",
+    "prediction": "1",
+    "date": "2026-05-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Vasco stronger squad and better attacking consistency."
+    "reason": "Milan are strong at home with better defensive stability. Atalanta play open football but are vulnerable defensively, especially away against top sides."
   },
   {
-    "id": "boston-millonarios",
+    "id": "metz-lorient",
     "teamA": {
-      "name": "Boston River",
-      "icon": "https://cdn.sofascore.app/api/v1/team/6336/image.png"
+      "name": "Metz",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2890/image.png"
     },
     "teamB": {
-      "name": "Millonarios",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3226/image.png"
+      "name": "Lorient",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2948/image.png"
     },
-    "leagueName": "Copa Sudamericana",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
+    "leagueName": "Ligue 1",
+    "prediction": "2",
+    "date": "2026-05-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Millonarios more consistent and tactically disciplined."
+    "reason": "Lorient show better attacking cohesion and recent form. Metz have defensive issues and struggle to control games against structured opponents."
   },
   {
-    "id": "freiburg-braga",
+    "id": "stuttgart-leverkusen",
     "teamA": {
-      "name": "Freiburg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2537/image.png"
+      "name": "Stuttgart",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
     },
     "teamB": {
-      "name": "Braga",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
+      "name": "Bayer Leverkusen",
+      "icon": "https://cdn.sofascore.app/api/v1/team/36/image.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Balanced matchup; Braga strong but Freiburg solid at home."
+    "leagueName": "Bundesliga",
+    "prediction": "2",
+    "date": "2026-05-09",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Leverkusen have elite attacking metrics and consistent performances. Stuttgart are competitive but struggle against top-tier attacking sides."
   },
   {
-    "id": "strasbourg-rayo",
+    "id": "augsburg-gladbach",
     "teamA": {
-      "name": "Strasbourg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3631/image.png"
+      "name": "Augsburg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2600/image.png"
     },
     "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2818/image.png"
+      "name": "Borussia Monchengladbach",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2681/image.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-07",
-    "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Rayo competitive but Strasbourg home advantage creates uncertainty."
+    "leagueName": "Bundesliga",
+    "prediction": "2",
+    "date": "2026-05-09",
+    "confidence": "Medium-High",
+    "safetyRating": 7,
+    "reason": "Gladbach have slightly better attacking quality and midfield control. Augsburg concede too many chances, especially against possession-based teams."
+  },
+  {
+    "id": "sevilla-espanyol",
+    "teamA": {
+      "name": "Sevilla",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2689/image.png"
+    },
+    "teamB": {
+      "name": "Espanyol",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2701/image.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "1",
+    "date": "2026-05-09",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Sevilla’s home advantage and defensive solidity give them the edge. Espanyol struggle away and lack consistency in chance creation."
   }
 ]
