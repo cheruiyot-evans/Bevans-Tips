@@ -1,104 +1,87 @@
 [
   {
-    "id": "shanghai-shenzhen",
+    "id": "crystal-palace-shakhtar-donetsk",
     "teamA": {
-      "name": "Shanghai Port",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1993/image.png"
+      "name": "Crystal Palace",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7/image.png"
     },
     "teamB": {
-      "name": "Shenzhen Peng City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/139012/image.png"
+      "name": "Shakhtar Donetsk",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1704/image.png"
     },
-    "leagueName": "Chinese Super League",
+    "leagueName": "UEFA Conference League",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-06",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Shanghai dominant at home; Shenzhen among weakest defensively."
-  },
-  {
-    "id": "sundowns-chiefs",
-    "teamA": {
-      "name": "Mamelodi Sundowns",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3016/image.png"
-    },
-    "teamB": {
-      "name": "Kaizer Chiefs",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3015/image.png"
-    },
-    "leagueName": "South Africa PSL",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-06",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Sundowns dominant domestically with elite defense; Chiefs inconsistent."
-  },
-  {
-    "id": "la-guaira-bolivar",
-    "teamA": {
-      "name": "Deportivo La Guaira",
-      "icon": "https://cdn.sofascore.app/api/v1/team/41394/image.png"
-    },
-    "teamB": {
-      "name": "Bolívar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3215/image.png"
-    },
-    "leagueName": "Copa Libertadores",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-06",
+    "date": "2026-05-07",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Both teams involved in high-scoring Libertadores matches; weak defensive records."
+    "reason": "Crystal Palace carry a strong 3-1 aggregate lead and are unbeaten in recent home matches. Shakhtar must attack aggressively, increasing Palace’s chances of avoiding defeat."
   },
   {
-    "id": "wuhan-qingdao",
+    "id": "al-shabab-al-nassr",
     "teamA": {
-      "name": "Wuhan Three Towns",
-      "icon": "https://cdn.sofascore.app/api/v1/team/138841/image.png"
+      "name": "Al Shabab",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7801/image.png"
     },
     "teamB": {
-      "name": "Qingdao Hainiu",
-      "icon": "https://cdn.sofascore.app/api/v1/team/37537/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-06",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Wuhan strong at home; Qingdao poor away with weak defense."
-  },
-  {
-    "id": "beijing-dalian",
-    "teamA": {
-      "name": "Beijing Guoan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1991/image.png"
-    },
-    "teamB": {
-      "name": "Dalian Yingbo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/138840/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-06",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Beijing matches consistently produce goals; Dalian concede frequently."
-  },
-  {
-    "id": "al-ahli-al-fateh",
-    "teamA": {
-      "name": "Al Ahli",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2926/image.png"
-    },
-    "teamB": {
-      "name": "Al Fateh",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2932/image.png"
+      "name": "Al Nassr",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2506/image.png"
     },
     "leagueName": "Saudi Pro League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-06",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-07",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Al Ahli strong home form and superior squad quality; Al Fateh inconsistent."
+    "reason": "Al Nassr games consistently produce goals due to strong attacking quality. Both teams average high-scoring matches and recent H2H meetings regularly clear 1.5 goals."
+  },
+  {
+    "id": "aston-villa-nottingham-forest",
+    "teamA": {
+      "name": "Aston Villa",
+      "icon": "https://cdn.sofascore.app/api/v1/team/40/image.png"
+    },
+    "teamB": {
+      "name": "Nottingham Forest",
+      "icon": "https://cdn.sofascore.app/api/v1/team/14/image.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Villa are strong at home and must respond after trailing 0-1 on aggregate. Forest are likely to play cautiously, while Villa’s home form gives them a solid edge to avoid defeat."
+  },
+  {
+    "id": "freiburg-sporting-braga",
+    "teamA": {
+      "name": "Freiburg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/244/image.png"
+    },
+    "teamB": {
+      "name": "Sporting Braga",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3005/image.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "With Braga leading 2-1 on aggregate, Freiburg are forced to attack. Both sides have shown consistent scoring trends in Europe, making two or more goals highly likely."
+  },
+  {
+    "id": "strasbourg-rayo-vallecano",
+    "teamA": {
+      "name": "Strasbourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5769/image.png"
+    },
+    "teamB": {
+      "name": "Rayo Vallecano",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2818/image.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "UNDER 4.5 GOALS",
+    "date": "2026-05-07",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "The tie remains tight at 1-0 aggregate, which should produce a cautious tactical game. Both teams generally play compact football and rarely feature in high-scoring matches."
   }
 ]
