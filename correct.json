@@ -1,121 +1,172 @@
 [
   {
-    "id": "shelbourne-sligo-rovers",
+    "id": "manchester-city-brentford",
     "teamA": {
-      "name": "Shelbourne",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8341/image.png"
+      "name": "Manchester City",
+      "icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
     },
     "teamB": {
-      "name": "Sligo Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8346/image.png"
+      "name": "Brentford",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50/image.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "Premier League",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-08",
+    "date": "2026-05-09",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Shelbourne are defensively dominant at home while Sligo Rovers have one of the weakest away records."
+    "safetyRating": 9.8,
+    "reason": "City extremely dominant at home with superior squad depth and elite attacking consistency."
   },
   {
-    "id": "rakow-korona-kielce",
+    "id": "rb-leipzig-st-pauli",
     "teamA": {
-      "name": "Raków Częstochowa",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
+      "name": "RB Leipzig",
+      "icon": "https://cdn.sofascore.app/api/v1/team/36360/image.png"
     },
     "teamB": {
-      "name": "Korona Kielce",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
+      "name": "St. Pauli",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2703/image.png"
     },
-    "leagueName": "Polish Ekstraklasa",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-08",
+    "leagueName": "German Bundesliga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-09",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Raków rarely lose at home and consistently outperform mid-table and lower-table opposition."
+    "safetyRating": 9.7,
+    "reason": "Leipzig home fixtures consistently produce goals while St. Pauli concede regularly away."
   },
   {
-    "id": "lens-nantes",
+    "id": "wolfsburg-bayern-munich",
     "teamA": {
-      "name": "Lens",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1648/image.png"
+      "name": "Wolfsburg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
     },
     "teamB": {
-      "name": "Nantes",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1647/image.png"
+      "name": "Bayern Munich",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2672/image.png"
     },
-    "leagueName": "French Ligue 1",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-08",
+    "leagueName": "German Bundesliga",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-09",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Lens have strong home momentum and Nantes struggle offensively away against organized defenses."
+    "safetyRating": 9.7,
+    "reason": "Bayern possess massive quality advantage and rarely lose to Wolfsburg."
   },
   {
-    "id": "torino-sassuolo",
+    "id": "lecce-juventus",
     "teamA": {
-      "name": "Torino",
+      "name": "Lecce",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png"
+    },
+    "teamB": {
+      "name": "Juventus",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
+    },
+    "leagueName": "Italian Serie A",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-09",
+    "confidence": "Very High",
+    "safetyRating": 9.6,
+    "reason": "Juventus remain defensively reliable and stronger overall against lower-table opposition."
+  },
+  {
+    "id": "atletico-madrid-celta-vigo",
+    "teamA": {
+      "name": "Atletico Madrid",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2836/image.png"
+    },
+    "teamB": {
+      "name": "Celta Vigo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-09",
+    "confidence": "Very High",
+    "safetyRating": 9.5,
+    "reason": "Atletico rarely lose at home and maintain one of the league’s strongest defenses."
+  },
+  {
+    "id": "mamelodi-sundowns-siwelele",
+    "teamA": {
+      "name": "Mamelodi Sundowns",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3434/image.png"
+    },
+    "teamB": {
+      "name": "Siwelele",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3437/image.png"
+    },
+    "leagueName": "South Africa PSL",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-09",
+    "confidence": "Very High",
+    "safetyRating": 9.5,
+    "reason": "Sundowns dominate possession and rarely drop points at home."
+  },
+  {
+    "id": "red-star-belgrade-novi-pazar",
+    "teamA": {
+      "name": "Red Star Belgrade",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2189/image.png"
+    },
+    "teamB": {
+      "name": "Novi Pazar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5353/image.png"
+    },
+    "leagueName": "Serbian Super Liga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-09",
+    "confidence": "Very High",
+    "safetyRating": 9.5,
+    "reason": "Red Star home matches consistently feature multiple goals due to attacking dominance."
+  },
+  {
+    "id": "galatasaray-antalyaspor",
+    "teamA": {
+      "name": "Galatasaray",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3061/image.png"
+    },
+    "teamB": {
+      "name": "Antalyaspor",
+      "icon": "https://cdn.sofascore.app/api/v1/team/12953/image.png"
+    },
+    "leagueName": "Turkish Super Lig",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-09",
+    "confidence": "Very High",
+    "safetyRating": 9.4,
+    "reason": "Galatasaray unbeaten in most recent home fixtures with superior attacking firepower."
+  },
+  {
+    "id": "konyaspor-fenerbahce",
+    "teamA": {
+      "name": "Konyaspor",
+      "icon": "https://cdn.sofascore.app/api/v1/team/10035/image.png"
+    },
+    "teamB": {
+      "name": "Fenerbahçe",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3053/image.png"
+    },
+    "leagueName": "Turkish Super Lig",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-09",
+    "confidence": "Very High",
+    "safetyRating": 9.4,
+    "reason": "Fenerbahçe stronger in form, squad quality, and recent away performances."
+  },
+  {
+    "id": "lazio-inter-milan",
+    "teamA": {
+      "name": "Lazio",
       "icon": "https://cdn.sofascore.app/api/v1/team/2692/image.png"
     },
     "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2714/image.png"
+      "name": "Inter Milan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png"
     },
     "leagueName": "Italian Serie A",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-08",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-09",
     "confidence": "High",
-    "safetyRating": 9,
-    "reason": "Torino are compact defensively at home while Sassuolo remain unreliable away from home."
-  },
-  {
-    "id": "ilves-oulu",
-    "teamA": {
-      "name": "Ilves",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5227/image.png"
-    },
-    "teamB": {
-      "name": "Oulu",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5233/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-08",
-    "confidence": "High",
-    "safetyRating": 9,
-    "reason": "Ilves have superior recent form and a stronger defensive structure compared to inconsistent Oulu."
-  },
-  {
-    "id": "drogheda-derry-city",
-    "teamA": {
-      "name": "Drogheda United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8348/image.png"
-    },
-    "teamB": {
-      "name": "Derry City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8340/image.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Derry City possess better squad quality and have shown stronger consistency in recent fixtures."
-  },
-  {
-    "id": "galway-united-shamrock-rovers",
-    "teamA": {
-      "name": "Galway United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8355/image.png"
-    },
-    "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8344/image.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Shamrock Rovers are more experienced and tactically superior, making defeat unlikely despite Galway’s home resilience."
+    "safetyRating": 9.2,
+    "reason": "Both teams have elite attacking options and recent meetings regularly produce goals."
   }
 ]
