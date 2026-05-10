@@ -1,172 +1,138 @@
 [
   {
-    "id": "manchester-city-brentford",
+    "id": "chelsea-women-man-city-women",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+      "name": "Chelsea",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1429/image.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://cdn.sofascore.app/api/v1/team/50/image.png"
+      "name": "Manchester City",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1430/image.png"
+    },
+    "leagueName": "Women's FA Cup",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-10",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Both elite attacking sides with high goal expectation per game; matches consistently exceed 1.5 goals."
+  },
+  {
+    "id": "young-boys-basel",
+    "teamA": {
+      "name": "Young Boys",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1461/image.png"
+    },
+    "teamB": {
+      "name": "Basel",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1462/image.png"
+    },
+    "leagueName": "Swiss Super League",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-10",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Both teams attack aggressively and maintain extremely high BTTS frequency in the Swiss league."
+  },
+  {
+    "id": "west-ham-arsenal",
+    "teamA": {
+      "name": "West Ham United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1097/image.png"
+    },
+    "teamB": {
+      "name": "Arsenal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1098/image.png"
     },
     "leagueName": "Premier League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.8,
-    "reason": "City extremely dominant at home with superior squad depth and elite attacking consistency."
-  },
-  {
-    "id": "rb-leipzig-st-pauli",
-    "teamA": {
-      "name": "RB Leipzig",
-      "icon": "https://cdn.sofascore.app/api/v1/team/36360/image.png"
-    },
-    "teamB": {
-      "name": "St. Pauli",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2703/image.png"
-    },
-    "leagueName": "German Bundesliga",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.7,
-    "reason": "Leipzig home fixtures consistently produce goals while St. Pauli concede regularly away."
-  },
-  {
-    "id": "wolfsburg-bayern-munich",
-    "teamA": {
-      "name": "Wolfsburg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
-    },
-    "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2672/image.png"
-    },
-    "leagueName": "German Bundesliga",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.7,
-    "reason": "Bayern possess massive quality advantage and rarely lose to Wolfsburg."
-  },
-  {
-    "id": "lecce-juventus",
-    "teamA": {
-      "name": "Lecce",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png"
-    },
-    "teamB": {
-      "name": "Juventus",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.6,
-    "reason": "Juventus remain defensively reliable and stronger overall against lower-table opposition."
-  },
-  {
-    "id": "atletico-madrid-celta-vigo",
-    "teamA": {
-      "name": "Atletico Madrid",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2836/image.png"
-    },
-    "teamB": {
-      "name": "Celta Vigo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
-    },
-    "leagueName": "Spanish La Liga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Atletico rarely lose at home and maintain one of the league’s strongest defenses."
-  },
-  {
-    "id": "mamelodi-sundowns-siwelele",
-    "teamA": {
-      "name": "Mamelodi Sundowns",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3434/image.png"
-    },
-    "teamB": {
-      "name": "Siwelele",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3437/image.png"
-    },
-    "leagueName": "South Africa PSL",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Sundowns dominate possession and rarely drop points at home."
-  },
-  {
-    "id": "red-star-belgrade-novi-pazar",
-    "teamA": {
-      "name": "Red Star Belgrade",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2189/image.png"
-    },
-    "teamB": {
-      "name": "Novi Pazar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5353/image.png"
-    },
-    "leagueName": "Serbian Super Liga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Red Star home matches consistently feature multiple goals due to attacking dominance."
-  },
-  {
-    "id": "galatasaray-antalyaspor",
-    "teamA": {
-      "name": "Galatasaray",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3061/image.png"
-    },
-    "teamB": {
-      "name": "Antalyaspor",
-      "icon": "https://cdn.sofascore.app/api/v1/team/12953/image.png"
-    },
-    "leagueName": "Turkish Super Lig",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.4,
-    "reason": "Galatasaray unbeaten in most recent home fixtures with superior attacking firepower."
-  },
-  {
-    "id": "konyaspor-fenerbahce",
-    "teamA": {
-      "name": "Konyaspor",
-      "icon": "https://cdn.sofascore.app/api/v1/team/10035/image.png"
-    },
-    "teamB": {
-      "name": "Fenerbahçe",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3053/image.png"
-    },
-    "leagueName": "Turkish Super Lig",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.4,
-    "reason": "Fenerbahçe stronger in form, squad quality, and recent away performances."
-  },
-  {
-    "id": "lazio-inter-milan",
-    "teamA": {
-      "name": "Lazio",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2692/image.png"
-    },
-    "teamB": {
-      "name": "Inter Milan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-09",
+    "date": "2026-05-10",
     "confidence": "High",
-    "safetyRating": 9.2,
-    "reason": "Both teams have elite attacking options and recent meetings regularly produce goals."
+    "safetyRating": 8,
+    "reason": "Strong attacking quality on both sides and consistent recent goal trends make 2+ goals highly probable."
+  },
+  {
+    "id": "hacken-malmo-ff",
+    "teamA": {
+      "name": "Häcken",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1453/image.png"
+    },
+    "teamB": {
+      "name": "Malmö FF",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1454/image.png"
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams possess elite attacking records and recent meetings strongly support goals from both sides."
+  },
+  {
+    "id": "burnley-aston-villa",
+    "teamA": {
+      "name": "Burnley",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1091/image.png"
+    },
+    "teamB": {
+      "name": "Aston Villa",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1092/image.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "DOUBLE CHANCE 2X",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Aston Villa are significantly stronger overall; Burnley remain competitive at home but unlikely to win outright."
+  },
+  {
+    "id": "nottingham-forest-newcastle",
+    "teamA": {
+      "name": "Nottingham Forest",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1095/image.png"
+    },
+    "teamB": {
+      "name": "Newcastle United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1096/image.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "DOUBLE CHANCE 2X",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Newcastle have superior consistency, squad depth and attacking structure; Forest may compete but avoiding defeat favors Newcastle."
+  },
+  {
+    "id": "chesterfield-notts-county",
+    "teamA": {
+      "name": "Chesterfield",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1433/image.png"
+    },
+    "teamB": {
+      "name": "Notts County",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1434/image.png"
+    },
+    "leagueName": "League Two",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both sides regularly score and concede, with historical meetings strongly supporting at least two goals."
+  },
+  {
+    "id": "crystal-palace-everton",
+    "teamA": {
+      "name": "Crystal Palace",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1094/image.png"
+    },
+    "teamB": {
+      "name": "Everton",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1100/image.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Both teams consistently create and concede chances, making 2+ goals statistically likely."
   }
 ]
