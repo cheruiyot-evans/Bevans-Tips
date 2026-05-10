@@ -1,70 +1,70 @@
 [
   {
-    "id": "manchester-city-brentford",
+    "id": "chelsea-women-man-city-women",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/17/image.png"
+      "name": "Chelsea",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1429/image.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://cdn.sofascore.app/api/v1/team/50/image.png"
+      "name": "Manchester City",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1430/image.png"
+    },
+    "leagueName": "Women's FA Cup",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-10",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Both elite attacking sides with high goal expectation per game; matches consistently exceed 1.5 goals."
+  },
+  {
+    "id": "young-boys-basel",
+    "teamA": {
+      "name": "Young Boys",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1461/image.png"
+    },
+    "teamB": {
+      "name": "Basel",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1462/image.png"
+    },
+    "leagueName": "Swiss Super League",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-10",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Both teams attack aggressively and maintain extremely high BTTS frequency in the Swiss league."
+  },
+  {
+    "id": "west-ham-arsenal",
+    "teamA": {
+      "name": "West Ham United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1097/image.png"
+    },
+    "teamB": {
+      "name": "Arsenal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1098/image.png"
     },
     "leagueName": "Premier League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.8,
-    "reason": "Manchester City possess dominant home form, superior squad depth, and rarely lose at the Etihad."
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Strong attacking quality on both sides and consistent recent goal trends make 2+ goals highly probable."
   },
   {
-    "id": "wolfsburg-bayern-munich",
+    "id": "hacken-malmo-ff",
     "teamA": {
-      "name": "Wolfsburg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/33/image.png"
+      "name": "Häcken",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1453/image.png"
     },
     "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2672/image.png"
+      "name": "Malmö FF",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1454/image.png"
     },
-    "leagueName": "German Bundesliga",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.7,
-    "reason": "Bayern consistently outperform Wolfsburg and have significantly stronger attacking quality."
-  },
-  {
-    "id": "lecce-juventus",
-    "teamA": {
-      "name": "Lecce",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png"
-    },
-    "teamB": {
-      "name": "Juventus",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.6,
-    "reason": "Juventus remain defensively solid and rarely lose against lower-table opposition."
-  },
-  {
-    "id": "atletico-madrid-celta-vigo",
-    "teamA": {
-      "name": "Atletico Madrid",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2836/image.png"
-    },
-    "teamB": {
-      "name": "Celta Vigo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
-    },
-    "leagueName": "Spanish La Liga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-09",
-    "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Atletico Madrid have one of the strongest home defensive records in La Liga."
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams possess elite attacking records and recent meetings strongly support goals from both sides."
   }
 ]
