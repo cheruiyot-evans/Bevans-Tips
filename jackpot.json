@@ -1,257 +1,496 @@
 [
-  {
-    "id": "auxerre-nice",
+{ "id": "fc-copenhagen-fc-midtjylland",
+"teamA": {
+"name": "Fc Copenhagen",
+"icon": "https://cdn.sofascore.app/api/v1/team/1234/image.png"
+},
+"teamB": {
+"name": "Fc Midtjylland",
+"icon": "https://cdn.sofascore.app/api/v1/team/1256/image.png"
+},
+"leagueName": "DBU Pokalen",
+"prediction": "1",
+"date": "2026-05-14",
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "FC Copenhagen stronger at home in recent seasons and historically slightly better in big domestic cup games; however, FC Midtjylland is solid and capable of an upset, so edge is moderate rather than very safe."
+},
+{ "id": "lens-psg",
+"teamA": {
+"name": "Lens",
+"icon": "https://cdn.sofascore.app/api/v1/team/2857/image.png"
+},
+"teamB": {
+"name": "Psg",
+"icon": "https://cdn.sofascore.app/api/v1/team/1204/image.png"
+},
+"leagueName": "Ligue 1",
+"prediction": "2",
+"date": "2026-05-13",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "PSG’s superior squad depth, attacking firepower and away‑form edge over Lens; Lens defensively fragile versus top‑flight top‑sides, especially in high‑pressure end‑of‑season fixtures."
+},
+{ "id": "espanyol-athletic-bilbao",
+"teamA": {
+"name": "Espanyol",
+"icon": "https://cdn.sofascore.app/api/v1/team/1123/image.png"
+},
+"teamB": {
+"name": "Athletic Bilbao",
+"icon": "https://cdn.sofascore.app/api/v1/team/1124/image.png"
+},
+"leagueName": "LaLiga",
+"prediction": "X",
+"date": "2026-05-13",
+"confidence": "Medium",
+"safetyRating": 5,
+"reason": "Both teams in tight mid‑table battle with similar form and head‑to‑head trends; Espanyol solid at home but Athletic stronger and more physical, making a draw the most balanced outcome statistically."
+},
+{ "id": "villarreal-sevilla",
+"teamA": {
+"name": "Villarreal",
+"icon": "https://cdn.sofascore.app/api/v1/team/996/image.png"
+},
+"teamB": {
+"name": "Sevilla",
+"icon": "https://cdn.sofascore.app/api/v1/team/995/image.png"
+},
+"leagueName": "LaLiga",
+"prediction": "1",
+"date": "2026-05-13",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Villarreal stronger at home with better attacking output and more consistent form this season; Sevilla’s away‑form lags and defensive record weaker, giving hosts a slight but clear edge."
+},
+{ "id": "getafe-mallorca",
+"teamA": {
+"name": "Getafe",
+"icon": "https://cdn.sofascore.app/api/v1/team/1012/image.png"
+},
+"teamB": {
+"name": "Mallorca",
+"icon": "https://cdn.sofascore.app/api/v1/team/1063/image.png"
+},
+"leagueName": "LaLiga",
+"prediction": "1",
+"date": "2026-05-13",
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "Getafe more defensively robust at home and slightly higher in table motivation; Mallorca capable of grinding out results but less reliable in away‑attack, favouring Getafe just enough for a narrow home edge."
+},
+{ "id": "alaves-barcelona",
+"teamA": {
+"name": "Alaves",
+"icon": "https://cdn.sofascore.app/api/v1/team/1019/image.png"
+},
+"teamB": {
+"name": "Barcelona",
+"icon": "https://cdn.sofascore.app/api/v1/team/81/image.png"
+},
+"leagueName": "LaLiga",
+"prediction": "2",
+"date": "2026-05-13",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Barcelona’s superior quality, attacking output and away‑dominance versus weaker mid‑table sides; Alaves struggle against top‑half opponents and often concede multiple goals, making away win highly probable."
+},
+{ "id": "valencia-rayo-vallecano",
+"teamA": {
+"name": "Valencia",
+"icon": "https://cdn.sofascore.app/api/v1/team/1016/image.png"
+},
+"teamB": {
+"name": "Rayo Vallecano",
+"icon": "https://cdn.sofascore.app/api/v1/team/1017/image.png"
+},
+"leagueName": "LaLiga",
+"prediction": "1",
+"date": "2026-05-14",
+"confidence": "Medium",
+"safetyRating": 5,
+"reason": "Valencia slightly more motivated at home in season‑finale context but both teams inconsistent; narrow home‑advantage edge given Valencia’s slightly better goal‑difference and defensive record this season."
+},
+{ "id": "girona-real-sociedad",
+"teamA": {
+"name": "Girona",
+"icon": "https://cdn.sofascore.app/api/v1/team/1082/image.png"
+},
+"teamB": {
+"name": "Real Sociedad",
+"icon": "https://cdn.sofascore.app/api/v1/team/1010/image.png"
+},
+"leagueName": "LaLiga",
+"prediction": "X",
+"date": "2026-05-14",
+"confidence": "Medium",
+"safetyRating": 5,
+"reason": "Both high‑quality sides with strong attacking output and similar league positions; Girona stronger at home but Real Sociedad disciplined and difficult to break down, making a draw the most statistically balanced outcome."
+},
+{ "id": "paok-aek-athens",
+"teamA": {
+"name": "Paok",
+"icon": "https://cdn.sofascore.app/api/v1/team/1069/image.png"
+},
+"teamB": {
+"name": "Aek Athens",
+"icon": "https://cdn.sofascore.app/api/v1/team/1070/image.png"
+},
+"leagueName": "Super League",
+"prediction": "1",
+"date": "2026-05-13",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "PAOK statistically favoured in home‑leg contests and has marginally better recent form and home‑advantage edge; AEK Athens solid but less consistent away from Athens, giving PAOK a clear but not overwhelming edge."
+},
+{ "id": "falkenbergs-varbergs-bois",
+"teamA": {
+"name": "Falkenbergs",
+"icon": "https://cdn.sofascore.app/api/v1/team/1678/image.png"
+},
+"teamB": {
+"name": "Varbergs Bois",
+"icon": "https://cdn.sofascore.app/api/v1/team/1680/image.png"
+},
+"leagueName": "Superettan",
+"prediction": "1",
+"date": "2026-05-13",
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "Falkenbergs FF slightly stronger at home with better recent scoring form; Varbergs Bois inconsistent away, making home win the most likely but not overwhelmingly safe outcome."
+},
+{ "id": "universitatea-cluj-craiova",
+"teamA": {
+"name": "Fc Universitatea Cluj",
+"icon": "https://cdn.sofascore.app/api/v1/team/1612/image.png"
+},
+"teamB": {
+"name": "Cs Universitatea Craiova",
+"icon": "https://cdn.sofascore.app/api/v1/team/1613/image.png"
+},
+"leagueName": "Romania Cup",
+"prediction": "2",
+"date": "2026-05-13",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Universitatea Craiova higher‑quality side with better squad depth and superior recent cup‑form; Universitatea Cluj more limited in attack and vulnerable against top‑tier opponents, favouring away win."
+},
+{ "id": "helsingborgs-oddevold",
+"teamA": {
+"name": "Helsingborgs",
+"icon": "https://cdn.sofascore.app/api/v1/team/1671/image.png"
+},
+"teamB": {
+"name": "Oddevold",
+"icon": "https://cdn.sofascore.app/api/v1/team/1672/image.png"
+},
+"leagueName": "Superettan",
+"prediction": "1",
+"date": "2026-05-13",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Helsingborgs stronger at home, better recent form and more potent attacking numbers; Oddevold weaker defensively on the road, giving hosts a clear but not bulletproof edge."
+},
+{ "id": "ludogorets-levski-sofia",
+"teamA": {
+"name": "Ludogorets 1945",
+"icon": "https://cdn.sofascore.app/api/v1/team/1089/image.png"
+},
+"teamB": {
+"name": "Pfc Levski Sofia",
+"icon": "https://cdn.sofascore.app/api/v1/team/1090/image.png"
+},
+"leagueName": "Parva Liga",
+"prediction": "1",
+"date": "2026-05-13",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Ludogorets dominant domestically with superior squad depth, home‑form and attacking output; Levski Sofia historically outclassed in this fixture, making home win very likely."
+},
+{ "id": "motherwell-celtic",
+"teamA": {
+"name": "Motherwell Fc",
+"icon": "https://cdn.sofascore.app/api/v1/team/1421/image.png"
+},
+"teamB": {
+"name": "Celtic",
+"icon": "https://cdn.sofascore.app/api/v1/team/1425/image.png"
+},
+"leagueName": "Premiership",
+"prediction": "2",
+"date": "2026-05-13",
+"confidence": "Very High",
+"safetyRating": 10,
+"reason": "Celtic significantly stronger in quality, attacking output and away‑form versus mid‑table sides; Motherwell vulnerable at home against top‑tier attacks, making away win extremely safe."
+},
+{ "id": "mjallby-aif-hammarby-if",
+"teamA": {
+"name": "Mjallby Aif",
+"icon": "https://cdn.sofascore.app/api/v1/team/1676/image.png"
+},
+"teamB": {
+"name": "Hammarby If",
+"icon": "https://cdn.sofascore.app/api/v1/team/1677/image.png"
+},
+"leagueName": "Svenska Cup",
+"prediction": "2",
+"date": "2026-05-14",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Hammarby stronger in big‑cup finals with better attacking depth and recent form; Mjällby solid but lower‑quality overall, making away win the most likely outcome despite match‑day uncertainty."
+},
+ {
+    "id": "fc-copenhagen-fc-midtjylland",
     "teamA": {
-      "name": "Auxerre",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2908/image.png"
+      "name": "FC Copenhagen",
+      "icon": "https://cdn.sofascore.app/api/v1/team/839/image.png"
     },
     "teamB": {
-      "name": "Nice",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2856/image.png"
+      "name": "FC Midtjylland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/811/image.png"
     },
-    "leagueName": "Ligue 1",
-    "prediction": "2",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Nice more structured defensively, better form and superior squad depth; Auxerre struggle vs stronger teams."
-  },
-  {
-    "id": "angers-strasbourg",
-    "teamA": {
-      "name": "Angers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2931/image.png"
-    },
-    "teamB": {
-      "name": "Strasbourg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2952/image.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "2",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Strasbourg stronger attacking output and better recent consistency; Angers defensively weak."
-  },
-  {
-    "id": "monaco-lille",
-    "teamA": {
-      "name": "Monaco",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2817/image.png"
-    },
-    "teamB": {
-      "name": "Lille",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2857/image.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "1",
-    "date": "2026-05-10",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Monaco’s home attacking strength and tempo advantage outweigh Lille’s balanced but less aggressive away form."
-  },
-  {
-    "id": "crystal-palace-everton",
-    "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://cdn.sofascore.app/api/v1/team/7/image.png"
-    },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://cdn.sofascore.app/api/v1/team/48/image.png"
-    },
-    "leagueName": "Premier League",
+    "leagueName": "DBU Pokalen",
     "prediction": "X",
-    "date": "2026-05-10",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Both sides low-scoring and defensively organized; limited attacking output points to a draw."
-  },
-  {
-    "id": "nottingham-newcastle",
-    "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14/image.png"
-    },
-    "teamB": {
-      "name": "Newcastle",
-      "icon": "https://cdn.sofascore.app/api/v1/team/39/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "2",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Newcastle superior in all phases; Forest struggle defensively vs high-pressing teams."
-  },
-  {
-    "id": "fiorentina-genoa",
-    "teamA": {
-      "name": "ACF Fiorentina",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2886/image.png"
-    },
-    "teamB": {
-      "name": "Genoa",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2897/image.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "1",
-    "date": "2026-05-10",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Fiorentina dominant at home with strong defensive shape; Genoa weak offensively away."
-  },
-  {
-    "id": "oviedo-getafe",
-    "teamA": {
-      "name": "Oviedo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4362/image.png"
-    },
-    "teamB": {
-      "name": "Getafe",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2787/image.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "X",
-    "date": "2026-05-10",
+    "date": "2026-05-14",
     "confidence": "Medium",
-    "safetyRating": 6,
-    "reason": "Two defensive setups with low attacking efficiency; draw highly plausible."
+    "safetyRating": 6.5,
+    "reason": "Cup final-style match between two strong Danish sides; Copenhagen have home strength but Midtjylland match them physically and tactically, making draw highly possible."
   },
   {
-    "id": "milan-atalanta",
+    "id": "lens-psg",
     "teamA": {
-      "name": "AC Milan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2692/image.png"
+      "name": "Lens",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1643/image.png"
     },
     "teamB": {
-      "name": "Atalanta",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "1",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Milan stronger at home and tactically balanced; Atalanta vulnerable defensively."
-  },
-  {
-    "id": "metz-lorient",
-    "teamA": {
-      "name": "Metz",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2890/image.png"
-    },
-    "teamB": {
-      "name": "Lorient",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2948/image.png"
+      "name": "PSG",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1644/image.png"
     },
     "leagueName": "Ligue 1",
     "prediction": "2",
-    "date": "2026-05-10",
+    "date": "2026-05-13",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Lorient more consistent and better attacking transitions; Metz leak goals."
+    "reason": "PSG have superior squad depth, stronger attacking quality and dominant recent head-to-head record, although Lens remain dangerous at home."
   },
   {
-    "id": "stuttgart-leverkusen",
+    "id": "espanyol-athletic-bilbao",
     "teamA": {
-      "name": "Stuttgart",
-      "icon": "https://cdn.sofascore.app/api/v1/team/44/image.png"
-    },
-    "teamB": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://cdn.sofascore.app/api/v1/team/36/image.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "2",
-    "date": "2026-05-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Leverkusen’s attacking efficiency and consistency outperform Stuttgart."
-  },
-  {
-    "id": "augsburg-gladbach",
-    "teamA": {
-      "name": "Augsburg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2600/image.png"
-    },
-    "teamB": {
-      "name": "Borussia Monchengladbach",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2681/image.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "2",
-    "date": "2026-05-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Gladbach slightly better squad and attacking patterns; Augsburg inconsistent defensively."
-  },
-  {
-    "id": "fulham-bournemouth",
-    "teamA": {
-      "name": "Fulham",
-      "icon": "https://cdn.sofascore.app/api/v1/team/43/image.png"
-    },
-    "teamB": {
-      "name": "Bournemouth",
-      "icon": "https://cdn.sofascore.app/api/v1/team/60/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "1",
-    "date": "2026-05-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Fulham strong home performances; Bournemouth inconsistent away."
-  },
-  {
-    "id": "sevilla-espanyol",
-    "teamA": {
-      "name": "Sevilla",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2689/image.png"
-    },
-    "teamB": {
       "name": "Espanyol",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2701/image.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "1",
-    "date": "2026-05-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Sevilla strong home advantage; Espanyol poor away results."
-  },
-  {
-    "id": "real-sociedad-betis",
-    "teamA": {
-      "name": "Real Sociedad",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2820/image.png"
+      "icon": "https://cdn.sofascore.app/api/v1/team/2818/image.png"
     },
     "teamB": {
-      "name": "Real Betis",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2816/image.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "1",
-    "date": "2026-05-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Sociedad solid at home with better defensive structure; Betis inconsistent away."
-  },
-  {
-    "id": "mallorca-villarreal",
-    "teamA": {
-      "name": "Mallorca",
+      "name": "Athletic Bilbao",
       "icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
     },
-    "teamB": {
+    "leagueName": "LaLiga",
+    "prediction": "2",
+    "date": "2026-05-13",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Athletic Bilbao are more compact defensively, stronger in transition and have better squad balance than Espanyol."
+  },
+  {
+    "id": "villarreal-sevilla",
+    "teamA": {
       "name": "Villarreal",
       "icon": "https://cdn.sofascore.app/api/v1/team/2819/image.png"
     },
-    "leagueName": "La Liga",
+    "teamB": {
+      "name": "Sevilla",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2833/image.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "1",
+    "date": "2026-05-13",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Villarreal have stronger league form, better attacking rhythm and home advantage; Sevilla have been less reliable away from home."
+  },
+  {
+    "id": "getafe-mallorca",
+    "teamA": {
+      "name": "Getafe",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2859/image.png"
+    },
+    "teamB": {
+      "name": "Mallorca",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "X",
+    "date": "2026-05-13",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Both teams are usually compact, low-scoring and difficult to break down; tactical caution makes a draw a strong possibility."
+  },
+  {
+    "id": "alaves-barcelona",
+    "teamA": {
+      "name": "Alaves",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2885/image.png"
+    },
+    "teamB": {
+      "name": "Barcelona",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2817/image.png"
+    },
+    "leagueName": "LaLiga",
     "prediction": "2",
-    "date": "2026-05-10",
-    "confidence": "Medium-High",
+    "date": "2026-05-13",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Barcelona have far superior squad quality, attacking depth and title-level motivation; Alaves are likely to struggle against their possession control."
+  },
+  {
+    "id": "valencia-rayo-vallecano",
+    "teamA": {
+      "name": "Valencia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2828/image.png"
+    },
+    "teamB": {
+      "name": "Rayo Vallecano",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2814/image.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "1",
+    "date": "2026-05-14",
+    "confidence": "Medium",
     "safetyRating": 7,
-    "reason": "Villarreal have better attacking quality and midfield control; Mallorca limited offensively."
-  }
-]
+    "reason": "Valencia are stronger at home and usually more disciplined defensively, while Rayo can struggle to convert chances away."
+  },
+  {
+    "id": "girona-real-sociedad",
+    "teamA": {
+      "name": "Girona",
+      "icon": "https://cdn.sofascore.app/api/v1/team/24264/image.png"
+    },
+    "teamB": {
+      "name": "Real Sociedad",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2824/image.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "X",
+    "date": "2026-05-14",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Girona are competitive at home, but Real Sociedad are tactically organized and difficult to beat; balance points toward a draw."
+  },
+  {
+    "id": "paok-aek-athens",
+    "teamA": {
+      "name": "PAOK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2544/image.png"
+    },
+    "teamB": {
+      "name": "AEK Athens",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2545/image.png"
+    },
+    "leagueName": "Super League Greece",
+    "prediction": "X",
+    "date": "2026-05-13",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "High-pressure Greek rivalry between two evenly matched sides; both have strong defensive structure and are likely to avoid excessive risk."
+  },
+  {
+    "id": "falkenbergs-varbergs-bois",
+    "teamA": {
+      "name": "Falkenbergs",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1902/image.png"
+    },
+    "teamB": {
+      "name": "Varbergs BoIS",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1900/image.png"
+    },
+    "leagueName": "Superettan",
+    "prediction": "X",
+    "date": "2026-05-13",
+    "confidence": "Medium",
+    "safetyRating": 6,
+    "reason": "Both Swedish second-tier sides are closely matched, with limited quality gap and high draw potential in a cautious league fixture."
+  },
+  {
+    "id": "fc-universitatea-cluj-cs-universitatea-craiova",
+    "teamA": {
+      "name": "FC Universitatea Cluj",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4501/image.png"
+    },
+    "teamB": {
+      "name": "CS Universitatea Craiova",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5637/image.png"
+    },
+    "leagueName": "Romania Cup",
+    "prediction": "2",
+    "date": "2026-05-13",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Craiova have stronger squad depth, better attacking options and more experience in decisive domestic fixtures."
+  },
+  {
+    "id": "helsingborgs-oddevold",
+    "teamA": {
+      "name": "Helsingborgs",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1898/image.png"
+    },
+    "teamB": {
+      "name": "Oddevold",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1915/image.png"
+    },
+    "leagueName": "Superettan",
+    "prediction": "1",
+    "date": "2026-05-13",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Helsingborgs have home advantage, stronger historical level and better attacking upside compared with Oddevold."
+  },
+  {
+    "id": "ludogorets-1945-levski-sofia",
+    "teamA": {
+      "name": "Ludogorets 1945",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6643/image.png"
+    },
+    "teamB": {
+      "name": "PFC Levski Sofia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6652/image.png"
+    },
+    "leagueName": "Parva Liga",
+    "prediction": "1",
+    "date": "2026-05-13",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Ludogorets have superior domestic consistency, stronger squad depth and strong home advantage in major Bulgarian fixtures."
+  },
+  {
+    "id": "motherwell-celtic",
+    "teamA": {
+      "name": "Motherwell",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2378/image.png"
+    },
+    "teamB": {
+      "name": "Celtic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2351/image.png"
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "2",
+    "date": "2026-05-13",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Celtic have far greater squad quality, attacking power and historical dominance; Motherwell usually struggle to contain Celtic over 90 minutes."
+  },
+  {
+    "id": "mjallby-aif-hammarby-if",
+    "teamA": {
+      "name": "Mjallby AIF",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1905/image.png"
+    },
+    "teamB": {
+      "name": "Hammarby IF",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1888/image.png"
+    },
+    "leagueName": "Svenska Cup",
+    "prediction": "X",
+    "date": "2026-05-14",
+    "confidence": "Medium",
+    "safetyRating": 6.5,
+    "reason": "Cup matches carry extra variance; Mjallby are disciplined and hard to beat, while Hammarby have stronger attacking quality, making a draw plausible."
+  }]
