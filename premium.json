@@ -1,372 +1,171 @@
 [
-{ "id": "burnley-aston‑villa",
+{ "id": "benfica-sporting-braga",
 "teamA": {
-"name": "Burnley",
-"icon": "https://cdn.sofascore.app/api/v1/team/1091/image.png"
+"name": "Benfica",
+"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
 },
 "teamB": {
-"name": "Aston Villa",
-"icon": "https://cdn.sofascore.app/api/v1/team/1092/image.png"
+"name": "Sporting Braga",
+"icon": "https://cdn.sofascore.app/api/v1/team/3005/image.png"
 },
-"leagueName": "Premier League",
-"prediction": "DOUBLE CHANCE 2X",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Aston Villa clearly stronger side this season; Burnley difficult at home but unlikely to win outright, making away win or draw the safest low‑risk line."
-},
-{ "id": "crystal‑palace‑everton",
-"teamA": {
-"name": "Crystal Palace",
-"icon": "https://cdn.sofascore.app/api/v1/team/1094/image.png"
-},
-"teamB": {
-"name": "Everton",
-"icon": "https://cdn.sofascore.app/api/v1/team/1100/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams have consistent scoring and conceding patterns; low‑probability for a 0‑0, making over 1.5 goals statistically solid."
-},
-{ "id": "nottingham‑forest‑newcastle",
-"teamA": {
-"name": "Nottingham Forest",
-"icon": "https://cdn.sofascore.app/api/v1/team/1095/image.png"
-},
-"teamB": {
-"name": "Newcastle United",
-"icon": "https://cdn.sofascore.app/api/v1/team/1096/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "DOUBLE CHANCE 2X",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Newcastle significantly stronger and more consistent; Nottingham Forest occasionally resilient at home, but double chance away/draw offers strong safety."
-},
-{ "id": "west‑ham‑arsenal",
-"teamA": {
-"name": "West Ham United",
-"icon": "https://cdn.sofascore.app/api/v1/team/1097/image.png"
-},
-"teamB": {
-"name": "Arsenal",
-"icon": "https://cdn.sofascore.app/api/v1/team/1098/image.png"
-},
-"leagueName": "Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Both teams strong in attack and prone to conceding; statistical models show high probability of at least two goals between them."
-},
-{ "id": "celtic‑rangers",
-"teamA": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/1425/image.png"
-},
-"teamB": {
-"name": "Rangers",
-"icon": "https://cdn.sofascore.app/api/v1/team/1426/image.png"
-},
-"leagueName": "Scottish Premiership",
-"prediction": "DRAW NO BET 2",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Rangers slightly more balanced form and recent head‑to‑head resilience; draw‑no‑bet on away line avoids a 1X/2X double chance quirk while keeping edge."
-},
-{ "id": "liverpool‑women‑brighton‑women",
-"teamA": {
-"name": "Liverpool",
-"icon": "https://cdn.sofascore.app/api/v1/team/1427/image.png"
-},
-"teamB": {
-"name": "Brighton & Hove Albion",
-"icon": "https://cdn.sofascore.app/api/v1/team/1428/image.png"
-},
-"leagueName": "Women's FA Cup",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "Medium",
-"safetyRating": 6,
-"reason": "Both teams attack‑minded in cup games with multiple goals common; low‑risk over 1.5 fit despite slightly higher variance of a cup semi‑final."
-},
-{ "id": "chelsea‑women‑man‑city‑women",
-"teamA": {
-"name": "Chelsea",
-"icon": "https://cdn.sofascore.app/api/v1/team/1429/image.png"
-},
-"teamB": {
-"name": "Manchester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/1430/image.png"
-},
-"leagueName": "Women's FA Cup",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Both elite attacking sides with high goal‑expectation per game; matches almost always exceed 1.5 goals, making this extremely safe."
-},
-{ "id": "grimsby‑salford",
-"teamA": {
-"name": "Grimsby Town",
-"icon": "https://cdn.sofascore.app/api/v1/team/1431/image.png"
-},
-"teamB": {
-"name": "Salford City",
-"icon": "https://cdn.sofascore.app/api/v1/team/1432/image.png"
-},
-"leagueName": "League Two",
+"leagueName": "Portuguese Primeira Liga",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Grimsby stronger at home with better recent form and favourable odds; Salford can draw but not heavily favoured to win, giving hosts a safe 1X line."
-},
-{ "id": "chesterfield‑notts‑county",
-"teamA": {
-"name": "Chesterfield",
-"icon": "https://cdn.sofascore.app/api/v1/team/1433/image.png"
-},
-"teamB": {
-"name": "Notts County",
-"icon": "https://cdn.sofascore.app/api/v1/team/1434/image.png"
-},
-"leagueName": "League Two",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Both teams score and concede regularly; historic H2H shows high percentage of 1.5+ goal games, supporting a conservative over line."
-},
-{ "id": "boreham‑wood‑rochdale",
-"teamA": {
-"name": "Boreham Wood",
-"icon": "https://cdn.sofascore.app/api/v1/team/1435/image.png"
-},
-"teamB": {
-"name": "Rochdale",
-"icon": "https://cdn.sofascore.app/api/v1/team/1436/image.png"
-},
-"leagueName": "National League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "Medium",
-"safetyRating": 6,
-"reason": "Typical National‑League‑final profile with open, attacking intent; both sides tend to score enough to surpass 1.5 goals on average."
-},
-{ "id": "partick‑thistle‑rangers‑women",
-"teamA": {
-"name": "Partick Thistle",
-"icon": "https://cdn.sofascore.app/api/v1/team/1437/image.png"
-},
-"teamB": {
-"name": "Rangers",
-"icon": "https://cdn.sofascore.app/api/v1/team/1438/image.png"
-},
-"leagueName": "Scottish SWPL 1",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "Medium",
-"safetyRating": 6,
-"reason": "Rangers attack‑dominant; Partick can contribute enough for a 1.5+ goal line, but cup‑style rotation adds slight uncertainty."
-},
-{ "id": "hibs‑glasgow‑city",
-"teamA": {
-"name": "Hibernian",
-"icon": "https://cdn.sofascore.app/api/v1/team/1439/image.png"
-},
-"teamB": {
-"name": "Glasgow City",
-"icon": "https://cdn.sofascore.app/api/v1/team/1440/image.png"
-},
-"leagueName": "Scottish SWPL 1",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both top‑tier women’s sides attack‑focused with strong goal‑rates; over 1.5 a conservative but safe line."
-},
-{ "id": "celtic‑hearts‑women",
-"teamA": {
-"name": "Celtic",
-"icon": "https://cdn.sofascore.app/api/v1/team/1441/image.png"
-},
-"teamB": {
-"name": "Hearts",
-"icon": "https://cdn.sofascore.app/api/v1/team/1442/image.png"
-},
-"leagueName": "Scottish SWPL 1",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Celtic strong at home; Hearts attack in bouts, often leading to 2+ goals between them in recent fixtures."
-},
-{ "id": "abia‑warriors‑kun‑khalifat",
-"teamA": {
-"name": "Abia Warriors",
-"icon": "https://cdn.sofascore.app/api/v1/team/1443/image.png"
-},
-"teamB": {
-"name": "Kun Khalifat",
-"icon": "https://cdn.sofascore.app/api/v1/team/1444/image.png"
-},
-"leagueName": "Nigerian Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "Medium",
-"safetyRating": 6,
-"reason": "League style tends towards open games with multiple goals; both sides score enough to make 1.5+ a reasonable low‑risk target."
-},
-{ "id": "enugu‑rangers‑bendel‑insurance",
-"teamA": {
-"name": "Enugu Rangers",
-"icon": "https://cdn.sofascore.app/api/v1/team/1445/image.png"
-},
-"teamB": {
-"name": "Bendel Insurance",
-"icon": "https://cdn.sofascore.app/api/v1/team/1446/image.png"
-},
-"leagueName": "Nigerian Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both attack‑oriented with frequent 2+ goal games; defensive records are weak, pushing over 1.5 to a high‑probability outcome."
-},
-{ "id": "kwara‑united‑enyimba",
-"teamA": {
-"name": "Kwara United",
-"icon": "https://cdn.sofascore.app/api/v1/team/1447/image.png"
-},
-"teamB": {
-"name": "Enyimba",
-"icon": "https://cdn.sofascore.app/api/v1/team/1448/image.png"
-},
-"leagueName": "Nigerian Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Enyimba offensive‑minded; Kwara United often leak goals, leading to frequent 2+ goal totals."
-},
-{ "id": "ai‑k‑djurgarden",
-"teamA": {
-"name": "AIK",
-"icon": "https://cdn.sofascore.app/api/v1/team/1449/image.png"
-},
-"teamB": {
-"name": "Djurgårdens",
-"icon": "https://cdn.sofascore.app/api/v1/team/1450/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams attack‑focused with multiple goals per game on average; recent meetings almost always exceed 1.5 goals."
-},
-{ "id": "kalmar‑halmstad",
-"teamA": {
-"name": "Kalmar",
-"icon": "https://cdn.sofascore.app/api/v1/team/1451/image.png"
-},
-"teamB": {
-"name": "Halmstad",
-"icon": "https://cdn.sofascore.app/api/v1/team/1452/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both sides score and concede regularly; odds and historical totals strongly support 1.5+ goals as a safe low‑risk line."
-},
-{ "id": "hacken‑malmo‑ff",
-"teamA": {
-"name": "Häcken",
-"icon": "https://cdn.sofascore.app/api/v1/team/1453/image.png"
-},
-"teamB": {
-"name": "Malmö FF",
-"icon": "https://cdn.sofascore.app/api/v1/team/1454/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
-"prediction": "BOTH TEAMS TO SCORE",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Both teams have strong attacking records and frequently score in these fixtures; BTTS line backed by high‑probability models and recent H2H."
-},
-{ "id": "hammarby‑if‑mjallby‑aif",
-"teamA": {
-"name": "Hammarby",
-"icon": "https://cdn.sofascore.app/api/v1/team/1455/image.png"
-},
-"teamB": {
-"name": "Mjällby",
-"icon": "https://cdn.sofascore.app/api/v1/team/1456/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams attack in bunches and concede at either end; cup‑style intensity further boosts likelihood of 2+ goals."
-},
-{ "id": "ligugano‑st‑gallen",
-"teamA": {
-"name": "Lugano",
-"icon": "https://cdn.sofascore.app/api/v1/team/1457/image.png"
-},
-"teamB": {
-"name": "St.Gallen",
-"icon": "https://cdn.sofascore.app/api/v1/team/1458/image.png"
-},
-"leagueName": "Swiss Super League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both sides score consistently; historical meeting totals and current odds show strong probability of 2+ goals."
-},
-  {
-"id": "sion‑thun",
-"teamA": {
-"name": "Sion",
-"icon": "https://cdn.sofascore.app/api/v1/team/1459/image.png"
-},
-"teamB": {
-"name": "Thun",
-"icon": "https://cdn.sofascore.app/api/v1/team/1460/image.png"
-},
-"leagueName": "Swiss Super League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-10",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Swiss league consistently high‑scoring; both teams involved in frequent 2+ goal games, with strong odds and models favouring at least 1.5 goals."
-},
-{
-"id": "young‑boys‑basel",
-"teamA": {
-"name": "Young Boys",
-"icon": "https://cdn.sofascore.app/api/v1/team/1461/image.png"
-},
-"teamB": {
-"name": "Basel",
-"icon": "https://cdn.sofascore.app/api/v1/team/1462/image.png"
-},
-"leagueName": "Swiss Super League",
-"prediction": "BOTH TEAMS TO SCORE",
-"date": "2026-05-10",
+"date": "2026-05-11",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Swiss Super League heavily skewed to BTTS; both teams attack strongly and have very high BTTS frequency, making this extremely safe within the league context."
-}
-]
+"reason": "Benfica strong home record with 15 wins in last 25 home games, Braga multiple key injuries including Sikou Niakaté and Florian Grillitsch."
+
+},
+{ "id": "napoli-bologna",
+"teamA": {
+"name": "Napoli",
+"icon": "https://cdn.sofascore.app/api/v1/team/2698/image.png"
+},
+"teamB": {
+"name": "Bologna",
+"icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Napoli unbeaten in last 5 matches with 3 wins 2 draws, dominant H2H record winning 20 of 36 vs Bologna."
+
+},
+{ "id": "rayo-vallecano-girona",
+"teamA": {
+"name": "Rayo Vallecano",
+"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
+},
+"teamB": {
+"name": "Girona",
+"icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png"
+},
+"leagueName": "Spanish La Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Rayo unbeaten in last 20 home matches with only 2 losses, superior home H2H vs Girona (7 wins in 14), Girona winless in last 7 away."
+
+},
+{ "id": "rio-ave-sporting-cp",
+"teamA": {
+"name": "Rio Ave",
+"icon": "https://cdn.sofascore.app/api/v1/team/3006/image.png"
+},
+"teamB": {
+"name": "Sporting CP",
+"icon": "https://cdn.sofascore.app/api/v1/team/3001/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Sporting CP games over 1.5 in last 3 and over 2.5 in last 2, unbeaten in last 5 away, Rio Ave recent unders but Sporting scoring trends strong."
+
+},
+{ "id": "santa-clara-nacional",
+"teamA": {
+"name": "Santa Clara",
+"icon": "https://cdn.sofascore.app/api/v1/team/3010/image.png"
+},
+"teamB": {
+"name": "Nacional",
+"icon": "https://cdn.sofascore.app/api/v1/team/3011/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "Medium",
+"safetyRating": 7,
+"reason": "Santa Clara won 7 of 14 H2H vs Nacional, good home form with 5 wins, Nacional poor away record."
+
+},
+{ "id": "tottenham-leeds",
+"teamA": {
+"name": "Tottenham Hotspur",
+"icon": "https://cdn.sofascore.app/api/v1/team/40/image.png"
+},
+"teamB": {
+"name": "Leeds United",
+"icon": "https://cdn.sofascore.app/api/v1/team/39/image.png"
+},
+"leagueName": "Premier League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "H2H total goals over 83.3%, Tottenham won 5 of last 6 H2H with high scoring."
+
+},
+{ "id": "vitória-guimarães-casa-pia",
+"teamA": {
+"name": "Vitória Guimarães",
+"icon": "https://cdn.sofascore.app/api/v1/team/3004/image.png"
+},
+"teamB": {
+"name": "Casa Pia",
+"icon": "https://cdn.sofascore.app/api/v1/team/11466/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-11",
+"confidence": "Medium",
+"safetyRating": 7,
+"reason": "Both teams scoring 1.4 goals per last 5 matches, H2H frequent draws with goals."
+
+},
+{ "id": "sirius-örgryte",
+"teamA": {
+"name": "Sirius",
+"icon": "https://cdn.sofascore.app/api/v1/team/19010/image.png"
+},
+"teamB": {
+"name": "Örgryte",
+"icon": "https://cdn.sofascore.app/api/v1/team/1910/image.png"
+},
+"leagueName": "Swedish Allsvenskan",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "Sirius top of table after win, won 3 of 6 H2H, strong recent form."
+
+},
+{ "id": "al-taawoun-al-ahli",
+"teamA": {
+"name": "Al Taawoun",
+"icon": "https://cdn.sofascore.app/api/v1/team/13312/image.png"
+},
+"teamB": {
+"name": "Al Ahli",
+"icon": "https://cdn.sofascore.app/api/v1/team/13310/image.png"
+},
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-11",
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "Al Ahli dominant H2H with 11 wins in 27, recent form 3 wins in 5 despite conceding."
+
+},
+{ "id": "neom-al-shabab",
+"teamA": {
+"name": "NEOM",
+"icon": "https://cdn.sofascore.app/api/v1/team/507154/image.png"
+},
+"teamB": {
+"name": "Al Shabab",
+"icon": "https://cdn.sofascore.app/api/v1/team/5902/image.png"
+},
+"leagueName": "Saudi Pro League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-11",
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "NEOM averaging 1.8 scored 1.6 conceded last 5, decent goal trends."
+
+} ]
