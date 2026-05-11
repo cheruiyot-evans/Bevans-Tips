@@ -1,70 +1,52 @@
 [
-  {
-    "id": "chelsea-women-man-city-women",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1429/image.png"
-    },
-    "teamB": {
-      "name": "Manchester City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1430/image.png"
-    },
-    "leagueName": "Women's FA Cup",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-10",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Both elite attacking sides with high goal expectation per game; matches consistently exceed 1.5 goals."
-  },
-  {
-    "id": "young-boys-basel",
-    "teamA": {
-      "name": "Young Boys",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1461/image.png"
-    },
-    "teamB": {
-      "name": "Basel",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1462/image.png"
-    },
-    "leagueName": "Swiss Super League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-10",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Both teams attack aggressively and maintain extremely high BTTS frequency in the Swiss league."
-  },
-  {
-    "id": "west-ham-arsenal",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1097/image.png"
-    },
-    "teamB": {
-      "name": "Arsenal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1098/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Strong attacking quality on both sides and consistent recent goal trends make 2+ goals highly probable."
-  },
-  {
-    "id": "hacken-malmo-ff",
-    "teamA": {
-      "name": "Häcken",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1453/image.png"
-    },
-    "teamB": {
-      "name": "Malmö FF",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1454/image.png"
-    },
-    "leagueName": "Swedish Allsvenskan",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams possess elite attacking records and recent meetings strongly support goals from both sides."
-  }
-]
+{ "id": "benfica-sporting-braga",
+"teamA": {
+"name": "Benfica",
+"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+},
+"teamB": {
+"name": "Sporting Braga",
+"icon": "https://cdn.sofascore.app/api/v1/team/3005/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Benfica strong home record with 15 wins in last 25 home games, Braga multiple key injuries including Sikou Niakaté and Florian Grillitsch."
+
+},
+{ "id": "napoli-bologna",
+"teamA": {
+"name": "Napoli",
+"icon": "https://cdn.sofascore.app/api/v1/team/2698/image.png"
+},
+"teamB": {
+"name": "Bologna",
+"icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Napoli unbeaten in last 5 matches with 3 wins 2 draws, dominant H2H record winning 20 of 36 vs Bologna."
+
+},
+{ "id": "rayo-vallecano-girona",
+"teamA": {
+"name": "Rayo Vallecano",
+"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
+},
+"teamB": {
+"name": "Girona",
+"icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png"
+},
+"leagueName": "Spanish La Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Rayo unbeaten in last 20 home matches with only 2 losses, superior home H2H vs Girona (7 wins in 14), Girona winless in last 7 away."
+
+} ]
