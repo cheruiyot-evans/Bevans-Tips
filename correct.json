@@ -1,138 +1,81 @@
 [
-  {
-    "id": "chelsea-women-man-city-women",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1429/image.png"
-    },
-    "teamB": {
-      "name": "Manchester City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1430/image.png"
-    },
-    "leagueName": "Women's FA Cup",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-10",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Both elite attacking sides with high goal expectation per game; matches consistently exceed 1.5 goals."
-  },
-  {
-    "id": "young-boys-basel",
-    "teamA": {
-      "name": "Young Boys",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1461/image.png"
-    },
-    "teamB": {
-      "name": "Basel",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1462/image.png"
-    },
-    "leagueName": "Swiss Super League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-10",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Both teams attack aggressively and maintain extremely high BTTS frequency in the Swiss league."
-  },
-  {
-    "id": "west-ham-arsenal",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1097/image.png"
-    },
-    "teamB": {
-      "name": "Arsenal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1098/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Strong attacking quality on both sides and consistent recent goal trends make 2+ goals highly probable."
-  },
-  {
-    "id": "hacken-malmo-ff",
-    "teamA": {
-      "name": "Häcken",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1453/image.png"
-    },
-    "teamB": {
-      "name": "Malmö FF",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1454/image.png"
-    },
-    "leagueName": "Swedish Allsvenskan",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams possess elite attacking records and recent meetings strongly support goals from both sides."
-  },
-  {
-    "id": "burnley-aston-villa",
-    "teamA": {
-      "name": "Burnley",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1091/image.png"
-    },
-    "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1092/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "DOUBLE CHANCE 2X",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Aston Villa are significantly stronger overall; Burnley remain competitive at home but unlikely to win outright."
-  },
-  {
-    "id": "nottingham-forest-newcastle",
-    "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1095/image.png"
-    },
-    "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1096/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "DOUBLE CHANCE 2X",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Newcastle have superior consistency, squad depth and attacking structure; Forest may compete but avoiding defeat favors Newcastle."
-  },
-  {
-    "id": "chesterfield-notts-county",
-    "teamA": {
-      "name": "Chesterfield",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1433/image.png"
-    },
-    "teamB": {
-      "name": "Notts County",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1434/image.png"
-    },
-    "leagueName": "League Two",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both sides regularly score and concede, with historical meetings strongly supporting at least two goals."
-  },
-  {
-    "id": "crystal-palace-everton",
-    "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1094/image.png"
-    },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1100/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-10",
-    "confidence": "High",
-    "safetyRating": 7,
-    "reason": "Both teams consistently create and concede chances, making 2+ goals statistically likely."
-  }
-]
+{ "id": "benfica-sporting-braga",
+"teamA": {
+"name": "Benfica",
+"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+},
+"teamB": {
+"name": "Sporting Braga",
+"icon": "https://cdn.sofascore.app/api/v1/team/3005/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Benfica strong home record with 15 wins in last 25 home games, Braga multiple key injuries."
+},
+{ "id": "napoli-bologna",
+"teamA": {
+"name": "Napoli",
+"icon": "https://cdn.sofascore.app/api/v1/team/2698/image.png"
+},
+"teamB": {
+"name": "Bologna",
+"icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Napoli unbeaten in last 5 matches with 3 wins 2 draws, dominant H2H record vs Bologna."
+},
+{ "id": "rayo-vallecano-girona",
+"teamA": {
+"name": "Rayo Vallecano",
+"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
+},
+"teamB": {
+"name": "Girona",
+"icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png"
+},
+"leagueName": "Spanish La Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Rayo unbeaten in last 20 home matches, superior home H2H vs Girona."
+},
+{ "id": "rio-ave-sporting-cp",
+"teamA": {
+"name": "Rio Ave",
+"icon": "https://cdn.sofascore.app/api/v1/team/3006/image.png"
+},
+"teamB": {
+"name": "Sporting CP",
+"icon": "https://cdn.sofascore.app/api/v1/team/3001/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-11",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Sporting CP games consistently over 1.5 goals, strong away scoring trends."
+},
+{ "id": "santa-clara-nacional",
+"teamA": {
+"name": "Santa Clara",
+"icon": "https://cdn.sofascore.app/api/v1/team/3010/image.png"
+},
+"teamB": {
+"name": "Nacional",
+"icon": "https://cdn.sofascore.app/api/v1/team/3011/image.png"
+},
+"leagueName": "Portuguese Primeira Liga",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-11",
+"confidence": "Medium",
+"safetyRating": 7,
+"reason": "Santa Clara dominant H2H record vs Nacional, solid home form."
+} ]
