@@ -1,81 +1,137 @@
 [
-{ "id": "benfica-sporting-braga",
+{ "id": "osasuna-atletico-madrid",
 "teamA": {
-"name": "Benfica",
-"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+"name": "Osasuna",
+"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
 },
 "teamB": {
-"name": "Sporting Braga",
-"icon": "https://cdn.sofascore.app/api/v1/team/3005/image.png"
+"name": "Atletico Madrid",
+"icon": "https://cdn.sofascore.app/api/v1/team/2834/image.png"
 },
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-11",
+"leagueName": "Spanish La Liga",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-12",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Benfica strong home record with 15 wins in last 25 home games, Braga multiple key injuries."
+"reason": "Atletico Madrid strong recent form with 3 wins in last 5, dominant H2H record vs Osasuna (18 wins to 3), superior squad despite some injuries."
+
 },
-{ "id": "napoli-bologna",
+{ "id": "mohun-bagan-inter-kashi",
 "teamA": {
-"name": "Napoli",
-"icon": "https://cdn.sofascore.app/api/v1/team/2698/image.png"
+"name": "Mohun Bagan",
+"icon": "https://cdn.sofascore.app/api/v1/team/98239/image.png"
 },
 "teamB": {
-"name": "Bologna",
-"icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
+"name": "Inter Kashi",
+"icon": "https://cdn.sofascore.app/api/v1/team/1044086/image.png"
 },
-"leagueName": "Italian Serie A",
+"leagueName": "Indian Super League",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-11",
+"date": "2026-05-12",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Mohun Bagan unbeaten at home (4 wins in 4), 2nd in league with +13 GD, Inter Kashi poor away form and -5 GD."
+
+},
+{ "id": "ts-galaxy-mamelodi-sundowns",
+"teamA": {
+"name": "TS Galaxy",
+"icon": "https://cdn.sofascore.app/api/v1/team/133370/image.png"
+},
+"teamB": {
+"name": "Mamelodi Sundowns",
+"icon": "https://cdn.sofascore.app/api/v1/team/50066/image.png"
+},
+"leagueName": "South Africa PSL",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-12",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Mamelodi Sundowns dominate H2H (8 wins in 13), recent 1-0 win, strong overall form against lower opposition."
+
+},
+{ "id": "epitsentr-polissya",
+"teamA": {
+"name": "Epitsentr",
+"icon": "https://cdn.sofascore.app/api/v1/team/82471/image.png"
+},
+"teamB": {
+"name": "Polissya",
+"icon": "https://cdn.sofascore.app/api/v1/team/108651/image.png"
+},
+"leagueName": "Ukraine Premier League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-12",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Napoli unbeaten in last 5 matches with 3 wins 2 draws, dominant H2H record vs Bologna."
+"reason": "Polissya strong attack (1.9 goals/game last 10), Epitsentr concedes 1+ regularly, avg total 2.4-3.1 goals."
+
 },
-{ "id": "rayo-vallecano-girona",
+{ "id": "real-betis-elche",
 "teamA": {
-"name": "Rayo Vallecano",
-"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
+"name": "Real Betis",
+"icon": "https://cdn.sofascore.app/api/v1/team/2828/image.png"
 },
 "teamB": {
-"name": "Girona",
-"icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png"
+"name": "Elche",
+"icon": "https://cdn.sofascore.app/api/v1/team/5302/image.png"
 },
 "leagueName": "Spanish La Liga",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-11",
+"date": "2026-05-12",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Rayo unbeaten in last 20 home matches, superior home H2H vs Girona."
+"reason": "Betis solid home form, won 7 of 16 H2H vs Elche, Elche inconsistent away despite recent wins."
+
 },
-{ "id": "rio-ave-sporting-cp",
+{ "id": "linfield-dungannon-swifts",
 "teamA": {
-"name": "Rio Ave",
-"icon": "https://cdn.sofascore.app/api/v1/team/3006/image.png"
+"name": "Linfield",
+"icon": "https://cdn.sofascore.app/api/v1/team/10213/image.png"
 },
 "teamB": {
-"name": "Sporting CP",
-"icon": "https://cdn.sofascore.app/api/v1/team/3001/image.png"
+"name": "Dungannon Swifts",
+"icon": "https://cdn.sofascore.app/api/v1/team/15065/image.png"
 },
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-11",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Sporting CP games consistently over 1.5 goals, strong away scoring trends."
-},
-{ "id": "santa-clara-nacional",
-"teamA": {
-"name": "Santa Clara",
-"icon": "https://cdn.sofascore.app/api/v1/team/3010/image.png"
-},
-"teamB": {
-"name": "Nacional",
-"icon": "https://cdn.sofascore.app/api/v1/team/3011/image.png"
-},
-"leagueName": "Portuguese Primeira Liga",
+"leagueName": "Irish Premiership",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-11",
-"confidence": "Medium",
-"safetyRating": 7,
-"reason": "Santa Clara dominant H2H record vs Nacional, solid home form."
+"date": "2026-05-12",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Linfield strong in playoffs, recent 3-1 comeback win vs Dungannon, superior league position."
+
+},
+{ "id": "southampton-middlesbrough",
+"teamA": {
+"name": "Southampton",
+"icon": "https://cdn.sofascore.app/api/v1/team/45/image.png"
+},
+"teamB": {
+"name": "Middlesbrough",
+"icon": "https://cdn.sofascore.app/api/v1/team/1670/image.png"
+},
+"leagueName": "Championship",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-12",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Agg 0-0 increases tension, balanced H2H (9-8 Southampton), playoff semis often high goals."
+
+},
+{ "id": "sparta-prague-viktoria-plzen",
+"teamA": {
+"name": "Sparta Prague",
+"icon": "https://cdn.sofascore.app/api/v1/team/104/image.png"
+},
+"teamB": {
+"name": "Viktoria Plzeň",
+"icon": "https://cdn.sofascore.app/api/v1/team/596/image.png"
+},
+"leagueName": "Czech First League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-12",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Championship round clash, both recent form high scoring (2.4 and 1.8 goals/game), competitive H2H."
+
 } ]
