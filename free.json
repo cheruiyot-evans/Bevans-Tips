@@ -1,52 +1,52 @@
 [
-{ "id": "benfica-sporting-braga",
+{ "id": "osasuna-atletico-madrid",
 "teamA": {
-"name": "Benfica",
-"icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+"name": "Osasuna",
+"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
 },
 "teamB": {
-"name": "Sporting Braga",
-"icon": "https://cdn.sofascore.app/api/v1/team/3005/image.png"
-},
-"leagueName": "Portuguese Primeira Liga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-11",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Benfica strong home record with 15 wins in last 25 home games, Braga multiple key injuries including Sikou Niakaté and Florian Grillitsch."
-
-},
-{ "id": "napoli-bologna",
-"teamA": {
-"name": "Napoli",
-"icon": "https://cdn.sofascore.app/api/v1/team/2698/image.png"
-},
-"teamB": {
-"name": "Bologna",
-"icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
-},
-"leagueName": "Italian Serie A",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-11",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Napoli unbeaten in last 5 matches with 3 wins 2 draws, dominant H2H record winning 20 of 36 vs Bologna."
-
-},
-{ "id": "rayo-vallecano-girona",
-"teamA": {
-"name": "Rayo Vallecano",
-"icon": "https://cdn.sofascore.app/api/v1/team/2826/image.png"
-},
-"teamB": {
-"name": "Girona",
-"icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png"
+"name": "Atletico Madrid",
+"icon": "https://cdn.sofascore.app/api/v1/team/2834/image.png"
 },
 "leagueName": "Spanish La Liga",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-12",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Atletico Madrid strong recent form with 3 wins in last 5, dominant H2H record vs Osasuna (18 wins to 3), superior squad despite some injuries."
+
+},
+{ "id": "mohun-bagan-inter-kashi",
+"teamA": {
+"name": "Mohun Bagan",
+"icon": "https://cdn.sofascore.app/api/v1/team/98239/image.png"
+},
+"teamB": {
+"name": "Inter Kashi",
+"icon": "https://cdn.sofascore.app/api/v1/team/1044086/image.png"
+},
+"leagueName": "Indian Super League",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-11",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Rayo unbeaten in last 20 home matches with only 2 losses, superior home H2H vs Girona (7 wins in 14), Girona winless in last 7 away."
+"date": "2026-05-12",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Mohun Bagan unbeaten at home (4 wins in 4), 2nd in league with +13 GD, Inter Kashi poor away form and -5 GD."
+
+},
+{ "id": "ts-galaxy-mamelodi-sundowns",
+"teamA": {
+"name": "TS Galaxy",
+"icon": "https://cdn.sofascore.app/api/v1/team/133370/image.png"
+},
+"teamB": {
+"name": "Mamelodi Sundowns",
+"icon": "https://cdn.sofascore.app/api/v1/team/50066/image.png"
+},
+"leagueName": "South Africa PSL",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-12",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Mamelodi Sundowns dominate H2H (8 wins in 13), recent 1-0 win, strong overall form against lower opposition."
 
 } ]
