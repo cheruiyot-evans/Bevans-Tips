@@ -9,11 +9,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/1645/image.png"
 },
 "leagueName": "French Ligue 1",
-"prediction": "2 or X",
+"prediction": "2",
 "date": "2026-05-14",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Monaco superior squad depth, xG dominance (1.8+ per game), and 8/10 H2H wins vs Strasbourg; draw possible if Monaco rotate."
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Monaco favored in predictions with strong H2H and squad depth, despite Strasbourg home form; Monaco's attack superior in xG trends."
+
 },
 { "id": "lyon-lens",
 "teamA": {
@@ -25,11 +26,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/1752/image.png"
 },
 "leagueName": "French Ligue 1",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Lyon strong home form (WWWWW last 5), +12 GD advantage; Lens solid but Lyon home unbeaten in 12."
+"confidence": "Medium",
+"safetyRating": 7,
+"reason": "Lyon home advantage with predicted 2-1 win, recent form improving; Lens competitive but Lyon's depth and motivation edge it."
+
 },
 { "id": "nantes-toulouse",
 "teamA": {
@@ -41,11 +43,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/1653/image.png"
 },
 "leagueName": "French Ligue 1",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Nantes 4 wins in last 5 home games, Toulouse winless in 6 away; H2H 3-1-1 Nantes favor."
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "Nantes home form solid vs Toulouse struggles away; H2H favors hosts, low-scoring trends but home win likely."
+
 },
 { "id": "borussia-mgladbach-hoffenheim",
 "teamA": {
@@ -57,11 +60,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/720/image.png"
 },
 "leagueName": "German Bundesliga",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Gladbach unbeaten home vs Hoffenheim (5W1D), 2.1 xG home average; Hoffenheim poor away (1W7L8D)."
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Gladbach favored at home with 2-1 prediction, dominant recent H2H (5/6 wins), strong home xG vs Hoffenheim away issues."
+
 },
 { "id": "heidenheim-mainz",
 "teamA": {
@@ -73,11 +77,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2400/image.png"
 },
 "leagueName": "German Bundesliga",
-"prediction": "1 or X",
+"prediction": "X",
 "date": "2026-05-14",
 "confidence": "Medium",
-"safetyRating": 7,
-"reason": "Heidenheim strong home survival fight, Mainz inconsistent travelers; 3/5 recent home games unbeaten."
+"safetyRating": 6,
+"reason": "Predicted 2-2 draw, both teams BTTS trends, high stakes with even form; draw probable in tight matchup."
+
 },
 { "id": "st-pauli-wolfsburg",
 "teamA": {
@@ -89,11 +94,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2404/image.png"
 },
 "leagueName": "German Bundesliga",
-"prediction": "2 or X",
+"prediction": "2",
 "date": "2026-05-14",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Wolfsburg quality gap over promoted St. Pauli, 7/10 H2H wins; St. Pauli adapting to Bundesliga level."
+"confidence": "Medium",
+"safetyRating": 6,
+"reason": "Wolfsburg higher quality and form edge over promoted St. Pauli, predicted 3-1; away win likely despite home crowd."
+
 },
 { "id": "freiburg-rb-leipzig",
 "teamA": {
@@ -105,11 +111,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2406/image.png"
 },
 "leagueName": "German Bundesliga",
-"prediction": "2 or X",
+"prediction": "2",
 "date": "2026-05-14",
 "confidence": "High",
-"safetyRating": 8,
-"reason": "Leipzig 10/17 H2H wins, 2.4 xG attack vs Freiburg 1.1; Champions League motivation."
+"safetyRating": 7,
+"reason": "Leipzig strong H2H (10/17 wins), high scoring form; Freiburg solid defense but Leipzig attack superior."
+
 },
 { "id": "union-berlin-augsburg",
 "teamA": {
@@ -121,11 +128,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2408/image.png"
 },
 "leagueName": "German Bundesliga",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
-"confidence": "High",
+"confidence": "Medium",
 "safetyRating": 7,
-"reason": "Union fortress mentality at home (DWDDW), Augsburg 0.8 goals/game away; defensive battle expected."
+"reason": "Union solid form vs Augsburg poor scoring, predicted 0-2 away but home advantage tips Union; tactical edge."
+
 },
 { "id": "sassuolo-lecce",
 "teamA": {
@@ -137,11 +145,12 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2714/image.png"
 },
 "leagueName": "Italian Serie A",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
 "confidence": "Medium",
 "safetyRating": 6,
-"reason": "Sassuolo Serie A survival push at home, Lecce poor travelers (1W2D6L); 60% H2H home wins."
+"reason": "Sassuolo home win predicted 1-0, 60% H2H wins vs Lecce; home form and motivation key."
+
 },
 { "id": "cagliari-torino-fc",
 "teamA": {
@@ -153,11 +162,11 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2716/image.png"
 },
 "leagueName": "Italian Serie A",
-"prediction": "1 or X",
+"prediction": "X",
 "date": "2026-05-14",
 "confidence": "Medium",
-"safetyRating": 6,
-"reason": "Cagliari home advantage vs Torino mid-table form; tight Serie A relegation six-pointer likely."
+"safetyRating": 5,
+"reason": "Balanced matchup, both mid-table, high draw probability in low-scoring Serie A trends."
 },
 { "id": "leeds-united-brighton",
 "teamA": {
@@ -169,11 +178,11 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/14341/image.png"
 },
 "leagueName": "English Championship",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Leeds automatic promotion form (8W1D1L home), Brighton playoff pressure; Elland Road fortress."
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Leeds strong home form in promotion push, superior squad depth vs Brighton away struggles."
 },
 { "id": "levante-mallorca",
 "teamA": {
@@ -185,11 +194,11 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
 },
 "leagueName": "Spanish La Liga 2",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
 "confidence": "Medium",
 "safetyRating": 6,
-"reason": "Levante playoff home momentum, Mallorca inconsistent away; tight Segunda promotion battle."
+"reason": "Levante home advantage in playoffs, better recent form and H2H."
 },
 { "id": "rayo-vallecano-villarreal",
 "teamA": {
@@ -201,11 +210,11 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2831/image.png"
 },
 "leagueName": "Spanish La Liga",
-"prediction": "2 or X",
+"prediction": "2",
 "date": "2026-05-14",
 "confidence": "Medium",
 "safetyRating": 7,
-"reason": "Villarreal Europa League quality and 1.9 xG attack vs Rayo defensive setup; draw risk high."
+"reason": "Villarreal higher quality and Europe motivation, better xG attack vs Rayo defense."
 },
 { "id": "oviedo-alaves",
 "teamA": {
@@ -217,11 +226,11 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2833/image.png"
 },
 "leagueName": "Spanish La Liga 2",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
 "confidence": "Medium",
 "safetyRating": 6,
-"reason": "Oviedo strong home record in promotion race, Alaves vulnerable away from La Liga."
+"reason": "Oviedo strong home record, Alaves poor away form in promotion battle."
 },
 { "id": "elche-getafe",
 "teamA": {
@@ -233,9 +242,9 @@
 "icon": "https://cdn.sofascore.app/api/v1/team/2824/image.png"
 },
 "leagueName": "Spanish La Liga 2",
-"prediction": "1 or X",
+"prediction": "1",
 "date": "2026-05-14",
 "confidence": "Medium",
 "safetyRating": 6,
-"reason": "Elche home strength in Segunda playoffs, Getafe inconsistent form; local derby intensity."
+"reason": "Elche home strength vs Getafe inconsistent, recent H2H favors hosts."
 } ]
