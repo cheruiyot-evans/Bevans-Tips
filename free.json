@@ -1,52 +1,35 @@
 [
-{ "id": "osasuna-atletico-madrid",
-"teamA": {
-"name": "Osasuna",
-"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
-},
-"teamB": {
-"name": "Atletico Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/2834/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-12",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Atletico Madrid strong recent form with 3 wins in last 5, dominant H2H record vs Osasuna (18 wins to 3), superior squad despite some injuries."
+{"id":"man-city-crystal-palace",
+"teamA":{"name":"Manchester City","icon":"https://cdn.sofascore.app/api/v1/team/2817/image.png"},
+"teamB":{"name":"Crystal Palace","icon":"https://cdn.sofascore.app/api/v1/team/485/image.png"},
+"leagueName":"Premier League",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"Man City strong home form and far superior season stats; Palace inconsistent away and H2H favors City, making Draw or Home the conservative outcome."
 
 },
-{ "id": "mohun-bagan-inter-kashi",
-"teamA": {
-"name": "Mohun Bagan",
-"icon": "https://cdn.sofascore.app/api/v1/team/98239/image.png"
-},
-"teamB": {
-"name": "Inter Kashi",
-"icon": "https://cdn.sofascore.app/api/v1/team/1044086/image.png"
-},
-"leagueName": "Indian Super League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-12",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Mohun Bagan unbeaten at home (4 wins in 4), 2nd in league with +13 GD, Inter Kashi poor away form and -5 GD."
+{"id":"psg-lens",
+"teamA":{"name":"Paris Saint-Germain","icon":"https://cdn.sofascore.app/api/v1/team/85/image.png"},
+"teamB":{"name":"Lens","icon":"https://cdn.sofascore.app/api/v1/team/1313/image.png"},
+"leagueName":"French Ligue 1",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"PSG in superior form and consistent defensively vs Lens; H2H and recent results show PSG more likely to avoid defeat — conservative double chance advised."
 
 },
-{ "id": "ts-galaxy-mamelodi-sundowns",
-"teamA": {
-"name": "TS Galaxy",
-"icon": "https://cdn.sofascore.app/api/v1/team/133370/image.png"
-},
-"teamB": {
-"name": "Mamelodi Sundowns",
-"icon": "https://cdn.sofascore.app/api/v1/team/50066/image.png"
-},
-"leagueName": "South Africa PSL",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-12",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Mamelodi Sundowns dominate H2H (8 wins in 13), recent 1-0 win, strong overall form against lower opposition."
+{"id":"shakhtar-obolon",
+"teamA":{"name":"Shakhtar Donetsk","icon":"https://cdn.sofascore.app/api/v1/team/307/image.png"},
+"teamB":{"name":"Obolon Kyiv","icon":"https://cdn.sofascore.app/api/v1/team/5540/image.png"},
+"leagueName":"Ukraine Premier League",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"Shakhtar unbeaten in recent H2H and Obolon lost multiple away matches; Shakhtar strong home form suggests low-risk Home/Draw outcome."
 
-} ]
+}
+]
