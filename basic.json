@@ -1,137 +1,179 @@
 [
-{ "id": "osasuna-atletico-madrid",
-"teamA": {
-"name": "Osasuna",
-"icon": "https://cdn.sofascore.app/api/v1/team/2825/image.png"
-},
-"teamB": {
-"name": "Atletico Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/2834/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-12",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Atletico Madrid strong recent form with 3 wins in last 5, dominant H2H record vs Osasuna (18 wins to 3), superior squad despite some injuries."
+{"id":"man-city-crystal-palace",
+"teamA":{"name":"Manchester City","icon":"https://cdn.sofascore.app/api/v1/team/2817/image.png"},
+"teamB":{"name":"Crystal Palace","icon":"https://cdn.sofascore.app/api/v1/team/485/image.png"},
+"leagueName":"Premier League",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"Man City strong home form and far superior season stats; Palace inconsistent away and H2H favors City, making Draw or Home the conservative outcome."
 
 },
-{ "id": "mohun-bagan-inter-kashi",
-"teamA": {
-"name": "Mohun Bagan",
-"icon": "https://cdn.sofascore.app/api/v1/team/98239/image.png"
-},
-"teamB": {
-"name": "Inter Kashi",
-"icon": "https://cdn.sofascore.app/api/v1/team/1044086/image.png"
-},
-"leagueName": "Indian Super League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-12",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Mohun Bagan unbeaten at home (4 wins in 4), 2nd in league with +13 GD, Inter Kashi poor away form and -5 GD."
+{"id":"arsenal-everton-women",
+"teamA":{"name":"Arsenal W","icon":"https://cdn.sofascore.app/api/v1/team/30635/image.png"},
+"teamB":{"name":"Everton W","icon":"https://cdn.sofascore.app/api/v1/team/30708/image.png"},
+"leagueName":"Women’s Super League",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Arsenal W dominant H2H (many wins vs Everton) and stronger squad fitness; Everton have limited WSL away wins, so Arsenal or Draw is low-risk."
 
 },
-{ "id": "ts-galaxy-mamelodi-sundowns",
-"teamA": {
-"name": "TS Galaxy",
-"icon": "https://cdn.sofascore.app/api/v1/team/133370/image.png"
-},
-"teamB": {
-"name": "Mamelodi Sundowns",
-"icon": "https://cdn.sofascore.app/api/v1/team/50066/image.png"
-},
-"leagueName": "South Africa PSL",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-12",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Mamelodi Sundowns dominate H2H (8 wins in 13), recent 1-0 win, strong overall form against lower opposition."
+{"id":"psg-lens",
+"teamA":{"name":"Paris Saint-Germain","icon":"https://cdn.sofascore.app/api/v1/team/85/image.png"},
+"teamB":{"name":"Lens","icon":"https://cdn.sofascore.app/api/v1/team/1313/image.png"},
+"leagueName":"French Ligue 1",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"PSG in superior form and consistent defensively vs Lens; H2H and recent results show PSG more likely to avoid defeat — conservative double chance advised."
 
 },
-{ "id": "epitsentr-polissya",
-"teamA": {
-"name": "Epitsentr",
-"icon": "https://cdn.sofascore.app/api/v1/team/82471/image.png"
-},
-"teamB": {
-"name": "Polissya",
-"icon": "https://cdn.sofascore.app/api/v1/team/108651/image.png"
-},
-"leagueName": "Ukraine Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-12",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Polissya strong attack (1.9 goals/game last 10), Epitsentr concedes 1+ regularly, avg total 2.4-3.1 goals."
+{"id":"shakhtar-obolon",
+"teamA":{"name":"Shakhtar Donetsk","icon":"https://cdn.sofascore.app/api/v1/team/307/image.png"},
+"teamB":{"name":"Obolon Kyiv","icon":"https://cdn.sofascore.app/api/v1/team/5540/image.png"},
+"leagueName":"Ukraine Premier League",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"Shakhtar unbeaten in recent H2H and Obolon lost multiple away matches; Shakhtar strong home form suggests low-risk Home/Draw outcome."
 
 },
-{ "id": "real-betis-elche",
-"teamA": {
-"name": "Real Betis",
-"icon": "https://cdn.sofascore.app/api/v1/team/2828/image.png"
-},
-"teamB": {
-"name": "Elche",
-"icon": "https://cdn.sofascore.app/api/v1/team/5302/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-12",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Betis solid home form, won 7 of 16 H2H vs Elche, Elche inconsistent away despite recent wins."
+{"id":"dynamo-kolos",
+"teamA":{"name":"Dynamo Kyiv","icon":"https://cdn.sofascore.app/api/v1/team/554/image.png"},
+"teamB":{"name":"Kolos Kovalivka","icon":"https://cdn.sofascore.app/api/v1/team/5566/image.png"},
+"leagueName":"Ukraine Premier League",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"Dynamo strong overall season form and dominant H2H vs Kolos; conservative double chance (Home or Draw) fits their defensive solidity and Kolos inconsistent away record."
 
 },
-{ "id": "linfield-dungannon-swifts",
-"teamA": {
-"name": "Linfield",
-"icon": "https://cdn.sofascore.app/api/v1/team/10213/image.png"
-},
-"teamB": {
-"name": "Dungannon Swifts",
-"icon": "https://cdn.sofascore.app/api/v1/team/15065/image.png"
-},
-"leagueName": "Irish Premiership",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-12",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Linfield strong in playoffs, recent 3-1 comeback win vs Dungannon, superior league position."
+{"id":"lnz-skpoltava",
+"teamA":{"name":"LNZ Cherkasy","icon":"https://cdn.sofascore.app/api/v1/team/14299/image.png"},
+"teamB":{"name":"SK Poltava","icon":"https://cdn.sofascore.app/api/v1/team/22611/image.png"},
+"leagueName":"Ukraine Premier League",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"LNZ have superior home H2H and probability models favour a home win (low concession rate); pick Home or Draw conservatively given SK Poltava recent heavy loss to Shakhtar."
 
 },
-{ "id": "southampton-middlesbrough",
-"teamA": {
-"name": "Southampton",
-"icon": "https://cdn.sofascore.app/api/v1/team/45/image.png"
+{"id":"almerecity-willemII",
+"teamA":{"name":"Almere City","icon":"https://cdn.sofascore.app/api/v1/team/26046/image.png"},
+"teamB":{"name":"Willem II","icon":"https://cdn.sofascore.app/api/v1/team/642/image.png"},
+"leagueName":"Dutch Play-offs",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Almere City strong at home in play-offs and Willem II inconsistent away; conservative Double Chance to reduce risk given knockout context.[web: (no direct source)][web: (no direct source)]"
 },
-"teamB": {
-"name": "Middlesbrough",
-"icon": "https://cdn.sofascore.app/api/v1/team/1670/image.png"
-},
-"leagueName": "Championship",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-12",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Agg 0-0 increases tension, balanced H2H (9-8 Southampton), playoff semis often high goals."
+{"id":"bres-strasbourg",
+"teamA":{"name":"Brest","icon":"https://cdn.sofascore.app/api/v1/team/1012/image.png"},
+"teamB":{"name":"Strasbourg","icon":"https://cdn.sofascore.app/api/v1/team/1273/image.png"},
+"leagueName":"French Ligue 1",
+"prediction":"UNDER 1.5 GOALS",
+"date":"2026-05-13",
+"confidence":"75%+",
+"safetyRating":8,
+"reason":"Both clubs showing low recent scoring and tighter defensive setups late season; low-scoring match likely so Under 1.5 is conservative."
 
 },
-{ "id": "sparta-prague-viktoria-plzen",
-"teamA": {
-"name": "Sparta Prague",
-"icon": "https://cdn.sofascore.app/api/v1/team/104/image.png"
+{"id":"villarreal-sevilla",
+"teamA":{"name":"Villarreal","icon":"https://cdn.sofascore.app/api/v1/team/132/image.png"},
+"teamB":{"name":"Sevilla","icon":"https://cdn.sofascore.app/api/v1/team/81/image.png"},
+"leagueName":"La Liga",
+"prediction":"DOUBLE CHANCE X2",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Sevilla stronger on form and less likely to lose away against Villarreal; pick Away or Draw to reduce risk given similar competitiveness.[web: (no direct source)]"
 },
-"teamB": {
-"name": "Viktoria Plzeň",
-"icon": "https://cdn.sofascore.app/api/v1/team/596/image.png"
+{"id":"barca-alaves",
+"teamA":{"name":"Alavés","icon":"https://cdn.sofascore.app/api/v1/team/179/image.png"},
+"teamB":{"name":"Barcelona","icon":"https://cdn.sofascore.app/api/v1/team/76/image.png"},
+"leagueName":"La Liga",
+"prediction":"DOUBLE CHANCE 2X",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"Barcelona dominant away and Alavés struggling at home; conservative Away or Draw protects versus rotation risk and late-season variance.[web: (no direct source)]"
 },
-"leagueName": "Czech First League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-12",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Championship round clash, both recent form high scoring (2.4 and 1.8 goals/game), competitive H2H."
-
-} ]
+{"id":"getafe-mallorca",
+"teamA":{"name":"Getafe","icon":"https://cdn.sofascore.app/api/v1/team/338/image.png"},
+"teamB":{"name":"Mallorca","icon":"https://cdn.sofascore.app/api/v1/team/339/image.png"},
+"leagueName":"La Liga",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Getafe's home defensive record stronger than Mallorca's away scoring; conservative Home or Draw advised.[web: (no direct source)]"
+},
+{"id":"espa-athletic",
+"teamA":{"name":"Espanyol","icon":"https://cdn.sofascore.app/api/v1/team/159/image.png"},
+"teamB":{"name":"Athletic Club","icon":"https://cdn.sofascore.app/api/v1/team/77/image.png"},
+"leagueName":"La Liga",
+"prediction":"DOUBLE CHANCE X2",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Athletic typically solid away and Espanyol inconsistent at home; pick Away or Draw for lower variance result.[web: (no direct source)]"
+},
+{"id":"lazio-inter-coppa",
+"teamA":{"name":"Lazio","icon":"https://cdn.sofascore.app/api/v1/team/74/image.png"},
+"teamB":{"name":"Inter Milan","icon":"https://cdn.sofascore.app/api/v1/team/85/image.png"},
+"leagueName":"Coppa Italia Final",
+"prediction":"DRAW NO BET 2",
+"date":"2026-05-13",
+"confidence":"75%+",
+"safetyRating":8,
+"reason":"Inter slight favorite with squad depth; DNB on Away reduces risk in a final where Lazio may be motivated and cup games can be tight.[web: (no direct source)]"
+},
+{"id":"hearts-falkirk",
+"teamA":{"name":"Hearts","icon":"https://cdn.sofascore.app/api/v1/team/111/image.png"},
+"teamB":{"name":"Falkirk","icon":"https://cdn.sofascore.app/api/v1/team/226/image.png"},
+"leagueName":"Scottish Premiership",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Hearts stronger in top-six home matches and Falkirk inconsistent away; conservative Home or Draw advised to limit risk.[web: (no direct source)]"
+},
+{"id":"rangers-hibernian",
+"teamA":{"name":"Rangers","icon":"https://cdn.sofascore.app/api/v1/team/1116/image.png"},
+"teamB":{"name":"Hibernian","icon":"https://cdn.sofascore.app/api/v1/team/2142/image.png"},
+"leagueName":"Scottish Premiership",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Rangers strong home record in top-six fixtures and Hibernian variable form; pick Home or Draw for safety.[web: (no direct source)]"
+},
+{"id":"motherwell-celtic",
+"teamA":{"name":"Motherwell","icon":"https://cdn.sofascore.app/api/v1/team/190/image.png"},
+"teamB":{"name":"Celtic","icon":"https://cdn.sofascore.app/api/v1/team/67/image.png"},
+"leagueName":"Scottish Premiership",
+"prediction":"DOUBLE CHANCE X2",
+"date":"2026-05-13",
+"confidence":"Very High",
+"safetyRating":9,
+"reason":"Celtic superior form and likely to avoid defeat away; conservative Away or Draw reduces upset risk despite Cup/rotation concerns.[web: (no direct source)]"
+},
+{"id":"rakw-jagiellonia",
+"teamA":{"name":"Raków Częstochowa","icon":"https://cdn.sofascore.app/api/v1/team/2556/image.png"},
+"teamB":{"name":"Jagiellonia Białystok","icon":"https://cdn.sofascore.app/api/v1/team/2567/image.png"},
+"leagueName":"Polish Ekstraklasa",
+"prediction":"DOUBLE CHANCE 1X",
+"date":"2026-05-13",
+"confidence":"High",
+"safetyRating":8,
+"reason":"Raków solid home form and Jagiellonia inconsistent away; Home or Draw is conservative given Raków's defensive consistency.[web: (no direct source)]"
+}
+]
