@@ -1,53 +1,53 @@
 [
   {
-    "id": "real-madrid-real-oviedo",
+    "id": "shanghai-port-zhejiang",
     "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2829/image.png"
+      "name": "Shanghai Port",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6491/image.png"
     },
     "teamB": {
-      "name": "Real Oviedo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2830/image.png"
+      "name": "Zhejiang",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6508/image.png"
     },
-    "leagueName": "Spanish La Liga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-14",
+    "leagueName": "Chinese Super League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-15",
     "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Real Madrid dominate at home with superior squad depth, strong recent form, and major quality gap versus Oviedo."
+    "safetyRating": 9.4,
+    "reason": "Shanghai Port consistently score multiple goals at home while Zhejiang games regularly produce high-scoring outcomes."
   },
   {
-    "id": "al-qadsiah-al-hazem",
+    "id": "beijing-guoan-qingdao-hainiu",
     "teamA": {
-      "name": "Al Qadsiah",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34315/image.png"
+      "name": "Beijing Guoan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6498/image.png"
     },
     "teamB": {
-      "name": "Al Hazem",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34281/image.png"
+      "name": "Qingdao Hainiu",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6512/image.png"
     },
-    "leagueName": "Saudi Pro League",
+    "leagueName": "Chinese Super League",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Al Qadsiah have stronger home consistency and better defensive stability, while Al Hazem struggle badly away from home."
+    "safetyRating": 9.3,
+    "reason": "Beijing Guoan strong at home and Qingdao Hainiu struggle defensively away from home."
   },
   {
-    "id": "al-fateh-al-najma",
+    "id": "mohammedan-mumbai-city",
     "teamA": {
-      "name": "Al Fateh",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34268/image.png"
+      "name": "Mohammedan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/43379/image.png"
     },
     "teamB": {
-      "name": "Al Najma",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34330/image.png"
+      "name": "Mumbai City",
+      "icon": "https://cdn.sofascore.app/api/v1/team/33797/image.png"
     },
-    "leagueName": "Saudi Pro League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-14",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Al Najma’s poor win ratio and weak away performances make Al Fateh unlikely to lose at home."
+    "leagueName": "Indian Super League",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-15",
+    "confidence": "Very High",
+    "safetyRating": 9.2,
+    "reason": "Mumbai City possess superior squad depth and stronger recent form against weaker opposition."
   }
 ]
