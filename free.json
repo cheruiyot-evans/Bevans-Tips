@@ -1,70 +1,53 @@
 [
   {
-    "id": "bayern-munich-koln",
+    "id": "inter-milan-hellas-verona",
     "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2672/image.png"
+      "name": "Inter Milan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2697/image.png"
     },
     "teamB": {
-      "name": "Köln",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2675/image.png"
+      "name": "Hellas Verona",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2765/image.png"
     },
-    "leagueName": "German Bundesliga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-16",
-    "confidence": "Very High",
-    "safetyRating": 9.8,
-    "reason": "Bayern home matches consistently produce goals and Köln struggle defensively away from home."
-  },
-  {
-    "id": "bayer-leverkusen-hamburger",
-    "teamA": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2681/image.png"
-    },
-    "teamB": {
-      "name": "Hamburger SV",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2698/image.png"
-    },
-    "leagueName": "German Bundesliga",
+    "leagueName": "Italian Serie A",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "confidence": "Very High",
     "safetyRating": 9.6,
-    "reason": "Leverkusen dominant at home with superior squad depth and strong recent form."
+    "reason": "Inter are dominant at San Siro with superior squad depth, elite defensive form and strong H2H record against Verona."
   },
   {
-    "id": "celtic-hearts",
+    "id": "psg-paris-fc",
     "teamA": {
-      "name": "Celtic",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2471/image.png"
+      "name": "Paris FC",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3041/image.png"
     },
     "teamB": {
-      "name": "Hearts",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2476/image.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1644/image.png"
     },
-    "leagueName": "Scottish Premiership",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-16",
+    "leagueName": "French Ligue 1",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-17",
     "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Celtic rarely lose at home and consistently dominate Hearts in recent meetings."
+    "safetyRating": 9.6,
+    "reason": "PSG possess overwhelming attacking quality and rarely lose against lower-table domestic opposition."
   },
   {
-    "id": "porto-santa-clara",
+    "id": "barcelona-real-betis",
     "teamA": {
-      "name": "Porto",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3002/image.png"
+      "name": "Barcelona",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2817/image.png"
     },
     "teamB": {
-      "name": "Santa Clara",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3081/image.png"
+      "name": "Real Betis",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2816/image.png"
     },
-    "leagueName": "Portuguese Primeira Liga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-16",
+    "leagueName": "Spanish La Liga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-17",
     "confidence": "Very High",
-    "safetyRating": 9.4,
-    "reason": "Porto strong at Dragão with excellent defensive record and superior attacking quality."
+    "safetyRating": 9.7,
+    "reason": "Barcelona home fixtures consistently produce goals while Betis play open attacking football with frequent high-scoring games."
   }
 ]
