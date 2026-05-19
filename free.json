@@ -1,36 +1,33 @@
 [
-  {
-    "id": "arsenal-burnley",
-    "teamA": {
-      "name": "Arsenal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
-    },
-    "teamB": {
-      "name": "Burnley",
-      "icon": "https://cdn.sofascore.app/api/v1/team/6/image.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-18",
-    "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Arsenal dominate at home, possess superior squad depth, stronger recent form, and Burnley struggle badly away against top-six opposition."
-  },
-  {
-    "id": "kudrivka-lnz-cherkasy",
-    "teamA": {
-      "name": "Kudrivka",
-      "icon": "https://cdn.sofascore.app/api/v1/team/316055/image.png"
-    },
-    "teamB": {
-      "name": "LNZ Cherkasy",
-      "icon": "https://cdn.sofascore.app/api/v1/team/284427/image.png"
-    },
-    "leagueName": "Ukraine Premier League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-18",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "LNZ Cherkasy have the stronger league form, better defensive structure, and Kudrivka continue to struggle against organized sides."
-  }
-]
+{ "id": "bournemouth-mancity-premier",
+"teamA": {
+"name": "AFC Bournemouth",
+"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
+},
+"teamB": {
+"name": "Manchester City",
+"icon": "https://cdn.sofascore.app/api/v1/team/65/image.png"
+},
+"leagueName": "Premier League",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-19",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Manchester City are the clear stronger side and the safest angle is away/draw, which protects against a rare slip while keeping exposure to City’s superiority."
+},
+{ "id": "northeast-mohammedan-isl",
+"teamA": {
+"name": "NorthEast United",
+"icon": "https://cdn.sofascore.app/api/v1/team/4721/image.png"
+},
+"teamB": {
+"name": "Mohammedan",
+"icon": "https://cdn.sofascore.app/api/v1/team/5723/image.png"
+},
+"leagueName": "Indian Super League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-19",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "NorthEast United offer the cleaner low-risk home side selection, with the conservative home/draw cover fitting a safety-first approach."
+} ]
