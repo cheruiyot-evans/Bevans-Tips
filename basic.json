@@ -1,116 +1,161 @@
 [
-{ "id": "beijing-guoan-qingdao-westcoast",
+{ "id": "al-khaleej-al-ahli",
 "teamA": {
-"name": "Beijing Guoan",
-"icon": "https://cdn.sofascore.app/api/v1/team/1227/image.png"
+"name": "Al Khaleej",
+"icon": "https://cdn.sofascore.app/api/v1/team/6460/image.png"
 },
 "teamB": {
-"name": "Qingdao West Coast",
-"icon": "https://cdn.sofascore.app/api/v1/team/3456/image.png"
-},
-"leagueName": "Chinese Super League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-19",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Beijing Guoan have strong recent form and significantly better H2H record (no losses in last 6 vs Qingdao) while Qingdao struggle to beat them and show many draws, making Double Chance Home/Draw the conservative option."
-},
-{ "id": "chengdu-rongcheng-shanghai-port",
-"teamA": {
-"name": "Chengdu Rongcheng",
-"icon": "https://cdn.sofascore.app/api/v1/team/3516/image.png"
-},
-"teamB": {
-"name": "Shanghai Port",
-"icon": "https://cdn.sofascore.app/api/v1/team/3522/image.png"
-},
-"leagueName": "Chinese Super League",
-"prediction": "UNDER 1.5 GOALS",
-"date": "2026-05-19",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Recent H2H and form show low consistent scoring at home for Chengdu and Shanghai Port's recent matches feature defensive setups; trend and past meetings support a conservative under 1.5 selection."
-},
-{ "id": "northeast-mohammedan-isl",
-"teamA": {
-"name": "NorthEast United",
-"icon": "https://cdn.sofascore.app/api/v1/team/4721/image.png"
-},
-"teamB": {
-"name": "Mohammedan",
-"icon": "https://cdn.sofascore.app/api/v1/team/5723/image.png"
-},
-"leagueName": "Indian Super League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-19",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "NorthEast United dominate H2H with no defeats in recent encounters and better home form; Double Chance Home/Draw minimizes risk given Mohammedan's inconsistent away form."
-},
-{ "id": "genk-antwerp-belgian",
-"teamA": {
-"name": "Genk",
-"icon": "https://cdn.sofascore.app/api/v1/team/156/image.png"
-},
-"teamB": {
-"name": "Antwerp",
-"icon": "https://cdn.sofascore.app/api/v1/team/202/image.png"
-},
-"leagueName": "Belgian First Division A",
-"prediction": "DRAW NO BET 1",
-"date": "2026-05-19",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Genk strong home form in the play-off phase and lineup/injury news favour them; Draw No Bet protects stake while still backing home momentum."
-},
-{ "id": "bournemouth-mancity-premier",
-"teamA": {
-"name": "AFC Bournemouth",
-"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
-},
-"teamB": {
-"name": "Manchester City",
+"name": "Al Ahli",
 "icon": "https://cdn.sofascore.app/api/v1/team/65/image.png"
 },
-"leagueName": "Premier League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-19",
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Man City overwhelmingly dominant in H2H (22 wins of 25) and strong form away; Double Chance Away/Draw secures a very low-risk backing of City while covering shock results."
+"reason": "Al Ahli have superior form and goal record against Al Khaleej and conceded heavily in recent Khaleej matches, making an Al Ahli win or draw the conservative choice."
 },
-{ "id": "chelsea-tottenham-premier",
+{ "id": "al-najma-al-shabab",
 "teamA": {
-"name": "Chelsea",
-"icon": "https://cdn.sofascore.app/api/v1/team/64/image.png"
+"name": "Al Najma",
+"icon": "https://cdn.sofascore.app/api/v1/team/7978/image.png"
 },
 "teamB": {
-"name": "Tottenham Hotspur",
-"icon": "https://cdn.sofascore.app/api/v1/team/73/image.png"
+"name": "Al Shabab",
+"icon": "https://cdn.sofascore.app/api/v1/team/67/image.png"
 },
-"leagueName": "Premier League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-19",
-"confidence": "75%+",
-"safetyRating": 7,
-"reason": "Despite derby volatility, Chelsea have home motivation and Tottenham have injury/suspension concerns; Double Chance Home/Draw is the conservative pick given rotation risk."
-},
-{ "id": "fluminense-bolivar-libertadores",
-"teamA": {
-"name": "Fluminense",
-"icon": "https://cdn.sofascore.app/api/v1/team/139/image.png"
-},
-"teamB": {
-"name": "Bolívar",
-"icon": "https://cdn.sofascore.app/api/v1/team/8892/image.png"
-},
-"leagueName": "CONMEBOL Libertadores",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-19",
+"leagueName": "Saudi Pro League",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Fluminense strong at home in Libertadores group stage and Bolívar struggle away in past fixtures; Double Chance Home/Draw reduces risk against away upset."
-
-}
-
-]
+"reason": "Al Najma sit near bottom with a heavy loss record while Al Shabab are significantly stronger; 2X (Away or Draw) minimizes risk vs an inconsistent lower-table side."
+},
+{ "id": "torreense-casa-pia",
+"teamA": {
+"name": "Torreense",
+"icon": "https://cdn.sofascore.app/api/v1/team/12345/image.png"
+},
+"teamB": {
+"name": "Casa Pia",
+"icon": "https://cdn.sofascore.app/api/v1/team/54321/image.png"
+},
+"leagueName": "Portuguese Play-offs",
+"prediction": "UNDER 1.5 GOALS",
+"date": "2026-05-20",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Torreense show a strong defensive run at home and Casa Pia's away scoring is limited; historical H2H and recent trends point to a low-scoring match."
+},
+{ "id": "gais-hammarby",
+"teamA": {
+"name": "GAIS",
+"icon": "https://cdn.sofascore.app/api/v1/team/9876/image.png"
+},
+"teamB": {
+"name": "Hammarby",
+"icon": "https://cdn.sofascore.app/api/v1/team/88/image.png"
+},
+"leagueName": "Swedish Allsvenskan",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Hammarby have stronger away form and GAIS show defensive vulnerabilities; 2X (Away or Draw) is conservative while avoiding risky scorelines."
+},
+{ "id": "freiburg-aston-villa",
+"teamA": {
+"name": "Freiburg",
+"icon": "https://cdn.sofascore.app/api/v1/team/120/image.png"
+},
+"teamB": {
+"name": "Aston Villa",
+"icon": "https://cdn.sofascore.app/api/v1/team/598/image.png"
+},
+"leagueName": "UEFA Europa League Final",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
+"confidence": "75%+",
+"safetyRating": 7,
+"reason": "Finals carry rotation and variance; conservative 2X (Aston Villa or Draw) recommended given Villa's superior squad depth while avoiding home-win risk."
+},
+{ "id": "liaoning-qingdao",
+"teamA": {
+"name": "Liaoning Tieren",
+"icon": "https://cdn.sofascore.app/api/v1/team/11111/image.png"
+},
+"teamB": {
+"name": "Qingdao Hainiu",
+"icon": "https://cdn.sofascore.app/api/v1/team/22222/image.png"
+},
+"leagueName": "Chinese Super League",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Qingdao have more consistent results and scoring form than newly promoted/struggling Liaoning; 2X reduces upset risk."
+},
+{ "id": "shanghai-wuhan",
+"teamA": {
+"name": "Shanghai Shenhua",
+"icon": "https://cdn.sofascore.app/api/v1/team/33333/image.png"
+},
+"teamB": {
+"name": "Wuhan Three Towns",
+"icon": "https://cdn.sofascore.app/api/v1/team/44444/image.png"
+},
+"leagueName": "Chinese Super League",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Wuhan's squad depth and away consistency make 2X (Away or Draw) a low-risk option versus rotation-prone Shenhua."
+},
+{ "id": "zhejiang-shandong",
+"teamA": {
+"name": "Zhejiang",
+"icon": "https://cdn.sofascore.app/api/v1/team/55555/image.png"
+},
+"teamB": {
+"name": "Shandong Taishan",
+"icon": "https://cdn.sofascore.app/api/v1/team/66666/image.png"
+},
+"leagueName": "Chinese Super League",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Shandong are one of the stronger sides with reliable away results; selecting 2X minimizes risk against a mid-table Zhejiang."
+},
+{ "id": "start-bodo-glimt",
+"teamA": {
+"name": "Start",
+"icon": "https://cdn.sofascore.app/api/v1/team/77777/image.png"
+},
+"teamB": {
+"name": "Bodø / Glimt",
+"icon": "https://cdn.sofascore.app/api/v1/team/121/image.png"
+},
+"leagueName": "Norwegian Eliteserien",
+"prediction": "DOUBLE CHANCE 2X",
+"date": "2026-05-20",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Bodø/Glimt consistently perform strongly away; 2X is conservative insurance against their attacking variance."
+},
+{ "id": "ilves-inter-turku",
+"teamA": {
+"name": "Ilves",
+"icon": "https://cdn.sofascore.app/api/v1/team/88888/image.png"
+},
+"teamB": {
+"name": "Inter Turku",
+"icon": "https://cdn.sofascore.app/api/v1/team/99999/image.png"
+},
+"leagueName": "Finnish Veikkausliiga",
+"prediction": "UNDER 1.5 GOALS",
+"date": "2026-05-20",
+"confidence": "75%+",
+"safetyRating": 7,
+"reason": "Both teams show conservative scoring trends recently with several low-scoring fixtures; under 1.5 is the lowest-risk market here."
+} ]
