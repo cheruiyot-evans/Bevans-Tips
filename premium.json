@@ -1,237 +1,137 @@
 [
-{ "id": "shakhtar-donetsk-kolos-kovalivka",
+{ "id": "redstar-ofk-beograd",
 "teamA": {
-"name": "Shakhtar Donetsk",
-"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
+"name": "Red Star Belgrade",
+"icon": "https://cdn.sofascore.app/api/v1/team/261/image.png"
 },
 "teamB": {
-"name": "Kolos Kovalivka",
-"icon": "https://cdn.sofascore.app/api/v1/team/3570/image.png"
+"name": "OFK Beograd",
+"icon": "https://cdn.sofascore.app/api/v1/team/2001/image.png"
 },
-"leagueName": "Ukraine Premier League",
+"leagueName": "Serbian Super Liga",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-21",
+"date": "2026-05-22",
 "confidence": "Very High",
-"safetyRating": 10,
-"reason": "Shakhtar are strong home leaders and are heavily favored, with minimal-risk markets priced very low for the hosts. The matchup profile points to a controlled home result rather than a high-variance game."
+"safetyRating": 9,
+"reason": "Red Star are dominant at home with a strong season record and heavy H2H advantage over OFK, who have struggled away; trend and standings strongly favour Red Star."
 
 },
-{ "id": "al-nassr-damac",
+{ "id": "cukaricki-zeleznicar",
 "teamA": {
-"name": "Al Nassr",
-"icon": "https://cdn.sofascore.app/api/v1/team/3060/image.png"
+"name": "Čukarički",
+"icon": "https://cdn.sofascore.app/api/v1/team/172/image.png"
 },
 "teamB": {
-"name": "Damac",
-"icon": "https://cdn.sofascore.app/api/v1/team/24619/image.png"
+"name": "Železničar Pančevo",
+"icon": "https://cdn.sofascore.app/api/v1/team/3201/image.png"
 },
-"leagueName": "Saudi Pro League",
+"leagueName": "Serbian Super Liga",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-21",
+"date": "2026-05-22",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Čukarički have superior home form and positive H2H versus Železničar, while Železničar show more variability away; conservative 1X reduces risk."
+
+},
+{ "id": "djurgarden-brommapojkarna",
+"teamA": {
+"name": "Djurgården",
+"icon": "https://cdn.sofascore.app/api/v1/team/104/image.png"
+},
+"teamB": {
+"name": "Brommapojkarna",
+"icon": "https://cdn.sofascore.app/api/v1/team/1062/image.png"
+},
+"leagueName": "Swedish Allsvenskan",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-22",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Djurgården have consistent home H2H wins and superior league form; Brommapojkarna concede more and are inconsistent away, so 1X is lowest-risk."
+
+},
+{ "id": "drogheda-dundalk",
+"teamA": {
+"name": "Drogheda United",
+"icon": "https://cdn.sofascore.app/api/v1/team/3467/image.png"
+},
+"teamB": {
+"name": "Dundalk",
+"icon": "https://cdn.sofascore.app/api/v1/team/339/image.png"
+},
+"leagueName": "Irish Premier Division",
+"prediction": "UNDER 1.5 GOALS",
+"date": "2026-05-22",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both teams show low-scoring away/home recent runs and defensive, cautious patterns in recent meetings — conservative under 1.5 is lowest variance for this fixture."
+
+},
+{ "id": "shelbourne-waterford",
+"teamA": {
+"name": "Shelbourne",
+"icon": "https://cdn.sofascore.app/api/v1/team/3475/image.png"
+},
+"teamB": {
+"name": "Waterford",
+"icon": "https://cdn.sofascore.app/api/v1/team/3477/image.png"
+},
+"leagueName": "Irish Premier Division",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-22",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Shelbourne at home show more stability and Waterford have inconsistent away form; 1X minimises upset risk while reflecting form gap."
+
+},
+{ "id": "shamrock-sligo",
+"teamA": {
+"name": "Shamrock Rovers",
+"icon": "https://cdn.sofascore.app/api/v1/team/3482/image.png"
+},
+"teamB": {
+"name": "Sligo Rovers",
+"icon": "https://cdn.sofascore.app/api/v1/team/3490/image.png"
+},
+"leagueName": "Irish Premier Division",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-22",
 "confidence": "Very High",
-"safetyRating": 10,
-"reason": "Al Nassr are in the title race and come in with strong motivation at home, while Damac are closer to the relegation battle. Recent preview form also frames this as a clear home-favorite spot."
-
-},
-{ "id": "al-fayha-al-hilal",
-"teamA": {
-"name": "Al Fayha",
-"icon": "https://cdn.sofascore.app/api/v1/team/3048/image.png"
-},
-"teamB": {
-"name": "Al Hilal",
-"icon": "https://cdn.sofascore.app/api/v1/team/3004/image.png"
-},
-"leagueName": "Saudi Pro League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-21",
-"confidence": "Very High",
-"safetyRating": 10,
-"reason": "Al Hilal have dominated this fixture historically, and Al Fayha have struggled badly against them. The safest angle is the away side avoiding defeat rather than forcing an outright win."
-
-},
-{ "id": "shakhtar-donetsk-kolos-kovalivka-2",
-"teamA": {
-"name": "Shakhtar Donetsk",
-"icon": "https://cdn.sofascore.app/api/v1/team/2699/image.png"
-},
-"teamB": {
-"name": "Kolos Kovalivka",
-"icon": "https://cdn.sofascore.app/api/v1/team/3570/image.png"
-},
-"leagueName": "Ukraine Premier League",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-21",
-"confidence": "High",
 "safetyRating": 9,
-"reason": "Shakhtar’s superior attacking level gives this a strong floor for at least two goals, even if the match remains controlled. The market preview also treats Shakhtar as overwhelming favorites."
+"reason": "Shamrock Rovers have strong home unbeaten runs and dominant H2H versus Sligo; conservative 1X reflects heavy probability of home not losing."
 
 },
-{ "id": "club-brugge-mechelen",
+{ "id": "galway-bohemians",
 "teamA": {
-"name": "Mechelen",
-"icon": "https://cdn.sofascore.app/api/v1/team/1974/image.png"
+"name": "Galway United",
+"icon": "https://cdn.sofascore.app/api/v1/team/3500/image.png"
 },
 "teamB": {
-"name": "Club Brugge",
-"icon": "https://cdn.sofascore.app/api/v1/team/2282/image.png"
+"name": "Bohemians",
+"icon": "https://cdn.sofascore.app/api/v1/team/3502/image.png"
 },
-"leagueName": "Belgian First Division A",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-21",
-"confidence": "High",
-"safetyRating": 9,
-"reason": "Club Brugge are the stronger side in this championship round matchup and recent form support is solid enough for an away-or-draw angle. Mechelen are the underdog here, making the double chance the conservative play."
-
-},
-{ "id": "ajax-groningen",
-"teamA": {
-"name": "Ajax",
-"icon": "https://cdn.sofascore.app/api/v1/team/3847/image.png"
-},
-"teamB": {
-"name": "Groningen",
-"icon": "https://cdn.sofascore.app/api/v1/team/2331/image.png"
-},
-"leagueName": "Dutch Eredivisie",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-21",
-"confidence": "High",
-"safetyRating": 9,
-"reason": "Ajax are the more stable side and the playoff context still favors their home edge. Public previews lean toward Ajax progressing, which supports a safer home-or-draw stance."
-
-},
-{ "id": "utrecht-heerenveen",
-"teamA": {
-"name": "Utrecht",
-"icon": "https://cdn.sofascore.app/api/v1/team/1941/image.png"
-},
-"teamB": {
-"name": "Heerenveen",
-"icon": "https://cdn.sofascore.app/api/v1/team/1944/image.png"
-},
-"leagueName": "Dutch Eredivisie",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-21",
+"leagueName": "Irish Premier Division",
+"prediction": "DRAW NO BET 1",
+"date": "2026-05-22",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Knockout playoff games with these teams tend to open up, and recent preview material expects goals rather than a cagey stalemate. Over 1.5 is the conservative angle compared with choosing a winner."
+"reason": "Close table positions but Galway at home have slightly steadier form; DNB on Galway protects stake while capturing slight home edge."
 
 },
-{ "id": "jamshedpur-odisha",
+{ "id": "fiorentina-atalanta",
 "teamA": {
-"name": "Jamshedpur",
-"icon": "https://cdn.sofascore.app/api/v1/team/10166/image.png"
+"name": "Fiorentina",
+"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
 },
 "teamB": {
-"name": "Odisha",
-"icon": "https://cdn.sofascore.app/api/v1/team/11498/image.png"
+"name": "Atalanta",
+"icon": "https://cdn.sofascore.app/api/v1/team/127/image.png"
 },
-"leagueName": "Indian Super League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Jamshedpur have the better season record and home advantage, while Odisha have been weaker overall. Their recent head-to-head is mixed, so the draw-protected home side is the safer route."
-
-},
-{ "id": "brondby-copenhagen",
-"teamA": {
-"name": "Brondby",
-"icon": "https://cdn.sofascore.app/api/v1/team/3145/image.png"
-},
-"teamB": {
-"name": "Copenhagen",
-"icon": "https://cdn.sofascore.app/api/v1/team/3001/image.png"
-},
-"leagueName": "Danish Superligaen",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "This is a high-stakes playoff final between two strong sides, which usually raises the chance of at least two goals even when the match is tight. The safer market is goals rather than picking a side in a rivalry-type fixture."
-
-},
-{ "id": "anderlecht-sint-truiden",
-"teamA": {
-"name": "Anderlecht",
-"icon": "https://cdn.sofascore.app/api/v1/team/2827/image.png"
-},
-"teamB": {
-"name": "Sint-Truiden",
-"icon": "https://cdn.sofascore.app/api/v1/team/1956/image.png"
-},
-"leagueName": "Belgian First Division A",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Anderlecht at home are the stronger profile and this is a favorable matchup in the championship round. The conservative home-or-draw option keeps risk lower than backing the outright result."
-
-},
-{ "id": "atromitos-panserraikos",
-"teamA": {
-"name": "Atromitos",
-"icon": "https://cdn.sofascore.app/api/v1/team/2819/image.png"
-},
-"teamB": {
-"name": "Panserraikos",
-"icon": "https://cdn.sofascore.app/api/v1/team/2346/image.png"
-},
-"leagueName": "Greek Super League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Atromitos have the stronger home profile in a relegation-round match where the hosts should be more stable. Forecasts also lean toward Atromitos, making the draw-protected angle the safest option."
-
-},
-{ "id": "al-ittihad-al-qadsiah",
-"teamA": {
-"name": "Al Ittihad",
-"icon": "https://cdn.sofascore.app/api/v1/team/3007/image.png"
-},
-"teamB": {
-"name": "Al Qadsiah",
-"icon": "https://cdn.sofascore.app/api/v1/team/50416/image.png"
-},
-"leagueName": "Saudi Pro League",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-21",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Previews describe Al Qadsiah as a live away side and even tip them on a draw-protected basis. That makes X2 safer than trying to call a winner in a tricky final-season spot."
-
-},
-{ "id": "deportivo-la-guaira-independiente-rivadavia",
-"teamA": {
-"name": "Deportivo La Guaira",
-"icon": "https://cdn.sofascore.app/api/v1/team/3457/image.png"
-},
-"teamB": {
-"name": "Independiente Rivadavia",
-"icon": "https://cdn.sofascore.app/api/v1/team/101676/image.png"
-},
-"leagueName": "CONMEBOL Libertadores",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-21",
-"confidence": "Medium High",
+"leagueName": "Italian Serie A",
+"prediction": "UNDER 1.5 GOALS",
+"date": "2026-05-22",
+"confidence": "75%+",
 "safetyRating": 7,
-"reason": "Libertadores group games can be controlled, but this is still a matchup where one goal on each side or a 2-0 type result is plausible. Over 1.5 is the safer market than a side bet in a less certain continental fixture."
-},
-{ "id": "grasshoppers-aarau",
-"teamA": {
-"name": "Grasshoppers",
-"icon": "https://cdn.sofascore.app/api/v1/team/2231/image.png"
-},
-"teamB": {
-"name": "Aarau",
-"icon": "https://cdn.sofascore.app/api/v1/team/2302/image.png"
-},
-"leagueName": "Swiss Play-offs 1/2",
-"prediction": "UNDER 3.5 GOALS",
-"date": "2026-05-21",
-"confidence": "Medium High",
-"safetyRating": 7,
-"reason": "The aggregate is level, so this final is likely to stay cautious for long stretches. A lower-goals angle is safer than backing either side in a finely balanced second-leg style matchup."
+"reason": "Tight tactical matchup with recent low-goal encounters and important league positioning incentivising caution; under 1.5 is conservative given defensive setups."
+
 } ]
