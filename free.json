@@ -1,35 +1,65 @@
 [
-{ "id": "redstar-ofk-beograd",
+{ "id": "real-madrid-athletic-club",
 "teamA": {
-"name": "Red Star Belgrade",
-"icon": "https://cdn.sofascore.app/api/v1/team/261/image.png"
+"name": "Real Madrid",
+"icon": "https://cdn.sofascore.app/api/v1/team/301/image.png"
 },
 "teamB": {
-"name": "OFK Beograd",
-"icon": "https://cdn.sofascore.app/api/v1/team/2001/image.png"
+"name": "Athletic Club",
+"icon": "https://cdn.sofascore.app/api/v1/team/241/image.png"
 },
-"leagueName": "Serbian Super Liga",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-22",
+"leagueName": "Spanish La Liga",
+"prediction": "DRAW NO BET Team A",
+"date": "2026-05-23",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Red Star are dominant at home with a strong season record and heavy H2H advantage over OFK, who have struggled away; trend and standings strongly favour Red Star."
-
+"reason": "Real Madrid exceptionally strong at home this season; Athletic are mid‑table with limited attacking threat, making a home win or draw highly probable."
 },
-{ "id": "shamrock-sligo",
+{ "id": "barcelona-valencia",
 "teamA": {
-"name": "Shamrock Rovers",
-"icon": "https://cdn.sofascore.app/api/v1/team/3482/image.png"
+"name": "Valencia",
+"icon": "https://cdn.sofascore.app/api/v1/team/117/image.png"
 },
 "teamB": {
-"name": "Sligo Rovers",
-"icon": "https://cdn.sofascore.app/api/v1/team/3490/image.png"
+"name": "Barcelona",
+"icon": "https://cdn.sofascore.app/api/v1/team/83/image.png"
 },
-"leagueName": "Irish Premier Division",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-22",
+"leagueName": "Spanish La Liga",
+"prediction": "DRAW NO BET Team B",
+"date": "2026-05-23",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Shamrock Rovers have strong home unbeaten runs and dominant H2H versus Sligo; conservative 1X reflects heavy probability of home not losing."
-
+"reason": "Barcelona top of LaLiga with elite attacking numbers; Valencia solid at home but leak goals, making a draw or Barça win the safest outcome."
+},
+{ "id": "bologna-inter-milan",
+"teamA": {
+"name": "Bologna",
+"icon": "https://cdn.sofascore.app/api/v1/team/401/image.png"
+},
+"teamB": {
+"name": "Inter Milan",
+"icon": "https://cdn.sofascore.app/api/v1/team/461/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DRAW NO BET Team B",
+"date": "2026-05-23",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Inter unbeaten in many league games with strong scoring trends; Bologna are solid at home but rarely beat top‑tier sides consistently."
+},
+{ "id": "bayern-munich-stuttgart",
+"teamA": {
+"name": "Bayern Munich",
+"icon": "https://cdn.sofascore.app/api/v1/team/91/image.png"
+},
+"teamB": {
+"name": "Stuttgart",
+"icon": "https://cdn.sofascore.app/api/v1/team/248/image.png"
+},
+"leagueName": "German DFB Pokal Final",
+"prediction": "DRAW NO BET Team A",
+"date": "2026-05-23",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Bayern vastly superior in pedigree and squad depth; Stuttgart are competitive but inconsistent in cup finals, so Bayern to avoid defeat is extremely low‑risk."
 } ]
