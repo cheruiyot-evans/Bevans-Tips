@@ -1,321 +1,377 @@
 [
-{ "id": "real-madrid-athletic-club",
+{ "id": "man-city-aston-villa",
 "teamA": {
-"name": "Real Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/301/image.png"
-},
-"teamB": {
-"name": "Athletic Club",
-"icon": "https://cdn.sofascore.app/api/v1/team/241/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "DRAW NO BET Team A",
-"date": "2026-05-23",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Real Madrid incredibly strong at home this season with only one LaLiga loss at Bernabéu; Athletic are mid‑table with limited attacking threat, making a home win or draw highly probable."
-},
-{ "id": "barcelona-valencia",
-"teamA": {
-"name": "Valencia",
-"icon": "https://cdn.sofascore.app/api/v1/team/117/image.png"
-},
-"teamB": {
-"name": "Barcelona",
-"icon": "https://cdn.sofascore.app/api/v1/team/83/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "DRAW NO BET Team B",
-"date": "2026-05-23",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Barcelona top of LaLiga with elite attacking numbers; Valencia solid at home but leak goals and have struggled for consistency, so a draw or Barça win is strongly favored."
-},
-{ "id": "bologna-inter-milan",
-"teamA": {
-"name": "Bologna",
-"icon": "https://cdn.sofascore.app/api/v1/team/401/image.png"
-},
-"teamB": {
-"name": "Inter Milan",
-"icon": "https://cdn.sofascore.app/api/v1/team/461/image.png"
-},
-"leagueName": "Italian Serie A",
-"prediction": "DRAW NO BET Team B",
-"date": "2026-05-23",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Inter unbeaten in 11+ Serie A games with strong goal‑scoring trends; Bologna are solid at home but lack firepower to regularly beat top‑tier sides."
-},
-{ "id": "lazio-pisa",
-"teamA": {
-"name": "Lazio",
-"icon": "https://cdn.sofascore.app/api/v1/team/463/image.png"
-},
-"teamB": {
-"name": "Pisa",
-"icon": "https://cdn.sofascore.app/api/v1/team/512/image.png"
-},
-"leagueName": "Italian Serie A",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-23",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Lazio well above mid‑table and strong at the Stadio Olimpico; Pisa are newly promoted with poor away record and limited attacking output, making a home win or draw very likely."
-},
-{ "id": "bayern-munich-stuttgart",
-"teamA": {
-"name": "Bayern Munich",
-"icon": "https://cdn.sofascore.app/api/v1/team/91/image.png"
-},
-"teamB": {
-"name": "Stuttgart",
-"icon": "https://cdn.sofascore.app/api/v1/team/248/image.png"
-},
-"leagueName": "German DFB Pokal Final",
-"prediction": "DRAW NO BET Team A",
-"date": "2026-05-23",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Bayern vastly superior in trophy‑winning pedigree and squad depth; Stuttgart are resilient but inconsistent in high‑pressure finals, so Bayern to avoid defeat is low‑risk."
-},
-{ "id": "celtic-dunfermline-athletic",
-"teamA": {
-"name": "Celtic",
+"name": "Manchester City",
 "icon": "https://cdn.sofascore.app/api/v1/team/11/image.png"
 },
 "teamB": {
-"name": "Dunfermline Athletic",
-"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
+"name": "Aston Villa",
+"icon": "https://cdn.sofascore.app/api/v1/team/102/image.png"
 },
-"leagueName": "Scottish Cup Final",
-"prediction": "DRAW NO BET Team A",
-"date": "2026-05-23",
+"leagueName": "English Premier League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Celtic are reigning Scottish champions with far superior squad depth and recent form; Dunfermline are a lower‑league side with limited quality, unlikely to win a final under pressure."
-},
-{ "id": "hull-city-middlesbrough",
+"reason": "Man City extremely strong at home with clean‑sheet tendencies; Villa’s fitness and form have dipped late in the season, making outright Villa win highly unlikely."
+}, { "id": "liverpool-brentford",
 "teamA": {
-"name": "Hull City",
-"icon": "https://cdn.sofascore.app/api/v1/team/61/image.png"
+"name": "Liverpool",
+"icon": "https://cdn.sofascore.app/api/v1/team/10/image.png"
 },
 "teamB": {
-"name": "Middlesbrough",
-"icon": "https://cdn.sofascore.app/api/v1/team/65/image.png"
+"name": "Brentford",
+"icon": "https://cdn.sofascore.app/api/v1/team/107/image.png"
 },
-"leagueName": "Championship Play‑offs Final",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both sides similarly motivated with Middlesbrough slightly sharper in recent form; a tight knockout final with elevated chance of draw plus a marginal edge to the away‑seeded visitors."
-},
-{ "id": "shanghai-port-tianjin-jinmen-tiger",
-"teamA": {
-"name": "Shanghai Port",
-"icon": "https://cdn.sofascore.app/api/v1/team/2162/image.png"
-},
-"teamB": {
-"name": "Tianjin Jinmen Tiger",
-"icon": "https://cdn.sofascore.app/api/v1/team/2161/image.png"
-},
-"leagueName": "Chinese Super League",
+"leagueName": "English Premier League",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Shanghai Port among top‑tier performers with strong home record; Tianjin are mid‑table with weaker away defense, making a home win or draw statistically robust."
-},
-{ "id": "beijing-guonan-henan",
+"date": "2026-05-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Liverpool highly dominant at Anfield, scoring consistently; Brentford have struggled away and lack attacking firepower to overturn a home‑field advantage of this magnitude."
+}, { "id": "brighton-man-utd",
 "teamA": {
-"name": "Beijing Guoan",
-"icon": "https://cdn.sofascore.app/api/v1/team/2159/image.png"
+"name": "Brighton & Hove Albion",
+"icon": "https://cdn.sofascore.app/api/v1/team/103/image.png"
 },
 "teamB": {
-"name": "Henan",
-"icon": "https://cdn.sofascore.app/api/v1/team/2160/image.png"
+"name": "Manchester United",
+"icon": "https://cdn.sofascore.app/api/v1/team/8/image.png"
 },
-"leagueName": "Chinese Super League",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Beijing Guoan historically strong outfit with better‑quality squad; Henan have inconsistent form and struggle to win away, so a home win or draw is the safest line."
-},
-{ "id": "valencia-barca-o15",
-"teamA": {
-"name": "Valencia",
-"icon": "https://cdn.sofascore.app/api/v1/team/117/image.png"
-},
-"teamB": {
-"name": "Barcelona",
-"icon": "https://cdn.sofascore.app/api/v1/team/83/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Barcelona among LaLiga’s top scorers while Valencia tend to concede more than 1 goal per game, making 1.5+ goals very likely even in a cautious final‑day clash."
-},
-{ "id": "barcelona-w-lionesses-uwcl",
-"teamA": {
-"name": "Barcelona",
-"icon": "https://cdn.sofascore.app/api/v1/team/83/image.png"
-},
-"teamB": {
-"name": "Olympique Lyonnais",
-"icon": "https://cdn.sofascore.app/api/v1/team/772/image.png"
-},
-"leagueName": "UEFA Women's Champions League Final",
-"prediction": "DRAW NO BET Team A",
-"date": "2026-05-23",
+"leagueName": "English Premier League",
+"prediction": "DRAW NO BET 1",
+"date": "2026-05-24",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Barcelona Women have dominated domestic league and gone deep in UWCL with strong attacking stats; Lyon remain dangerous but have shown more vulnerability in recent high‑pressure finals."
-},
-{ "id": "charlton-leicester-wsl-playoff",
+"reason": "Brighton strong at home and defensively solid; United have good form but are often contained away, so backing Brighton to avoid defeat is safer than a clean win."
+}, { "id": "crystal-palace-arsenal",
 "teamA": {
-"name": "Charlton Athletic",
-"icon": "https://cdn.sofascore.app/api/v1/team/1054/image.png"
+"name": "Crystal Palace",
+"icon": "https://cdn.sofascore.app/api/v1/team/52/image.png"
 },
 "teamB": {
-"name": "Leicester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/414/image.png"
+"name": "Arsenal",
+"icon": "https://cdn.sofascore.app/api/v1/team/13/image.png"
 },
-"leagueName": "WSL/WSL2 Play‑off Final",
+"leagueName": "English Premier League",
 "prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-23",
+"date": "2026-05-24",
 "confidence": "High",
-"safetyRating": 7,
-"reason": "Charlton home‑based but lower‑tier outfit; Leicester possess better‑quality players and greater big‑game experience, making at least a draw or away win likely."
-},
-{ "id": "espanyol-real-sociedad",
+"safetyRating": 8,
+"reason": "Arsenal strong favorites but fielding a rotated squad; Palace may be more competitive at home, but a draw or away win is safer than backing Palace to win outright."
+}, { "id": "fulham-newcastle",
 "teamA": {
-"name": "Espanyol",
-"icon": "https://cdn.sofascore.app/api/v1/team/421/image.png"
+"name": "Fulham",
+"icon": "https://cdn.sofascore.app/api/v1/team/105/image.png"
 },
 "teamB": {
-"name": "Real Sociedad",
-"icon": "https://cdn.sofascore.app/api/v1/team/422/image.png"
+"name": "Newcastle United",
+"icon": "https://cdn.sofascore.app/api/v1/team/110/image.png"
 },
-"leagueName": "Spanish La Liga",
+"leagueName": "English Premier League",
 "prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-23",
+"date": "2026-05-24",
 "confidence": "High",
-"safetyRating": 7,
-"reason": "Real Sociedad consistently finishing in top half and better‑balanced side; Espanyol show occasional home fights but lack consistency, so an away‑team‑to‑avoid‑loss line is statistically safer."
-},
-{ "id": "celta-vigo-sevilla",
+"safetyRating": 8,
+"reason": "Newcastle are stronger and more consistent away, while Fulham’s home edge is modest; backing Newcastle or draw avoids the risk of a shock home‑only win."
+}, { "id": "burnley-wolves",
 "teamA": {
-"name": "Celta Vigo",
-"icon": "https://cdn.sofascore.app/api/v1/team/411/image.png"
+"name": "Burnley",
+"icon": "https://cdn.sofascore.app/api/v1/team/106/image.png"
 },
 "teamB": {
-"name": "Sevilla",
-"icon": "https://cdn.sofascore.app/api/v1/team/242/image.png"
+"name": "Wolverhampton Wanderers",
+"icon": "https://cdn.sofascore.app/api/v1/team/99/image.png"
 },
-"leagueName": "Spanish La Liga",
+"leagueName": "English Premier League",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-05-23",
+"date": "2026-05-24",
 "confidence": "High",
 "safetyRating": 7,
-"reason": "Both sides tend to score and concede at neutral levels, with recent meetings often 2+ goals; motivation is still high as both teams eye European places, supporting a 1.5+ goals market."
-},
-{ "id": "getafe-osasuna",
+"reason": "Both teams have a habit of scoring and conceding in recent fixtures; head‑to‑head and recent form show matches between them rarely finish under 1.5 goals."
+}, { "id": "chelsea-sunderland",
 "teamA": {
-"name": "Getafe",
-"icon": "https://cdn.sofascore.app/api/v1/team/412/image.png"
+"name": "Sunderland",
+"icon": "https://cdn.sofascore.app/api/v1/team/53/image.png"
 },
 "teamB": {
-"name": "Osasuna",
-"icon": "https://cdn.sofascore.app/api/v1/team/413/image.png"
+"name": "Chelsea",
+"icon": "https://cdn.sofascore.app/api/v1/team/12/image.png"
 },
-"leagueName": "Spanish La Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-23",
+"leagueName": "English Premier League",
+"prediction": "DRAW NO BET 2",
+"date": "2026-05-24",
 "confidence": "High",
-"safetyRating": 7,
-"reason": "Mid‑table sides with fairly open games and mixed defenses; both have seen 2+ goals in a majority of recent matches, making 1.5+ goals a conservative choice."
-},
-{ "id": "alaves-rayo-vallecano",
+"safetyRating": 8,
+"reason": "Chelsea’s superior squad depth and attacking quality make them strong favorites; Sunderland may score at home, but Chelsea are unlikely to lose outright."
+}, { "id": "tottenham-everton",
 "teamA": {
-"name": "Alavés",
-"icon": "https://cdn.sofascore.app/api/v1/team/414/image.png"
+"name": "Tottenham Hotspur",
+"icon": "https://cdn.sofascore.app/api/v1/team/14/image.png"
 },
 "teamB": {
-"name": "Rayo Vallecano",
-"icon": "https://cdn.sofascore.app/api/v1/team/415/image.png"
+"name": "Everton",
+"icon": "https://cdn.sofascore.app/api/v1/team/147/image.png"
 },
-"leagueName": "Spanish La Liga",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-23",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams show mid‑table attacking output and leaky defences; several recent encounters have finished 2+ goals, supporting a 1.5+ goals minimum reliably."
-},
-{ "id": "girona-elche",
-"teamA": {
-"name": "Girona",
-"icon": "https://cdn.sofascore.app/api/v1/team/416/image.png"
-},
-"teamB": {
-"name": "Elche",
-"icon": "https://cdn.sofascore.app/api/v1/team/417/image.png"
-},
-"leagueName": "Spanish La Liga",
+"leagueName": "English Premier League",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-23",
+"date": "2026-05-24",
 "confidence": "High",
-"safetyRating": 7,
-"reason": "Girona maintain higher‑quality attack and better home form; Elche have struggled for away points and defensive stability, so a home win or draw line is well‑supported."
-},
-{ "id": "mallorca-real-oviedo",
+"safetyRating": 8,
+"reason": "Tottenham strong at home with a solid recent run; Everton have struggled away and are motivationally weaker, making a home‑or‑draw outcome very safe."
+}, { "id": "west-ham-leeds",
 "teamA": {
-"name": "Mallorca",
-"icon": "https://cdn.sofascore.app/api/v1/team/418/image.png"
+"name": "West Ham United",
+"icon": "https://cdn.sofascore.app/api/v1/team/15/image.png"
 },
 "teamB": {
-"name": "Real Oviedo",
-"icon": "https://cdn.sofascore.app/api/v1/team/419/image.png"
+"name": "Leeds United",
+"icon": "https://cdn.sofascore.app/api/v1/team/138/image.png"
 },
-"leagueName": "Spanish La Liga",
+"leagueName": "English Premier League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both sides have shown attacking intent and poor defensive discipline in recent games; at least two goals is a conservative expectation statistically."
+}, { "id": "nottingham-forest-bournemouth",
+"teamA": {
+"name": "Nottingham Forest",
+"icon": "https://cdn.sofascore.app/api/v1/team/119/image.png"
+},
+"teamB": {
+"name": "AFC Bournemouth",
+"icon": "https://cdn.sofascore.app/api/v1/team/140/image.png"
+},
+"leagueName": "English Premier League",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Bournemouth slightly more consistent over the season; Forest can be competitive at home, but backing Bournemouth or draw is statistically safer than a home win."
+}, { "id": "ajax-utrecht",
+"teamA": {
+"name": "Ajax",
+"icon": "https://cdn.sofascore.app/api/v1/team/9/image.png"
+},
+"teamB": {
+"name": "Utrecht",
+"icon": "https://cdn.sofascore.app/api/v1/team/19/image.png"
+},
+"leagueName": "Dutch Eredivisie - Conference League Play‑offs",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-23",
+"date": "2026-05-24",
 "confidence": "High",
-"safetyRating": 7,
-"reason": "Mallorca solid defensively at home with higher league status; Real Oviedo as a promoted side tend to be more error‑prone away, favoring a home win or draw."
-},
-{ "id": "real-betis-levante",
+"safetyRating": 8,
+"reason": "Ajax clearly stronger at home with superior squad and attacking output; Utrecht have struggled against top‑tier sides, making an Ajax win or draw the safest option."
+}, { "id": "bolton-stockport",
 "teamA": {
-"name": "Real Betis",
-"icon": "https://cdn.sofascore.app/api/v1/team/420/image.png"
+"name": "Bolton Wanderers",
+"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
 },
 "teamB": {
-"name": "Levante",
-"icon": "https://cdn.sofascore.app/api/v1/team/423/image.png"
+"name": "Stockport County",
+"icon": "https://cdn.sofascore.app/api/v1/team/114/image.png"
 },
-"leagueName": "Spanish La Liga",
+"leagueName": "English League One Promotion Play‑offs - Final",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-05-23",
+"date": "2026-05-24",
 "confidence": "High",
 "safetyRating": 7,
-"reason": "Betis attack‑oriented while Levante play high‑risk football; both teams’ recent fixtures have often gone 2+ goals, making 1.5+ goals the safer metric bet."
-},
-{ "id": "china-dalian-chengdu",
+"reason": "Both teams have scored in each of their play‑off legs; finals are high‑intensity and typically see at least two goals given the attacking focus."
+}, { "id": "dynamo-kyiv-kudrivka",
 "teamA": {
-"name": "Dalian Yingbo",
-"icon": "https://cdn.sofascore.app/api/v1/team/2163/image.png"
+"name": "Dynamo Kyiv",
+"icon": "https://cdn.sofascore.app/api/v1/team/118/image.png"
 },
 "teamB": {
-"name": "Chengdu Rongcheng",
-"icon": "https://cdn.sofascore.app/api/v1/team/2164/image.png"
+"name": "Kudrivka",
+"icon": "https://cdn.sofascore.app/api/v1/team/152/image.png"
 },
-"leagueName": "Chinese Super League",
+"leagueName": "Ukrainian Premier League",
+"prediction": "DRAW NO BET 1",
+"date": "2026-05-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Dynamo Kyiv significantly stronger in quality and home record; Kudrivka are a mid‑tier side with limited threat, making a home win or draw very safe."
+}, { "id": "obolon-kyiv-lnz",
+"teamA": {
+"name": "Obolon Kyiv",
+"icon": "https://cdn.sofascore.app/api/v1/team/153/image.png"
+},
+"teamB": {
+"name": "LNZ Cherkasy",
+"icon": "https://cdn.sofascore.app/api/v1/team/151/image.png"
+},
+"leagueName": "Ukrainian Premier League",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-05-23",
+"date": "2026-05-24",
 "confidence": "High",
 "safetyRating": 7,
-"reason": "Both sides exhibit mid‑table attacking output and modest defenses, with multiple recent games pushing 2+ goals, justifying a 1.5+ goals stance."
+"reason": "Both teams have shown attacking flair and defensive lapses in recent games, with a pattern of matches producing at least two goals."
+}, { "id": "polissya-rukh",
+"teamA": {
+"name": "Polissya",
+"icon": "https://cdn.sofascore.app/api/v1/team/154/image.png"
+},
+"teamB": {
+"name": "Rukh Vynnyky",
+"icon": "https://cdn.sofascore.app/api/v1/team/155/image.png"
+},
+"leagueName": "Ukrainian Premier League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Polissya have a stronger home record and better recent form; Rukh tend to struggle away, so a home win or draw is statistically well‑supported."
+}, { "id": "veres-rivne-metalist",
+"teamA": {
+"name": "Veres Rivne",
+"icon": "https://cdn.sofascore.app/api/v1/team/156/image.png"
+},
+"teamB": {
+"name": "Metalist 1925 Kharkiv",
+"icon": "https://cdn.sofascore.app/api/v1/team/157/image.png"
+},
+"leagueName": "Ukrainian Premier League",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both sides have scored in most of their recent fixtures; league‑wide trends show a high percentage of Ukrainian matches finishing with at least two goals."
+}, { "id": "sparta-prague-hradec",
+"teamA": {
+"name": "Sparta Prague",
+"icon": "https://cdn.sofascore.app/api/v1/team/115/image.png"
+},
+"teamB": {
+"name": "Hradec Kralove",
+"icon": "https://cdn.sofascore.app/api/v1/team/171/image.png"
+},
+"leagueName": "Czech First League - Championship Round",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Sparta Prague are one of the strongest teams in the league at home; Hradec have struggled away with limited attacking output, making a home win or draw highly likely."
+}, { "id": "slavia-prague-plzen",
+"teamA": {
+"name": "Slavia Prague",
+"icon": "https://cdn.sofascore.app/api/v1/team/116/image.png"
+},
+"teamB": {
+"name": "Viktoria Plzen",
+"icon": "https://cdn.sofascore.app/api/v1/team/117/image.png"
+},
+"leagueName": "Czech First League - Championship Round",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both clubs are top‑tier attacking sides with strong home records; head‑to‑head and recent fixtures show frequent high‑scoring games."
+}, { "id": "malmö-västerås",
+"teamA": {
+"name": "Malmö FF",
+"icon": "https://cdn.sofascore.app/api/v1/team/166/image.png"
+},
+"teamB": {
+"name": "Västerås SK",
+"icon": "https://cdn.sofascore.app/api/v1/team/168/image.png"
+},
+"leagueName": "Swedish Allsvenskan",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Malmö are strong favorites at home against a newly promoted side; Västerås have struggled to score away and often lose by at least one goal."
+}, { "id": "bodø-glimt-brann",
+"teamA": {
+"name": "Bodø / Glimt",
+"icon": "https://cdn.sofascore.app/api/v1/team/161/image.png"
+},
+"teamB": {
+"name": "Brann",
+"icon": "https://cdn.sofascore.app/api/v1/team/163/image.png"
+},
+"leagueName": "Norwegian Eliteserien",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both teams have high‑scoring home and away games; Eliteserien fixtures between them and similar sides often see at least two goals."
+}, { "id": "villa-udinese-parma",
+"teamA": {
+"name": "Parma",
+"icon": "https://cdn.sofascore.app/api/v1/team/183/image.png"
+},
+"teamB": {
+"name": "Sassuolo",
+"icon": "https://cdn.sofascore.app/api/v1/team/185/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both Parma and Sassuolo have shown attacking tendencies and defensive vulnerability; recent head‑to‑head encounters and league trends support at least two goals."
+}, { "id": "napoli-udinese",
+"teamA": {
+"name": "Napoli",
+"icon": "https://cdn.sofascore.app/api/v1/team/179/image.png"
+},
+"teamB": {
+"name": "Udinese",
+"icon": "https://cdn.sofascore.app/api/v1/team/186/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DRAW NO BET 1",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Napoli are strong favorites at home with a powerful offense; Udinese have struggled against top sides and often fail to avoid defeat."
+}, { "id": "ac-milan-cagliari",
+"teamA": {
+"name": "AC Milan",
+"icon": "https://cdn.sofascore.app/api/v1/team/188/image.png"
+},
+"teamB": {
+"name": "Cagliari",
+"icon": "https://cdn.sofascore.app/api/v1/team/189/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DRAW NO BET 1",
+"date": "2026-05-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Milan consistently strong at San Siro against weaker sides; Cagliari have poor away form and limited attacking threat, making a home win or draw very safe."
+}, { "id": "torino-juventus",
+"teamA": {
+"name": "Torino",
+"icon": "https://cdn.sofascore.app/api/v1/team/181/image.png"
+},
+"teamB": {
+"name": "Juventus",
+"icon": "https://cdn.sofascore.app/api/v1/team/182/image.png"
+},
+"leagueName": "Italian Serie A",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Juventus are strong favorites even away; Torino can be competitive at home, but backing Juventus or draw is statistically safer than a home‑only win."
+}, { "id": "club-brugge-gent",
+"teamA": {
+"name": "Club Brugge",
+"icon": "https://cdn.sofascore.app/api/v1/team/144/image.png"
+},
+"teamB": {
+"name": "Gent",
+"icon": "https://cdn.sofascore.app/api/v1/team/145/image.png"
+},
+"leagueName": "Belgian First Division A - Championship Round",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 7,
+"reason": "Both teams have attacking records and high‑scoring league games; their recent fixtures and league averages support at least two goals."
 } ]
