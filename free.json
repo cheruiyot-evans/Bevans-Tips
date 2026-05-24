@@ -1,65 +1,77 @@
 [
-{ "id": "real-madrid-athletic-club",
+{ "id": "ac-milan-cagliari",
 "teamA": {
-"name": "Real Madrid",
-"icon": "https://cdn.sofascore.app/api/v1/team/301/image.png"
+"name": "AC Milan",
+"icon": "https://cdn.sofascore.app/api/v1/team/188/image.png"
 },
 "teamB": {
-"name": "Athletic Club",
-"icon": "https://cdn.sofascore.app/api/v1/team/241/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "DRAW NO BET Team A",
-"date": "2026-05-23",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Real Madrid exceptionally strong at home this season; Athletic are mid‑table with limited attacking threat, making a home win or draw highly probable."
-},
-{ "id": "barcelona-valencia",
-"teamA": {
-"name": "Valencia",
-"icon": "https://cdn.sofascore.app/api/v1/team/117/image.png"
-},
-"teamB": {
-"name": "Barcelona",
-"icon": "https://cdn.sofascore.app/api/v1/team/83/image.png"
-},
-"leagueName": "Spanish La Liga",
-"prediction": "DRAW NO BET Team B",
-"date": "2026-05-23",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Barcelona top of LaLiga with elite attacking numbers; Valencia solid at home but leak goals, making a draw or Barça win the safest outcome."
-},
-{ "id": "bologna-inter-milan",
-"teamA": {
-"name": "Bologna",
-"icon": "https://cdn.sofascore.app/api/v1/team/401/image.png"
-},
-"teamB": {
-"name": "Inter Milan",
-"icon": "https://cdn.sofascore.app/api/v1/team/461/image.png"
+"name": "Cagliari",
+"icon": "https://cdn.sofascore.app/api/v1/team/189/image.png"
 },
 "leagueName": "Italian Serie A",
-"prediction": "DRAW NO BET Team B",
-"date": "2026-05-23",
+"prediction": "DRAW NO BET 1",
+"date": "2026-05-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Inter unbeaten in many league games with strong scoring trends; Bologna are solid at home but rarely beat top‑tier sides consistently."
-},
-{ "id": "bayern-munich-stuttgart",
+"reason": "Milan strong favorites at home with a solid attacking record; Cagliari poor away and unlikely to win outright."
+}, { "id": "ac-milan-cagliari-over",
 "teamA": {
-"name": "Bayern Munich",
-"icon": "https://cdn.sofascore.app/api/v1/team/91/image.png"
+"name": "AC Milan",
+"icon": "https://cdn.sofascore.app/api/v1/team/188/image.png"
 },
 "teamB": {
-"name": "Stuttgart",
-"icon": "https://cdn.sofascore.app/api/v1/team/248/image.png"
+"name": "Cagliari",
+"icon": "https://cdn.sofascore.app/api/v1/team/189/image.png"
 },
-"leagueName": "German DFB Pokal Final",
-"prediction": "DRAW NO BET Team A",
-"date": "2026-05-23",
+"leagueName": "Italian Serie A",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Bayern vastly superior in pedigree and squad depth; Stuttgart are competitive but inconsistent in cup finals, so Bayern to avoid defeat is extremely low‑risk."
+"reason": "Milan attack at a high rate and Cagliari defend weakly, making at least two total goals highly likely."
+}, { "id": "man-city-aston-villa",
+"teamA": {
+"name": "Manchester City",
+"icon": "https://cdn.sofascore.app/api/v1/team/11/image.png"
+},
+"teamB": {
+"name": "Aston Villa",
+"icon": "https://cdn.sofascore.app/api/v1/team/102/image.png"
+},
+"leagueName": "English Premier League",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Man City very strong at home with clean‑sheet tendencies; Villa’s form and fitness have dipped late in the season."
+}, { "id": "liverpool-brentford",
+"teamA": {
+"name": "Liverpool",
+"icon": "https://cdn.sofascore.app/api/v1/team/10/image.png"
+},
+"teamB": {
+"name": "Brentford",
+"icon": "https://cdn.sofascore.app/api/v1/team/107/image.png"
+},
+"leagueName": "English Premier League",
+"prediction": "DRAW NO BET 1",
+"date": "2026-05-24",
+"confidence": "Very High",
+"safetyRating": 9,
+"reason": "Liverpool highly dominant at Anfield; Brentford lack away firepower and are unlikely to win outright."
+}, { "id": "bolton-stockport",
+"teamA": {
+"name": "Bolton Wanderers",
+"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
+},
+"teamB": {
+"name": "Stockport County",
+"icon": "https://cdn.sofascore.app/api/v1/team/114/image.png"
+},
+"leagueName": "English League One Promotion Play‑offs - Final",
+"prediction": "OVER 1.5 GOALS",
+"date": "2026-05-24",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Both teams scored in all recent play‑off legs; final‑stage intensity typically produces at least two goals."
 } ]
