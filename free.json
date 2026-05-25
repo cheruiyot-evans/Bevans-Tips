@@ -1,77 +1,49 @@
 [
-{ "id": "ac-milan-cagliari",
+{ "id": "tromso-aalesund",
 "teamA": {
-"name": "AC Milan",
-"icon": "https://cdn.sofascore.app/api/v1/team/188/image.png"
+"name": "Tromsø",
+"icon": "https://cdn.sofascore.app/api/v1/team/77/image.png"
 },
 "teamB": {
-"name": "Cagliari",
-"icon": "https://cdn.sofascore.app/api/v1/team/189/image.png"
+"name": "Aalesund",
+"icon": "https://cdn.sofascore.app/api/v1/team/72/image.png"
 },
-"leagueName": "Italian Serie A",
-"prediction": "DRAW NO BET 1",
-"date": "2026-05-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Milan strong favorites at home with a solid attacking record; Cagliari poor away and unlikely to win outright."
-}, { "id": "ac-milan-cagliari-over",
-"teamA": {
-"name": "AC Milan",
-"icon": "https://cdn.sofascore.app/api/v1/team/188/image.png"
-},
-"teamB": {
-"name": "Cagliari",
-"icon": "https://cdn.sofascore.app/api/v1/team/189/image.png"
-},
-"leagueName": "Italian Serie A",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Milan attack at a high rate and Cagliari defend weakly, making at least two total goals highly likely."
-}, { "id": "man-city-aston-villa",
-"teamA": {
-"name": "Manchester City",
-"icon": "https://cdn.sofascore.app/api/v1/team/11/image.png"
-},
-"teamB": {
-"name": "Aston Villa",
-"icon": "https://cdn.sofascore.app/api/v1/team/102/image.png"
-},
-"leagueName": "English Premier League",
+"leagueName": "Norwegian Eliteserien",
 "prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-24",
+"date": "2026-05-25",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Man City very strong at home with clean‑sheet tendencies; Villa’s form and fitness have dipped late in the season."
-}, { "id": "liverpool-brentford",
+"reason": "Tromsø remain unbeaten in 11 of their last 13 home meetings against Aalesund, with consistent defensive solidity and home‑field advantage mitigating risk."
+},
+{ "id": "sandefjord-fredrikstad",
 "teamA": {
-"name": "Liverpool",
-"icon": "https://cdn.sofascore.app/api/v1/team/10/image.png"
+"name": "Sandefjord",
+"icon": "https://cdn.sofascore.app/api/v1/team/73/image.png"
 },
 "teamB": {
-"name": "Brentford",
-"icon": "https://cdn.sofascore.app/api/v1/team/107/image.png"
+"name": "Fredrikstad",
+"icon": "https://cdn.sofascore.app/api/v1/team/74/image.png"
 },
-"leagueName": "English Premier League",
-"prediction": "DRAW NO BET 1",
-"date": "2026-05-24",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Liverpool highly dominant at Anfield; Brentford lack away firepower and are unlikely to win outright."
-}, { "id": "bolton-stockport",
-"teamA": {
-"name": "Bolton Wanderers",
-"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
-},
-"teamB": {
-"name": "Stockport County",
-"icon": "https://cdn.sofascore.app/api/v1/team/114/image.png"
-},
-"leagueName": "English League One Promotion Play‑offs - Final",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-24",
+"leagueName": "Norwegian Eliteserien",
+"prediction": "UNDER 3.5 GOALS",
+"date": "2026-05-25",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Both teams scored in all recent play‑off legs; final‑stage intensity typically produces at least two goals."
+"reason": "Sandefjord’s recent matches average 1.4 goals scored and 1.4 conceded, while Fredrikstad concede little; both teams’ last 5 show a low‑scoring trend and only 20–40% of fixtures went over 2.5 goals."
+},
+{ "id": "shelbourne-derry-city",
+"teamA": {
+"name": "Derry City",
+"icon": "https://cdn.sofascore.app/api/v1/team/1423/image.png"
+},
+"teamB": {
+"name": "Shelbourne",
+"icon": "https://cdn.sofascore.app/api/v1/team/1422/image.png"
+},
+"leagueName": "Irish Premier Division",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-25",
+"confidence": "High",
+"safetyRating": 8,
+"reason": "Derry City rank higher, have previously beaten Shelbourne twice in recent seasons, and show a solid home‑like record, reducing the risk of a straight win pick."
 } ]
