@@ -1,177 +1,47 @@
-[
-{ "id": "sandefjord-fredrikstad",
-"teamA": {
-"name": "Sandefjord",
-"icon": "https://cdn.sofascore.app/api/v1/team/73/image.png"
+
+"name": "LDU Quito",
+"icon": "https://cdn.sofascore.app/api/v1/team/90/image.png"
 },
 "teamB": {
-"name": "Fredrikstad",
-"icon": "https://cdn.sofascore.app/api/v1/team/74/image.png"
+"name": "Always Ready",
+"icon": "https://cdn.sofascore.app/api/v1/team/11156/image.png"
 },
-"leagueName": "Norwegian Eliteserien",
-"prediction": "UNDER 3.5 GOALS",
-"date": "2026-05-25",
+"leagueName": "CONMEBOL Libertadores Group G",
+"prediction": "DOUBLE CHANCE 1X",
+"date": "2026-05-26",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Sandefjord’s recent matches average 1.4 goals scored and 1.4 conceded, while Fredrikstad concede little; both teams’ last 5 show a low‑scoring trend and only 20–40% of fixtures went over 2.5 goals."
+"reason": "LDU Quito are strong at home with a solid recent home record and better H2H against Always Ready, who are winless in recent away games; outright home win is volatile, so 1X is safer."
 },
-{ "id": "tromso-aalesund",
+{ "id": "lanus-mirassol",
 "teamA": {
-"name": "Tromsø",
-"icon": "https://cdn.sofascore.app/api/v1/team/77/image.png"
+"name": "Lanús",
+"icon": "https://cdn.sofascore.app/api/v1/team/1112/image.png"
 },
 "teamB": {
-"name": "Aalesund",
-"icon": "https://cdn.sofascore.app/api/v1/team/72/image.png"
+"name": "Mirassol",
+"icon": "https://cdn.sofascore.app/api/v1/team/9089/image.png"
 },
-"leagueName": "Norwegian Eliteserien",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-25",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Tromsø remain unbeaten in 11 of their last 13 home meetings against Aalesund, with consistent defensive solidity and home‑field advantage mitigating risk."
-},
-{ "id": "mjallby-gothenburg",
-"teamA": {
-"name": "Mjällby",
-"icon": "https://cdn.sofascore.app/api/v1/team/105/image.png"
-},
-"teamB": {
-"name": "IFK Göteborg",
-"icon": "https://cdn.sofascore.app/api/v1/team/103/image.png"
-},
-"leagueName": "Swedish Allsvenskan",
+"leagueName": "CONMEBOL Libertadores Group G",
 "prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-25",
+"date": "2026-05-26",
 "confidence": "High",
 "safetyRating": 8,
-"reason": "Göteborg has won 80% of their last 5 games and Mjällby often draws away; recent H2H and league‑position trends favour avoiding a clear single‑result pick, so X2 is safer."
+"reason": "Mirassol are on a strong winning streak and have a recent win over Lanús, while Lanús have a mixed record; going for Mirassol or Draw keeps the risk low and aligns with current form."
 },
-{ "id": "elfsborg-hacken",
+{ "id": "italy-u17-france-u17",
 "teamA": {
-"name": "Elfsborg",
-"icon": "https://cdn.sofascore.app/api/v1/team/101/image.png"
+"name": "Italy U17",
+"icon": "https://cdn.sofascore.app/api/v1/team/4000001/image.png"
 },
 "teamB": {
-"name": "Häcken",
-"icon": "https://cdn.sofascore.app/api/v1/team/106/image.png"
+"name": "France U17",
+"icon": "https://cdn.sofascore.app/api/v1/team/4000002/image.png"
 },
-"leagueName": "Swedish Allsvenskan",
-"prediction": "DRAW NO BET - HÄCKEN",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Häcken has won their last two H2H meetings and maintains a strong attacking record, while Elfsborg’s recent form is inconsistent, making a draw‑no‑bet on Häcken a low‑variance option."
-},
-{ "id": "shelbourne-derry-city",
-"teamA": {
-"name": "Derry City",
-"icon": "https://cdn.sofascore.app/api/v1/team/1423/image.png"
-},
-"teamB": {
-"name": "Shelbourne",
-"icon": "https://cdn.sofascore.app/api/v1/team/1422/image.png"
-},
-"leagueName": "Irish Premier Division",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Derry City rank higher, have previously beaten Shelbourne twice in recent seasons, and show a solid home‑like record, reducing the risk of a straight win pick."
-},
-{ "id": "st-mirren-partick-thistle",
-"teamA": {
-"name": "St. Mirren",
-"icon": "https://cdn.sofascore.app/api/v1/team/172/image.png"
-},
-"teamB": {
-"name": "Partick Thistle",
-"icon": "https://cdn.sofascore.app/api/v1/team/171/image.png"
-},
-"leagueName": "Scottish Premiership Play-offs - Final",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "St. Mirren finished significantly higher in the league and remain unbeaten in recent H2H, with Partick struggling away from home; 1X reduces cup‑final variance risk."
-},
-{ "id": "notts-county-salford-city",
-"teamA": {
-"name": "Notts County",
-"icon": "https://cdn.sofascore.app/api/v1/team/152/image.png"
-},
-"teamB": {
-"name": "Salford City",
-"icon": "https://cdn.sofascore.app/api/v1/team/153/image.png"
-},
-"leagueName": "League Two Promotion Play-offs - Final",
-"prediction": "DRAW NO BET - NOTTS COUNTY",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Notts County have progressed through the playoffs with a tighter defensive record and better home‑form variants, while cup‑finals raise variance, making DNB on Notts the safest lever."
-},
-{ "id": "hamkam-lillestrom",
-"teamA": {
-"name": "HamKam",
-"icon": "https://cdn.sofascore.app/api/v1/team/76/image.png"
-},
-"teamB": {
-"name": "Lillestrøm",
-"icon": "https://cdn.sofascore.app/api/v1/team/78/image.png"
-},
-"leagueName": "Norwegian Eliteserien",
-"prediction": "UNDER 3.5 GOALS",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "HamKam’s recent fixtures average low totals and Lillestrøm’s away games have been tight, with both sides showing defensive focus and only 40–50% over‑2.5‑goal rate."
-},
-{ "id": "start-valerenga",
-"teamA": {
-"name": "Start",
-"icon": "https://cdn.sofascore.app/api/v1/team/75/image.png"
-},
-"teamB": {
-"name": "Vålerenga",
-"icon": "https://cdn.sofascore.app/api/v1/team/79/image.png"
-},
-"leagueName": "Norwegian Eliteserien",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Start have improved at home with hard‑fought draws and wins, while Våler­enga’s away record is inconsistent; 1X hedges against a single‑result punt."
-},
-{ "id": "kfum-rosenborg",
-"teamA": {
-"name": "KFUM",
-"icon": "https://cdn.sofascore.app/api/v1/team/112/image.png"
-},
-"teamB": {
-"name": "Rosenborg",
-"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
-},
-"leagueName": "Norwegian Eliteserien",
+"leagueName": "UEFA Under 17 Championship Group B",
 "prediction": "OVER 1.5 GOALS",
-"date": "2026-05-25",
+"date": "2026-05-26",
 "confidence": "High",
 "safetyRating": 7,
-"reason": "Rosenborg consistently score even away, and KFUM’s matches have seen goals in a high proportion of recent games; both‑team‑to‑score risk is elevated but 1.5 total is statistically safe."
-},
-{ "id": "sarpsborg-molde",
-"teamA": {
-"name": "Sarpsborg 08",
-"icon": "https://cdn.sofascore.app/api/v1/team/80/image.png"
-},
-"teamB": {
-"name": "Molde",
-"icon": "https://cdn.sofascore.app/api/v1/team/81/image.png"
-},
-"leagueName": "Norwegian Eliteserien",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Molde are stronger in class and have a higher league position, while Sarpsborg’s home form is fragile; X2 avoids a straight‑up Molde win punt amid possible home‑defense resilience."
+"reason": "Both teams are strong attacking sides in youth tournaments, with tournament‑wide trends showing high rates of over 1.5 goals; the match is unlikely to end in a 0‑0 or 1‑0 low‑scoring stalemate."
 } ]
