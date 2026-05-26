@@ -1,49 +1,18 @@
 [
-{ "id": "tromso-aalesund",
+{ "id": "saint-etienne-nice",
 "teamA": {
-"name": "Tromsø",
-"icon": "https://cdn.sofascore.app/api/v1/team/77/image.png"
+"name": "Saint-Étienne",
+"icon": "https://cdn.sofascore.app/api/v1/team/511/image.png"
 },
 "teamB": {
-"name": "Aalesund",
-"icon": "https://cdn.sofascore.app/api/v1/team/72/image.png"
+"name": "Nice",
+"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
 },
-"leagueName": "Norwegian Eliteserien",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-25",
+"leagueName": "French Play-offs 1/2 Finals",
+"prediction": "DOUBLE CHANCE X2",
+"date": "2026-05-26",
 "confidence": "Very High",
 "safetyRating": 9,
-"reason": "Tromsø remain unbeaten in 11 of their last 13 home meetings against Aalesund, with consistent defensive solidity and home‑field advantage mitigating risk."
-},
-{ "id": "sandefjord-fredrikstad",
-"teamA": {
-"name": "Sandefjord",
-"icon": "https://cdn.sofascore.app/api/v1/team/73/image.png"
-},
-"teamB": {
-"name": "Fredrikstad",
-"icon": "https://cdn.sofascore.app/api/v1/team/74/image.png"
-},
-"leagueName": "Norwegian Eliteserien",
-"prediction": "UNDER 3.5 GOALS",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Sandefjord’s recent matches average 1.4 goals scored and 1.4 conceded, while Fredrikstad concede little; both teams’ last 5 show a low‑scoring trend and only 20–40% of fixtures went over 2.5 goals."
-},
-{ "id": "shelbourne-derry-city",
-"teamA": {
-"name": "Derry City",
-"icon": "https://cdn.sofascore.app/api/v1/team/1423/image.png"
-},
-"teamB": {
-"name": "Shelbourne",
-"icon": "https://cdn.sofascore.app/api/v1/team/1422/image.png"
-},
-"leagueName": "Irish Premier Division",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-25",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Derry City rank higher, have previously beaten Shelbourne twice in recent seasons, and show a solid home‑like record, reducing the risk of a straight win pick."
-} ]
+"reason": "Nice are the stronger and more consistent side in H2H, with recent form and underlying stats favoring them not to lose; Saint-Étienne are inconsistent and vulnerable at home, making Nice or Draw the safest low‑risk line."
+}
+]
