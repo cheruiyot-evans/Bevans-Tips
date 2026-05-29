@@ -1,19 +1,36 @@
 [
 {
-    "id": "crystal-palace-rayo-vallecano",
+    "id": "brann-sarpsborg-08",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1643/image.png"
+      "name": "Brann",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
     },
     "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2817/image.png"
+      "name": "Sarpsborg 08",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-27",
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-29",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "11 of 12 Conference League matches had Over 1.5 goals; Palace favored at home with strong attack, final typically high-scoring."
+    "safetyRating": 10,
+    "reason": "BTTS in 8/9 Brann matches and 7/8 H2H meetings; both teams averaging 1.8+ goals scored [web:17]"
+  },
+  {
+    "id": "brann-sarpsborg-08-over15",
+    "teamA": {
+      "name": "Brann",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
+    },
+    "teamB": {
+      "name": "Sarpsborg 08",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9.5,
+    "reason": "Eliteserien has 82% Over 1.5 goals rate; last 5 H2H all had 2+ goals [web:17][web:39]"
   }
 ]
