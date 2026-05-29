@@ -1,65 +1,189 @@
 [
-{ "id": "saint-etienne-nice",
-"teamA": {
-"name": "Saint-Étienne",
-"icon": "https://cdn.sofascore.app/api/v1/team/511/image.png"
-},
-"teamB": {
-"name": "Nice",
-"icon": "https://cdn.sofascore.app/api/v1/team/111/image.png"
-},
-"leagueName": "French Play-offs 1/2 Finals",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-26",
-"confidence": "Very High",
-"safetyRating": 9,
-"reason": "Nice are the stronger and more consistent side in H2H, with recent form and underlying stats favoring them not to lose; Saint-Étienne are inconsistent and vulnerable at home, making Nice or Draw the safest low‑risk line."
-},
-{ "id": "ldu-quito-always-ready",
-"teamA": {
-"name": "LDU Quito",
-"icon": "https://cdn.sofascore.app/api/v1/team/90/image.png"
-},
-"teamB": {
-"name": "Always Ready",
-"icon": "https://cdn.sofascore.app/api/v1/team/11156/image.png"
-},
-"leagueName": "CONMEBOL Libertadores Group G",
-"prediction": "DOUBLE CHANCE 1X",
-"date": "2026-05-26",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "LDU Quito are strong at home with a solid recent home record and better H2H against Always Ready, who are winless in recent away games; outright home win is volatile, so 1X is safer."
-},
-{ "id": "lanus-mirassol",
-"teamA": {
-"name": "Lanús",
-"icon": "https://cdn.sofascore.app/api/v1/team/1112/image.png"
-},
-"teamB": {
-"name": "Mirassol",
-"icon": "https://cdn.sofascore.app/api/v1/team/9089/image.png"
-},
-"leagueName": "CONMEBOL Libertadores Group G",
-"prediction": "DOUBLE CHANCE X2",
-"date": "2026-05-26",
-"confidence": "High",
-"safetyRating": 8,
-"reason": "Mirassol are on a strong winning streak and have a recent win over Lanús, while Lanús have a mixed record; going for Mirassol or Draw keeps the risk low and aligns with current form."
-},
-{ "id": "italy-u17-france-u17",
-"teamA": {
-"name": "Italy U17",
-"icon": "https://cdn.sofascore.app/api/v1/team/4000001/image.png"
-},
-"teamB": {
-"name": "France U17",
-"icon": "https://cdn.sofascore.app/api/v1/team/4000002/image.png"
-},
-"leagueName": "UEFA Under 17 Championship Group B",
-"prediction": "OVER 1.5 GOALS",
-"date": "2026-05-26",
-"confidence": "High",
-"safetyRating": 7,
-"reason": "Both teams are strong attacking sides in youth tournaments, with tournament‑wide trends showing high rates of over 1.5 goals; the match is unlikely to end in a 0‑0 or 1‑0 low‑scoring stalemate."
-} ]
+  {
+    "id": "brann-sarpsborg-08",
+    "teamA": {
+      "name": "Brann",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
+    },
+    "teamB": {
+      "name": "Sarpsborg 08",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "BTTS in 8/9 Brann matches and 7/8 H2H meetings; both teams averaging 1.8+ goals scored [web:17]"
+  },
+  {
+    "id": "brann-sarpsborg-08-over15",
+    "teamA": {
+      "name": "Brann",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
+    },
+    "teamB": {
+      "name": "Sarpsborg 08",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9.5,
+    "reason": "Eliteserien has 82% Over 1.5 goals rate; last 5 H2H all had 2+ goals [web:17][web:39]"
+  },
+  {
+    "id": "shamrock-rovers-st-patricks",
+    "teamA": {
+      "name": "Shamrock Rovers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2251/image.png"
+    },
+    "teamB": {
+      "name": "St Patrick's Athletic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2257/image.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9.5,
+    "reason": "Shamrock won last 4 home matches consecutively; defending champions with strong home form [web:37]"
+  },
+  {
+    "id": "france-u17-denmark-u17",
+    "teamA": {
+      "name": "France U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
+    },
+    "teamB": {
+      "name": "Denmark U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
+    },
+    "leagueName": "UEFA Under 17 Championship",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "France U17 won 4 of last 5 H2H meetings; stronger squad with UEFA championship experience [web:24][web:33]"
+  },
+  {
+    "id": "aalesund-hamkan",
+    "teamA": {
+      "name": "Aalesund",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2674/image.png"
+    },
+    "teamB": {
+      "name": "HamKam",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2680/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Norwegian Eliteserien averages 2.8 goals/game; 82% of matches hit Over 1.5 [web:39]"
+  },
+  {
+    "id": "vålerenga-kristiansund",
+    "teamA": {
+      "name": "Vålerenga",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
+    },
+    "teamB": {
+      "name": "Kristiansund",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2683/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Eliteserien 82% Over 1.5 rate; both teams score frequently in Norwegian league [web:39]"
+  },
+  {
+    "id": "shelbourne-galway-united",
+    "teamA": {
+      "name": "Shelbourne",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2254/image.png"
+    },
+    "teamB": {
+      "name": "Galway United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44945/image.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 8.5,
+    "reason": "Shelbourne unbeaten in last 6 (3W, 3D) including 1-0 vs Galway last season; strong home record [web:21]"
+  },
+  {
+    "id": "kfum-tromso",
+    "teamA": {
+      "name": "KFUM",
+      "icon": "https://cdn.sofascore.app/api/v1/team/139408/image.png"
+    },
+    "teamB": {
+      "name": "Tromsø",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2693/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 8.5,
+    "reason": "Eliteserien high-scoring trend; Tromsø 2nd in table with strong attack [web:1][web:6][web:41]"
+  },
+  {
+    "id": "fredrikstad-start",
+    "teamA": {
+      "name": "Fredrikstad",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2679/image.png"
+    },
+    "teamB": {
+      "name": "Start",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2686/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Fredrikstad won 3/4 home matches; Eliteserien 82% Over 1.5 goals rate [web:13][web:39]"
+  },
+  {
+    "id": "bosnia-herzegovina-north-macedonia",
+    "teamA": {
+      "name": "Bosnia-Herzegovina",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3699/image.png"
+    },
+    "teamB": {
+      "name": "North Macedonia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3703/image.png"
+    },
+    "leagueName": "Internationals Friendlies",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Bosnia won 4 of last 5 vs Macedonia; BTTS in 7 straight meetings; prediction 3-1 [web:43][web:46]"
+  },
+  {
+    "id": "orgryte-elfsborg",
+    "teamA": {
+      "name": "Örgryte",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2766/image.png"
+    },
+    "teamB": {
+      "name": "Elfsborg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2762/image.png"
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Elfsborg is established Allsvenskan top-half team; better squad quality than newly promoted Örgryte [web:4][web:9]"
+  }
+]
