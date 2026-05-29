@@ -1,70 +1,189 @@
 [
   {
-    "id": "crystal-palace-rayo-vallecano",
+    "id": "brann-sarpsborg-08",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1643/image.png"
+      "name": "Brann",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
     },
     "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2817/image.png"
+      "name": "Sarpsborg 08",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "BTTS in 8/9 Brann matches and 7/8 H2H meetings; both teams averaging 1.8+ goals scored [web:17]"
+  },
+  {
+    "id": "brann-sarpsborg-08-over15",
+    "teamA": {
+      "name": "Brann",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
+    },
+    "teamB": {
+      "name": "Sarpsborg 08",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-27",
+    "date": "2026-05-29",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "11 of 12 Conference League matches had Over 1.5 goals; Palace favored at home with strong attack, final typically high-scoring."
+    "safetyRating": 9.5,
+    "reason": "Eliteserien has 82% Over 1.5 goals rate; last 5 H2H all had 2+ goals [web:17][web:39]"
   },
   {
-    "id": "jamaica-india",
+    "id": "shamrock-rovers-st-patricks",
     "teamA": {
-      "name": "Jamaica",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4726/image.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2251/image.png"
     },
     "teamB": {
-      "name": "India",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4695/image.png"
+      "name": "St Patrick's Athletic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2257/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Irish Premier Division",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-27",
+    "date": "2026-05-29",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Jamaica 64.27% win probability, predicted 3-0 scoreline; India weak away form, Jamaica strong squad depth."
+    "safetyRating": 9.5,
+    "reason": "Shamrock won last 4 home matches consecutively; defending champions with strong home form [web:37]"
   },
   {
-    "id": "independiente-valle-rosario-central",
+    "id": "france-u17-denmark-u17",
     "teamA": {
-      "name": "Independiente Valle",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2392/image.png"
+      "name": "France U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
     },
     "teamB": {
-      "name": "Rosario Central",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2394/image.png"
+      "name": "Denmark U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "UEFA Under 17 Championship",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-27",
+    "date": "2026-05-29",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "IDV unbeaten in last 5 home games with 26 goals scored/0 conceded, 1.91 home favorite, Rosario Central poor away form."
+    "reason": "France U17 won 4 of last 5 H2H meetings; stronger squad with UEFA championship experience [web:24][web:33]"
   },
   {
-    "id": "libertad-ucv",
+    "id": "aalesund-hamkan",
     "teamA": {
-      "name": "Libertad",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2391/image.png"
+      "name": "Aalesund",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2674/image.png"
     },
     "teamB": {
-      "name": "UCV",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2398/image.png"
+      "name": "HamKam",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2680/image.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Norwegian Eliteserien averages 2.8 goals/game; 82% of matches hit Over 1.5 [web:39]"
+  },
+  {
+    "id": "vålerenga-kristiansund",
+    "teamA": {
+      "name": "Vålerenga",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
+    },
+    "teamB": {
+      "name": "Kristiansund",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2683/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Eliteserien 82% Over 1.5 rate; both teams score frequently in Norwegian league [web:39]"
+  },
+  {
+    "id": "shelbourne-galway-united",
+    "teamA": {
+      "name": "Shelbourne",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2254/image.png"
+    },
+    "teamB": {
+      "name": "Galway United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/44945/image.png"
+    },
+    "leagueName": "Irish Premier Division",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-27",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 8.5,
+    "reason": "Shelbourne unbeaten in last 6 (3W, 3D) including 1-0 vs Galway last season; strong home record [web:21]"
+  },
+  {
+    "id": "kfum-tromso",
+    "teamA": {
+      "name": "KFUM",
+      "icon": "https://cdn.sofascore.app/api/v1/team/139408/image.png"
+    },
+    "teamB": {
+      "name": "Tromsø",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2693/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 8.5,
+    "reason": "Eliteserien high-scoring trend; Tromsø 2nd in table with strong attack [web:1][web:6][web:41]"
+  },
+  {
+    "id": "fredrikstad-start",
+    "teamA": {
+      "name": "Fredrikstad",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2679/image.png"
+    },
+    "teamB": {
+      "name": "Start",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2686/image.png"
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Libertad 1.34-1.42 favorite, UCV lost 4-0 to Rosario Central in last match, Libertad strong home performance in group stage."
+    "reason": "Fredrikstad won 3/4 home matches; Eliteserien 82% Over 1.5 goals rate [web:13][web:39]"
+  },
+  {
+    "id": "bosnia-herzegovina-north-macedonia",
+    "teamA": {
+      "name": "Bosnia-Herzegovina",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3699/image.png"
+    },
+    "teamB": {
+      "name": "North Macedonia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3703/image.png"
+    },
+    "leagueName": "Internationals Friendlies",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Bosnia won 4 of last 5 vs Macedonia; BTTS in 7 straight meetings; prediction 3-1 [web:43][web:46]"
+  },
+  {
+    "id": "orgryte-elfsborg",
+    "teamA": {
+      "name": "Örgryte",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2766/image.png"
+    },
+    "teamB": {
+      "name": "Elfsborg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2762/image.png"
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-29",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Elfsborg is established Allsvenskan top-half team; better squad quality than newly promoted Örgryte [web:4][web:9]"
   }
 ]
