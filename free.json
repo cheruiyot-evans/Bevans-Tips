@@ -1,36 +1,87 @@
 [
-{
-    "id": "brann-sarpsborg-08",
+  {
+    "id": "flamengo-coritiba",
     "teamA": {
-      "name": "Brann",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
+      "name": "Flamengo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1963/image.png"
     },
     "teamB": {
-      "name": "Sarpsborg 08",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
+      "name": "Coritiba",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1984/image.png"
     },
-    "leagueName": "Norwegian Eliteserien",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-29",
+    "leagueName": "Brazilian Serie A",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-30",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "BTTS in 8/9 Brann matches and 7/8 H2H meetings; both teams averaging 1.8+ goals scored [web:17]"
+    "safetyRating": 9,
+    "reason": "Flamengo has exceptional home form: 16 wins, 3 draws, 1 loss in last 20 home matches; Flamengo 9-4-3 (31 pts) vs Coritiba 7-5-5 (26 pts) [web:17][web:21]."
   },
   {
-    "id": "brann-sarpsborg-08-over15",
+    "id": "aik-sirius",
     "teamA": {
-      "name": "Brann",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2676/image.png"
+      "name": "AIK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2448/image.png"
     },
     "teamB": {
-      "name": "Sarpsborg 08",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
+      "name": "Sirius",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2456/image.png"
     },
-    "leagueName": "Norwegian Eliteserien",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-29",
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-30",
     "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Eliteserien has 82% Over 1.5 goals rate; last 5 H2H all had 2+ goals [web:17][web:39]"
+    "safetyRating": 9,
+    "reason": "AIK 3rd in Allsvenskan, unbeaten at home in 7 of last 8 H2H vs Sirius; AIK won 14 of 23 meetings, 6 home wins at Friends Arena [web:2][web:7]."
+  },
+  {
+    "id": "malmo-ff-halmstad",
+    "teamA": {
+      "name": "Malmö FF",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2445/image.png"
+    },
+    "teamB": {
+      "name": "Halmstad",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2452/image.png"
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-30",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Malmö FF hasn't lost to Halmstad in 24 meetings (20W, 4D); dominant historical H2H advantage [web:4]."
+  },
+  {
+    "id": "chengdu-rongcheng-shandong",
+    "teamA": {
+      "name": "Chengdu Rongcheng",
+      "icon": "https://cdn.sofascore.app/api/v1/team/34521/image.png"
+    },
+    "teamB": {
+      "name": "Shandong Taishan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/34498/image.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-30",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Chengdu Rongcheng leads CSL 1st place (34 pts from 14 games, 11W-1D-2L); Shandong Taishan 5th (18 pts); clear league position advantage [web:31]."
+  },
+  {
+    "id": "hjk-mariehamn",
+    "teamA": {
+      "name": "HJK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3918/image.png"
+    },
+    "teamB": {
+      "name": "Mariehamn",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3925/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-30",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "HJK 5th (12 pts, 3W-3D-3L) vs Mariehamn 12th-last (4 pts, 0W-4D-4L); Mariehamn winless in 8 games [web:14][web:23]."
   }
 ]
