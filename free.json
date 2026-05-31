@@ -1,87 +1,53 @@
 [
   {
-    "id": "flamengo-coritiba",
+    "id": "germany-finland",
     "teamA": {
-      "name": "Flamengo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1963/image.png"
+      "name": "Germany",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3290/image.png"
     },
     "teamB": {
-      "name": "Coritiba",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1984/image.png"
+      "name": "Finland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3306/image.png"
     },
-    "leagueName": "Brazilian Serie A",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
+    "date": "2026-05-31",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Flamengo has exceptional home form: 16 wins, 3 draws, 1 loss in last 20 home matches; Flamengo 9-4-3 (31 pts) vs Coritiba 7-5-5 (26 pts) [web:17][web:21]."
+    "safetyRating": 10,
+    "reason": "Germany 5 consecutive wins (15 GF, 4 GA), Finland lost 4 of last 8, Germany odds 1.12 for win signaling minimal upset risk."
   },
   {
-    "id": "aik-sirius",
+    "id": "brazil-panama",
     "teamA": {
-      "name": "AIK",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2448/image.png"
+      "name": "Brazil",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5931/image.png"
     },
     "teamB": {
-      "name": "Sirius",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2456/image.png"
+      "name": "Panama",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5934/image.png"
     },
-    "leagueName": "Swedish Allsvenskan",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
+    "date": "2026-05-31",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "AIK 3rd in Allsvenskan, unbeaten at home in 7 of last 8 H2H vs Sirius; AIK won 14 of 23 meetings, 6 home wins at Friends Arena [web:2][web:7]."
+    "safetyRating": 10,
+    "reason": "Brazil 5-time World Cup champions at Maracanã, expected 3-0 win, overwhelming home advantage against rising but inferior Panama."
   },
   {
-    "id": "malmo-ff-halmstad",
+    "id": "japan-iceland",
     "teamA": {
-      "name": "Malmö FF",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2445/image.png"
+      "name": "Japan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3430/image.png"
     },
     "teamB": {
-      "name": "Halmstad",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2452/image.png"
+      "name": "Iceland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3303/image.png"
     },
-    "leagueName": "Swedish Allsvenskan",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
+    "date": "2026-05-31",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Malmö FF hasn't lost to Halmstad in 24 meetings (20W, 4D); dominant historical H2H advantage [web:4]."
-  },
-  {
-    "id": "chengdu-rongcheng-shandong",
-    "teamA": {
-      "name": "Chengdu Rongcheng",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34521/image.png"
-    },
-    "teamB": {
-      "name": "Shandong Taishan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34498/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Chengdu Rongcheng leads CSL 1st place (34 pts from 14 games, 11W-1D-2L); Shandong Taishan 5th (18 pts); clear league position advantage [web:31]."
-  },
-  {
-    "id": "hjk-mariehamn",
-    "teamA": {
-      "name": "HJK",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3918/image.png"
-    },
-    "teamB": {
-      "name": "Mariehamn",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3925/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "HJK 5th (12 pts, 3W-3D-3L) vs Mariehamn 12th-last (4 pts, 0W-4D-4L); Mariehamn winless in 8 games [web:14][web:23]."
+    "reason": "Japan 5 consecutive wins (10 GF, 2 GA), Iceland 2W-1D-2L last 5 with 7 GA, Japan odds -385 for win, home advantage."
   }
 ]
