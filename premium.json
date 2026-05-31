@@ -1,342 +1,359 @@
 [
   {
-    "id": "flamengo-coritiba",
+    "id": "germany-finland",
     "teamA": {
-      "name": "Flamengo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1963/image.png"
+      "name": "Germany",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3290/image.png"
     },
     "teamB": {
-      "name": "Coritiba",
+      "name": "Finland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3306/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Germany 5 consecutive wins (15 GF, 4 GA), Finland lost 4 of last 8, Germany odds 1.12 for win signaling minimal upset risk."
+  },
+  {
+    "id": "brazil-panama",
+    "teamA": {
+      "name": "Brazil",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5931/image.png"
+    },
+    "teamB": {
+      "name": "Panama",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5934/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Brazil 5-time World Cup champions at Maracanã, expected 3-0 win, overwhelming home advantage against rising but inferior Panama."
+  },
+  {
+    "id": "japan-iceland",
+    "teamA": {
+      "name": "Japan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3430/image.png"
+    },
+    "teamB": {
+      "name": "Iceland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3303/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Japan 5 consecutive wins (10 GF, 2 GA), Iceland 2W-1D-2L last 5 with 7 GA, Japan odds -385 for win, home advantage."
+  },
+  {
+    "id": "palmeiras-chapecoense",
+    "teamA": {
+      "name": "Palmeiras",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1977/image.png"
+    },
+    "teamB": {
+      "name": "Chapecoense",
       "icon": "https://cdn.sofascore.app/api/v1/team/1984/image.png"
     },
     "leagueName": "Brazilian Serie A",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
+    "date": "2026-05-31",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Flamengo has exceptional home form: 16 wins, 3 draws, 1 loss in last 20 home matches; Flamengo 9-4-3 (31 pts) vs Coritiba 7-5-5 (26 pts) [web:17][web:21]."
+    "reason": "Palmeiras won 5 of last 6 H2H (1D), 10-5-1 record 35 PTS, Chapecoense 0W-1D-5L in last 6 vs Palmeiras, strong home form."
   },
   {
-    "id": "aik-sirius",
+    "id": "switzerland-jordan",
     "teamA": {
-      "name": "AIK",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2448/image.png"
+      "name": "Switzerland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3299/image.png"
     },
     "teamB": {
-      "name": "Sirius",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2456/image.png"
-    },
-    "leagueName": "Swedish Allsvenskan",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "AIK 3rd in Allsvenskan, unbeaten at home in 7 of last 8 H2H vs Sirius; AIK won 14 of 23 meetings, 6 home wins at Friends Arena [web:2][web:7]."
-  },
-  {
-    "id": "malmo-ff-halmstad",
-    "teamA": {
-      "name": "Malmö FF",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2445/image.png"
-    },
-    "teamB": {
-      "name": "Halmstad",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2452/image.png"
-    },
-    "leagueName": "Swedish Allsvenskan",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Malmö FF hasn't lost to Halmstad in 24 meetings (20W, 4D); dominant historical H2H advantage [web:4]."
-  },
-  {
-    "id": "chengdu-rongcheng-shandong",
-    "teamA": {
-      "name": "Chengdu Rongcheng",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34521/image.png"
-    },
-    "teamB": {
-      "name": "Shandong Taishan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34498/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Chengdu Rongcheng leads CSL 1st place (34 pts from 14 games, 11W-1D-2L); Shandong Taishan 5th (18 pts); clear league position advantage [web:31]."
-  },
-  {
-    "id": "hjk-mariehamn",
-    "teamA": {
-      "name": "HJK",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3918/image.png"
-    },
-    "teamB": {
-      "name": "Mariehamn",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3925/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "HJK 5th (12 pts, 3W-3D-3L) vs Mariehamn 12th-last (4 pts, 0W-4D-4L); Mariehamn winless in 8 games [web:14][web:23]."
-  },
-  {
-    "id": "arsenal-psg-ucl-final",
-    "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1644/image.png"
-    },
-    "teamB": {
-      "name": "Arsenal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/42/image.png"
-    },
-    "leagueName": "UEFA Champions League",
-    "prediction": "DRAW NO BET ARSENAL",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Arsenal has best UCL defense (6 goals conceded in 14 games), unbeaten in knockout stages without conceding from open play, and beat PSG home/away in last year's semi-finals [web:11][web:38]."
-  },
-  {
-    "id": "kuops-inter-turku",
-    "teamA": {
-      "name": "KuPS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3924/image.png"
-    },
-    "teamB": {
-      "name": "Inter Turku",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3921/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "KuPS 2nd (19 pts) vs Inter Turku 1st (23 pts); top 2 clash with strong attacks; Veikkausliiga averages 2.7 goals per game [web:15][web:23]."
-  },
-  {
-    "id": "gais-kalmar",
-    "teamA": {
-      "name": "GAIS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2449/image.png"
-    },
-    "teamB": {
-      "name": "Kalmar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2451/image.png"
-    },
-    "leagueName": "Swedish Allsvenskan",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "GAIS 6th (good form: W-W-W-D-L-W-W-W-W-D-L), Kalmar 11th; both teams averaging 2+ goals per game in recent matches [web:3][web:8]."
-  },
-  {
-    "id": "athletico-mirassol",
-    "teamA": {
-      "name": "Athletico Paranaense",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1961/image.png"
-    },
-    "teamB": {
-      "name": "Mirassol",
-      "icon": "https://cdn.sofascore.app/api/v1/team/59845/image.png"
-    },
-    "leagueName": "Brazilian Serie A",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Mirassol 7th with strong attack (17 goals in 11 games); Brazilian Serie A matches typically see 2+ goals; both teams scoring trend [web:45]."
-  },
-  {
-    "id": "henan-zhejiang",
-    "teamA": {
-      "name": "Henan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34502/image.png"
-    },
-    "teamB": {
-      "name": "Zhejiang",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34516/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Henan 8th (15 pts, 6W-3D-5L) vs Zhejiang 9th (14 pts); Zhejiang scored 4-1 vs Shandong in last match, offensive trend [web:31]."
-  },
-  {
-    "id": "bahia-botafogo",
-    "teamA": {
-      "name": "Bahia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1957/image.png"
-    },
-    "teamB": {
-      "name": "Botafogo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1959/image.png"
-    },
-    "leagueName": "Brazilian Serie A",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Bahia 6th (18 pts, 5W-3D-3L) vs Botafogo 9th (15 pts, 4W-3D-3L); both mid-table teams with solid attacking records [web:45]."
-  },
-  {
-    "id": "gremio-corinthians",
-    "teamA": {
-      "name": "Grêmio",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1971/image.png"
-    },
-    "teamB": {
-      "name": "Corinthians",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1973/image.png"
-    },
-    "leagueName": "Brazilian Serie A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Corinthians better recent form with 7 wins in last 14 matches; Grêmio 14th struggling; Corinthians away record improving [web:43][web:46]."
-  },
-  {
-    "id": "molde-sandefjord",
-    "teamA": {
-      "name": "Molde",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2687/image.png"
-    },
-    "teamB": {
-      "name": "Sandefjord",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2694/image.png"
-    },
-    "leagueName": "Norwegian Eliteserien",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Molde 5th (20 pts, 5W-1D-4L) with strong home history vs Sandefjord; Molde won 13 of 27 H2H meetings (2.1 PPG) [web:1][web:26]."
-  },
-  {
-    "id": "shenzhen-qingdao-hainiu",
-    "teamA": {
-      "name": "Shenzhen Peng City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34525/image.png"
-    },
-    "teamB": {
-      "name": "Qingdao Hainiu",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34518/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "CSL matches average 2.6 goals per game; both teams in mid-table with attacking play; Shenzhen 10th, Qingdao 11th [web:31]."
-  },
-  {
-    "id": "chongqing-beijing-guoan",
-    "teamA": {
-      "name": "Chongqing Tonglianglong",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34520/image.png"
-    },
-    "teamB": {
-      "name": "Beijing Guoan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34497/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Chongqing 2nd (28 pts) vs Beijing 4th (22 pts); both top-4 teams with solid form; Beijing Guoan strong away record [web:31]."
-  },
-  {
-    "id": "qn-west-coast-shanghai-shenhua",
-    "teamA": {
-      "name": "Qingdao West Coast",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34526/image.png"
-    },
-    "teamB": {
-      "name": "Shanghai Shenhua",
-      "icon": "https://cdn.sofascore.app/api/v1/team/34501/image.png"
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Shanghai Shenhua 4th (22 pts) has better squad quality vs Qingdao West Coast 12th (10 pts); Shenhua won 3 of last 5 away [web:31][web:35]."
-  },
-  {
-    "id": "lahti-ilves",
-    "teamA": {
-      "name": "Lahti",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3922/image.png"
-    },
-    "teamB": {
-      "name": "Ilves",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3920/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Ilves 7th (9 pts) with solid attack; Lahti 9th (7 pts); Veikkausliiga averages 2.7 goals per game; both teams score-concede trend [web:23]."
-  },
-  {
-    "id": "tps-vps",
-    "teamA": {
-      "name": "TPS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3923/image.png"
-    },
-    "teamB": {
-      "name": "VPS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3926/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "TPS 6th (8 pts) vs VPS 4th (10 pts); both mid-table with attacking records; Veikkausliiga high-scoring league average [web:23]."
-  },
-  {
-    "id": "gnistan-sjk",
-    "teamA": {
-      "name": "Gnistan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/62345/image.png"
-    },
-    "teamB": {
-      "name": "SJK",
-      "icon": "https://cdn.sofascore.app/api/v1/team/22395/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-30",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Gnistan 8th (8 pts) vs SJK 11th (6 pts); both teams with defensive vulnerabilities; Veikkausliiga averages 2.7 goals/game [web:23][web:36]."
-  },
-  {
-    "id": "scotland-curacao",
-    "teamA": {
-      "name": "Scotland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4488/image.png"
-    },
-    "teamB": {
-      "name": "Curaçao",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4521/image.png"
+      "name": "Jordan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3428/image.png"
     },
     "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-05-30",
+    "date": "2026-05-31",
+    "confidence": "High",
+    "safetyRating": 9,
+    "reason": "Switzerland odds 1.25 for win, superior FIFA ranking, Jordan defense struggles vs attacking prowess, expected 2-0 win."
+  },
+  {
+    "id": "singapore-mongolia",
+    "teamA": {
+      "name": "Singapore",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3465/image.png"
+    },
+    "teamB": {
+      "name": "Mongolia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3468/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Singapore clear favorites, Mongolia hasn't played in 1.5 years (no match practice), home advantage at Jalan Besar Stadium, expected 2-0 win to nil."
+  },
+  {
+    "id": "czech-republic-kosovo",
+    "teamA": {
+      "name": "Czech Republic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3301/image.png"
+    },
+    "teamB": {
+      "name": "Kosovo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3426/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Czech Republic unbeaten in 4 of last 5, haven't lost at home since 2022, Kosovo lost last 2 matches, World Cup 2026 qualifier advantage."
+  },
+  {
+    "id": "belgium-u17-estonia-u17",
+    "teamA": {
+      "name": "Belgium U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50123/image.png"
+    },
+    "teamB": {
+      "name": "Estonia U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50125/image.png"
+    },
+    "leagueName": "UEFA Under 17 Championship",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
     "confidence": "High",
     "safetyRating": 7,
-    "reason": "Scotland FIFA ranked 39th vs Curaçao 85th; Scotland stronger squad depth; home advantage in friendly;favorable ranking gap [web:14]."
+    "reason": "Belgium U17 triumphed in Matchday 1 (U17 EURO), Estonia lost 1-4 to Spain in opener, Belgium odds 1.70 favored, clear quality gap."
+  },
+  {
+    "id": "spain-u17-croatia-u17",
+    "teamA": {
+      "name": "Spain U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50124/image.png"
+    },
+    "teamB": {
+      "name": "Croatia U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50126/image.png"
+    },
+    "leagueName": "UEFA Under 17 Championship",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Spain U17 triumphed in Matchday 1 (4-1 vs Estonia), one of 8 finalists, traditional football powerhouse at youth level, Croatia missed qualification recently."
+  },
+  {
+    "id": "rb-bragantino-internacional",
+    "teamA": {
+      "name": "RB Bragantino",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5986/image.png"
+    },
+    "teamB": {
+      "name": "Internacional",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1974/image.png"
+    },
+    "leagueName": "Brazilian Serie A",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "RB Bragantino 5th place (26 pts) vs Internacional 13th (21 pts), home advantage, Bragantino stronger recent form despite 3 losses."
+  },
+  {
+    "id": "oulu-jaro",
+    "teamA": {
+      "name": "Oulu",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2726/image.png"
+    },
+    "teamB": {
+      "name": "Jaro",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2724/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Oulu 6W-0D-3L in 9 matches (2 PPG), 100% home win rate this season, Jaro 1W-4D-4L (0.78 PPG), Jaro lost 0-3, 0-5 recently."
+  },
+  {
+    "id": "vasco-atletico-mineiro",
+    "teamA": {
+      "name": "Vasco da Gama",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1973/image.png"
+    },
+    "teamB": {
+      "name": "Atlético Mineiro",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1975/image.png"
+    },
+    "leagueName": "Brazilian Serie A",
+    "prediction": "DOUBLE CHANCE 12",
+    "date": "2026-05-31",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Both teams to score likely, Vasco conceded in last 7 Serie A games, Atletico 79% chance to score 1+, double chance 12 odds 1.33 safe."
+  },
+  {
+    "id": "poland-ukraine",
+    "teamA": {
+      "name": "Poland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3297/image.png"
+    },
+    "teamB": {
+      "name": "Ukraine",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3307/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 6,
+    "reason": "Poland won last 2 H2H (3-1, 2-0), home advantage, Poland slight edge per algorithm (64.24% win probability), but Ukraine motivated."
+  },
+  {
+    "id": "degerfors-brommapojkarna",
+    "teamA": {
+      "name": "Degerfors",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2686/image.png"
+    },
+    "teamB": {
+      "name": "Brommapojkarna",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2684/image.png"
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 6,
+    "reason": "Degerfors scored in 9 straight home games, Brommapojkarna conceded in 8 of last 10, both teams averaging 2.5+ goals per match recently."
+  },
+  {
+    "id": "china-saudi-u20",
+    "teamA": {
+      "name": "China PR U20",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50201/image.png"
+    },
+    "teamB": {
+      "name": "Saudi Arabia U21",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50203/image.png"
+    },
+    "leagueName": "Tournoi Maurice Revello",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 6,
+    "reason": "Tournament average 2.8 goals/game, China U20 vs Saudi Arabia H2H shows 2-3 goals consistently, both teams scoring in 70% of matches."
+  },
+  {
+    "id": "congo-dr-tunisia",
+    "teamA": {
+      "name": "Congo DR U20",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50205/image.png"
+    },
+    "teamB": {
+      "name": "Tunisia U23",
+      "icon": "https://cdn.sofascore.app/api/v1/team/50207/image.png"
+    },
+    "leagueName": "Tournoi Maurice Revello",
+    "prediction": "DRAW NO BET HOME",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 6,
+    "reason": "DR Congo U20 best bet per analysis, Tunisia U23 inconsistent away form, DR Congo home advantage in tournament, expected 1-0 narrow win."
+  },
+  {
+    "id": "vasteras-goteborg",
+    "teamA": {
+      "name": "Västerås",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2693/image.png"
+    },
+    "teamB": {
+      "name": "IFK Göteborg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2689/image.png"
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 6,
+    "reason": "Västerås 60% draw rate last 5 home, IFK Göteborg drew 3 of last 5, Västerås 10th vs Göteborg 14th, home advantage reduces upset risk."
+  },
+  {
+    "id": "tianjin-dalian",
+    "teamA": {
+      "name": "Tianjin Jinmen Tiger",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2801/image.png"
+    },
+    "teamB": {
+      "name": "Dalian Yingbo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2803/image.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 5,
+    "reason": "Dalian 3rd place (22 PTS) vs Tianjin 16th (2 PTS), Dalian 7-1-6 record strong away form, Tianjin 2-6-6 poor home record, clear quality gap."
+  },
+  {
+    "id": "wuhan-yunnan",
+    "teamA": {
+      "name": "Wuhan Three Towns",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2805/image.png"
+    },
+    "teamB": {
+      "name": "Yunnan Yukun",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2807/image.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 5,
+    "reason": "Yunnan 4th place (20 PTS) vs Wuhan 15th (7 PTS), Wuhan lost 3 straight at home, Yunnan strong away form, clear table gap favors away."
+  },
+  {
+    "id": "cape-verde-serbia",
+    "teamA": {
+      "name": "Cape Verde",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3422/image.png"
+    },
+    "teamB": {
+      "name": "Serbia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3298/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 5,
+    "reason": "Serbia FIFA ranking significantly higher, Cape Verde small nation with limited squad depth, Serbia odds favorite, expected narrow away win or draw."
+  },
+  {
+    "id": "us-senegal",
+    "teamA": {
+      "name": "United States",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3308/image.png"
+    },
+    "teamB": {
+      "name": "Senegal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3424/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-05-31",
+    "confidence": "Moderate",
+    "safetyRating": 5,
+    "reason": "US home advantage, Senegal African Cup winners but traveling, balanced H2H history, home draw protection reduces risk in friendly."
   }
 ]
