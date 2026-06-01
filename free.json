@@ -1,21 +1,5 @@
 [
-  {
-    "id": "norway-sweden",
-    "teamA": {
-      "name": "Norway",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4699/image.png"
-    },
-    "teamB": {
-      "name": "Sweden",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
-    },
-    "leagueName": "Internationals Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Norway won 4 of last 11 recent H2H meetings playing at home in Oslo. Norway has consistent form with Haaland leading attack. Both teams preparing for World Cup with stable squads."
-  },
+ 
   {
     "id": "france-u17-montenegro-u17",
     "teamA": {
