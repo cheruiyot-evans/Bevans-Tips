@@ -1,20 +1,20 @@
 [
  
-  {
-    "id": "france-u17-montenegro-u17",
+   {
+    "id": "croatia-belgium",
     "teamA": {
-      "name": "France U17",
-      "icon": "https://cdn.sofascore.app/api/v1/team/157890/image.png"
+      "name": "Croatia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
     },
     "teamB": {
-      "name": "Montenegro U17",
-      "icon": "https://cdn.sofascore.app/api/v1/team/157904/image.png"
+      "name": "Belgium",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
     },
-    "leagueName": "UEFA Under 17 Championship Group B",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
+    "leagueName": "Internationals - Friendlies",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-06-02",
     "confidence": "High",
     "safetyRating": 7,
-    "reason": "France U17 in 2nd position fighting for Semi-finals with strong tournament form. Montenegro U17 in 4th position struggling. France has superior youth talent and main prediction is home win 1-0."
+    "reason": "Belgium unbeaten since March 2025 with 38 goals in 11 matches; Croatia winless in 4 H2H; both teams strong offensively, BTTS highly likely [web:1][web:11][web:19]."
   }
 ]
