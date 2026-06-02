@@ -1,87 +1,70 @@
 [
   {
-    "id": "slovakia-malta",
+    "id": "morocco-madagascar",
     "teamA": {
-      "name": "Slovakia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4418/image.png"
+      "name": "Morocco",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4778/image.png"
     },
     "teamB": {
-      "name": "Malta",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4426/image.png"
+      "name": "Madagascar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/14356/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Internationals - Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
+    "date": "2026-06-02",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Slovakia won 8 of 10 H2H meetings including 6-0 away win in 2021. Slovakia is significantly stronger with Malta being one of Europe's weakest teams. Slovakia won 7 of last 9 matches."
+    "safetyRating": 9,
+    "reason": "Morocco ranked 1st in Africa (11th globally), won 3-0 vs Madagascar in preview; Morocco scored 7 goals in last 2 outings with dominant attacking form [web:6][web:23][web:26]."
   },
   {
-    "id": "turkey-north-macedonia",
+    "id": "georgia-romania",
     "teamA": {
-      "name": "Turkey",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
+      "name": "Georgia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
     },
     "teamB": {
-      "name": "North Macedonia",
+      "name": "Romania",
       "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Internationals - Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Turkey has 3W-0L-2D in last 5 matches vs North Macedonia's 0W-2L-3D. Turkey at home is dominant with strong attacking form. Clear quality gap favors Turkey."
-  },
-  {
-    "id": "austria-tunisia",
-    "teamA": {
-      "name": "Austria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4705/image.png"
-    },
-    "teamB": {
-      "name": "Tunisia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4830/image.png"
-    },
-    "leagueName": "Internationals Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Austria has 61.8% win probability with 65% algorithm prediction. Austria strong at home with 6 wins in 9 home games and 0 losses. Tunisia struggles away from home."
-  },
-  {
-    "id": "norway-sweden",
-    "teamA": {
-      "name": "Norway",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4699/image.png"
-    },
-    "teamB": {
-      "name": "Sweden",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
-    },
-    "leagueName": "Internationals Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
+    "date": "2026-06-02",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Norway won 4 of last 11 recent H2H meetings playing at home in Oslo. Norway has consistent form with Haaland leading attack. Both teams preparing for World Cup with stable squads."
+    "reason": "Georgia home favorite at Mikheil Meskhi Stadium, Double Chance 1X at 1.32 odds is key bet; Romania in inconsistent form for friendly [web:12][web:16]."
   },
   {
-    "id": "france-u17-montenegro-u17",
+    "id": "croatia-belgium",
     "teamA": {
-      "name": "France U17",
-      "icon": "https://cdn.sofascore.app/api/v1/team/157890/image.png"
+      "name": "Croatia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
     },
     "teamB": {
-      "name": "Montenegro U17",
-      "icon": "https://cdn.sofascore.app/api/v1/team/157904/image.png"
+      "name": "Belgium",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
     },
-    "leagueName": "UEFA Under 17 Championship Group B",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
+    "leagueName": "Internationals - Friendlies",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-06-02",
     "confidence": "High",
     "safetyRating": 7,
-    "reason": "France U17 in 2nd position fighting for Semi-finals with strong tournament form. Montenegro U17 in 4th position struggling. France has superior youth talent and main prediction is home win 1-0."
+    "reason": "Belgium unbeaten since March 2025 with 38 goals in 11 matches; Croatia winless in 4 H2H; both teams strong offensively, BTTS highly likely [web:1][web:11][web:19]."
+  },
+  {
+    "id": "wales-ghana",
+    "teamA": {
+      "name": "Wales",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4698/image.png"
+    },
+    "teamB": {
+      "name": "Ghana",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4722/image.png"
+    },
+    "leagueName": "Internationals - Friendlies",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-06-02",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Ghana lost last 5 matches with poor attacking form; Wales won only 2 of last 7; prediction 1-1 draw, low-scoring friendly expected [web:2][web:7]."
   }
 ]
