@@ -1,36 +1,36 @@
 [
    {
-    "id": "slovakia-malta",
+    "id": "georgia-romania",
     "teamA": {
-      "name": "Slovakia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4418/image.png"
+      "name": "Georgia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
     },
     "teamB": {
-      "name": "Malta",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4426/image.png"
+      "name": "Romania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Internationals - Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Slovakia won 8 of 10 H2H meetings including 6-0 away win in 2021. Slovakia is significantly stronger with Malta being one of Europe's weakest teams. Slovakia won 7 of last 9 matches."
-  },
-  {
-    "id": "norway-sweden",
-    "teamA": {
-      "name": "Norway",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4699/image.png"
-    },
-    "teamB": {
-      "name": "Sweden",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
-    },
-    "leagueName": "Internationals Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-01",
+    "date": "2026-06-02",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Norway won 4 of last 11 recent H2H meetings playing at home in Oslo. Norway has consistent form with Haaland leading attack. Both teams preparing for World Cup with stable squads."
+    "reason": "Georgia home favorite at Mikheil Meskhi Stadium, Double Chance 1X at 1.32 odds is key bet; Romania in inconsistent form for friendly [web:12][web:16]."
+  },
+  {
+    "id": "croatia-belgium",
+    "teamA": {
+      "name": "Croatia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
+    },
+    "teamB": {
+      "name": "Belgium",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
+    },
+    "leagueName": "Internationals - Friendlies",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-06-02",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Belgium unbeaten since March 2025 with 38 goals in 11 matches; Croatia winless in 4 H2H; both teams strong offensively, BTTS highly likely [web:1][web:11][web:19]."
   }
 ]
