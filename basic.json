@@ -1,36 +1,104 @@
 [
-   {
-    "id": "georgia-romania",
+    {
+    "id": "netherlands-algeria",
     "teamA": {
-      "name": "Georgia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
+      "name": "Netherlands",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1632/image.png"
     },
     "teamB": {
-      "name": "Romania",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
+      "name": "Algeria",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3512/image.png"
     },
-    "leagueName": "Internationals - Friendlies",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-02",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Georgia home favorite at Mikheil Meskhi Stadium, Double Chance 1X at 1.32 odds is key bet; Romania in inconsistent form for friendly [web:12][web:16]."
+    "date": "2026-06-03",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Netherlands unbeaten 10 matches, unbeaten at home since 2023, FIFA #7 vs #29, scored 27 goals in qualifying [page:1]"
   },
   {
-    "id": "croatia-belgium",
+    "id": "philippines-guam",
     "teamA": {
-      "name": "Croatia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
+      "name": "Philippines",
+      "icon": "https://cdn.sofascore.app/api/v1/team/14438/image.png"
     },
     "teamB": {
-      "name": "Belgium",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
+      "name": "Guam",
+      "icon": "https://cdn.sofascore.app/api/v1/team/14439/image.png"
     },
-    "leagueName": "Internationals - Friendlies",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-06-02",
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-03",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Philippines win odds 1.03, 1-3-1 last 5 form vs Guam's inconsistency, home advantage at Rizal Memorial [page:21]"
+  },
+  {
+    "id": "portugal-u21-northern-ireland-u21",
+    "teamA": {
+      "name": "Portugal U21",
+      "icon": "https://cdn.sofascore.app/api/v1/team/14368/image.png"
+    },
+    "teamB": {
+      "name": "Northern Ireland U21",
+      "icon": "https://cdn.sofascore.app/api/v1/team/14364/image.png"
+    },
+    "leagueName": "U21 International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-03",
     "confidence": "High",
+    "safetyRating": 8.5,
+    "reason": "Portugal U21 win odds 1.13, Double Chance 1.03, Portugal has elite youth development system [web:23]"
+  },
+  {
+    "id": "denmark-congo-dr",
+    "teamA": {
+      "name": "Congo DR",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3508/image.png"
+    },
+    "teamB": {
+      "name": "Denmark",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1633/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-03",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Denmark significantly stronger FIFA ranking, Congo DR 11.51% win probability, Denmark quality advantage [web:12][web:20]"
+  },
+  {
+    "id": "tanzania-malawi",
+    "teamA": {
+      "name": "Tanzania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3534/image.png"
+    },
+    "teamB": {
+      "name": "Malawi",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3533/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-03",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Tanzania home favorite 1.83 odds, home advantage in African friendly [web:6]"
+  },
+  {
+    "id": "poland-nigeria",
+    "teamA": {
+      "name": "Poland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1630/image.png"
+    },
+    "teamB": {
+      "name": "Nigeria",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3499/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-03",
+    "confidence": "Medium-High",
     "safetyRating": 7,
-    "reason": "Belgium unbeaten since March 2025 with 38 goals in 11 matches; Croatia winless in 4 H2H; both teams strong offensively, BTTS highly likely [web:1][web:11][web:19]."
+    "reason": "Poland home advantage, Lewandowski factor, World Cup preparation match [web:24][web:28]"
   }
 ]
