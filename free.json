@@ -1,20 +1,36 @@
 [
- 
-   {
-    "id": "croatia-belgium",
+  {
+    "id": "luxembourg-italy",
     "teamA": {
-      "name": "Croatia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
+      "name": "Luxembourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4708/image.png"
     },
     "teamB": {
-      "name": "Belgium",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
+      "name": "Italy",
+      "icon": "https://cdn.sofascore.app/api/v1/team/768/image.png"
     },
-    "leagueName": "Internationals - Friendlies",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-06-02",
-    "confidence": "High",
-    "safetyRating": 7,
-    "reason": "Belgium unbeaten since March 2025 with 38 goals in 11 matches; Croatia winless in 4 H2H; both teams strong offensively, BTTS highly likely [web:1][web:11][web:19]."
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-03",
+    "confidence": "Very High",
+    "safetyRating": 9.5,
+    "reason": "Italy (12th FIFA) vs Luxembourg (98th): Luxembourg failed to score in 7/10 games, lost 7/8 H2H vs Italy, Italy scored 2+ goals in 7/9 fixtures [page:1]"
+  },
+  {
+    "id": "netherlands-algeria",
+    "teamA": {
+      "name": "Netherlands",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1632/image.png"
+    },
+    "teamB": {
+      "name": "Algeria",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3512/image.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-03",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Netherlands unbeaten 10 matches, unbeaten at home since 2023, FIFA #7 vs #29, scored 27 goals in qualifying [page:1]"
   }
 ]
