@@ -1,172 +1,189 @@
 [
   {
-    "id": "luxembourg-italy",
+    "id": "spain-iraq",
     "teamA": {
-      "name": "Luxembourg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4708/image.png"
+      "name": "Spain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/9606/image.png"
     },
     "teamB": {
-      "name": "Italy",
-      "icon": "https://cdn.sofascore.app/api/v1/team/768/image.png"
+      "name": "Iraq",
+      "icon": "https://cdn.sofascore.app/api/v1/team/15059/image.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-03",
+    "leagueName": "Internationals Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-04",
     "confidence": "Very High",
     "safetyRating": 9.5,
-    "reason": "Italy (12th FIFA) vs Luxembourg (98th): Luxembourg failed to score in 7/10 games, lost 7/8 H2H vs Italy, Italy scored 2+ goals in 7/9 fixtures [page:1]"
+    "reason": "Spain on 8-match unbeaten run, odds 1.03 for win. Scored 2+ goals in 14 of last 15 games. Iraq overwhelming underdogs."
   },
   {
-    "id": "netherlands-algeria",
+    "id": "france-ivory-coast",
     "teamA": {
-      "name": "Netherlands",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1632/image.png"
+      "name": "France",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3376/image.png"
     },
     "teamB": {
-      "name": "Algeria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3512/image.png"
+      "name": "Ivory Coast",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2836/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Netherlands unbeaten 10 matches, unbeaten at home since 2023, FIFA #7 vs #29, scored 27 goals in qualifying [page:1]"
+    "reason": "France on 4-game winning run, unbeaten in 3 H2Hs (W2, D1). Favorite at 1.28-1.40. BTTS-No recommended at 1.83."
   },
   {
-    "id": "philippines-guam",
+    "id": "slovenia-cyprus",
     "teamA": {
-      "name": "Philippines",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14438/image.png"
+      "name": "Slovenia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
     },
     "teamB": {
-      "name": "Guam",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14439/image.png"
+      "name": "Cyprus",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Philippines win odds 1.03, 1-3-1 last 5 form vs Guam's inconsistency, home advantage at Rizal Memorial [page:21]"
-  },
-  {
-    "id": "portugal-u21-northern-ireland-u21",
-    "teamA": {
-      "name": "Portugal U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14368/image.png"
-    },
-    "teamB": {
-      "name": "Northern Ireland U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14364/image.png"
-    },
-    "leagueName": "U21 International Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "High",
     "safetyRating": 8.5,
-    "reason": "Portugal U21 win odds 1.13, Double Chance 1.03, Portugal has elite youth development system [web:23]"
+    "reason": "Slovenia won last 4 matches vs teams ranked outside top 100. Cyprus haven't beaten top-100 nation since 2022. Under 2.5 in 5 of Slovenia's last 6."
   },
   {
-    "id": "denmark-congo-dr",
+    "id": "iran-mali",
     "teamA": {
-      "name": "Congo DR",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3508/image.png"
+      "name": "Iran",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3486/image.png"
     },
     "teamB": {
-      "name": "Denmark",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1633/image.png"
+      "name": "Mali",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2844/image.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-03",
+    "leagueName": "Internationals Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-04",
+    "confidence": "High",
+    "safetyRating": 8.5,
+    "reason": "Iran favored with solid defense (3 goals conceded in last 3). Mali struggled offensively, 9 of last 10 matches Under 2.5. Iran win probability 46%, Mali unable to score recently."
+  },
+  {
+    "id": "andorra-liechtenstein",
+    "teamA": {
+      "name": "Andorra",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4696/image.png"
+    },
+    "teamB": {
+      "name": "Liechtenstein",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4708/image.png"
+    },
+    "leagueName": "Internationals Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-04",
+    "confidence": "High",
+    "safetyRating": 8.5,
+    "reason": "Andorra clear favorite at 1.60, double chance 1X at 1.08-1.11. ELO 47 vs 37. 62.1% win probability. Liechtenstein poor defensive record."
+  },
+  {
+    "id": "kenya-lesotho",
+    "teamA": {
+      "name": "Kenya",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4736/image.png"
+    },
+    "teamB": {
+      "name": "Lesotho",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4734/image.png"
+    },
+    "leagueName": "Internationals Friendlies",
+    "prediction": "DRAW NO BET AWAY",
+    "date": "2026-06-04",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Denmark significantly stronger FIFA ranking, Congo DR 11.51% win probability, Denmark quality advantage [web:12][web:20]"
+    "reason": "Kenya has higher FIFA ranking, superior strength index, 61.4% win probability vs Lesotho's 15.7%. Kenya expected goals 1.77 vs 0.76."
   },
   {
-    "id": "tanzania-malawi",
+    "id": "cambodia-bhutan",
     "teamA": {
-      "name": "Tanzania",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3534/image.png"
+      "name": "Cambodia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150063/image.png"
     },
     "teamB": {
-      "name": "Malawi",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3533/image.png"
+      "name": "Bhutan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150052/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Cambodia favorite at 1.14, double chance 1X at 1.02. 74.71% win probability. Over 1.5 goals heavily backed at 1.10. Low-scoring affair expected."
+  },
+  {
+    "id": "sweden-greece",
+    "teamA": {
+      "name": "Sweden",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3464/image.png"
+    },
+    "teamB": {
+      "name": "Greece",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3469/image.png"
+    },
+    "leagueName": "Internationals Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-04",
+    "confidence": "Medium-High",
     "safetyRating": 7.5,
-    "reason": "Tanzania home favorite 1.83 odds, home advantage in African friendly [web:6]"
+    "reason": "Sweden won 2 of last 3 matches. Greece failed to win last 3. BTTS-Yes in Sweden's last 5 games. Sweden expected to win 2-1."
   },
   {
-    "id": "poland-nigeria",
+    "id": "sweden-u21-finland-u21",
     "teamA": {
-      "name": "Poland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1630/image.png"
+      "name": "Sweden U21",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150464/image.png"
     },
     "teamB": {
-      "name": "Nigeria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3499/image.png"
+      "name": "Finland U21",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150461/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Under 21 Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Poland home advantage, Lewandowski factor, World Cup preparation match [web:24][web:28]"
+    "safetyRating": 7.5,
+    "reason": "Sweden U21 stronger at home with better senior program development. Finland U21 weaker away record in U21 friendlies."
   },
   {
-    "id": "jordan-malaysia",
+    "id": "moldova-u21-malta-u21",
     "teamA": {
-      "name": "Jordan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3481/image.png"
+      "name": "Moldova U21",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150463/image.png"
     },
     "teamB": {
-      "name": "Malaysia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3484/image.png"
+      "name": "Malta U21",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150462/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Under 21 Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Jordan home advantage, stronger Asian football program than Malaysia [web:2]"
+    "safetyRating": 7.5,
+    "reason": "Moldova U21 home advantage against weaker Malta U21. Malta has limited U21 international experience and lower development pathway."
   },
   {
-    "id": "croatia-u21-qatar-u21",
+    "id": "italy-u17-spain-u17",
     "teamA": {
-      "name": "Croatia U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14361/image.png"
+      "name": "Italy U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150301/image.png"
     },
     "teamB": {
-      "name": "Qatar U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14402/image.png"
+      "name": "Spain U17",
+      "icon": "https://cdn.sofascore.app/api/v1/team/150302/image.png"
     },
-    "leagueName": "U21 International Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
-    "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Croatia elite youth development, home advantage, stronger European football infrastructure"
-  },
-  {
-    "id": "albania-israel",
-    "teamA": {
-      "name": "Albania",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1629/image.png"
-    },
-    "teamB": {
-      "name": "Israel",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1636/image.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
-    "confidence": "Medium",
-    "safetyRating": 6.5,
-    "reason": "Albania home advantage, Euro 2024 participants, stronger recent qualifying form [web:11]"
+    "leagueName": "UEFA Under 17 Championship Semi-finals",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-04",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Italy U17: 4W-1D-0L last 5, 13 goals scored. Spain U17: 4W-0D-1L last 5, 14 goals scored. U17 Euro avg 3.45 goals/game, 70% over 2.5."
   }
 ]
