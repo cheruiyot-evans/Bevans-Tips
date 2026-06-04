@@ -1,104 +1,53 @@
 [
-    {
-    "id": "netherlands-algeria",
+     {
+    "id": "spain-iraq",
     "teamA": {
-      "name": "Netherlands",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1632/image.png"
+      "name": "Spain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/9606/image.png"
     },
     "teamB": {
-      "name": "Algeria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3512/image.png"
+      "name": "Iraq",
+      "icon": "https://cdn.sofascore.app/api/v1/team/15059/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Netherlands unbeaten 10 matches, unbeaten at home since 2023, FIFA #7 vs #29, scored 27 goals in qualifying [page:1]"
+    "safetyRating": 9.5,
+    "reason": "Spain on 8-match unbeaten run, odds 1.03 for win. Scored 2+ goals in 14 of last 15 games. Iraq overwhelming underdogs."
   },
   {
-    "id": "philippines-guam",
+    "id": "france-ivory-coast",
     "teamA": {
-      "name": "Philippines",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14438/image.png"
+      "name": "France",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3376/image.png"
     },
     "teamB": {
-      "name": "Guam",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14439/image.png"
+      "name": "Ivory Coast",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2836/image.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Philippines win odds 1.03, 1-3-1 last 5 form vs Guam's inconsistency, home advantage at Rizal Memorial [page:21]"
+    "reason": "France on 4-game winning run, unbeaten in 3 H2Hs (W2, D1). Favorite at 1.28-1.40. BTTS-No recommended at 1.83."
   },
   {
-    "id": "portugal-u21-northern-ireland-u21",
+    "id": "slovenia-cyprus",
     "teamA": {
-      "name": "Portugal U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14368/image.png"
+      "name": "Slovenia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
     },
     "teamB": {
-      "name": "Northern Ireland U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/14364/image.png"
+      "name": "Cyprus",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
     },
-    "leagueName": "U21 International Friendlies",
+    "leagueName": "Internationals Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "confidence": "High",
     "safetyRating": 8.5,
-    "reason": "Portugal U21 win odds 1.13, Double Chance 1.03, Portugal has elite youth development system [web:23]"
-  },
-  {
-    "id": "denmark-congo-dr",
-    "teamA": {
-      "name": "Congo DR",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3508/image.png"
-    },
-    "teamB": {
-      "name": "Denmark",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1633/image.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-03",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Denmark significantly stronger FIFA ranking, Congo DR 11.51% win probability, Denmark quality advantage [web:12][web:20]"
-  },
-  {
-    "id": "tanzania-malawi",
-    "teamA": {
-      "name": "Tanzania",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3534/image.png"
-    },
-    "teamB": {
-      "name": "Malawi",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3533/image.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
-    "confidence": "High",
-    "safetyRating": 7.5,
-    "reason": "Tanzania home favorite 1.83 odds, home advantage in African friendly [web:6]"
-  },
-  {
-    "id": "poland-nigeria",
-    "teamA": {
-      "name": "Poland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1630/image.png"
-    },
-    "teamB": {
-      "name": "Nigeria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3499/image.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-03",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Poland home advantage, Lewandowski factor, World Cup preparation match [web:24][web:28]"
+    "reason": "Slovenia won last 4 matches vs teams ranked outside top 100. Cyprus haven't beaten top-100 nation since 2022. Under 2.5 in 5 of Slovenia's last 6."
   }
 ]
