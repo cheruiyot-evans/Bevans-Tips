@@ -1,189 +1,359 @@
 [
   {
-    "id": "spain-iraq",
+    "id": "portugal-latvia",
     "teamA": {
-      "name": "Spain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/9606/image.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4721/image.png"
     },
     "teamB": {
-      "name": "Iraq",
-      "icon": "https://cdn.sofascore.app/api/v1/team/15059/image.png"
+      "name": "Latvia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4759/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 3",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
+    "date": "2026-06-05",
     "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Spain on 8-match unbeaten run, odds 1.03 for win. Scored 2+ goals in 14 of last 15 games. Iraq overwhelming underdogs."
+    "safetyRating": 10,
+    "reason": "Portugal won 3-0 vs Latvia earlier this month, Latvia lost 0-3 to Portugal and 0-1 to Finland. Portugal dominant at home with Latvia having worst defense in group."
   },
   {
-    "id": "france-ivory-coast",
+    "id": "belgium-luxembourg",
     "teamA": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3376/image.png"
+      "name": "Belgium",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
     },
     "teamB": {
-      "name": "Ivory Coast",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2836/image.png"
+      "name": "Luxembourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4754/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 4",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Luxembourg lost 0-6 to Israel, 0-7 to Scotland, 0-5 to Belgium. Belgium won last H2H comfortably, Luxembourg has worst defensive record in qualifiers."
+  },
+  {
+    "id": "switzerland-malta",
+    "teamA": {
+      "name": "Switzerland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4733/image.png"
+    },
+    "teamB": {
+      "name": "Malta",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Switzerland won 4-1 vs Malta away, Malta lost 0-4, 1-4 in recent qualifiers. Switzerland has strong attack, Malta has worst attack in group."
+  },
+  {
+    "id": "bulgaria-gibraltar",
+    "teamA": {
+      "name": "Bulgaria",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4710/image.png"
+    },
+    "teamB": {
+      "name": "Gibraltar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4751/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "France on 4-game winning run, unbeaten in 3 H2Hs (W2, D1). Favorite at 1.28-1.40. BTTS-No recommended at 1.83."
+    "reason": "Bulgaria won 5-0 vs Gibraltar away, Gibraltar lost 0-9, 0-5, 0-6 in qualifiers. Bulgaria playing home, Gibraltar has worst defense in entire qualifying."
   },
   {
-    "id": "slovenia-cyprus",
+    "id": "italy-serbia",
     "teamA": {
-      "name": "Slovenia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
+      "name": "Italy",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4725/image.png"
     },
     "teamB": {
-      "name": "Cyprus",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
+      "name": "Serbia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4731/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 1",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Slovenia won last 4 matches vs teams ranked outside top 100. Cyprus haven't beaten top-100 nation since 2022. Under 2.5 in 5 of Slovenia's last 6."
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Italy won 6-0 vs Serbia away, Serbia lost 0-6, 0-1 in recent qualifiers. Italy has strong defense, Serbia has weak attack and poor away form."
   },
   {
-    "id": "iran-mali",
+    "id": "czech-republic-albania",
     "teamA": {
-      "name": "Iran",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3486/image.png"
+      "name": "Czech Republic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4712/image.png"
     },
     "teamB": {
-      "name": "Mali",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2844/image.png"
+      "name": "Albania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4748/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 1",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Iran favored with solid defense (3 goals conceded in last 3). Mali struggled offensively, 9 of last 10 matches Under 2.5. Iran win probability 46%, Mali unable to score recently."
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Czech Republic won 5-1 vs Albania away, Albania lost 1-5 consistently. Czech strong at home, Albania has poor away record with weak defense."
   },
   {
-    "id": "andorra-liechtenstein",
+    "id": "georgia-faroe-islands",
     "teamA": {
-      "name": "Andorra",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4696/image.png"
+      "name": "Georgia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4749/image.png"
     },
     "teamB": {
-      "name": "Liechtenstein",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4708/image.png"
+      "name": "Faroe Islands",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4750/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 4",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Andorra clear favorite at 1.60, double chance 1X at 1.08-1.11. ELO 47 vs 37. 62.1% win probability. Liechtenstein poor defensive record."
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Georgia has strong home advantage, Faroe Islands has weak away record. Georgia won most home qualifiers convincingly this campaign."
   },
   {
-    "id": "kenya-lesotho",
+    "id": "bosnia-herzegovina-lithuania",
     "teamA": {
-      "name": "Kenya",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4736/image.png"
+      "name": "Bosnia-Herzegovina",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4709/image.png"
     },
     "teamB": {
-      "name": "Lesotho",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4734/image.png"
+      "name": "Lithuania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4756/image.png"
     },
-    "leagueName": "Internationals Friendlies",
-    "prediction": "DRAW NO BET AWAY",
-    "date": "2026-06-04",
+    "leagueName": "Women's European World Cup Qualifiers - Group 1",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Bosnia-Herzegovina strong at home, Lithuania has poor away form with weak defense. Bosnia won most home games convincingly."
+  },
+  {
+    "id": "russia-burkina-faso",
+    "teamA": {
+      "name": "Football Union of Russia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4729/image.png"
+    },
+    "teamB": {
+      "name": "Burkina Faso",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4803/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 1",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Kenya has higher FIFA ranking, superior strength index, 61.4% win probability vs Lesotho's 15.7%. Kenya expected goals 1.77 vs 0.76."
+    "reason": "Russia has stronger squad depth and home advantage. Burkina Faso has inconsistent away form in friendlies."
   },
   {
-    "id": "cambodia-bhutan",
+    "id": "moldova-bulgaria",
     "teamA": {
-      "name": "Cambodia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150063/image.png"
+      "name": "Moldova",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4744/image.png"
     },
     "teamB": {
-      "name": "Bhutan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150052/image.png"
+      "name": "Bulgaria",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4710/image.png"
     },
-    "leagueName": "Internationals Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
+    "leagueName": "Internationals - Friendlies 1",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-05",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Cambodia favorite at 1.14, double chance 1X at 1.02. 74.71% win probability. Over 1.5 goals heavily backed at 1.10. Low-scoring affair expected."
+    "reason": "Bulgaria women stronger than Moldova historically. Moldova has weak record against higher-ranked teams."
   },
   {
-    "id": "sweden-greece",
+    "id": "hungary-finland",
     "teamA": {
-      "name": "Sweden",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3464/image.png"
+      "name": "Hungary",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4723/image.png"
     },
     "teamB": {
-      "name": "Greece",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3469/image.png"
+      "name": "Finland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4747/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Internationals - Friendlies 1",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "Medium-High",
-    "safetyRating": 7.5,
-    "reason": "Sweden won 2 of last 3 matches. Greece failed to win last 3. BTTS-Yes in Sweden's last 5 games. Sweden expected to win 2-1."
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Hungary won previous H2H against Finland, Hungary strong at home. Finland has inconsistent away form in friendlies."
   },
   {
-    "id": "sweden-u21-finland-u21",
+    "id": "paraguay-nicaragua",
     "teamA": {
-      "name": "Sweden U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150464/image.png"
+      "name": "Paraguay",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4791/image.png"
     },
     "teamB": {
-      "name": "Finland U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150461/image.png"
+      "name": "Nicaragua",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4801/image.png"
     },
-    "leagueName": "Under 21 Internationals Friendlies",
+    "leagueName": "Internationals - Friendlies 1",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "Medium-High",
-    "safetyRating": 7.5,
-    "reason": "Sweden U21 stronger at home with better senior program development. Finland U21 weaker away record in U21 friendlies."
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Paraguay significantly stronger CONMEBOL team vs Nicaragua CONCACAF. Paraguay won previous meetings convincingly, Nicaragua has weak away record."
   },
   {
-    "id": "moldova-u21-malta-u21",
+    "id": "san-marino-bangladesh",
     "teamA": {
-      "name": "Moldova U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150463/image.png"
+      "name": "San Marino",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4762/image.png"
     },
     "teamB": {
-      "name": "Malta U21",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150462/image.png"
+      "name": "Bangladesh",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4805/image.png"
     },
-    "leagueName": "Under 21 Internationals Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "Medium-High",
-    "safetyRating": 7.5,
-    "reason": "Moldova U21 home advantage against weaker Malta U21. Malta has limited U21 international experience and lower development pathway."
-  },
-  {
-    "id": "italy-u17-spain-u17",
-    "teamA": {
-      "name": "Italy U17",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150301/image.png"
-    },
-    "teamB": {
-      "name": "Spain U17",
-      "icon": "https://cdn.sofascore.app/api/v1/team/150302/image.png"
-    },
-    "leagueName": "UEFA Under 17 Championship Semi-finals",
+    "leagueName": "Internationals - Friendlies 2",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-04",
+    "date": "2026-06-05",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Italy U17: 4W-1D-0L last 5, 13 goals scored. Spain U17: 4W-0D-1L last 5, 14 goals scored. U17 Euro avg 3.45 goals/game, 70% over 2.5."
+    "reason": "San Marino and Bangladesh both have weak defenses. Historic low-scoring teams but friendlies often see goals against weak opposition."
+  },
+  {
+    "id": "azerbaijan-malta",
+    "teamA": {
+      "name": "Azerbaijan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4746/image.png"
+    },
+    "teamB": {
+      "name": "Malta",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Azerbaijan home advantage, Malta has poor away record. Both teams similar level but Azerbaijan favored at home."
+  },
+  {
+    "id": "hong-kong-mongolia",
+    "teamA": {
+      "name": "Hong Kong",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4807/image.png"
+    },
+    "teamB": {
+      "name": "Mongolia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4808/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 3",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Hong Kong has stronger football infrastructure and home advantage. Mongolia has very limited international experience."
+  },
+  {
+    "id": "benin-niger",
+    "teamA": {
+      "name": "Benin",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4809/image.png"
+    },
+    "teamB": {
+      "name": "Niger",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4810/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 3",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Benin has stronger squad and home advantage. Niger has limited international experience and weak away record."
+  },
+  {
+    "id": "central-african-republic-togo",
+    "teamA": {
+      "name": "Central African Republic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4811/image.png"
+    },
+    "teamB": {
+      "name": "Togo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4812/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 3",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Medium",
+    "safetyRating": 7,
+    "reason": "Central African Republic home advantage, Togo has inconsistent away form. Home advantage crucial in African friendlies."
+  },
+  {
+    "id": "angola-mauritania",
+    "teamA": {
+      "name": "Angola",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4813/image.png"
+    },
+    "teamB": {
+      "name": "Mauritania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4814/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 3",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Angola has stronger squad depth and home advantage. Mauritania has poor away record in African friendlies."
+  },
+  {
+    "id": "new-zealand-haiti",
+    "teamA": {
+      "name": "New Zealand",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4771/image.png"
+    },
+    "teamB": {
+      "name": "Haiti",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4792/image.png"
+    },
+    "leagueName": "Internationals Women - Friendlies 1",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "New Zealand strong at home, World Cup participant. Haiti has inconsistent away form but competitive women's team."
+  },
+  {
+    "id": "nigeria-senegal",
+    "teamA": {
+      "name": "Nigeria",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4773/image.png"
+    },
+    "teamB": {
+      "name": "Senegal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4778/image.png"
+    },
+    "leagueName": "Internationals Women - Friendlies 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Nigeria has stronger women's program historically, home advantage. Senegal women's team developing but less experienced."
+  },
+  {
+    "id": "georgia-bahrain",
+    "teamA": {
+      "name": "Georgia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4749/image.png"
+    },
+    "teamB": {
+      "name": "Bahrain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4806/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Georgia home advantage, Bahrain has limited international experience. Georgia has stronger football infrastructure."
   }
 ]
