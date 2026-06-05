@@ -1,53 +1,172 @@
 [
-     {
-    "id": "spain-iraq",
+  {
+    "id": "portugal-latvia",
     "teamA": {
-      "name": "Spain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/9606/image.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4721/image.png"
     },
     "teamB": {
-      "name": "Iraq",
-      "icon": "https://cdn.sofascore.app/api/v1/team/15059/image.png"
+      "name": "Latvia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4759/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 3",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
+    "date": "2026-06-05",
     "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "Spain on 8-match unbeaten run, odds 1.03 for win. Scored 2+ goals in 14 of last 15 games. Iraq overwhelming underdogs."
+    "safetyRating": 10,
+    "reason": "Portugal won 3-0 vs Latvia earlier this month, Latvia lost 0-3 to Portugal and 0-1 to Finland. Portugal dominant at home with Latvia having worst defense in group [web:5][web:10]."
   },
   {
-    "id": "france-ivory-coast",
+    "id": "belgium-luxembourg",
     "teamA": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3376/image.png"
+      "name": "Belgium",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
     },
     "teamB": {
-      "name": "Ivory Coast",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2836/image.png"
+      "name": "Luxembourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4754/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 4",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Luxembourg lost 0-6 to Israel, 0-7 to Scotland, 0-5 to Belgium. Belgium won last H2H comfortably, Luxembourg has worst defensive record in qualifiers [web:11][web:37]."
+  },
+  {
+    "id": "switzerland-malta",
+    "teamA": {
+      "name": "Switzerland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4733/image.png"
+    },
+    "teamB": {
+      "name": "Malta",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Switzerland won 4-1 vs Malta away, Malta lost 0-4, 1-4 in recent qualifiers. Switzerland has strong attack, Malta has worst attack in group [web:12][web:17]."
+  },
+  {
+    "id": "bulgaria-gibraltar",
+    "teamA": {
+      "name": "Bulgaria",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4710/image.png"
+    },
+    "teamB": {
+      "name": "Gibraltar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4751/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "France on 4-game winning run, unbeaten in 3 H2Hs (W2, D1). Favorite at 1.28-1.40. BTTS-No recommended at 1.83."
+    "reason": "Bulgaria won 5-0 vs Gibraltar away, Gibraltar lost 0-9, 0-5, 0-6 in qualifiers. Bulgaria playing home, Gibraltar has worst defense in entire qualifying [web:13][web:18]."
   },
   {
-    "id": "slovenia-cyprus",
+    "id": "italy-serbia",
     "teamA": {
-      "name": "Slovenia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
+      "name": "Italy",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4725/image.png"
     },
     "teamB": {
-      "name": "Cyprus",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
+      "name": "Serbia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4731/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 1",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Italy won 6-0 vs Serbia away, Serbia lost 0-6, 0-1 in recent qualifiers. Italy has strong defense, Serbia has weak attack and poor away form [web:20][web:25]."
+  },
+  {
+    "id": "czech-republic-albania",
+    "teamA": {
+      "name": "Czech Republic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4712/image.png"
+    },
+    "teamB": {
+      "name": "Albania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4748/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 1",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Czech Republic won 5-1 vs Albania away, Albania lost 1-5 consistently. Czech strong at home, Albania has poor away record with weak defense [web:21][web:26]."
+  },
+  {
+    "id": "paraguay-nicaragua",
+    "teamA": {
+      "name": "Paraguay",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4791/image.png"
+    },
+    "teamB": {
+      "name": "Nicaragua",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4801/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 1",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Paraguay significantly stronger CONMEBOL team vs Nicaragua CONCACAF. Paraguay won previous meetings convincingly, Nicaragua has weak away record."
+  },
+  {
+    "id": "georgia-faroe-islands",
+    "teamA": {
+      "name": "Georgia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4749/image.png"
+    },
+    "teamB": {
+      "name": "Faroe Islands",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4750/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 4",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Georgia has strong home advantage, Faroe Islands has weak away record. Georgia won most home qualifiers convincingly this campaign."
+  },
+  {
+    "id": "bosnia-herzegovina-lithuania",
+    "teamA": {
+      "name": "Bosnia-Herzegovina",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4709/image.png"
+    },
+    "teamB": {
+      "name": "Lithuania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4756/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 1",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Bosnia-Herzegovina strong at home, Lithuania has poor away form with weak defense. Bosnia won most home games convincingly [web:1][web:6]."
+  },
+  {
+    "id": "hungary-finland",
+    "teamA": {
+      "name": "Hungary",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4723/image.png"
+    },
+    "teamB": {
+      "name": "Finland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4747/image.png"
+    },
+    "leagueName": "Internationals - Friendlies 1",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
     "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Slovenia won last 4 matches vs teams ranked outside top 100. Cyprus haven't beaten top-100 nation since 2022. Under 2.5 in 5 of Slovenia's last 6."
+    "safetyRating": 8,
+    "reason": "Hungary won previous H2H against Finland, Hungary strong at home. Finland has inconsistent away form in friendlies [web:24]."
   }
 ]
