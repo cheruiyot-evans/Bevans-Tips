@@ -1,36 +1,53 @@
 [
   {
-    "id": "iran-mali",
+    "id": "portugal-latvia",
     "teamA": {
-      "name": "Iran",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3486/image.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4721/image.png"
     },
     "teamB": {
-      "name": "Mali",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2844/image.png"
+      "name": "Latvia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4759/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 3",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Iran favored with solid defense (3 goals conceded in last 3). Mali struggled offensively, 9 of last 10 matches Under 2.5. Iran win probability 46%, Mali unable to score recently."
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Portugal won 3-0 vs Latvia earlier this month, Latvia lost 0-3 to Portugal and 0-1 to Finland. Portugal dominant at home with Latvia having worst defense in group [web:5][web:10]."
   },
   {
-    "id": "andorra-liechtenstein",
+    "id": "belgium-luxembourg",
     "teamA": {
-      "name": "Andorra",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4696/image.png"
+      "name": "Belgium",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
     },
     "teamB": {
-      "name": "Liechtenstein",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4708/image.png"
+      "name": "Luxembourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4754/image.png"
     },
-    "leagueName": "Internationals Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers - Group 4",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-04",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Andorra clear favorite at 1.60, double chance 1X at 1.08-1.11. ELO 47 vs 37. 62.1% win probability. Liechtenstein poor defensive record."
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Luxembourg lost 0-6 to Israel, 0-7 to Scotland, 0-5 to Belgium. Belgium won last H2H comfortably, Luxembourg has worst defensive record in qualifiers [web:11][web:37]."
+  },
+  {
+    "id": "switzerland-malta",
+    "teamA": {
+      "name": "Switzerland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4733/image.png"
+    },
+    "teamB": {
+      "name": "Malta",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers - Group 2",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-05",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Switzerland won 4-1 vs Malta away, Malta lost 0-4, 1-4 in recent qualifiers. Switzerland has strong attack, Malta has worst attack in group [web:12][web:17]."
   }
 ]
