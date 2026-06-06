@@ -1,53 +1,53 @@
 [
   {
-    "id": "portugal-latvia",
+    "id": "england-new-zealand",
     "teamA": {
-      "name": "Portugal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4721/image.png"
+      "name": "England",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1108/image.png"
     },
     "teamB": {
-      "name": "Latvia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4759/image.png"
+      "name": "New Zealand",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3458/image.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers - Group 3",
+    "leagueName": "Internationals Friendlies 1",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-05",
+    "date": "2026-06-06",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Portugal won 3-0 vs Latvia earlier this month, Latvia lost 0-3 to Portugal and 0-1 to Finland. Portugal dominant at home with Latvia having worst defense in group [web:5][web:10]."
+    "safetyRating": 9.5,
+    "reason": "England odds -1100 (1/9), New Zealand 18/1. England unbeaten at home since 2024, vastly superior squad quality. Expert tip: Back England to win with -2 handicap at 5/6 [web:62]."
   },
   {
-    "id": "belgium-luxembourg",
+    "id": "belgium-tunisia",
     "teamA": {
       "name": "Belgium",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
+      "icon": "https://cdn.sofascore.app/api/v1/team/1/square.png"
     },
     "teamB": {
-      "name": "Luxembourg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4754/image.png"
+      "name": "Tunisia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3450/image.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers - Group 4",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-05",
+    "leagueName": "Internationals Friendlies 1",
+    "prediction": "BELGIUM TO WIN TO NIL",
+    "date": "2026-06-06",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Luxembourg lost 0-6 to Israel, 0-7 to Scotland, 0-5 to Belgium. Belgium won last H2H comfortably, Luxembourg has worst defensive record in qualifiers [web:11][web:37]."
+    "safetyRating": 9.2,
+    "reason": "Belgium unbeaten in 11 international games, scored 20 goals in last 6 matches. Tunisia only 1 win in last 6. Belgium 4 clean sheets in 5 home matches. Expert tip: Back Belgium to win to nil at 1/1 [web:62]."
   },
   {
-    "id": "switzerland-malta",
+    "id": "portugal-chile",
     "teamA": {
-      "name": "Switzerland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4733/image.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
     },
     "teamB": {
-      "name": "Malta",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
+      "name": "Chile",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4487/image.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers - Group 2",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-05",
+    "leagueName": "Internationals Friendlies 1",
+    "prediction": "PORTUGAL AND OVER 3.5 GOALS",
+    "date": "2026-06-06",
     "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Switzerland won 4-1 vs Malta away, Malta lost 0-4, 1-4 in recent qualifiers. Switzerland has strong attack, Malta has worst attack in group [web:12][web:17]."
+    "safetyRating": 9.0,
+    "reason": "Portugal not lost at home since June 2024, won 7 of last 8 home games. Portugal odds 1.23. At least 4 goals in 4 of Portugal's last 5 home games. Expert tip: Back Portugal and over 3.5 goals at 6/4 [web:62]."
   }
 ]
