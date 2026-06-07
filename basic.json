@@ -1,172 +1,87 @@
 [
   {
-    "id": "england-new-zealand",
+    "id": "mali-vs-burkina-faso",
     "teamA": {
-      "name": "England",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1108/image.png"
+      "name": "Mali",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3686/image.png"
     },
     "teamB": {
-      "name": "New Zealand",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3458/image.png"
+      "name": "Burkina Faso",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5683/image.png"
     },
-    "leagueName": "Internationals Friendlies 1",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "confidence": "Very High",
-    "safetyRating": 9.5,
-    "reason": "England odds -1100 (1/9), New Zealand 18/1. England unbeaten at home since 2024, vastly superior squad quality. New Zealand cannot match England's depth."
+    "safetyRating": 9,
+    "reason": "Mali never lost to Burkina Faso in past 9 H2H meetings; Mali won 2-1 in their last encounter and Burkina Faso has defensive vulnerabilities."
   },
   {
-    "id": "belgium-tunisia",
+    "id": "croatia-vs-slovenia",
     "teamA": {
-      "name": "Belgium",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1/square.png"
+      "name": "Croatia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3441/image.png"
     },
     "teamB": {
-      "name": "Tunisia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3450/image.png"
+      "name": "Slovenia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3442/image.png"
     },
-    "leagueName": "Internationals Friendlies 1",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-06",
-    "confidence": "Very High",
-    "safetyRating": 9.2,
-    "reason": "Belgium unbeaten in 11 international games, scored 20 goals in last 6 matches. Tunisia only 1 win in last 6. Belgium odds 1.30."
-  },
-  {
-    "id": "portugal-chile",
-    "teamA": {
-      "name": "Portugal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
-    },
-    "teamB": {
-      "name": "Chile",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4487/image.png"
-    },
-    "leagueName": "Internationals Friendlies 1",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-06",
-    "confidence": "Very High",
-    "safetyRating": 9.0,
-    "reason": "Portugal not lost at home since June 2024, won 7 of last 8 home games. Portugal odds 1.23. At least 4 goals in 4 of Portugal's last 5 home games."
-  },
-  {
-    "id": "brazil-egypt",
-    "teamA": {
-      "name": "Brazil",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
-    },
-    "teamB": {
-      "name": "Egypt",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3452/image.png"
-    },
-    "leagueName": "Internationals Friendlies 1",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Brazil massive favorite with Salah/Marmoush playing. Brazil scored 10 goals vs Egypt's 5. Egypt will struggle against Brazil's world-class attack."
+    "safetyRating": 8,
+    "reason": "Croatia has superior squad quality with Champions League/Elite league players; strong home form and Slovenia scored only 1 goal in last 3 matches."
   },
   {
-    "id": "switzerland-australia",
+    "id": "kosovo-vs-andorra",
     "teamA": {
-      "name": "Switzerland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
+      "name": "Kosovo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/47156/image.png"
     },
     "teamB": {
-      "name": "Australia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3456/image.png"
+      "name": "Andorra",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3689/image.png"
     },
-    "leagueName": "Internationals Friendlies 1",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "confidence": "High",
-    "safetyRating": 8.3,
-    "reason": "Switzerland's last 11 wins by 2+ goal margin. Switzerland odds 1.65. Australia struggles against top-25 opposition. Only 1 of Australia's last 5 had BTTS."
+    "safetyRating": 8,
+    "reason": "Kosovo won and drew in previous 2 H2H meetings; Andorra failed to score in 13 of 16 recent games and has the weakest FIFA ranking in this match."
   },
   {
-    "id": "turkey-venezuela",
+    "id": "liechtenstein-vs-cyprus",
     "teamA": {
-      "name": "Turkey",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3459/image.png"
+      "name": "Liechtenstein",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3687/image.png"
     },
     "teamB": {
-      "name": "Venezuela",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3460/image.png"
+      "name": "Cyprus",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3684/image.png"
     },
-    "leagueName": "Internationals Friendlies 1",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "confidence": "High",
-    "safetyRating": 8.0,
-    "reason": "Turkey 6 wins + 1 draw in last 7. Venezuela 6 defeats in last 8. Turkey scored 2+ goals in 5 of 7 matches, kept 3 clean sheets in 5 fixtures."
+    "safetyRating": 8,
+    "reason": "Cyprus is favorite at 1.27 odds; Liechtenstein lost 4 of last 5 matches and has the lowest FIFA ranking; Cyprus scored in 8 of last 10 games."
   },
   {
-    "id": "germany-usa",
+    "id": "ecuador-vs-guatemala",
     "teamA": {
-      "name": "Germany",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3366/image.png"
+      "name": "Ecuador",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3439/image.png"
     },
     "teamB": {
-      "name": "United States",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3449/image.png"
+      "name": "Guatemala",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3682/image.png"
     },
-    "leagueName": "Internationals Friendlies 1",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-06",
-    "confidence": "High",
-    "safetyRating": 7.8,
-    "reason": "Germany distinct favorites with greater overall strength. Nagelsmann's men possess superior pedigree. End-to-end contest expected but Germany to prevail [web:10]."
-  },
-  {
-    "id": "japan-south-africa-women",
-    "teamA": {
-      "name": "Japan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3463/image.png"
-    },
-    "teamB": {
-      "name": "South Africa",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3464/image.png"
-    },
-    "leagueName": "Internationals Women Friendlies 1",
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "confidence": "High",
-    "safetyRating": 7.6,
-    "reason": "Japan never lost to South Africa in past meeting (won 2-0) [web:13]. South Africa lost all 5 last matches in Friendly International Women."
-  },
-  {
-    "id": "usa-brazil-women",
-    "teamA": {
-      "name": "United States",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3449/image.png"
-    },
-    "teamB": {
-      "name": "Brazil",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
-    },
-    "leagueName": "Internationals Women Friendlies 1",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-06",
-    "confidence": "High",
-    "safetyRating": 7.5,
-    "reason": "USWNT won 11 of last 12 games, 9 clean sheets in 10 victories. USA 34 wins vs Brazil 5 historically [web:15]. USA to win with BTTS expected."
-  },
-  {
-    "id": "cape-verde-bermuda",
-    "teamA": {
-      "name": "Cape Verde",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3469/image.png"
-    },
-    "teamB": {
-      "name": "Bermuda",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3470/image.png"
-    },
-    "leagueName": "Internationals Friendlies 2",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-06",
-    "confidence": "High",
-    "safetyRating": 7.3,
-    "reason": "Cape Verde 65.86% win chance at 1.07 odds [web:39]. Clear favorite against Bermuda with significant skill gap. Bermuda struggles in front of goal."
+    "safetyRating": 7,
+    "reason": "Ecuador won previous H2H encounter; scored 6 goals in past 4 games (same as previous 10); Guatemala has inconsistent CONCACAF form and weaker attacking depth."
   }
 ]
