@@ -1,167 +1,206 @@
 [
   {
-    "id": "kosovo-andorra",
-    "teamA": {"name": "Kosovo", "icon": "https://flagcdn.com/w80/xk.png"},
-    "teamB": {"name": "Andorra", "icon": "https://flagcdn.com/w80/ad.png"},
-    "leagueName": "International Friendlies 2",
+    "id": "france-northern-ireland",
+    "teamA": {
+      "name": "France",
+      "icon": "https://flagcdn.com/w80/fr.png"
+    },
+    "teamB": {
+      "name": "Northern Ireland",
+      "icon": "https://flagcdn.com/w80/gb-nir.png"
+    },
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-07",
+    "date": "2026-06-08",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Kosovo have stronger squad quality and home advantage, while Andorra are usually weak away and low-scoring."
+    "safetyRating": 9.5,
+    "reason": "France have elite squad depth, strong home form, and superior attacking quality against a limited Northern Ireland side."
   },
   {
-    "id": "ecuador-guatemala",
-    "teamA": {"name": "Ecuador", "icon": "https://flagcdn.com/w80/ec.png"},
-    "teamB": {"name": "Guatemala", "icon": "https://flagcdn.com/w80/gt.png"},
-    "leagueName": "International Friendlies 1",
+    "id": "netherlands-uzbekistan",
+    "teamA": {
+      "name": "Netherlands",
+      "icon": "https://flagcdn.com/w80/nl.png"
+    },
+    "teamB": {
+      "name": "Uzbekistan",
+      "icon": "https://flagcdn.com/w80/uz.png"
+    },
+    "leagueName": "International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-07",
+    "date": "2026-06-08",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Ecuador are physically stronger, better defensively, and rarely lose this type of matchup."
+    "reason": "Netherlands have stronger technical quality, home advantage, and greater squad depth."
   },
   {
-    "id": "cyprus-liechtenstein",
-    "teamA": {"name": "Liechtenstein", "icon": "https://flagcdn.com/w80/li.png"},
-    "teamB": {"name": "Cyprus", "icon": "https://flagcdn.com/w80/cy.png"},
-    "leagueName": "International Friendlies 2",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-07",
+    "id": "italy-u21-albania-u21",
+    "teamA": {
+      "name": "Italy U21",
+      "icon": "https://flagcdn.com/w80/it.png"
+    },
+    "teamB": {
+      "name": "Albania U21",
+      "icon": "https://flagcdn.com/w80/al.png"
+    },
+    "leagueName": "Under 21 International Friendlies",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-08",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Cyprus have better technical quality, while Liechtenstein struggle to score and rarely dominate matches."
+    "reason": "Italy U21 usually dominate technically and have stronger youth development depth than Albania U21."
   },
   {
-    "id": "italy-greece",
-    "teamA": {"name": "Greece", "icon": "https://flagcdn.com/w80/gr.png"},
-    "teamB": {"name": "Italy", "icon": "https://flagcdn.com/w80/it.png"},
-    "leagueName": "International Friendlies 1",
+    "id": "senegal-women-nigeria-women",
+    "teamA": {
+      "name": "Senegal Women",
+      "icon": "https://flagcdn.com/w80/sn.png"
+    },
+    "teamB": {
+      "name": "Nigeria Women",
+      "icon": "https://flagcdn.com/w80/ng.png"
+    },
+    "leagueName": "International Women Friendlies",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-07",
+    "date": "2026-06-08",
     "confidence": "Very High",
     "safetyRating": 8.5,
-    "reason": "Italy have superior squad depth and tournament-level experience; Greece are solid but rarely overpower elite opposition."
+    "reason": "Nigeria Women have superior international experience, squad quality, and attacking power."
   },
   {
-    "id": "oman-mozambique",
-    "teamA": {"name": "Oman", "icon": "https://flagcdn.com/w80/om.png"},
-    "teamB": {"name": "Mozambique", "icon": "https://flagcdn.com/w80/mz.png"},
-    "leagueName": "International Friendlies 3",
+    "id": "norway-u21-finland-u21",
+    "teamA": {
+      "name": "Norway U21",
+      "icon": "https://flagcdn.com/w80/no.png"
+    },
+    "teamB": {
+      "name": "Finland U21",
+      "icon": "https://flagcdn.com/w80/fi.png"
+    },
+    "leagueName": "Under 21 International Friendlies",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-07",
+    "date": "2026-06-08",
     "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Oman are usually disciplined at home and better structured defensively than Mozambique."
+    "safetyRating": 8.5,
+    "reason": "Norway U21 have stronger attacking talent and home advantage against a less consistent Finland U21 side."
   },
   {
-    "id": "croatia-slovenia",
-    "teamA": {"name": "Croatia", "icon": "https://flagcdn.com/w80/hr.png"},
-    "teamB": {"name": "Slovenia", "icon": "https://flagcdn.com/w80/si.png"},
-    "leagueName": "International Friendlies 1",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Croatia have stronger midfield control and home advantage, while Slovenia are competitive but less consistent away."
-  },
-  {
-    "id": "denmark-ukraine",
-    "teamA": {"name": "Denmark", "icon": "https://flagcdn.com/w80/dk.png"},
-    "teamB": {"name": "Ukraine", "icon": "https://flagcdn.com/w80/ua.png"},
-    "leagueName": "International Friendlies 1",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams have enough attacking quality and friendly fixtures often open up after substitutions."
-  },
-  {
-    "id": "morocco-norway",
-    "teamA": {"name": "Morocco", "icon": "https://flagcdn.com/w80/ma.png"},
-    "teamB": {"name": "Norway", "icon": "https://flagcdn.com/w80/no.png"},
-    "leagueName": "International Friendlies 1",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Norway carry strong attacking threat and Morocco are dangerous at home."
-  },
-  {
-    "id": "china-women-russia-women",
-    "teamA": {"name": "China Women", "icon": "https://flagcdn.com/w80/cn.png"},
-    "teamB": {"name": "Football Union of Russia Women", "icon": "https://flagcdn.com/w80/ru.png"},
-    "leagueName": "International Women Friendlies 1",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both sides possess enough attacking quality for at least two goals."
-  },
-  {
-    "id": "saudi-arabia-women-sri-lanka-women",
-    "teamA": {"name": "Saudi Arabia Women", "icon": "https://flagcdn.com/w80/sa.png"},
-    "teamB": {"name": "Sri Lanka Women", "icon": "https://flagcdn.com/w80/lk.png"},
-    "leagueName": "International Women Friendlies 2",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Saudi Arabia Women should avoid defeat against a weaker Sri Lanka side."
-  },
-  {
-    "id": "italy-u17-belgium-u17",
-    "teamA": {"name": "Belgium U17", "icon": "https://flagcdn.com/w80/be.png"},
-    "teamB": {"name": "Italy U17", "icon": "https://flagcdn.com/w80/it.png"},
-    "leagueName": "UEFA Under 17 Championship Final",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 7.5,
-    "reason": "Both youth teams have enough attacking quality to produce goals."
-  },
-  {
-    "id": "colombia-u19-congo-dr-u20",
-    "teamA": {"name": "Congo DR U20", "icon": "https://flagcdn.com/w80/cd.png"},
-    "teamB": {"name": "Colombia U19", "icon": "https://flagcdn.com/w80/co.png"},
-    "leagueName": "Tournoi Maurice Revello Group A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 7.5,
-    "reason": "Colombia youth teams are traditionally strong technically and tactically."
-  },
-  {
-    "id": "kenya-lesotho",
-    "teamA": {"name": "Kenya", "icon": "https://flagcdn.com/w80/ke.png"},
-    "teamB": {"name": "Lesotho", "icon": "https://flagcdn.com/w80/ls.png"},
-    "leagueName": "International Friendlies 1",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-07",
-    "confidence": "High",
-    "safetyRating": 7.5,
-    "reason": "Kenya have home advantage and better squad depth."
-  },
-  {
-    "id": "afghanistan-pakistan",
-    "teamA": {"name": "Afghanistan", "icon": "https://flagcdn.com/w80/af.png"},
-    "teamB": {"name": "Pakistan", "icon": "https://flagcdn.com/w80/pk.png"},
+    "id": "sri-lanka-bhutan",
+    "teamA": {
+      "name": "Sri Lanka",
+      "icon": "https://flagcdn.com/w80/lk.png"
+    },
+    "teamB": {
+      "name": "Bhutan",
+      "icon": "https://flagcdn.com/w80/bt.png"
+    },
     "leagueName": "International Friendlies 3",
     "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-06-07",
+    "date": "2026-06-08",
     "confidence": "High",
-    "safetyRating": 7.5,
-    "reason": "Both sides are typically low-scoring, making under 3.5 goals a safer market."
+    "safetyRating": 8,
+    "reason": "Both teams are generally low-scoring, making under 3.5 goals safer than a match-winner market."
   },
   {
-    "id": "china-pr-u20-tunisia-u23",
-    "teamA": {"name": "China PR U20", "icon": "https://flagcdn.com/w80/cn.png"},
-    "teamB": {"name": "Tunisia U23", "icon": "https://flagcdn.com/w80/tn.png"},
-    "leagueName": "Tournoi Maurice Revello Group A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-07",
+    "id": "mauritania-niger",
+    "teamA": {
+      "name": "Mauritania",
+      "icon": "https://flagcdn.com/w80/mr.png"
+    },
+    "teamB": {
+      "name": "Niger",
+      "icon": "https://flagcdn.com/w80/ne.png"
+    },
+    "leagueName": "International Friendlies 3",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-06-08",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both sides are usually compact and defensive, with limited high-scoring patterns."
+  },
+  {
+    "id": "belarus-u21-kazakhstan-u21",
+    "teamA": {
+      "name": "Belarus U21",
+      "icon": "https://flagcdn.com/w80/by.png"
+    },
+    "teamB": {
+      "name": "Kazakhstan U21",
+      "icon": "https://flagcdn.com/w80/kz.png"
+    },
+    "leagueName": "Under 21 International Friendlies",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-06-08",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both U21 teams often play cautious matches with limited attacking efficiency."
+  },
+  {
+    "id": "japan-u21-ukraine-u21",
+    "teamA": {
+      "name": "Japan U21",
+      "icon": "https://flagcdn.com/w80/jp.png"
+    },
+    "teamB": {
+      "name": "Ukraine U21",
+      "icon": "https://flagcdn.com/w80/ua.png"
+    },
+    "leagueName": "Under 21 International Friendlies",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-08",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both youth sides have good attacking structure, making two goals a safer angle than picking a winner."
+  },
+  {
+    "id": "cote-divoire-u23-canada-u20",
+    "teamA": {
+      "name": "Côte d'Ivoire U23",
+      "icon": "https://flagcdn.com/w80/ci.png"
+    },
+    "teamB": {
+      "name": "Canada U20",
+      "icon": "https://flagcdn.com/w80/ca.png"
+    },
+    "leagueName": "Tournoi Maurice Revello Group B",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-08",
     "confidence": "High",
     "safetyRating": 7.5,
-    "reason": "Tunisia U23 have age and physical advantage and should avoid defeat."
+    "reason": "Côte d'Ivoire U23 have age, physicality, and squad maturity advantage over Canada U20."
+  },
+  {
+    "id": "venezuela-u20-portugal-u20",
+    "teamA": {
+      "name": "Venezuela U20",
+      "icon": "https://flagcdn.com/w80/ve.png"
+    },
+    "teamB": {
+      "name": "Portugal U20",
+      "icon": "https://flagcdn.com/w80/pt.png"
+    },
+    "leagueName": "Tournoi Maurice Revello Group B",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-08",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Portugal U20 have stronger technical quality and youth pedigree, making away/draw the safer option."
+  },
+  {
+    "id": "egypt-women-tunisia-women",
+    "teamA": {
+      "name": "Egypt Women",
+      "icon": "https://flagcdn.com/w80/eg.png"
+    },
+    "teamB": {
+      "name": "Tunisia Women",
+      "icon": "https://flagcdn.com/w80/tn.png"
+    },
+    "leagueName": "International Women Friendlies",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-06-08",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "North African women’s friendlies are often tactical and low-scoring, making under 3.5 goals conservative."
   }
 ]
