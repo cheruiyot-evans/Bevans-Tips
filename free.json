@@ -1,36 +1,53 @@
 [
- {
-    "id": "japan-u21-ukraine-u21",
+  {
+    "id": "iceland-spain-women",
     "teamA": {
-      "name": "Japan U21",
-      "icon": "https://flagcdn.com/w80/jp.png"
+      "name": "Iceland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4703/image.png"
     },
     "teamB": {
-      "name": "Ukraine U21",
-      "icon": "https://flagcdn.com/w80/ua.png"
+      "name": "Spain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/37371/image.png"
     },
-    "leagueName": "Under 21 International Friendlies",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both youth sides have good attacking structure, making two goals a safer angle than picking a winner."
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 10,
+    "reason": "Spain unbeaten in last 10 qualifiers with 4-0 vs England, 5-0 vs Ukraine, 3-0 vs Iceland, 3-0 vs Germany. Dominant attacking force averaging 4+ goals/game."
   },
   {
-    "id": "cote-divoire-u23-canada-u20",
+    "id": "portugal-finland-women",
     "teamA": {
-      "name": "Côte d'Ivoire U23",
-      "icon": "https://flagcdn.com/w80/ci.png"
+      "name": "Finland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4705/image.png"
     },
     "teamB": {
-      "name": "Canada U20",
-      "icon": "https://flagcdn.com/w80/ca.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4706/image.png"
     },
-    "leagueName": "Tournoi Maurice Revello Group B",
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Portugal UNBEATEN 6 matches in qualifying with 24 goals scored, 0 conceded. Exceptional defensive record and scoring consistency."
+  },
+  {
+    "id": "england-ukraine-women",
+    "teamA": {
+      "name": "England",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7415/image.png"
+    },
+    "teamB": {
+      "name": "Ukraine",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-08",
-    "confidence": "High",
-    "safetyRating": 7.5,
-    "reason": "Côte d'Ivoire U23 have age, physicality, and squad maturity advantage over Canada U20."
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "England won Euro 2025, beat Ukraine 6-1 earlier this qualifying cycle. Strong home form with consistent scoring."
   }
 ]
