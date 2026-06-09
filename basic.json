@@ -1,104 +1,138 @@
 [
- {
-    "id": "senegal-women-nigeria-women",
+  {
+    "id": "iceland-spain-women",
     "teamA": {
-      "name": "Senegal Women",
-      "icon": "https://flagcdn.com/w80/sn.png"
+      "name": "Iceland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4703/image.png"
     },
     "teamB": {
-      "name": "Nigeria Women",
-      "icon": "https://flagcdn.com/w80/ng.png"
+      "name": "Spain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/37371/image.png"
     },
-    "leagueName": "International Women Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-08",
+    "date": "2026-06-09",
     "confidence": "Very High",
-    "safetyRating": 8.5,
-    "reason": "Nigeria Women have superior international experience, squad quality, and attacking power."
+    "safetyRating": 10,
+    "reason": "Spain unbeaten in last 10 qualifiers with 4-0 vs England, 5-0 vs Ukraine, 3-0 vs Iceland, 3-0 vs Germany. Dominant attacking force averaging 4+ goals/game."
   },
   {
-    "id": "norway-u21-finland-u21",
+    "id": "portugal-finland-women",
     "teamA": {
-      "name": "Norway U21",
-      "icon": "https://flagcdn.com/w80/no.png"
+      "name": "Finland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4705/image.png"
     },
     "teamB": {
-      "name": "Finland U21",
-      "icon": "https://flagcdn.com/w80/fi.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4706/image.png"
     },
-    "leagueName": "Under 21 International Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Portugal UNBEATEN 6 matches in qualifying with 24 goals scored, 0 conceded. Exceptional defensive record and scoring consistency."
+  },
+  {
+    "id": "england-ukraine-women",
+    "teamA": {
+      "name": "England",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7415/image.png"
+    },
+    "teamB": {
+      "name": "Ukraine",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-08",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Norway U21 have stronger attacking talent and home advantage against a less consistent Finland U21 side."
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "England won Euro 2025, beat Ukraine 6-1 earlier this qualifying cycle. Strong home form with consistent scoring."
   },
   {
-    "id": "sri-lanka-bhutan",
+    "id": "france-ireland-women",
     "teamA": {
-      "name": "Sri Lanka",
-      "icon": "https://flagcdn.com/w80/lk.png"
+      "name": "France",
+      "icon": "https://cdn.sofascore.app/api/v1/team/32485/image.png"
     },
     "teamB": {
-      "name": "Bhutan",
-      "icon": "https://flagcdn.com/w80/bt.png"
+      "name": "Republic of Ireland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4709/image.png"
     },
-    "leagueName": "International Friendlies 3",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-06-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams are generally low-scoring, making under 3.5 goals safer than a match-winner market."
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "France won Nations League, beat Poland 4-1 recently. Strong home form and superior squad depth vs Ireland."
   },
   {
-    "id": "mauritania-niger",
+    "id": "slovenia-germany-women",
     "teamA": {
-      "name": "Mauritania",
-      "icon": "https://flagcdn.com/w80/mr.png"
+      "name": "Slovenia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4710/image.png"
     },
     "teamB": {
-      "name": "Niger",
-      "icon": "https://flagcdn.com/w80/ne.png"
+      "name": "Germany",
+      "icon": "https://cdn.sofascore.app/api/v1/team/23992/image.png"
     },
-    "leagueName": "International Friendlies 3",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-06-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both sides are usually compact and defensive, with limited high-scoring patterns."
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Germany Euro 2025 semifinalist, beat Norway 2-0 in qualifiers. Slovenia weaker tier team with limited competitive record."
   },
   {
-    "id": "belarus-u21-kazakhstan-u21",
+    "id": "luxembourg-belgium-women",
     "teamA": {
-      "name": "Belarus U21",
-      "icon": "https://flagcdn.com/w80/by.png"
+      "name": "Luxembourg",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
     },
     "teamB": {
-      "name": "Kazakhstan U21",
-      "icon": "https://flagcdn.com/w80/kz.png"
+      "name": "Belgium",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
     },
-    "leagueName": "Under 21 International Friendlies",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-06-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both U21 teams often play cautious matches with limited attacking efficiency."
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Belgium Euro 2025 quarterfinalist, beat Croatia 4-1 recently. Luxembourg minimal competitive record, clear tier difference."
   },
   {
-    "id": "japan-u21-ukraine-u21",
+    "id": "hungary-andorra-women",
     "teamA": {
-      "name": "Japan U21",
-      "icon": "https://flagcdn.com/w80/jp.png"
+      "name": "Hungary",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4729/image.png"
     },
     "teamB": {
-      "name": "Ukraine U21",
-      "icon": "https://flagcdn.com/w80/ua.png"
+      "name": "Andorra",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4730/image.png"
     },
-    "leagueName": "Under 21 International Friendlies",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-08",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both youth sides have good attacking structure, making two goals a safer angle than picking a winner."
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Hungary Euro qualifier with UEFA competition experience. Andorra minimal women's football record, clear tier difference home advantage."
   },
+  {
+    "id": "lithuania-liechtenstein-women",
+    "teamA": {
+      "name": "Lithuania",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4745/image.png"
+    },
+    "teamB": {
+      "name": "Liechtenstein",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4746/image.png"
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Lithuania stronger UEFA women's ranking. Liechtenstein minimal women's football record, smallest nation clear mismatch home advantage."
+  }
 ]
