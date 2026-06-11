@@ -1,444 +1,104 @@
 [
   {
-    "id": "iceland-spain-women",
+    "id": "mexico-south-africa",
     "teamA": {
-      "name": "Iceland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4703/image.png"
-    },
-    "teamB": {
-      "name": "Spain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/37371/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Spain unbeaten in last 10 qualifiers with 4-0 vs England, 5-0 vs Ukraine, 3-0 vs Iceland, 3-0 vs Germany. Dominant attacking force averaging 4+ goals/game."
-  },
-  {
-    "id": "england-ukraine-women",
-    "teamA": {
-      "name": "England",
-      "icon": "https://cdn.sofascore.app/api/v1/team/7415/image.png"
-    },
-    "teamB": {
-      "name": "Ukraine",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "England won Euro 2025, beat Ukraine 6-1 earlier this qualifying cycle. Strong home form with consistent scoring."
-  },
-  {
-    "id": "portugal-finland-women",
-    "teamA": {
-      "name": "Finland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4705/image.png"
-    },
-    "teamB": {
-      "name": "Portugal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4706/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Portugal UNBEATEN 6 matches in qualifying with 24 goals scored, 0 conceded. Exceptional defensive record and scoring consistency."
-  },
-  {
-    "id": "netherlands-poland-women",
-    "teamA": {
-      "name": "Netherlands",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4707/image.png"
-    },
-    "teamB": {
-      "name": "Poland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4708/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Netherlands stronger historically with World Cup runner-up pedigree. Poland inconsistent in recent qualifiers."
-  },
-  {
-    "id": "france-ireland-women",
-    "teamA": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/32485/image.png"
-    },
-    "teamB": {
-      "name": "Republic of Ireland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4709/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "France won Nations League, beat Poland 4-1 recently. Strong home form and superior squad depth vs Ireland."
-  },
-  {
-    "id": "slovenia-germany-women",
-    "teamA": {
-      "name": "Slovenia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4710/image.png"
-    },
-    "teamB": {
-      "name": "Germany",
-      "icon": "https://cdn.sofascore.app/api/v1/team/23992/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Germany Euro 2025 semifinalist, beat Norway 2-0 in qualifiers. Slovenia weaker tier team with limited competitive record."
-  },
-  {
-    "id": "norway-austria-women",
-    "teamA": {
-      "name": "Norway",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4711/image.png"
-    },
-    "teamB": {
-      "name": "Austria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4712/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Norway Euro 2025 semifinalist with World Cup experience. Austria competitive but Norway's home advantage significant."
-  },
-  {
-    "id": "croatia-bulgaria-women",
-    "teamA": {
-      "name": "Croatia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
-    },
-    "teamB": {
-      "name": "Bulgaria",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4714/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Croatia stronger FIFA ranking with Euro qualification experience. Bulgaria lower tier with limited competitive matches."
-  },
-  {
-    "id": "luxembourg-belgium-women",
-    "teamA": {
-      "name": "Luxembourg",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
-    },
-    "teamB": {
-      "name": "Belgium",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4716/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Belgium Euro 2025 quarterfinalist, beat Croatia 4-1 recently. Luxembourg minimal competitive record, clear tier difference."
-  },
-  {
-    "id": "malta-turkey-women",
-    "teamA": {
-      "name": "Malta",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4717/image.png"
-    },
-    "teamB": {
-      "name": "Turkey",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4718/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Turkey beat Malta 3-0 earlier in March 2026. Turkey 3 wins in 6 matches, Malta 0 wins 4 losses -12 GD clearly weaker."
-  },
-  {
-    "id": "ni-switzerland-women",
-    "teamA": {
-      "name": "Northern Ireland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4719/image.png"
-    },
-    "teamB": {
-      "name": "Switzerland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4720/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Switzerland 3 wins 1 draw 0 losses in 4 qualifiers (+7 GD). Northern Ireland 2 wins 2 losses, Switzerland stronger overall."
-  },
-  {
-    "id": "georgia-greece-women",
-    "teamA": {
-      "name": "Georgia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4721/image.png"
-    },
-    "teamB": {
-      "name": "Greece",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4722/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Greece has UEFA Euro qualification experience, Georgia minimal competitive record. Greece stronger FIFA ranking."
-  },
-  {
-    "id": "australia-mexico-women",
-    "teamA": {
-      "name": "Australia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4723/image.png"
-    },
-    "teamB": {
       "name": "Mexico",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4724/image.png"
-    },
-    "leagueName": "Internationals Women Friendlies",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Australia (Matildas) Olympic semifinalists 2024, beat New Zealand 5-0 and 2-0 recently. Strong home form vs Mexico."
-  },
-  {
-    "id": "japan-southafrica-women",
-    "teamA": {
-      "name": "Japan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4725/image.png"
+      "icon": "https://flagcdn.com/w80/mx.png"
     },
     "teamB": {
       "name": "South Africa",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4726/image.png"
+      "icon": "https://flagcdn.com/w80/za.png"
     },
-    "leagueName": "Internationals Women Friendlies",
+    "leagueName": "FIFA World Cup - Group A",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Japan World Cup semifinalists 2011, beat USA 2-1 in friendly. South Africa stronger African team but Japan Asian champion pedigree."
-  },
-  {
-    "id": "newzealand-morocco-women",
-    "teamA": {
-      "name": "New Zealand",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4727/image.png"
-    },
-    "teamB": {
-      "name": "Morocco",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4728/image.png"
-    },
-    "leagueName": "Internationals Women Friendlies",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Morocco won Africa Cup of Nations 2025, beat Nigeria in finals. New Zealand lost 5-0 to Australia, Morocco ascending team with World Cup experience."
-  },
-  {
-    "id": "hungary-andorra-women",
-    "teamA": {
-      "name": "Hungary",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4729/image.png"
-    },
-    "teamB": {
-      "name": "Andorra",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4730/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
+    "date": "2026-06-11",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Hungary Euro qualifier with UEFA competition experience. Andorra minimal women's football record, clear tier difference home advantage."
+    "reason": "Mexico are hosts, have strong home support and altitude advantage, and enter the tournament as Group A favorites. :contentReference[oaicite:0]{index=0}"
   },
   {
-    "id": "serbia-denmark-women",
+    "id": "mexico-south-africa-over15",
     "teamA": {
-      "name": "Serbia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4731/image.png"
+      "name": "Mexico",
+      "icon": "https://flagcdn.com/w80/mx.png"
     },
     "teamB": {
-      "name": "Denmark",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4732/image.png"
+      "name": "South Africa",
+      "icon": "https://flagcdn.com/w80/za.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Denmark Euro qualifier with World Cup experience. Serbia lower tier with 0 wins 1 draw 3 losses in qualifying (-group position 4)."
-  },
-  {
-    "id": "sweden-italy-women",
-    "teamA": {
-      "name": "Sweden",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4733/image.png"
-    },
-    "teamB": {
-      "name": "Italy",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4734/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
+    "leagueName": "FIFA World Cup - Group A",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-09",
+    "date": "2026-06-11",
     "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Sweden 12-match unbeaten streak at one point, Italy Euro 2025 semifinalist beat Norway 2-1. Both teams score consistently, expect 2+ goals."
+    "safetyRating": 8.5,
+    "reason": "Mexico possess superior attacking quality and should contribute heavily toward at least two total goals. :contentReference[oaicite:1]{index=1}"
   },
   {
-    "id": "latvia-slovakia-women",
+    "id": "venezuela-u20-japan-u20",
     "teamA": {
-      "name": "Latvia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4735/image.png"
+      "name": "Venezuela U20",
+      "icon": "https://flagcdn.com/w80/ve.png"
     },
     "teamB": {
-      "name": "Slovakia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4736/image.png"
+      "name": "Japan U20",
+      "icon": "https://flagcdn.com/w80/jp.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Slovakia stronger UEFA ranking with Euro qualification pathway experience. Latvia minimal competitive women's football record."
-  },
-  {
-    "id": "northmacedonia-azerbaijan-women",
-    "teamA": {
-      "name": "North Macedonia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4737/image.png"
-    },
-    "teamB": {
-      "name": "Azerbaijan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4738/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "North Macedonia Euro qualifier with growing women's program. Azerbaijan lower tier, home advantage significant for Macedonia."
-  },
-  {
-    "id": "estonia-bosnia-women",
-    "teamA": {
-      "name": "Estonia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4739/image.png"
-    },
-    "teamB": {
-      "name": "Bosnia-Herzegovina",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4740/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Bosnia stronger UEFA ranking with Euro qualification experience. Estonia lower tier women's program, away advantage for Bosnia."
-  },
-  {
-    "id": "wales-czechrep-women",
-    "teamA": {
-      "name": "Wales",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4741/image.png"
-    },
-    "teamB": {
-      "name": "Czech Republic",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4742/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Wales Euro qualifier with World Cup appearance history. Czech Republic competitive but Wales home advantage in qualifying."
-  },
-  {
-    "id": "albania-montenegro-women",
-    "teamA": {
-      "name": "Albania",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4743/image.png"
-    },
-    "teamB": {
-      "name": "Montenegro",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4744/image.png"
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
+    "leagueName": "Tournoi Maurice Revello - Group B",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Both Balkan teams with similar tier levels, expect open match. Limited defensive records suggest 2+ goals likely."
+    "date": "2026-06-11",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Youth tournaments tend to produce open matches, and both sides are technically capable of creating scoring opportunities."
   },
   {
-    "id": "lithuania-liechtenstein-women",
+    "id": "venezuela-u20-japan-u20-under45",
     "teamA": {
-      "name": "Lithuania",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4745/image.png"
+      "name": "Venezuela U20",
+      "icon": "https://flagcdn.com/w80/ve.png"
     },
     "teamB": {
-      "name": "Liechtenstein",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4746/image.png"
+      "name": "Japan U20",
+      "icon": "https://flagcdn.com/w80/jp.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
+    "leagueName": "Tournoi Maurice Revello - Group B",
+    "prediction": "UNDER 4.5 GOALS",
+    "date": "2026-06-11",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Neither side regularly participates in extremely high-scoring games, making under 4.5 a conservative option."
+  },
+  {
+    "id": "portugal-u20-canada-u20",
+    "teamA": {
+      "name": "Portugal U20",
+      "icon": "https://flagcdn.com/w80/pt.png"
+    },
+    "teamB": {
+      "name": "Canada U20",
+      "icon": "https://flagcdn.com/w80/ca.png"
+    },
+    "leagueName": "Tournoi Maurice Revello - Group B",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
+    "date": "2026-06-11",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Lithuania stronger UEFA women's ranking. Liechtenstein minimal women's football record, smallest nation clear mismatch home advantage."
+    "safetyRating": 8.5,
+    "reason": "Portugal U20 traditionally possess superior youth development, technical quality, and tournament pedigree. :contentReference[oaicite:2]{index=2}"
   },
   {
-    "id": "gibraltar-kosovo-women",
+    "id": "portugal-u20-canada-u20-over15",
     "teamA": {
-      "name": "Gibraltar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4747/image.png"
+      "name": "Portugal U20",
+      "icon": "https://flagcdn.com/w80/pt.png"
     },
     "teamB": {
-      "name": "Kosovo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4748/image.png"
+      "name": "Canada U20",
+      "icon": "https://flagcdn.com/w80/ca.png"
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Kosovo growing women's program with UEFA integration. Gibraltar smallest population, minimal competitive women's record, away advantage Kosovo."
-  },
-  {
-    "id": "hindia-tajikistan",
-    "teamA": {
-      "name": "Tajikistan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4749/image.png"
-    },
-    "teamB": {
-      "name": "India",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4750/image.png"
-    },
-    "leagueName": "Internationals Friendlies 2",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-09",
-    "confidence": "Medium-High",
-    "safetyRating": 7,
-    "reason": "Tajikistan home advantage in Central Asia. India women's Asian Cup qualifier but Tajikistan home fixture significant factor."
+    "leagueName": "Tournoi Maurice Revello - Group B",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-11",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Portugal's attacking style combined with Canada's positive youth development trends support at least two total goals. :contentReference[oaicite:3]{index=3}"
   }
 ]
