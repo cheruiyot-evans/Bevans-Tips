@@ -1,19 +1,19 @@
 [
   {
-    "id": "mexico-south-africa",
+    "id": "canada-bosnia-herzegovina",
     "teamA": {
-      "name": "Mexico",
-      "icon": "https://flagcdn.com/w80/mx.png"
+      "name": "Canada",
+      "icon": "https://flagcdn.com/w80/ca.png"
     },
     "teamB": {
-      "name": "South Africa",
-      "icon": "https://flagcdn.com/w80/za.png"
+      "name": "Bosnia-Herzegovina",
+      "icon": "https://flagcdn.com/w80/ba.png"
     },
-    "leagueName": "FIFA World Cup - Group A",
+    "leagueName": "FIFA World Cup - Group B",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-11",
+    "date": "2026-06-12",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Mexico are hosts, have strong home support and altitude advantage, and enter the tournament as Group A favorites. :contentReference[oaicite:0]{index=0}"
+    "safetyRating": 8.5,
+    "reason": "Canada have home advantage in Toronto, stronger pace in attack, and high motivation to earn a first World Cup result."
   }
 ]
