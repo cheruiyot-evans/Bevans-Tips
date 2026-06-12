@@ -1,104 +1,104 @@
 [
   {
-    "id": "mexico-south-africa",
+    "id": "canada-bosnia-herzegovina",
     "teamA": {
-      "name": "Mexico",
-      "icon": "https://flagcdn.com/w80/mx.png"
-    },
-    "teamB": {
-      "name": "South Africa",
-      "icon": "https://flagcdn.com/w80/za.png"
-    },
-    "leagueName": "FIFA World Cup - Group A",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-11",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Mexico are hosts, have strong home support and altitude advantage, and enter the tournament as Group A favorites. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "id": "mexico-south-africa-over15",
-    "teamA": {
-      "name": "Mexico",
-      "icon": "https://flagcdn.com/w80/mx.png"
-    },
-    "teamB": {
-      "name": "South Africa",
-      "icon": "https://flagcdn.com/w80/za.png"
-    },
-    "leagueName": "FIFA World Cup - Group A",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-11",
-    "confidence": "High",
-    "safetyRating": 8.5,
-    "reason": "Mexico possess superior attacking quality and should contribute heavily toward at least two total goals. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "id": "venezuela-u20-japan-u20",
-    "teamA": {
-      "name": "Venezuela U20",
-      "icon": "https://flagcdn.com/w80/ve.png"
-    },
-    "teamB": {
-      "name": "Japan U20",
-      "icon": "https://flagcdn.com/w80/jp.png"
-    },
-    "leagueName": "Tournoi Maurice Revello - Group B",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-11",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Youth tournaments tend to produce open matches, and both sides are technically capable of creating scoring opportunities."
-  },
-  {
-    "id": "venezuela-u20-japan-u20-under45",
-    "teamA": {
-      "name": "Venezuela U20",
-      "icon": "https://flagcdn.com/w80/ve.png"
-    },
-    "teamB": {
-      "name": "Japan U20",
-      "icon": "https://flagcdn.com/w80/jp.png"
-    },
-    "leagueName": "Tournoi Maurice Revello - Group B",
-    "prediction": "UNDER 4.5 GOALS",
-    "date": "2026-06-11",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Neither side regularly participates in extremely high-scoring games, making under 4.5 a conservative option."
-  },
-  {
-    "id": "portugal-u20-canada-u20",
-    "teamA": {
-      "name": "Portugal U20",
-      "icon": "https://flagcdn.com/w80/pt.png"
-    },
-    "teamB": {
-      "name": "Canada U20",
+      "name": "Canada",
       "icon": "https://flagcdn.com/w80/ca.png"
     },
-    "leagueName": "Tournoi Maurice Revello - Group B",
+    "teamB": {
+      "name": "Bosnia-Herzegovina",
+      "icon": "https://flagcdn.com/w80/ba.png"
+    },
+    "leagueName": "FIFA World Cup - Group B",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-11",
+    "date": "2026-06-12",
     "confidence": "Very High",
     "safetyRating": 8.5,
-    "reason": "Portugal U20 traditionally possess superior youth development, technical quality, and tournament pedigree. :contentReference[oaicite:2]{index=2}"
+    "reason": "Canada have home advantage in Toronto, stronger pace in attack, and high motivation to earn a first World Cup result."
   },
   {
-    "id": "portugal-u20-canada-u20-over15",
+    "id": "shelbourne-shamrock-rovers",
     "teamA": {
-      "name": "Portugal U20",
-      "icon": "https://flagcdn.com/w80/pt.png"
+      "name": "Shelbourne",
+      "icon": "https://ui-avatars.com/api/?name=Shelbourne&background=0f172a&color=ffffff"
     },
     "teamB": {
-      "name": "Canada U20",
-      "icon": "https://flagcdn.com/w80/ca.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://ui-avatars.com/api/?name=Shamrock+Rovers&background=16a34a&color=ffffff"
     },
-    "leagueName": "Tournoi Maurice Revello - Group B",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-11",
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-12",
+    "confidence": "Very High",
+    "safetyRating": 8.5,
+    "reason": "Shamrock Rovers are league leaders with superior squad depth, while Shelbourne have struggled for consistency at home."
+  },
+  {
+    "id": "st-patricks-athletic-drogheda-united",
+    "teamA": {
+      "name": "St Patrick's Athletic",
+      "icon": "https://ui-avatars.com/api/?name=St+Patricks+Athletic&background=dc2626&color=ffffff"
+    },
+    "teamB": {
+      "name": "Drogheda United",
+      "icon": "https://ui-avatars.com/api/?name=Drogheda+United&background=7f1d1d&color=ffffff"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-12",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Portugal's attacking style combined with Canada's positive youth development trends support at least two total goals. :contentReference[oaicite:3]{index=3}"
+    "reason": "St Patrick's Athletic carry stronger attacking options, while Drogheda have shown defensive vulnerability."
+  },
+  {
+    "id": "derry-city-bohemians",
+    "teamA": {
+      "name": "Derry City",
+      "icon": "https://ui-avatars.com/api/?name=Derry+City&background=dc2626&color=ffffff"
+    },
+    "teamB": {
+      "name": "Bohemians",
+      "icon": "https://ui-avatars.com/api/?name=Bohemians&background=111827&color=ffffff"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-12",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Bohemians have improved offensively, while Derry City games remain open enough for a safer two-goal angle."
+  },
+  {
+    "id": "galway-united-dundalk",
+    "teamA": {
+      "name": "Galway United",
+      "icon": "https://ui-avatars.com/api/?name=Galway+United&background=7c2d12&color=ffffff"
+    },
+    "teamB": {
+      "name": "Dundalk",
+      "icon": "https://ui-avatars.com/api/?name=Dundalk&background=111827&color=ffffff"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-06-12",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Dundalk have been competitive and disciplined, while Galway are usually difficult to break down."
+  },
+  {
+    "id": "waterford-sligo-rovers",
+    "teamA": {
+      "name": "Waterford",
+      "icon": "https://ui-avatars.com/api/?name=Waterford&background=2563eb&color=ffffff"
+    },
+    "teamB": {
+      "name": "Sligo Rovers",
+      "icon": "https://ui-avatars.com/api/?name=Sligo+Rovers&background=dc2626&color=ffffff"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-12",
+    "confidence": "High",
+    "safetyRating": 7.5,
+    "reason": "Waterford remain near the bottom despite some improvement, while Sligo Rovers have the stronger league position and experience."
   }
 ]
