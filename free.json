@@ -1,36 +1,19 @@
 [
   {
-    "id": "saudi-arabia-laos-women",
+    "id": "saudi-arabia-uruguay",
     "teamA": {
-      "name": "Saudi Arabia Women",
-      "icon": "https://cdn.sofascore.app/api/v1/team/409087/image.png"
+      "name": "Saudi Arabia",
+      "icon": "https://flagcdn.com/w80/sa.png"
     },
     "teamB": {
-      "name": "Laos Women",
-      "icon": "https://cdn.sofascore.app/api/v1/team/132940/image.png"
+      "name": "Uruguay",
+      "icon": "https://flagcdn.com/w80/uy.png"
     },
-    "leagueName": "Internationals Women Friendlies",
-    "prediction": "DRAW NO BET SAUDI ARABIA",
-    "date": "2026-06-13",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Saudi Arabia recently beat Laos 4-0, showing a clear quality edge; DNB protects against the unlikely draw."
-  },
-  {
-    "id": "qatar-switzerland",
-    "teamA": {
-      "name": "Qatar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4792/image.png"
-    },
-    "teamB": {
-      "name": "Switzerland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4699/image.png"
-    },
-    "leagueName": "FIFA World Cup Group B",
+    "leagueName": "FIFA World Cup - Group H",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-13",
+    "date": "2026-06-15",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Switzerland have stronger squad depth, better international ranking, and more World Cup experience; X2 avoids the straight-win risk."
+    "reason": "Uruguay have superior squad quality, defensive structure and tournament experience; X2 protects against a cautious opening-game draw."
   }
 ]
