@@ -1,19 +1,36 @@
 [
   {
-    "id": "saudi-arabia-uruguay",
+    "id": "portugal-congo-dr",
     "teamA": {
-      "name": "Saudi Arabia",
-      "icon": "https://flagcdn.com/w80/sa.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
     },
     "teamB": {
-      "name": "Uruguay",
-      "icon": "https://flagcdn.com/w80/uy.png"
+      "name": "Congo DR",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4823/image.png"
     },
-    "leagueName": "FIFA World Cup - Group H",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-15",
+    "leagueName": "FIFA World Cup - Group K",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-17",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Uruguay have superior squad quality, defensive structure and tournament experience; X2 protects against a cautious opening-game draw."
+    "reason": "Portugal have stronger squad depth, better international form, and home-favourite profile, making 1X the safest conservative market."
+  },
+  {
+    "id": "ilves-jaro",
+    "teamA": {
+      "name": "Ilves",
+      "icon": "https://cdn.sofascore.app/api/v1/team/22386/image.png"
+    },
+    "teamB": {
+      "name": "Jaro",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2252/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-17",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Ilves are usually strong going forward while Jaro concede regularly, making two total goals a safer option than picking a winner."
   }
 ]
