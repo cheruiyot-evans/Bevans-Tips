@@ -1,53 +1,104 @@
 [
   {
-    "id": "spain-cape-verde",
+    "id": "portugal-congo-dr",
     "teamA": {
-      "name": "Spain",
-      "icon": "https://flagcdn.com/w80/es.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
     },
     "teamB": {
-      "name": "Cape Verde",
-      "icon": "https://flagcdn.com/w80/cv.png"
+      "name": "Congo DR",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4823/image.png"
     },
-    "leagueName": "FIFA World Cup - Group H",
+    "leagueName": "FIFA World Cup - Group K",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-15",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Spain are far stronger in squad depth, ranking, experience and control-based style, while Cape Verde are World Cup debutants."
-  },
-  {
-    "id": "saudi-arabia-uruguay",
-    "teamA": {
-      "name": "Saudi Arabia",
-      "icon": "https://flagcdn.com/w80/sa.png"
-    },
-    "teamB": {
-      "name": "Uruguay",
-      "icon": "https://flagcdn.com/w80/uy.png"
-    },
-    "leagueName": "FIFA World Cup - Group H",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-15",
+    "date": "2026-06-17",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Uruguay have superior squad quality, defensive structure and tournament experience; X2 protects against a cautious opening-game draw."
+    "reason": "Portugal have stronger squad depth, better international form, and home-favourite profile, making 1X the safest conservative market."
   },
   {
-    "id": "belgium-egypt",
+    "id": "ilves-jaro",
     "teamA": {
-      "name": "Belgium",
-      "icon": "https://flagcdn.com/w80/be.png"
+      "name": "Ilves",
+      "icon": "https://cdn.sofascore.app/api/v1/team/22386/image.png"
     },
     "teamB": {
-      "name": "Egypt",
-      "icon": "https://flagcdn.com/w80/eg.png"
+      "name": "Jaro",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2252/image.png"
     },
-    "leagueName": "FIFA World Cup - Group G",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-15",
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-17",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Ilves are usually strong going forward while Jaro concede regularly, making two total goals a safer option than picking a winner."
+  },
+  {
+    "id": "tps-kups",
+    "teamA": {
+      "name": "TPS",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2254/image.png"
+    },
+    "teamB": {
+      "name": "KuPS",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2244/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-17",
+    "confidence": "Very High",
+    "safetyRating": 8,
+    "reason": "KuPS carry strong attacking quality and TPS matches often allow chances, making over 1.5 goals safer than the away win."
+  },
+  {
+    "id": "hjk-inter-turku",
+    "teamA": {
+      "name": "HJK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2242/image.png"
+    },
+    "teamB": {
+      "name": "Inter Turku",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2247/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-17",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Belgium are favourites with stronger midfield creativity and overall depth, but Egypt’s attacking quality makes double chance safer than a straight win."
+    "reason": "Both teams have attacking quality and this fixture has strong goal potential, while the winner market is less safe."
+  },
+  {
+    "id": "gnistan-lahti",
+    "teamA": {
+      "name": "Gnistan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2271/image.png"
+    },
+    "teamB": {
+      "name": "Lahti",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2249/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-17",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both sides are vulnerable defensively and capable of scoring, making over 1.5 goals the safest low-risk market."
+  },
+  {
+    "id": "england-croatia",
+    "teamA": {
+      "name": "England",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
+    },
+    "teamB": {
+      "name": "Croatia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
+    },
+    "leagueName": "FIFA World Cup - Group L",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-17",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "England have stronger squad depth and home-favourite profile, while Croatia remain competitive enough to avoid risky win-only markets."
   }
 ]
