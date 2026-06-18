@@ -1,36 +1,36 @@
 [
   {
-    "id": "portugal-congo-dr",
+    "id": "canada-qatar",
     "teamA": {
-      "name": "Portugal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
+      "name": "Canada",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4752/image.png"
     },
     "teamB": {
-      "name": "Congo DR",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4823/image.png"
+      "name": "Qatar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4792/image.png"
     },
-    "leagueName": "FIFA World Cup - Group K",
+    "leagueName": "FIFA World Cup - Group B",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Portugal have stronger squad depth, better international form, and home-favourite profile, making 1X the safest conservative market."
+    "reason": "Canada have home advantage, stronger squad depth, and a higher FIFA ranking profile, making 1X safer than a straight home win."
   },
   {
-    "id": "ilves-jaro",
+    "id": "ac-oulu-ifk-mariehamn",
     "teamA": {
-      "name": "Ilves",
-      "icon": "https://cdn.sofascore.app/api/v1/team/22386/image.png"
+      "name": "AC Oulu",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5114/image.png"
     },
     "teamB": {
-      "name": "Jaro",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2252/image.png"
+      "name": "IFK Mariehamn",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5058/image.png"
     },
     "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-17",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-18",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Ilves are usually strong going forward while Jaro concede regularly, making two total goals a safer option than picking a winner."
+    "reason": "AC Oulu are 2nd while Mariehamn are 12th, so avoiding the risky win-only market makes 1X the safest conservative pick."
   }
 ]
