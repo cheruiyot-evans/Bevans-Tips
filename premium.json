@@ -1,104 +1,70 @@
 [
   {
-    "id": "portugal-congo-dr",
+    "id": "canada-qatar",
     "teamA": {
-      "name": "Portugal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
+      "name": "Canada",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4752/image.png"
     },
     "teamB": {
-      "name": "Congo DR",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4823/image.png"
+      "name": "Qatar",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4792/image.png"
     },
-    "leagueName": "FIFA World Cup - Group K",
+    "leagueName": "FIFA World Cup - Group B",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Portugal have stronger squad depth, better international form, and home-favourite profile, making 1X the safest conservative market."
+    "reason": "Canada have home advantage, stronger squad depth, and a more reliable tournament profile, making 1X safer than a straight home win."
   },
   {
-    "id": "ilves-jaro",
+    "id": "ac-oulu-ifk-mariehamn",
     "teamA": {
-      "name": "Ilves",
-      "icon": "https://cdn.sofascore.app/api/v1/team/22386/image.png"
+      "name": "AC Oulu",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5114/image.png"
     },
     "teamB": {
-      "name": "Jaro",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2252/image.png"
+      "name": "IFK Mariehamn",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5058/image.png"
     },
     "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-17",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-18",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Ilves are usually strong going forward while Jaro concede regularly, making two total goals a safer option than picking a winner."
+    "reason": "AC Oulu are safer at home while Mariehamn are usually weaker away, so 1X is the most conservative low-risk option."
   },
   {
-    "id": "tps-kups",
+    "id": "switzerland-bosnia-herzegovina",
     "teamA": {
-      "name": "TPS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2254/image.png"
+      "name": "Switzerland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4699/image.png"
     },
     "teamB": {
-      "name": "KuPS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2244/image.png"
+      "name": "Bosnia-Herzegovina",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4718/image.png"
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-17",
-    "confidence": "Very High",
-    "safetyRating": 8,
-    "reason": "KuPS carry strong attacking quality and TPS matches often allow chances, making over 1.5 goals safer than the away win."
-  },
-  {
-    "id": "hjk-inter-turku",
-    "teamA": {
-      "name": "HJK",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2242/image.png"
-    },
-    "teamB": {
-      "name": "Inter Turku",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2247/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-17",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams have attacking quality and this fixture has strong goal potential, while the winner market is less safe."
-  },
-  {
-    "id": "gnistan-lahti",
-    "teamA": {
-      "name": "Gnistan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2271/image.png"
-    },
-    "teamB": {
-      "name": "Lahti",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2249/image.png"
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-17",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both sides are vulnerable defensively and capable of scoring, making over 1.5 goals the safest low-risk market."
-  },
-  {
-    "id": "england-croatia",
-    "teamA": {
-      "name": "England",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
-    },
-    "teamB": {
-      "name": "Croatia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4715/image.png"
-    },
-    "leagueName": "FIFA World Cup - Group L",
+    "leagueName": "FIFA World Cup - Group B",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "England have stronger squad depth and home-favourite profile, while Croatia remain competitive enough to avoid risky win-only markets."
+    "reason": "Switzerland are typically disciplined defensively and hard to beat, making 1X safer than backing a direct win against a physical Bosnia side."
+  },
+  {
+    "id": "czech-republic-south-africa",
+    "teamA": {
+      "name": "Czech Republic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4717/image.png"
+    },
+    "teamB": {
+      "name": "South Africa",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
+    },
+    "leagueName": "FIFA World Cup - Group A",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-18",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams can create chances but the winner market is less reliable, so over 1.5 goals is the safer conservative selection."
   }
 ]
