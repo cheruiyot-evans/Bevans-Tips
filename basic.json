@@ -1,70 +1,104 @@
 [
   {
-    "id": "canada-qatar",
+    "id": "st-patricks-athletic-sligo-rovers",
     "teamA": {
-      "name": "Canada",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4752/image.png"
+      "name": "St Patrick's Athletic",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3169/image.png"
     },
     "teamB": {
-      "name": "Qatar",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4792/image.png"
+      "name": "Sligo Rovers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3190/image.png"
     },
-    "leagueName": "FIFA World Cup - Group B",
+    "leagueName": "Irish Premier Division",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Canada have home advantage, stronger squad depth, and a more reliable tournament profile, making 1X safer than a straight home win."
+    "reason": "St Patrick's are stronger at home and Sligo Rovers have struggled for consistency, making home/draw the safest option."
   },
   {
-    "id": "ac-oulu-ifk-mariehamn",
+    "id": "waterford-shamrock-rovers",
     "teamA": {
-      "name": "AC Oulu",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5114/image.png"
+      "name": "Waterford",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3194/image.png"
     },
     "teamB": {
-      "name": "IFK Mariehamn",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5058/image.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3177/image.png"
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-18",
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-19",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "AC Oulu are safer at home while Mariehamn are usually weaker away, so 1X is the most conservative low-risk option."
+    "reason": "Shamrock Rovers are the stronger side overall and have better title-level consistency, so away/draw is safer than away win."
   },
   {
-    "id": "switzerland-bosnia-herzegovina",
+    "id": "united-states-australia",
     "teamA": {
-      "name": "Switzerland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4699/image.png"
+      "name": "United States",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4724/image.png"
     },
     "teamB": {
-      "name": "Bosnia-Herzegovina",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4718/image.png"
+      "name": "Australia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4741/image.png"
     },
-    "leagueName": "FIFA World Cup - Group B",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-18",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Switzerland are typically disciplined defensively and hard to beat, making 1X safer than backing a direct win against a physical Bosnia side."
-  },
-  {
-    "id": "czech-republic-south-africa",
-    "teamA": {
-      "name": "Czech Republic",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4717/image.png"
-    },
-    "teamB": {
-      "name": "South Africa",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4757/image.png"
-    },
-    "leagueName": "FIFA World Cup - Group A",
+    "leagueName": "FIFA World Cup",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Both teams can create chances but the winner market is less reliable, so over 1.5 goals is the safer conservative selection."
+    "reason": "Both teams have enough attacking quality, making over 1.5 goals safer than choosing a winner."
+  },
+  {
+    "id": "scotland-morocco",
+    "teamA": {
+      "name": "Scotland",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4695/image.png"
+    },
+    "teamB": {
+      "name": "Morocco",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4778/image.png"
+    },
+    "leagueName": "FIFA World Cup",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-19",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Morocco have stronger squad quality and defensive structure, making away/draw the safer conservative market."
+  },
+  {
+    "id": "drogheda-united-shelbourne",
+    "teamA": {
+      "name": "Drogheda United",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3180/image.png"
+    },
+    "teamB": {
+      "name": "Shelbourne",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3174/image.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-19",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Shelbourne are more stable and stronger defensively, so away/draw is safer than backing a straight away win."
+  },
+  {
+    "id": "bohemians-dundalk",
+    "teamA": {
+      "name": "Bohemians",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3173/image.png"
+    },
+    "teamB": {
+      "name": "Dundalk",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3179/image.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-19",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams are involved in open matches and have enough scoring potential, making over 1.5 goals the safest angle."
   }
 ]
