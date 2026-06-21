@@ -1,36 +1,19 @@
 [
   {
-    "id": "st-patricks-athletic-sligo-rovers",
+    "id": "spain-saudi-arabia",
     "teamA": {
-      "name": "St Patrick's Athletic",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3169/image.png"
+      "name": "Spain",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4698/image.png"
     },
     "teamB": {
-      "name": "Sligo Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3190/image.png"
+      "name": "Saudi Arabia",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4834/image.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "FIFA World Cup - Group H",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-19",
+    "date": "2026-06-21",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "St Patrick's are stronger at home and Sligo Rovers have struggled for consistency, making home/draw the safest option."
-  },
-  {
-    "id": "waterford-shamrock-rovers",
-    "teamA": {
-      "name": "Waterford",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3194/image.png"
-    },
-    "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3177/image.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-19",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Shamrock Rovers are the stronger side overall and have better title-level consistency, so away/draw is safer than away win."
+    "reason": "Spain have stronger squad depth, better ball control, and superior tournament experience, making home/draw the safest conservative option."
   }
 ]
