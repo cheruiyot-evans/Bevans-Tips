@@ -1,19 +1,19 @@
 [
   {
-    "id": "spain-saudi-arabia",
+    "id": "france-iraq",
     "teamA": {
-      "name": "Spain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4698/image.png"
+      "name": "France",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4481/image.png"
     },
     "teamB": {
-      "name": "Saudi Arabia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4834/image.png"
+      "name": "Iraq",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4763/image.png"
     },
-    "leagueName": "FIFA World Cup - Group H",
+    "leagueName": "FIFA World Cup - Group I",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-21",
+    "date": "2026-06-22",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Spain have stronger squad depth, better ball control, and superior tournament experience, making home/draw the safest conservative option."
+    "reason": "France have stronger squad depth, superior attacking quality, and better tournament experience, making home/draw the safest conservative option."
   }
 ]
