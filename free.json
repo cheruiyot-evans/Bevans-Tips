@@ -1,19 +1,53 @@
 [
   {
-    "id": "france-iraq",
+    "id": "portugal-uzbekistan",
     "teamA": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4481/image.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
     },
     "teamB": {
-      "name": "Iraq",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4763/image.png"
+      "name": "Uzbekistan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4777/image.png"
     },
-    "leagueName": "FIFA World Cup - Group I",
+    "leagueName": "FIFA World Cup - Group K",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "France have stronger squad depth, superior attacking quality, and better tournament experience, making home/draw the safest conservative option."
+    "reason": "Portugal have stronger squad depth, superior attacking quality, and better tournament experience, making home/draw the safest conservative option."
+  },
+  {
+    "id": "england-ghana",
+    "teamA": {
+      "name": "England",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
+    },
+    "teamB": {
+      "name": "Ghana",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4758/image.png"
+    },
+    "leagueName": "FIFA World Cup - Group L",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-23",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "England have better squad balance, stronger defensive structure, and more elite-level attacking options, making 1X a low-risk selection."
+  },
+  {
+    "id": "mariehamn-hjk",
+    "teamA": {
+      "name": "Mariehamn",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2407/image.png"
+    },
+    "teamB": {
+      "name": "HJK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2396/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "HJK have stronger league pedigree, better squad quality, and more consistent attacking output, making away/draw the safest angle."
   }
 ]
