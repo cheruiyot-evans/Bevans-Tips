@@ -1,104 +1,121 @@
 [
   {
-    "id": "st-patricks-athletic-sligo-rovers",
+    "id": "portugal-uzbekistan",
     "teamA": {
-      "name": "St Patrick's Athletic",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3169/image.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
     },
     "teamB": {
-      "name": "Sligo Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3190/image.png"
+      "name": "Uzbekistan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4777/image.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "FIFA World Cup - Group K",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-19",
+    "date": "2026-06-23",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "St Patrick's are stronger at home and Sligo Rovers have struggled for consistency, making home/draw the safest option."
+    "reason": "Portugal have superior squad depth, stronger attacking quality, and better tournament experience, making home/draw the safest option."
   },
   {
-    "id": "waterford-shamrock-rovers",
+    "id": "england-ghana",
     "teamA": {
-      "name": "Waterford",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3194/image.png"
+      "name": "England",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
     },
     "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3177/image.png"
+      "name": "Ghana",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4758/image.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-19",
+    "leagueName": "FIFA World Cup - Group L",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-06-23",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Shamrock Rovers are the stronger side overall and have better title-level consistency, so away/draw is safer than away win."
+    "reason": "England have stronger defensive structure, better squad balance, and more elite-level attacking options, making 1X low risk."
   },
   {
-    "id": "united-states-australia",
+    "id": "mariehamn-hjk",
     "teamA": {
-      "name": "United States",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4724/image.png"
+      "name": "Mariehamn",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2407/image.png"
     },
     "teamB": {
-      "name": "Australia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4741/image.png"
+      "name": "HJK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2396/image.png"
     },
-    "leagueName": "FIFA World Cup",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-19",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams have enough attacking quality, making over 1.5 goals safer than choosing a winner."
-  },
-  {
-    "id": "scotland-morocco",
-    "teamA": {
-      "name": "Scotland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4695/image.png"
-    },
-    "teamB": {
-      "name": "Morocco",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4778/image.png"
-    },
-    "leagueName": "FIFA World Cup",
+    "leagueName": "Finnish Veikkausliiga",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-19",
+    "date": "2026-06-23",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Morocco have stronger squad quality and defensive structure, making away/draw the safer conservative market."
+    "reason": "HJK have stronger league pedigree, better squad quality, and more consistent attacking output, making away/draw the safer angle."
   },
   {
-    "id": "drogheda-united-shelbourne",
+    "id": "lahti-tps",
     "teamA": {
-      "name": "Drogheda United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3180/image.png"
+      "name": "Lahti",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2403/image.png"
     },
     "teamB": {
-      "name": "Shelbourne",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3174/image.png"
+      "name": "TPS",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2401/image.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-19",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Shelbourne are more stable and stronger defensively, so away/draw is safer than backing a straight away win."
-  },
-  {
-    "id": "bohemians-dundalk",
-    "teamA": {
-      "name": "Bohemians",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3173/image.png"
-    },
-    "teamB": {
-      "name": "Dundalk",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3179/image.png"
-    },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "Finnish Veikkausliiga",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-19",
+    "date": "2026-06-23",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Both teams are involved in open matches and have enough scoring potential, making over 1.5 goals the safest angle."
+    "reason": "Both sides are more suited to open league matches than tight knockout football, making over 1.5 goals a safer conservative market."
+  },
+  {
+    "id": "vps-oulu",
+    "teamA": {
+      "name": "VPS",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2421/image.png"
+    },
+    "teamB": {
+      "name": "Oulu",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2414/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "This matchup has good potential for at least two goals due to attacking transitions and defensive gaps from both teams."
+  },
+  {
+    "id": "inter-turku-sjk",
+    "teamA": {
+      "name": "Inter Turku",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2405/image.png"
+    },
+    "teamB": {
+      "name": "SJK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2409/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams usually offer enough attacking threat to make two total goals a safer option than choosing a match winner."
+  },
+  {
+    "id": "jaro-gnistan",
+    "teamA": {
+      "name": "Jaro",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2406/image.png"
+    },
+    "teamB": {
+      "name": "Gnistan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2420/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Both sides are likely to target points in a winnable fixture, making over 1.5 goals safer than backing either team directly."
   }
 ]
