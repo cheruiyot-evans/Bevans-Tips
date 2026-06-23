@@ -1,53 +1,121 @@
 [
   {
-    "id": "spain-saudi-arabia",
+    "id": "portugal-uzbekistan",
     "teamA": {
-      "name": "Spain",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4698/image.png"
+      "name": "Portugal",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4704/image.png"
     },
     "teamB": {
-      "name": "Saudi Arabia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4834/image.png"
+      "name": "Uzbekistan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4777/image.png"
     },
-    "leagueName": "FIFA World Cup - Group H",
+    "leagueName": "FIFA World Cup - Group K",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-21",
+    "date": "2026-06-23",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Spain have stronger squad depth, better ball control, and superior tournament experience, making home/draw the safest conservative option."
+    "reason": "Portugal have superior squad depth, stronger attacking quality, and better tournament experience, making home/draw the safest option."
   },
   {
-    "id": "belgium-iran",
+    "id": "england-ghana",
     "teamA": {
-      "name": "Belgium",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4717/image.png"
+      "name": "England",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4713/image.png"
     },
     "teamB": {
-      "name": "Iran",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4690/image.png"
+      "name": "Ghana",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4758/image.png"
     },
-    "leagueName": "FIFA World Cup - Group G",
+    "leagueName": "FIFA World Cup - Group L",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-21",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Belgium have higher attacking quality and stronger midfield control, while Iran are disciplined but less likely to dominate possession."
+    "date": "2026-06-23",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "England have stronger defensive structure, better squad balance, and more elite-level attacking options, making 1X low risk."
   },
   {
-    "id": "uruguay-cape-verde",
+    "id": "mariehamn-hjk",
     "teamA": {
-      "name": "Uruguay",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4725/image.png"
+      "name": "Mariehamn",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2407/image.png"
     },
     "teamB": {
-      "name": "Cape Verde",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4753/image.png"
+      "name": "HJK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2396/image.png"
     },
-    "leagueName": "FIFA World Cup - Group H",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-21",
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-23",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Uruguay have stronger defensive structure, better tournament pedigree, and more high-level squad experience against a Cape Verde side likely to play cautiously."
+    "reason": "HJK have stronger league pedigree, better squad quality, and more consistent attacking output, making away/draw the safer angle."
+  },
+  {
+    "id": "lahti-tps",
+    "teamA": {
+      "name": "Lahti",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2403/image.png"
+    },
+    "teamB": {
+      "name": "TPS",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2401/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both sides are more suited to open league matches than tight knockout football, making over 1.5 goals a safer conservative market."
+  },
+  {
+    "id": "vps-oulu",
+    "teamA": {
+      "name": "VPS",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2421/image.png"
+    },
+    "teamB": {
+      "name": "Oulu",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2414/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "This matchup has good potential for at least two goals due to attacking transitions and defensive gaps from both teams."
+  },
+  {
+    "id": "inter-turku-sjk",
+    "teamA": {
+      "name": "Inter Turku",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2405/image.png"
+    },
+    "teamB": {
+      "name": "SJK",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2409/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams usually offer enough attacking threat to make two total goals a safer option than choosing a match winner."
+  },
+  {
+    "id": "jaro-gnistan",
+    "teamA": {
+      "name": "Jaro",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2406/image.png"
+    },
+    "teamB": {
+      "name": "Gnistan",
+      "icon": "https://cdn.sofascore.app/api/v1/team/2420/image.png"
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-06-23",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Both sides are likely to target points in a winnable fixture, making over 1.5 goals safer than backing either team directly."
   }
 ]
