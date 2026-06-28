@@ -1,189 +1,104 @@
 [
   {
-    "id": "netherlands-tunisia",
+    "id": "dalian-yingbo-shanghai-shenhua",
     "teamA": {
-      "name": "Tunisia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4729/image.png"
+      "name": "Dalian Yingbo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/474998/image.png"
     },
     "teamB": {
-      "name": "Netherlands",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4707/image.png"
-    },
-    "leagueName": "FIFA World Cup - Group F",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-26",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Netherlands have stronger squad depth, higher attacking quality, and Tunisia are already under pressure, making away/draw the safest angle."
-  },
-  {
-    "id": "france-norway",
-    "teamA": {
-      "name": "Norway",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4696/image.png"
-    },
-    "teamB": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4481/image.png"
-    },
-    "leagueName": "FIFA World Cup - Group I",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-26",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "France have elite squad depth, stronger tournament experience, and better balance across defense and attack, making away/draw a conservative pick."
-  },
-  {
-    "id": "shamrock-rovers-galway-united",
-    "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3177/image.png"
-    },
-    "teamB": {
-      "name": "Galway United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3167/image.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-26",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Shamrock Rovers have stronger league position, better home reliability, and superior squad quality, making home/draw the safest option."
-  },
-  {
-    "id": "senegal-iraq",
-    "teamA": {
-      "name": "Senegal",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4756/image.png"
-    },
-    "teamB": {
-      "name": "Iraq",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4763/image.png"
-    },
-    "leagueName": "FIFA World Cup - Group I",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-26",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Senegal have stronger physicality, better international pedigree, and more top-level players, making home/draw the safer market."
-  },
-  {
-    "id": "qingdao-hainiu-yunnan-yukun",
-    "teamA": {
-      "name": "Qingdao Hainiu",
-      "icon": "https://cdn.sofascore.app/api/v1/team/474986/image.png"
-    },
-    "teamB": {
-      "name": "Yunnan Yukun",
-      "icon": "https://cdn.sofascore.app/api/v1/team/474991/image.png"
+      "name": "Shanghai Shenhua",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4747/image.png"
     },
     "leagueName": "Chinese Super League",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-26",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Yunnan Yukun are in stronger league form and higher in the table, while Qingdao Hainiu have been less reliable defensively."
+    "date": "2026-06-28",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Shanghai Shenhua have stronger squad quality, better league consistency, and superior attacking depth, making away/draw the safest option."
   },
   {
-    "id": "derry-city-drogheda-united",
+    "id": "wales-u19-spain-u19",
     "teamA": {
-      "name": "Derry City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3170/image.png"
+      "name": "Wales U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110228/image.png"
     },
     "teamB": {
-      "name": "Drogheda United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3180/image.png"
+      "name": "Spain U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110232/image.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-26",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Derry City are generally stronger at home and face a Drogheda side with weaker league consistency, making 1X safer than a straight home win."
+    "leagueName": "UEFA Under 19 Championship - Group A",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-28",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Spain U19 usually have stronger technical control, better youth depth, and higher tournament pedigree, making away/draw the safest angle."
   },
   {
-    "id": "japan-sweden",
+    "id": "switzerland-u19-spain-u19-women",
     "teamA": {
-      "name": "Japan",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4770/image.png"
+      "name": "Switzerland U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110241/image.png"
     },
     "teamB": {
-      "name": "Sweden",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4706/image.png"
+      "name": "Spain U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110242/image.png"
     },
-    "leagueName": "FIFA World Cup - Group F",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-26",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams have attacking quality and group motivation, making over 1.5 goals safer than choosing a winner."
+    "leagueName": "UEFA Women's Under 19 Championship - Group B",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-06-28",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Spain U19 Women have stronger technical quality, better attacking structure, and superior youth tournament pedigree, making away/draw low risk."
   },
   {
-    "id": "paraguay-australia",
+    "id": "south-africa-canada",
     "teamA": {
-      "name": "Paraguay",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4703/image.png"
+      "name": "South Africa",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4722/image.png"
     },
     "teamB": {
-      "name": "Australia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4714/image.png"
+      "name": "Canada",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4752/image.png"
     },
-    "leagueName": "FIFA World Cup - Group D",
+    "leagueName": "FIFA World Cup - Last 32",
     "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-06-26",
+    "date": "2026-06-28",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Both teams are usually structured and physical, so under 3.5 goals is safer than backing either side directly."
+    "reason": "Knockout matches are usually cautious, with both sides likely to prioritize structure and avoid early defensive mistakes."
   },
   {
-    "id": "dundalk-waterford",
+    "id": "germany-u19-denmark-u19",
     "teamA": {
-      "name": "Dundalk",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3172/image.png"
+      "name": "Germany U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110229/image.png"
     },
     "teamB": {
-      "name": "Waterford",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3176/image.png"
+      "name": "Denmark U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110230/image.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "UEFA Under 19 Championship - Group A",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-26",
+    "date": "2026-06-28",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Irish league matches between mid-level sides often produce chances at both ends, making over 1.5 goals safer than match winner."
+    "reason": "Both youth sides have attacking talent and high-tempo styles, making two total goals safer than selecting a winner."
   },
   {
-    "id": "turkey-united-states",
+    "id": "qingdao-west-coast-zhejiang",
     "teamA": {
-      "name": "Turkey",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4701/image.png"
+      "name": "Qingdao West Coast",
+      "icon": "https://cdn.sofascore.app/api/v1/team/474990/image.png"
     },
     "teamB": {
-      "name": "United States",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4724/image.png"
+      "name": "Zhejiang",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4750/image.png"
     },
-    "leagueName": "FIFA World Cup - Group D",
+    "leagueName": "Chinese Super League",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-26",
+    "date": "2026-06-28",
     "confidence": "High",
-    "safetyRating": 7,
-    "reason": "Both teams carry attacking threat and can be vulnerable defensively, making over 1.5 goals safer than selecting a side."
-  },
-  {
-    "id": "bohemians-st-patricks-athletic",
-    "teamA": {
-      "name": "Bohemians",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3175/image.png"
-    },
-    "teamB": {
-      "name": "St Patrick's Athletic",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3171/image.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-06-26",
-    "confidence": "High",
-    "safetyRating": 7,
-    "reason": "This is a competitive fixture where both teams have enough attacking quality to make two total goals the safer conservative market."
+    "safetyRating": 8,
+    "reason": "Zhejiang have reliable attacking output, while Qingdao West Coast can contribute chances at home, making over 1.5 goals a safer market."
   }
 ]
