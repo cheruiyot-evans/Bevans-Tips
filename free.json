@@ -1,53 +1,36 @@
 [
-  {
-    "id": "netherlands-tunisia",
+   {
+    "id": "dalian-yingbo-shanghai-shenhua",
     "teamA": {
-      "name": "Tunisia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4729/image.png"
+      "name": "Dalian Yingbo",
+      "icon": "https://cdn.sofascore.app/api/v1/team/474998/image.png"
     },
     "teamB": {
-      "name": "Netherlands",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4707/image.png"
+      "name": "Shanghai Shenhua",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4747/image.png"
     },
-    "leagueName": "FIFA World Cup - Group F",
+    "leagueName": "Chinese Super League",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-26",
+    "date": "2026-06-28",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "Netherlands have stronger squad depth, higher attacking quality, and better tournament experience, making away/draw the safest angle."
+    "reason": "Shanghai Shenhua have stronger squad quality, better league consistency, and superior attacking depth, making away/draw the safest option."
   },
   {
-    "id": "france-norway",
+    "id": "wales-u19-spain-u19",
     "teamA": {
-      "name": "Norway",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4696/image.png"
+      "name": "Wales U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110228/image.png"
     },
     "teamB": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4481/image.png"
+      "name": "Spain U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/110232/image.png"
     },
-    "leagueName": "FIFA World Cup - Group I",
+    "leagueName": "UEFA Under 19 Championship - Group A",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-26",
+    "date": "2026-06-28",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "France have elite squad depth, stronger tournament experience, and better balance across defense and attack, making away/draw a conservative pick."
-  },
-  {
-    "id": "shamrock-rovers-galway-united",
-    "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3177/image.png"
-    },
-    "teamB": {
-      "name": "Galway United",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3167/image.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-06-26",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Shamrock Rovers have stronger league position, better home reliability, and superior squad quality, making home/draw the safest option."
+    "reason": "Spain U19 usually have stronger technical control, better youth depth, and higher tournament pedigree, making away/draw the safest angle."
   }
 ]
