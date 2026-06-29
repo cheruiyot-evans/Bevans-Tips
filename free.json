@@ -1,36 +1,36 @@
 [
    {
-    "id": "dalian-yingbo-shanghai-shenhua",
+    "id": "netherlands-morocco",
     "teamA": {
-      "name": "Dalian Yingbo",
-      "icon": "https://cdn.sofascore.app/api/v1/team/474998/image.png"
+      "name": "Netherlands",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4707/image.png"
     },
     "teamB": {
-      "name": "Shanghai Shenhua",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4747/image.png"
+      "name": "Morocco",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4778/image.png"
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-28",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Shanghai Shenhua have stronger squad quality, better league consistency, and superior attacking depth, making away/draw the safest option."
+    "leagueName": "FIFA World Cup - Last 32",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-06-29",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both sides are strong and disciplined, so a knockout match is more likely to stay controlled than become a high-scoring game."
   },
   {
-    "id": "wales-u19-spain-u19",
+    "id": "ivory-coast-norway",
     "teamA": {
-      "name": "Wales U19",
-      "icon": "https://cdn.sofascore.app/api/v1/team/110228/image.png"
+      "name": "Ivory Coast",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4772/image.png"
     },
     "teamB": {
-      "name": "Spain U19",
-      "icon": "https://cdn.sofascore.app/api/v1/team/110232/image.png"
+      "name": "Norway",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4696/image.png"
     },
-    "leagueName": "UEFA Under 19 Championship - Group A",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-06-28",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Spain U19 usually have stronger technical control, better youth depth, and higher tournament pedigree, making away/draw the safest angle."
+    "leagueName": "FIFA World Cup - Last 32",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-06-29",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Both teams are likely to approach the knockout stage cautiously, making under 3.5 goals safer than choosing a winner."
   }
 ]
