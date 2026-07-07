@@ -1,61 +1,61 @@
 [
   {
-    "date": "Saturday, 20th June 2026",
+    "date": "Monday, 6th July 2026",
     "gamesList": [
-      { "teamA": "Belgium", "teamB": "Iran", "prediction": "1X", "odds": "1.24", "results": "WIN" },
-      { "teamA": "Uruguay", "teamB": "Cape Verde", "prediction": "1X", "odds": "1.22", "results": "WIN" },
-      { "teamA": "Spain", "teamB": "Saudi Arabia", "prediction": "1X", "odds": "1.18", "results": "WIN" },
-      { "teamA": "Japan", "teamB": "Tunisia", "prediction": "X2", "odds": "1.35", "results": "WIN" },
-      { "teamA": "Ecuador", "teamB": "Curacao", "prediction": "Under 3.5", "odds": "1.30", "results": "WIN" }
+      { "teamA": "Spain", "teamB": "Sweden", "prediction": "1X", "odds": "1.18", "results": "WIN" },
+      { "teamA": "Belgium", "teamB": "United States", "prediction": "X2", "odds": "1.29", "results": "WIN" },
+      { "teamA": "Germany U19", "teamB": "Poland U19", "prediction": "1X", "odds": "1.22", "results": "WIN" },
+      { "teamA": "Netherlands", "teamB": "Morocco", "prediction": "Over 1.5", "odds": "1.31", "results": "WIN" },
+      { "teamA": "France", "teamB": "Sweden", "prediction": "Under 3.5", "odds": "1.34", "results": "WIN" }
     ]
   },
   {
-    "date": "Friday, 19th June 2026",
+    "date": "Sunday, 5th July 2026",
     "gamesList": [
-      { "teamA": "Germany", "teamB": "Costa Rica", "prediction": "1X", "odds": "1.20", "results": "WIN" },
-      { "teamA": "Portugal", "teamB": "Qatar", "prediction": "1X", "odds": "1.19", "results": "WIN" },
-      { "teamA": "Netherlands", "teamB": "Australia", "prediction": "1X", "odds": "1.25", "results": "WIN" },
-      { "teamA": "Croatia", "teamB": "South Korea", "prediction": "Over 1.5", "odds": "1.32", "results": "WIN" },
-      { "teamA": "Serbia", "teamB": "Morocco", "prediction": "Under 3.5", "odds": "1.36", "results": "LOSS" }
+      { "teamA": "Argentina", "teamB": "Egypt", "prediction": "1X", "odds": "1.20", "results": "WIN" },
+      { "teamA": "Switzerland", "teamB": "Colombia", "prediction": "Over 1.5", "odds": "1.33", "results": "WIN" },
+      { "teamA": "Norway", "teamB": "Ivory Coast", "prediction": "X2", "odds": "1.36", "results": "WIN" },
+      { "teamA": "Portugal", "teamB": "Qatar", "prediction": "1X", "odds": "1.17", "results": "WIN" },
+      { "teamA": "Croatia", "teamB": "South Korea", "prediction": "Under 3.5", "odds": "1.35", "results": "LOSS" }
     ]
   },
   {
-    "date": "Thursday, 18th June 2026",
+    "date": "Saturday, 4th July 2026",
+    "gamesList": [
+      { "teamA": "England", "teamB": "Ghana", "prediction": "1X", "odds": "1.21", "results": "WIN" },
+      { "teamA": "Brazil", "teamB": "New Zealand", "prediction": "1X", "odds": "1.15", "results": "WIN" },
+      { "teamA": "Germany", "teamB": "Austria", "prediction": "1X", "odds": "1.24", "results": "WIN" },
+      { "teamA": "Japan", "teamB": "Tunisia", "prediction": "Over 1.5", "odds": "1.32", "results": "WIN" },
+      { "teamA": "Denmark", "teamB": "Wales", "prediction": "Under 3.5", "odds": "1.30", "results": "WIN" }
+    ]
+  },
+  {
+    "date": "Friday, 3rd July 2026",
     "gamesList": [
       { "teamA": "France", "teamB": "Panama", "prediction": "1X", "odds": "1.16", "results": "WIN" },
-      { "teamA": "England", "teamB": "Ghana", "prediction": "1X", "odds": "1.21", "results": "WIN" },
-      { "teamA": "Colombia", "teamB": "Uzbekistan", "prediction": "1X", "odds": "1.28", "results": "WIN" },
-      { "teamA": "Switzerland", "teamB": "Bosnia-Herzegovina", "prediction": "1X", "odds": "1.34", "results": "WIN" },
-      { "teamA": "Canada", "teamB": "Czech Republic", "prediction": "Over 1.5", "odds": "1.31", "results": "WIN" }
-    ]
-  },
-  {
-    "date": "Wednesday, 17th June 2026",
-    "gamesList": [
-      { "teamA": "Brazil", "teamB": "New Zealand", "prediction": "1X", "odds": "1.15", "results": "WIN" },
-      { "teamA": "Argentina", "teamB": "Jamaica", "prediction": "1X", "odds": "1.17", "results": "WIN" },
-      { "teamA": "Italy", "teamB": "Scotland", "prediction": "1X", "odds": "1.29", "results": "WIN" },
-      { "teamA": "Denmark", "teamB": "Wales", "prediction": "Under 3.5", "odds": "1.33", "results": "WIN" },
+      { "teamA": "Italy", "teamB": "Scotland", "prediction": "1X", "odds": "1.27", "results": "WIN" },
+      { "teamA": "Canada", "teamB": "Czech Republic", "prediction": "Over 1.5", "odds": "1.31", "results": "WIN" },
+      { "teamA": "Serbia", "teamB": "Morocco", "prediction": "Under 3.5", "odds": "1.36", "results": "WIN" },
       { "teamA": "Chile", "teamB": "Paraguay", "prediction": "Over 1.5", "odds": "1.37", "results": "LOSS" }
     ]
   },
   {
-    "date": "Tuesday, 16th June 2026",
+    "date": "Thursday, 2nd July 2026",
     "gamesList": [
-      { "teamA": "Mexico", "teamB": "South Africa", "prediction": "1X", "odds": "1.27", "results": "WIN" },
-      { "teamA": "USA", "teamB": "Honduras", "prediction": "1X", "odds": "1.23", "results": "WIN" },
+      { "teamA": "Mexico", "teamB": "South Africa", "prediction": "1X", "odds": "1.26", "results": "WIN" },
+      { "teamA": "Uruguay", "teamB": "Cape Verde", "prediction": "1X", "odds": "1.22", "results": "WIN" },
+      { "teamA": "Belgium", "teamB": "Iran", "prediction": "1X", "odds": "1.24", "results": "WIN" },
       { "teamA": "Norway", "teamB": "Slovakia", "prediction": "Over 1.5", "odds": "1.34", "results": "WIN" },
-      { "teamA": "Turkey", "teamB": "Georgia", "prediction": "1X", "odds": "1.31", "results": "WIN" },
-      { "teamA": "Poland", "teamB": "Romania", "prediction": "Under 3.5", "odds": "1.36", "results": "WIN" }
+      { "teamA": "Ecuador", "teamB": "Curacao", "prediction": "Under 3.5", "odds": "1.30", "results": "WIN" }
     ]
   },
   {
-    "date": "Monday, 15th June 2026",
+    "date": "Wednesday, 1st July 2026",
     "gamesList": [
-      { "teamA": "Austria", "teamB": "Guatemala", "prediction": "1X", "odds": "1.20", "results": "WIN" },
-      { "teamA": "Algeria", "teamB": "Bolivia", "prediction": "1X", "odds": "1.26", "results": "WIN" },
-      { "teamA": "Senegal", "teamB": "Iraq", "prediction": "1X", "odds": "1.30", "results": "WIN" },
-      { "teamA": "Nigeria", "teamB": "Jordan", "prediction": "Over 1.5", "odds": "1.35", "results": "WIN" },
+      { "teamA": "Germany", "teamB": "Costa Rica", "prediction": "1X", "odds": "1.20", "results": "WIN" },
+      { "teamA": "Netherlands", "teamB": "Australia", "prediction": "1X", "odds": "1.25", "results": "WIN" },
+      { "teamA": "Spain", "teamB": "Saudi Arabia", "prediction": "1X", "odds": "1.18", "results": "WIN" },
+      { "teamA": "Poland", "teamB": "Romania", "prediction": "Under 3.5", "odds": "1.36", "results": "WIN" },
       { "teamA": "Sweden", "teamB": "Finland", "prediction": "1X", "odds": "1.32", "results": "LOSS" }
     ]
   }
