@@ -1,274 +1,172 @@
 [
   {
-    "id": "ki-atert-bissen",
+    "id": "zira-torpedo-kutaisi",
     "teamA": {
-      "name": "KÍ",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5194/image.png"
+      "name": "Zira",
+      "icon": "https://cdn.sofascore.app/api/v1/team/173406/image.png"
     },
     "teamB": {
-      "name": "Atert Bissen",
-      "icon": "https://cdn.sofascore.app/api/v1/team/38989/image.png"
+      "name": "Torpedo Kutaisi",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5419/image.png"
     },
-    "leagueName": "UEFA Champions League Qualification",
+    "leagueName": "UEFA Conference League",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-07-08",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "First-leg qualifier with cautious setup expected; Zira matches regularly stay low-scoring and both sides are likely to avoid early risk."
+  },
+  {
+    "id": "kairat-sutjeska",
+    "teamA": {
+      "name": "Kairat",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5172/image.png"
+    },
+    "teamB": {
+      "name": "Sutjeska",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6224/image.png"
+    },
+    "leagueName": "UEFA Champions League",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "confidence": "Very High",
     "safetyRating": 9,
-    "reason": "KÍ have stronger European experience and a big home advantage against a less tested Atert Bissen side."
+    "reason": "Kairat have stronger home advantage, better competitive rhythm and higher squad quality, while Sutjeska arrive with weaker recent momentum."
   },
   {
-    "id": "tre-fiori-larne",
+    "id": "connahs-quay-nomads-ballkani",
     "teamA": {
-      "name": "Tre Fiori",
-      "icon": "https://cdn.sofascore.app/api/v1/team/36195/image.png"
+      "name": "Connah's Quay Nomads",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4912/image.png"
     },
     "teamB": {
-      "name": "Larne",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5184/image.png"
+      "name": "Ballkani",
+      "icon": "https://cdn.sofascore.app/api/v1/team/230417/image.png"
     },
-    "leagueName": "UEFA Champions League Qualification",
+    "leagueName": "UEFA Conference League",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Larne are stronger in squad quality and league level, making away/draw protection the safest option."
+    "safetyRating": 8.5,
+    "reason": "Ballkani have superior European experience and squad strength, while Connah's Quay have struggled to progress in recent European ties."
   },
   {
-    "id": "spain-u19-sweden-u19",
+    "id": "spain-u19-croatia-u19",
     "teamA": {
       "name": "Spain U19",
-      "icon": "https://cdn.sofascore.app/api/v1/team/37362/image.png"
+      "icon": "https://cdn.sofascore.app/api/v1/team/22560/image.png"
     },
     "teamB": {
-      "name": "Sweden U19",
-      "icon": "https://cdn.sofascore.app/api/v1/team/37363/image.png"
+      "name": "Croatia U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/22499/image.png"
     },
-    "leagueName": "UEFA Women's Under 19 Championship",
+    "leagueName": "UEFA Under 19 Championship",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Spain U19 are technically superior and already leading, making avoid-defeat the safest conservative pick."
+    "safetyRating": 8.5,
+    "reason": "Spain U19 come in with elite tournament form, including a dominant win over Germany, making them safer to avoid defeat."
   },
   {
-    "id": "argentina-egypt",
+    "id": "petrocub-egnatia-rrogozhine",
     "teamA": {
-      "name": "Argentina",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4819/image.png"
+      "name": "Petrocub",
+      "icon": "https://cdn.sofascore.app/api/v1/team/167232/image.png"
     },
     "teamB": {
-      "name": "Egypt",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4758/image.png"
+      "name": "Egnatia Rrogozhinë",
+      "icon": "https://cdn.sofascore.app/api/v1/team/264619/image.png"
     },
-    "leagueName": "FIFA World Cup",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-07",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Argentina have stronger squad depth, knockout experience, and attacking quality; 1X protects against a draw."
+    "leagueName": "UEFA Champions League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-07-08",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Petrocub are in strong scoring form after a 5-0 league win, while Egnatia also carry enough attacking threat to support a safer goals market."
   },
   {
-    "id": "floriana-shamrock-rovers",
+    "id": "ml-vitebsk-universitatea-craiova",
     "teamA": {
-      "name": "Floriana",
-      "icon": "https://cdn.sofascore.app/api/v1/team/33584/image.png"
+      "name": "ML Vitebsk",
+      "icon": "https://cdn.sofascore.app/api/v1/team/381792/image.png"
     },
     "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3177/image.png"
+      "name": "Universitatea Craiova",
+      "icon": "https://cdn.sofascore.app/api/v1/team/116223/image.png"
     },
-    "leagueName": "UEFA Champions League Qualification",
+    "leagueName": "UEFA Champions League",
     "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-07",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Shamrock Rovers carry better European rhythm and league intensity, making X2 the safer market."
-  },
-  {
-    "id": "sabah-the-new-saints",
-    "teamA": {
-      "name": "Sabah",
-      "icon": "https://cdn.sofascore.app/api/v1/team/267828/image.png"
-    },
-    "teamB": {
-      "name": "The New Saints",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4921/image.png"
-    },
-    "leagueName": "UEFA Champions League Qualification",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "Sabah are strong at home and benefit from travel conditions, while TNS can struggle away in Europe."
+    "reason": "Craiova have the stronger squad profile and European-level depth, while the neutral venue reduces ML Vitebsk's home advantage."
   },
   {
-    "id": "vardar-skopje-kups",
+    "id": "flora-iberia-1999",
     "teamA": {
-      "name": "Vardar Skopje",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5403/image.png"
+      "name": "Flora",
+      "icon": "https://cdn.sofascore.app/api/v1/team/3346/image.png"
     },
     "teamB": {
-      "name": "KuPS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2244/image.png"
+      "name": "Iberia 1999",
+      "icon": "https://cdn.sofascore.app/api/v1/team/116312/image.png"
     },
-    "leagueName": "UEFA Champions League Qualification",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-07",
+    "leagueName": "UEFA Champions League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-07-08",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "KuPS have stronger competitive rhythm from an active domestic season and are disciplined away."
+    "reason": "Flora recently won 3-0 and Iberia are a strong Georgian attacking side, making two total goals safer than choosing a winner."
   },
   {
-    "id": "ararat-armenia-riga",
+    "id": "denmark-u19-italy-u19",
     "teamA": {
-      "name": "Ararat-Armenia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/262229/image.png"
+      "name": "Denmark U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/22502/image.png"
     },
     "teamB": {
-      "name": "Riga",
-      "icon": "https://cdn.sofascore.app/api/v1/team/162368/image.png"
+      "name": "Italy U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/22522/image.png"
     },
-    "leagueName": "UEFA Champions League Qualification",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-07",
+    "leagueName": "World Cup Play-off",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-07-08",
     "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Riga have a solid European qualifying profile and are difficult to beat, making X2 safer than the away win."
+    "safetyRating": 7.5,
+    "reason": "Denmark scored three in their last match and Italy carry strong youth attacking quality, so goals are safer than a match-winner pick."
   },
   {
-    "id": "una-strassen-la-fiorita",
+    "id": "ukraine-u19-germany-u19",
     "teamA": {
-      "name": "UNA Strassen",
-      "icon": "https://cdn.sofascore.app/api/v1/team/46353/image.png"
+      "name": "Ukraine U19",
+      "icon": "https://cdn.sofascore.app/api/v1/team/22568/image.png"
     },
     "teamB": {
-      "name": "La Fiorita",
-      "icon": "https://cdn.sofascore.app/api/v1/team/37860/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "UNA Strassen have home advantage and play in a stronger domestic environment than La Fiorita."
-  },
-  {
-    "id": "borac-banja-luka-levski-sofia",
-    "teamA": {
-      "name": "Borac Banja Luka",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5235/image.png"
-    },
-    "teamB": {
-      "name": "Levski Sofia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3273/image.png"
-    },
-    "leagueName": "UEFA Champions League Qualification",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-07-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both sides are likely to approach the first leg carefully, making under 3.5 goals a safer angle."
-  },
-  {
-    "id": "kauno-zalgiris-drita",
-    "teamA": {
-      "name": "Kauno Žalgiris",
-      "icon": "https://cdn.sofascore.app/api/v1/team/80741/image.png"
-    },
-    "teamB": {
-      "name": "Drita",
-      "icon": "https://cdn.sofascore.app/api/v1/team/229755/image.png"
-    },
-    "leagueName": "UEFA Champions League Qualification",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-07-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams are usually cautious in European first legs, reducing the chance of a high-scoring match."
-  },
-  {
-    "id": "germany-u19-austria-u19",
-    "teamA": {
       "name": "Germany U19",
-      "icon": "https://cdn.sofascore.app/api/v1/team/38089/image.png"
+      "icon": "https://cdn.sofascore.app/api/v1/team/22512/image.png"
     },
-    "teamB": {
-      "name": "Austria U19",
-      "icon": "https://cdn.sofascore.app/api/v1/team/37324/image.png"
-    },
-    "leagueName": "UEFA Women's Under 19 Championship",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Germany U19 have stronger tournament pedigree and enough squad quality to avoid defeat."
-  },
-  {
-    "id": "af-elbasani-bate",
-    "teamA": {
-      "name": "AF Elbasani",
-      "icon": "https://cdn.sofascore.app/api/v1/team/403091/image.png"
-    },
-    "teamB": {
-      "name": "BATE",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3350/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "BATE have deeper European experience and should be structured enough to avoid defeat."
-  },
-  {
-    "id": "lincoln-red-imps-inter-escaldes",
-    "teamA": {
-      "name": "Lincoln Red Imps",
-      "icon": "https://cdn.sofascore.app/api/v1/team/126304/image.png"
-    },
-    "teamB": {
-      "name": "Inter Club d'Escaldes",
-      "icon": "https://cdn.sofascore.app/api/v1/team/37946/image.png"
-    },
-    "leagueName": "UEFA Champions League Qualification",
+    "leagueName": "UEFA Under 19 Championship",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams are dominant domestically but vulnerable defensively at European level, making two total goals realistic."
+    "safetyRating": 7.5,
+    "reason": "Germany U19 matches have shown high goal potential and Ukraine are confident after beating Italy, making goals safer than a side market."
   },
   {
-    "id": "vikingur-reykjavik-gyori-eto",
+    "id": "differdange-03-ilves",
     "teamA": {
-      "name": "Víkingur Reykjavík",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1908/image.png"
+      "name": "Differdange 03",
+      "icon": "https://cdn.sofascore.app/api/v1/team/7605/image.png"
     },
     "teamB": {
-      "name": "Győri ETO",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1923/image.png"
+      "name": "Ilves",
+      "icon": "https://cdn.sofascore.app/api/v1/team/22386/image.png"
     },
-    "leagueName": "UEFA Champions League Qualification",
+    "leagueName": "UEFA Conference League",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Víkingur usually play positively at home and Győri ETO have enough attacking quality to contribute."
-  },
-  {
-    "id": "switzerland-colombia",
-    "teamA": {
-      "name": "Switzerland",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4699/image.png"
-    },
-    "teamB": {
-      "name": "Colombia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4820/image.png"
-    },
-    "leagueName": "FIFA World Cup",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-07-07",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both teams have enough attacking quality and transition threat for at least two total goals."
+    "safetyRating": 7.5,
+    "reason": "Both teams have recent scoring form but the winner market is balanced, so over 1.5 goals is the more conservative selection."
   }
 ]
