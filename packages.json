@@ -23,12 +23,12 @@
       "name": "Basic",
       "prices": [
         {
-          "amount": 3,
+          "amount": 2,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 7,
+          "amount": 4,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
