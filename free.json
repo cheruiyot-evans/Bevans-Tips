@@ -1,53 +1,53 @@
 [
   {
-    "id": "zira-torpedo-kutaisi",
+    "id": "qarabag-vestri",
     "teamA": {
-      "name": "Zira",
-      "icon": "https://cdn.sofascore.app/api/v1/team/173406/image.png"
+      "name": "Qarabağ",
+      "icon": "https://cdn.sofascore.app/api/v1/team/5410/image.png"
     },
     "teamB": {
-      "name": "Torpedo Kutaisi",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5419/image.png"
+      "name": "Vestri",
+      "icon": "https://cdn.sofascore.app/api/v1/team/45873/image.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-07-08",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "First-leg qualifier with cautious setup expected; Zira matches regularly stay low-scoring and both sides are likely to avoid early risk."
-  },
-  {
-    "id": "kairat-sutjeska",
-    "teamA": {
-      "name": "Kairat",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5172/image.png"
-    },
-    "teamB": {
-      "name": "Sutjeska",
-      "icon": "https://cdn.sofascore.app/api/v1/team/6224/image.png"
-    },
-    "leagueName": "UEFA Champions League",
+    "leagueName": "UEFA Europa League Qualification",
     "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Kairat have stronger home advantage, better competitive rhythm and higher squad quality, while Sutjeska arrive with weaker recent momentum."
+    "safetyRating": 10,
+    "reason": "Qarabağ have an outstanding home record, superior squad quality, and extensive European experience. Vestri are clear underdogs and rarely perform well away from home."
   },
   {
-    "id": "connahs-quay-nomads-ballkani",
+    "id": "dinamo-minsk-sileks",
     "teamA": {
-      "name": "Connah's Quay Nomads",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4912/image.png"
+      "name": "Dinamo Minsk",
+      "icon": "https://cdn.sofascore.app/api/v1/team/6526/image.png"
     },
     "teamB": {
-      "name": "Ballkani",
-      "icon": "https://cdn.sofascore.app/api/v1/team/230417/image.png"
+      "name": "Sileks",
+      "icon": "https://cdn.sofascore.app/api/v1/team/4105/image.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-08",
+    "leagueName": "UEFA Conference League Qualification",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-07-09",
     "confidence": "Very High",
-    "safetyRating": 8.5,
-    "reason": "Ballkani have superior European experience and squad strength, while Connah's Quay have struggled to progress in recent European ties."
+    "safetyRating": 10,
+    "reason": "Dinamo Minsk consistently score at home, while Sileks regularly concede against stronger opponents, making two or more goals highly probable."
+  },
+  {
+    "id": "bohemians-st-josephs",
+    "teamA": {
+      "name": "Bohemians",
+      "icon": "https://cdn.sofascore.app/api/v1/team/1906/image.png"
+    },
+    "teamB": {
+      "name": "St Joseph's",
+      "icon": "https://cdn.sofascore.app/api/v1/team/42849/image.png"
+    },
+    "leagueName": "UEFA Conference League Qualification",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-07-09",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Bohemians are strong at home and face a weaker opponent with limited European pedigree, making a home defeat highly unlikely."
   }
 ]
