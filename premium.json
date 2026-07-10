@@ -1,206 +1,104 @@
 [
   {
-    "id": "qarabag-vestri",
+    "id": "spain-belgium-world-cup-quarter-final",
     "teamA": {
-      "name": "Qarabağ",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5410/image.png"
+      "name": "Spain",
+      "icon": ""
     },
     "teamB": {
-      "name": "Vestri",
-      "icon": "https://cdn.sofascore.app/api/v1/team/45873/image.png"
-    },
-    "leagueName": "UEFA Europa League Qualification",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-09",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Qarabağ are dominant at home with far greater European experience and rarely lose home qualifiers."
-  },
-  {
-    "id": "dinamo-minsk-sileks",
-    "teamA": {
-      "name": "Dinamo Minsk",
-      "icon": "https://cdn.sofascore.app/api/v1/team/6526/image.png"
-    },
-    "teamB": {
-      "name": "Sileks",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4105/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-07-09",
-    "confidence": "Very High",
-    "safetyRating": 10,
-    "reason": "Dinamo Minsk consistently score in European home matches while Sileks concede regularly away."
-  },
-  {
-    "id": "bohemians-st-josephs",
-    "teamA": {
-      "name": "Bohemians",
-      "icon": "https://cdn.sofascore.app/api/v1/team/1906/image.png"
-    },
-    "teamB": {
-      "name": "St Joseph's",
-      "icon": "https://cdn.sofascore.app/api/v1/team/42849/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-09",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Strong home record and higher league quality make Bohemians unlikely to lose."
-  },
-  {
-    "id": "dynamo-kyiv-universitatea-cluj",
-    "teamA": {
-      "name": "Dynamo Kyiv",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3302/image.png"
-    },
-    "teamB": {
-      "name": "Universitatea Cluj",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3637/image.png"
-    },
-    "leagueName": "UEFA Europa League Qualification",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-07-09",
-    "confidence": "Very High",
-    "safetyRating": 9,
-    "reason": "Dynamo Kyiv matches regularly produce multiple goals and they possess superior attacking quality."
-  },
-  {
-    "id": "cska-sofia-derry-city",
-    "teamA": {
-      "name": "CSKA Sofia",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5270/image.png"
-    },
-    "teamB": {
-      "name": "Derry City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2026/image.png"
-    },
-    "leagueName": "UEFA Europa League Qualification",
-    "prediction": "DOUBLE CHANCE 1X",
-    "date": "2026-07-09",
-    "confidence": "High",
-    "safetyRating": 9,
-    "reason": "CSKA Sofia are difficult to beat at home and have stronger squad depth."
-  },
-  {
-    "id": "dila-virtus",
-    "teamA": {
-      "name": "Dila",
-      "icon": "https://cdn.sofascore.app/api/v1/team/6624/image.png"
-    },
-    "teamB": {
-      "name": "Virtus",
-      "icon": "https://cdn.sofascore.app/api/v1/team/45463/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-07-09",
-    "confidence": "High",
-    "safetyRating": 9,
-    "reason": "Dila are usually productive at home while Virtus often concede against stronger opposition."
-  },
-  {
-    "id": "mondorf-dinamo-tbilisi",
-    "teamA": {
-      "name": "Mondorf-les-Bains",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8656/image.png"
-    },
-    "teamB": {
-      "name": "Dinamo Tbilisi",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5952/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-09",
-    "confidence": "High",
-    "safetyRating": 9,
-    "reason": "Dinamo Tbilisi have significantly more European experience and stronger overall quality."
-  },
-  {
-    "id": "europa-shkendija",
-    "teamA": {
-      "name": "Europa",
-      "icon": "https://cdn.sofascore.app/api/v1/team/8249/image.png"
-    },
-    "teamB": {
-      "name": "Shkendija",
-      "icon": "https://cdn.sofascore.app/api/v1/team/3907/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Shkendija possess better European pedigree and consistent continental performances."
-  },
-  {
-    "id": "glentoran-rfs",
-    "teamA": {
-      "name": "Glentoran",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2095/image.png"
-    },
-    "teamB": {
-      "name": "RFS",
-      "icon": "https://cdn.sofascore.app/api/v1/team/106281/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "RFS have been one of the strongest Baltic clubs with reliable away performances."
-  },
-  {
-    "id": "astana-dinamo-city",
-    "teamA": {
-      "name": "Dinamo City",
-      "icon": "https://cdn.sofascore.app/api/v1/team/5757/image.png"
-    },
-    "teamB": {
-      "name": "Astana",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2288/image.png"
-    },
-    "leagueName": "UEFA Conference League Qualification",
-    "prediction": "DOUBLE CHANCE X2",
-    "date": "2026-07-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Astana's continental experience and disciplined defense make defeat unlikely."
-  },
-  {
-    "id": "hajduk-split-zilina",
-    "teamA": {
-      "name": "Hajduk Split",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2695/image.png"
-    },
-    "teamB": {
-      "name": "Žilina",
-      "icon": "https://cdn.sofascore.app/api/v1/team/2675/image.png"
-    },
-    "leagueName": "UEFA Europa League Qualification",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-07-09",
-    "confidence": "High",
-    "safetyRating": 8,
-    "reason": "Both sides regularly create chances and European qualifiers often exceed one goal."
-  },
-  {
-    "id": "france-morocco",
-    "teamA": {
-      "name": "France",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4481/image.png"
-    },
-    "teamB": {
-      "name": "Morocco",
-      "icon": "https://cdn.sofascore.app/api/v1/team/4778/image.png"
+      "name": "Belgium",
+      "icon": ""
     },
     "leagueName": "FIFA World Cup",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-07-09",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-07-10",
+    "confidence": "Very High",
+    "safetyRating": 9,
+    "reason": "Spain are strong favorites to advance, with market odds implying roughly a 75%+ chance and a clear edge over Belgium."
+  },
+  {
+    "id": "shandong-taishan-yunnan-yukun",
+    "teamA": {
+      "name": "Shandong Taishan",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Yunnan Yukun",
+      "icon": ""
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "DOUBLE CHANCE 1X",
+    "date": "2026-07-10",
     "confidence": "High",
     "safetyRating": 8,
-    "reason": "World Cup knockout matches between elite teams are typically cautious and low-scoring."
+    "reason": "Shandong are priced as clear home favorites, and the market leans strongly toward them avoiding defeat."
+  },
+  {
+    "id": "vps-sjk",
+    "teamA": {
+      "name": "VPS",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "SJK",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-07-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "Veikkausliiga fixtures here profile as a safer goals market than a side pick, with the matchup expected to produce at least two goals."
+  },
+  {
+    "id": "waterford-st-patricks-athletic",
+    "teamA": {
+      "name": "Waterford",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "St Patrick's Athletic",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-07-10",
+    "confidence": "High",
+    "safetyRating": 8,
+    "reason": "St Patrick's Athletic are strong away favorites, and the market gives them a very solid edge not to lose."
+  },
+  {
+    "id": "dundalk-drogheda-united",
+    "teamA": {
+      "name": "Dundalk",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Drogheda United",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-07-10",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "The match leans toward goals rather than a clean result edge, making the 1.5 line the safer conservative angle."
+  },
+  {
+    "id": "germany-u19-spain-u19",
+    "teamA": {
+      "name": "Germany U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Spain U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Women's Under 19 Championship",
+    "prediction": "DOUBLE CHANCE X2",
+    "date": "2026-07-10",
+    "confidence": "High",
+    "safetyRating": 7,
+    "reason": "Spain U19 are the more reliable side on market strength, and double chance reduces final risk in a one-off final."
   }
 ]
